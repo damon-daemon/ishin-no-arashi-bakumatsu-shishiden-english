@@ -13,8 +13,8 @@ part in the events that led to the Meiji Restoration. The game was only released
 > phrasing and inconsistent terms. Corrections are welcome.
 
 > **This is a beta.** All of the game's text is in English, but only the openings of the three
-> stories, free play in Edo and the four practice drills (debate, hanafuda, fencing, battle)
-> have been played. Nearly all of the story after the openings has not been seen on screen.
+> stories, free play in Edo, Kyōto, Ōsaka and Nagasaki, and the four practice drills (debate,
+> hanafuda, fencing, battle) have been played. Nearly all of the story after the openings has not been seen on screen.
 > Expect some text that is squeezed, cut short or wrapped oddly later on.
 
 This repository contains the English text and the tools that build the patch.
