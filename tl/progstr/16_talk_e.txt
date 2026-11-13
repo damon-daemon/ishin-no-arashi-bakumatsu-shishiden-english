@@ -1,0 +1,279 @@
+# Generic conversation lines 0x80031000-0x80033fff: drinking and paying, meals, chats refused (tired, different views, state affairs), thanks for gifts
+PROG:80031008	Right, I'll drink my fill today!\nFirst, three cups for the latecomer, K2. Drink up!
+PROG:8003105c	Well, keep me company today.\nFirst, down this sake in one go.
+PROG:800310a0	Come, have a cup too, K2.\nDrinking like this is my greatest joy.
+PROG:800310f0	Come now, have a cup first.
+PROG:80031110	Goodness, what a hopeless one you are.\nI'll ask the landlady for you today, so don't worry.
+PROG:80031170	You've no money, K2?\nThen I'll pay.
+PROG:800311a0	Oh...\nI'll cover it, so please don't worry.
+PROG:800311dc	Well, there's nothing for it.\nI shall pay.
+PROG:80031210	What, no money?\nWell, nothing for it, then...
+PROG:80031244	What, you've no money, K2?\nWell, I'll pay, so don't you worry.
+PROG:80031290	Oh, poor fellow...\nLet it be my treat today.
+PROG:800312c4	No money, eh? Oh well.\nI'll pay.
+PROG:800312f8	In that case, I'll pay.
+PROG:80031320	Well, if that is so, I shall pay.
+PROG:80031350	I see. Well, there's nothing for it.\nI shall pay.
+PROG:80031388	Then we'll do that.
+PROG:800313a0	That is fine with me.
+PROG:800313bc	Oh, how unrefined you are.\nWell, I'll forgive you.
+PROG:800313ec	Quite so. Let's split the bill.
+PROG:80031410	Yes, then let's split the bill.
+PROG:80031438	Then let us split the bill.
+PROG:80031464	K2, is that how a Tosa man behaves...?\nWell, if you've no money, we'll have to split it.
+PROG:800314c0	Then we shall go halves.
+PROG:800314e4	Quite so. Splitting it is fine.
+PROG:80031504	Indeed. Shall we each pay our own?
+PROG:80031530	That suits me.
+PROG:8003154c	Yes, that is fine.
+PROG:80031568	Oh, how generous of you, K2!\nThen I'll gladly accept.
+PROG:8003159c	Thank you, then I'll accept.
+PROG:800315c4	I see, thank you.
+PROG:800315e8	Then I'll accept your kindness.
+PROG:8003160c	Well then, I'll gladly accept.
+PROG:8003162c	Oh, I am obliged.\nI shall gladly accept.
+PROG:80031660	Good, I'll gladly accept.
+PROG:80031680	Thanks, then I'll accept.
+PROG:800316a0	Well, I'll accept your treat.
+PROG:800316c8	Oh, is that so?\nThen I won't say no.
+PROG:800316f4	Good, then I'll not hold back.
+PROG:80031718	Ah, I am obliged.
+PROG:80031734	Then let me accept your kindness.
+PROG:8003175c	Then...\nI'll not order after all.
+PROG:80031784	It would be presumptuous of me to treat you.
+PROG:800317bc	In that case, let's not.
+PROG:800317e8	Well, it's not my place to treat you.\nLet's not order.
+PROG:80031820	I see. Then we'll skip it.
+PROG:80031844	Is that so?\nThen we'll skip it.
+PROG:8003186c	Oh, you are hard up, are you?\nThen I'll refrain too.
+PROG:8003189c	Is that so? Then let's not order.
+PROG:800318c4	Is that so? Then let's skip it.
+PROG:800318e8	Is that so?\nThen let us not order.
+PROG:8003191c	I see. Then let's not.
+PROG:80031944	Oh, no need to worry about that...\nLeave it to me.
+PROG:8003197c	That's hard on you.\nWell, please go ahead.
+PROG:800319a8	No, in that case, don't hold back...
+PROG:800319d0	In that case, I'll pay here.
+PROG:80031a00	Oh, K2...\nWell, I'll pay here.
+PROG:80031a38	Is that so...\nWell, leave it to me.
+PROG:80031a6c	Well, I shall treat you today.
+PROG:80031a90	Oh, you poor thing.\nWell, do help yourself today.
+PROG:80031ac4	No, please, don't hold back...
+PROG:80031ae0	No, I'll pay here, so don't hold back.
+PROG:80031b10	No, never mind the bill.\nI'll pay here.
+PROG:80031b54	Oh, how brazen...\nBut fine. I forgive you.
+PROG:80031b8c	...Please, help yourself. Don't be shy.
+PROG:80031bbc	Oh...\nPlease, help yourself.
+PROG:80031bd8	I'm to pay the bill?\nReally, I can't beat you, K2...
+PROG:80031c0c	Eat as much as you like.
+PROG:80031c24	Well, don't hold back, please.
+PROG:80031c44	W-well, go on and eat...
+PROG:80031c64	N-no, please don't hold back.\n(There's no beating this fellow.)
+PROG:80031ca0	...\nHaha, you've got me, K2.\nEat your fill.
+PROG:80031ce0	Really?\nThen I'll skip it too.
+PROG:80031d04	Is that so? Then I'll refrain too.
+PROG:80031d2c	I see. I hope you're not hungry.
+PROG:80031d60	What, so unsociable?\nYou'll have no strength without food.
+PROG:80031d90	I see. Then we'll skip it.
+PROG:80031db4	Is that so? Then let's skip it.
+PROG:80031dd8	Is that so? Then I'll refrain.
+PROG:80031df8	Then I shall refrain too.
+PROG:80031e18	I see. Then I'll refrain too.
+PROG:80031e40	How about a meal, K2?
+PROG:80031e58	Shall we have a meal, K2?
+PROG:80031e74	What would you like to eat, K2?
+PROG:80031e94	Shall I order a meal, K2?
+PROG:80031eb8	Come to think of it, I'm hungry.\nShall we order something?
+PROG:80031ee4	Come to think of it, I'm hungry.\nShall I have something prepared?
+PROG:80031f20	Say, K2, aren't you hungry?
+PROG:80031f44	I'm rather hungry.\nShall I have the shop prepare something?
+PROG:80031f84	I'm a bit hungry.\nShall I have the shop prepare something?
+PROG:80031fc0	I'm a bit hungry.\nShall we order a meal?
+PROG:80031ff0	Hm, I'd like a bite.\nShall I have the shop bring something?
+PROG:80032030	I'm a little hungry.\nShall I have the shop prepare something?
+PROG:8003206c	Shall I have a meal prepared, K2?
+PROG:80032094	Will you tell me something interesting?
+PROG:800320c0	Then I'll keep you company.
+PROG:800320e8	Yes, then I'll keep you company.
+PROG:8003210c	Right, then let's talk at length!
+PROG:80032130	Let us talk at length and understand each other.
+PROG:8003215c	Good, tell me something interesting.
+PROG:80032180	Then let's talk at length.
+PROG:800321a0	Well, let's talk at length.
+PROG:800321bc	Then let's talk it out to the end.
+PROG:800321e8	Good, then tell me something interesting.
+PROG:80032214	Then let us talk it through.
+PROG:80032238	Then let's talk at length.
+PROG:8003225c	I'm not in the mood today. Please excuse me.
+PROG:8003228c	I'm out of sorts today.\nCome back another time.
+PROG:800322c0	Hm, spare me today, please.
+PROG:800322e8	Hmm, I'm rather busy today.
+PROG:80032308	I'm tired today, so let's talk another time.
+PROG:80032340	I'm tired today.\nLet's talk another time.
+PROG:8003237c	I'm a bit tired today...
+PROG:8003239c	I'm tired from being busy today.\nPardon me, but another day, please.
+PROG:800323dc	I'm tired today.\nMake it another time.
+PROG:80032408	I'm tired today, so spare me, please.
+PROG:80032438	I'm tired today, so spare me.
+PROG:8003245c	I'm tired today.\nCome back another day.
+PROG:80032490	I was busy today and am tired.\nSorry, but let us make it another day.
+PROG:800324d4	You look tired, K2.\nDon't push yourself, please rest.
+PROG:80032510	You look tired, K2.\nI think you should rest for today.
+PROG:80032554	You look tired, K2.\nYou ought to rest a little.
+PROG:80032588	You seem very tired.\nLet us talk another day.
+PROG:800325bc	You're too tired to talk.
+PROG:800325e4	You seem very tired, so let's make it another day.
+PROG:80032618	I don't much like people from %s, so it'd be a waste of time.
+PROG:80032650	Talking with the likes of me is a waste of time.
+PROG:80032678	Talking with me is a waste of your time.
+PROG:800326a0	I've nothing to discuss with a person from %s...
+PROG:800326cc	I've nothing to discuss with a man of %s, K2.
+PROG:800326f0	Our views differ, you and I.\nThere's nothing to discuss.
+PROG:80032724	Your views and mine differ, it seems.\nSo there is nothing to discuss.
+PROG:80032764	I've nothing to discuss with those whose views differ.
+PROG:8003278c	Nothing to discuss with a man of %s, K2.
+PROG:800327b0	I've nothing to discuss with you.
+PROG:800327d0	I've nothing to discuss with one whose views differ.
+PROG:800327f8	I've nothing to discuss with those whose views differ...
+PROG:80032828	Hm, let me hear your opinion.
+PROG:8003284c	Well then, let's talk a little.
+PROG:80032868	Then I'll keep you company, for the nation's sake.
+PROG:80032894	Then let us debate at length for Japan's sake.
+PROG:800328c4	I'm not in the mood today. Please excuse me.
+PROG:800328f0	I'm not in the mood today. Another time.
+PROG:8003291c	No, I must beg off today...
+PROG:8003294c	I'm out of sorts today.\nCome back another time.
+PROG:80032980	No, spare me today, please.
+PROG:800329a0	No, spare me today.
+PROG:800329c4	Hm, spare me today, please.
+PROG:800329ec	Hm, I'm not in the mood to debate today.
+PROG:80032a18	Pardon me, but today I'd rather not...
+PROG:80032a34	I'm not much in the mood today...
+PROG:80032a58	We think alike, K2, so debate is unnecessary.
+PROG:80032a80	We think alike, you and I, so debate is pointless.
+PROG:80032aac	We seem to think alike, K2.\nFormal debate is unnecessary.
+PROG:80032ae8	We think alike, you and I.\nThere's no need to debate.
+PROG:80032b18	We share the same aims, so there's no need to debate.
+PROG:80032b48	We think alike, you and I.\nSo there's no need to debate.
+PROG:80032b84	We seem to share the same aims, so there's no need to debate.
+PROG:80032bbc	There's no need for you and me to debate, K2.
+PROG:80032be0	You and I think alike, K2, so debate is unnecessary.
+PROG:80032c10	We share the same aims, K2, so there's no need for a formal debate.
+PROG:80032c48	I'm busy and tired today.\nPardon me, but another day, please.
+PROG:80032c84	I'm tired today.\nMake it another time.
+PROG:80032cb0	I'm tired today.\nLet's talk another day.
+PROG:80032ce8	I am tired.\nCome another day.
+PROG:80032d14	I'm tired today, so spare me, please.
+PROG:80032d40	I'm tired today, so spare me, please.
+PROG:80032d6c	I'm a bit tired.\nMake it another time.
+PROG:80032d9c	I'm tired today.\nCome back another day.
+PROG:80032dcc	I'm busy and tired today.\nSorry, but let us make it another day.
+PROG:80032e08	I'm sorry, but I'm a little tired...
+PROG:80032e38	You seem very tired.\nYou can't discuss state affairs like this.
+PROG:80032e7c	You're too tired to discuss state affairs.
+PROG:80032ea8	You look tired, K2.\nLet's discuss state affairs another day.
+PROG:80032ed8	You seem tired.\nCome again another time.
+PROG:80032f04	You seem tired.\nLet's talk another day.
+PROG:80032f3c	You look tired, so let's talk another time.
+PROG:80032f68	You look quite tired, so let's talk another day.
+PROG:80032f98	You seem tired.\nCome back another time.
+PROG:80032fc4	You look tired, K2.\nLet us make it another day.
+PROG:80032ff0	You look quite tired.\nLet's make it another day.
+PROG:80033020	I couldn't possibly discuss state affairs.
+PROG:80033044	I can't manage such difficult talk.
+PROG:80033064	I'd rather not discuss difficult matters.
+PROG:80033090	Difficult talk is not to my taste.
+PROG:800330b0	I must decline such difficult talk.
+PROG:800330dc	I must decline talk of state affairs.
+PROG:800330f8	I'll pass on that sort of talk.
+PROG:80033114	No talk of state affairs.
+PROG:80033128	I must decline such talk.
+PROG:80033150	I must decline such difficult talk.
+PROG:80033178	I'm a mere swordsman, so I don't debate state affairs.
+PROG:800331b0	I'm a swordsman.\nI can't manage difficult talk.
+PROG:800331e0	My only worth is my sword.\nI'd rather not discuss difficult matters.
+PROG:80033220	I'm a swordsman.\nI decline talk of state affairs.
+PROG:80033250	I'm a swordsman, see.\nI don't do talk of state affairs.
+PROG:80033280	I'm a swordsman, so I don't do difficult talk.
+PROG:800332ac	I live by the sword.\nI leave state affairs to others.
+PROG:800332e8	I am a mere swordsman.\nI decline to debate state affairs.
+PROG:80033324	I live by the sword.\nI decline talk of state affairs.
+PROG:80033350	I'm a scholar, so I don't discuss such matters.
+PROG:80033378	I'm a scholar, so I make it a rule to avoid such talk.
+PROG:800333b0	I am a man of learning.\nSuch talk does not suit me.
+PROG:800333f0	I'm a scholar.\nI decline such talk.
+PROG:8003341c	I'm a man of learning, so I'll decline such talk.
+PROG:80033450	I'm a man of books, so I'll pass.
+PROG:8003347c	I am devoted to learning. I decline.
+PROG:800334a0	I am a scholar, so I decline such talk.
+PROG:800334c8	I am a scholar now, so I decline such talk.
+PROG:800334f8	I don't like difficult talk.
+PROG:80033518	I don't understand difficult talk.
+PROG:8003353c	Difficult talk is a bit beyond me...
+PROG:8003355c	You're so polite, even to me?\nThank you.
+PROG:80033594	Thank you for your kindness.
+PROG:800335a8	Thank you for your kindness.
+PROG:800335c8	Such a courteous greeting. I'm abashed.
+PROG:800335e8	Ah, thanks.
+PROG:800335fc	How courteous. I'm obliged.
+PROG:8003361c	Hm, I gratefully accept.
+PROG:8003363c	Well, thank you.
+PROG:80033650	Well, how kind of you.
+PROG:8003366c	Hm, you needn't be so thoughtful to me.
+PROG:80033694	I am obliged for such a fine gift.
+PROG:800336b8	How kind of you. Thank you.
+PROG:800336dc	You're really giving me this?\nOh, I'm so happy.
+PROG:80033714	This, for me?\nI'm so happy, thank you.
+PROG:80033744	You're giving this to me?\nI'm so happy.
+PROG:80033778	Oh, %s for me?\nI'm so happy.
+PROG:80033798	Oh, is that %s?\nI'm so happy, thank you.
+PROG:800337c4	This is %s.\nThank you.
+PROG:800337e8	This is %s.\nI gratefully accept.
+PROG:8003380c	Well, isn't this %s?\nI'm delighted.
+PROG:80033838	This is %s.\nI thank you for your thoughtfulness.
+PROG:80033864	This is %s.\nI gratefully accept.
+PROG:80033890	Oh, this is %s.\nThank you, thank you.
+PROG:800338b8	Oh, it's %s.\nThank you.
+PROG:800338d8	Well, if it isn't %s!\nI'll gladly take it.
+PROG:8003390c	This is %s.\nI'll accept it.
+PROG:80033930	This is %s.\nI am obliged.
+PROG:80033958	This is %s.\nThank you.
+PROG:8003397c	A foreign item, for me?\nOh, I'm so happy.
+PROG:800339a4	I'm so happy, thank you.
+PROG:800339bc	Such a precious thing, for me...\nThank you.
+PROG:800339ec	This is a foreign item...\nI gratefully accept.
+PROG:80033a18	Well, a foreign item!\nI'll gladly take it.
+PROG:80033a44	What a curious thing this is.\nI gratefully accept.
+PROG:80033a78	This is an imported item.\nThank you, thank you.
+PROG:80033aa0	This is an imported item.\nWell, thank you.
+PROG:80033ac4	Well, an imported item!\nI'll gladly take it.
+PROG:80033af0	Oh, a rare thing.\nI gladly accept it.
+PROG:80033b20	A fine imported item...\nI am obliged.
+PROG:80033b4c	A rare item indeed.\nWell, thank you.
+PROG:80033b80	This, for me?\nOh, I'm so happy.
+PROG:80033ba4	You're giving me this item?\nThank you.
+PROG:80033bd0	You're giving me such a splendid thing?\nThank you.
+PROG:80033c10	This is %s.\nI gratefully accept.
+PROG:80033c30	A fine item, this.\nI'll gladly take it.
+PROG:80033c5c	A splendid item, this.\nThank you very much.
+PROG:80033c8c	A splendid item.\nI gratefully accept.
+PROG:80033cb4	A splendid item.\nThank you.
+PROG:80033cd4	A splendid item.\nThank you.
+PROG:80033cf4	Well, this is a fine thing.\nAren't you the generous one!
+PROG:80033d1c	Oh, quite a thing.\nI gladly accept it.
+PROG:80033d50	A fine item...\nI am obliged.
+PROG:80033d74	A splendid piece.\nThank you.
+PROG:80033da0	Sake, for me?\nHohoho, thank you.
+PROG:80033dc0	You're giving me this sake?\nThank you.
+PROG:80033dec	This sake, for me?\nI'll gladly have it.
+PROG:80033e18	I gratefully accept.\nSake is a fine thing indeed.
+PROG:80033e4c	That looks like good sake.\nOh, I'm pleased.
+PROG:80033e7c	That looks like fine sake.\nAh, this makes me glad.
+PROG:80033eac	I love sake.\nI gratefully accept.
+PROG:80033ed8	Thank you.\nMy, what good-looking sake.
+PROG:80033f00	That looks like good sake.\nThank you, thank you.
+PROG:80033f2c	Oh, this is %s.\nI'll gladly take it.
+PROG:80033f54	Oh, you brought sake?\nHow thoughtful of you.
+PROG:80033f80	I'm fond of sake, you see.\nI gratefully accept.
+PROG:80033fac	That looks like good sake.\nI gratefully accept.
+PROG:80033fdc	I couldn't accept something so costly.

@@ -1,0 +1,243 @@
+@1
+Okita, you look well today.
+
+@2
+Yes, on a fine day like this I can't stay in bed.
+
+@4
+Don't overdo it. The cold is bad for you.
+
+@5
+I'm coming too.
+
+@6
+What are you talking about?
+
+@7
+There's no use playing dumb. I won't be the only one left behind.
+
+@8
+...Do as you like. If you collapse on the way, I won't have time to look after you.
+
+@9
+Heh heh, don't worry.
+
+@10
+More importantly, Hijikata-san.
+
+@12
+You really ought to go and see her.
+
+@13
+...Who?
+
+@14
+You know without my saying, don't you?
+
+@16
+Preparing the raid on the Satsuma residence.
+
+@19
+Hijikata-sama...!
+
+@20
+...The Shinsengumi will be disbanded. I won't be able to stay in Kyōto much longer either.
+
+@22
+I always thought it would come to this some day.
+
+@23
+What a sad thing to say. Being so quick to understand is not always a blessing.
+
+@24
+Because...
+
+@25
+I was simply too happy.
+
+@27
+...Kotsuru!
+
+@29
+Thank you.
+
+@31
+The time has come.\nAre you ready?
+
+@33
+Hijikata-han.
+
+@34
+Saigō and Ōkubo?
+
+@35
+They are certainly here.
+
+@37
+It's time, Toshi-san.
+
+@39
+Listen well. As of today, the Shinsengumi is disbanded!
+
+@40
+Each of you is free to go or stay. Only those who believe they are equal to it should follow me!
+
+@46
+Hmph, you fools. Don't come whining to me once you're facing the Satsuma horde.
+
+@48
+So this is the end. Somehow it doesn't feel real.
+
+@49
+Well, you'll feel it soon enough, more than you'd like.
+
+@50
+Right! I'll take Saigō.
+
+@51
+Then I shall have Ōkubo.
+
+@52
+Yamazaki-kun, hold on at all costs. Keep the side gate open as long as you can. I'm counting on you.
+
+@53
+...Yes, sir!
+
+@54
+Hm, someone's coming out.
+
+@55
+Now, go!
+
+@56
+Good, everyone get ready!
+
+@59
+Wait, please!\nAn urgent letter from Nagai-dono!
+
+@60
+Ah. Kind of you to come. I'll take it.
+
+@61
+That won't do! I have a matter to tell Saigō-dono directly, face to face!
+
+@62
+No. Unfortunately, Saigō-don is away.
+
+@63
+Then I'll wait here!
+
+@64
+That would be awkward for us.
+
+@65
+It's a matter of the utmost urgency!
+
+@66
+Uh, hmm, hmm.
+
+@69
+Hm! Is this a Shinsengumi patrol?
+
+@70
+Truly sorry. We'll close this gate, so please wait a while.
+
+@71
+How rude! I am a messenger of Nagai Mondo-no-shō-sama!
+
+@73
+No more talk!!
+
+@74
+Gyaaah!
+
+@75
+Let's go, Kondō-san!
+
+@76
+Right!
+
+@77
+W-who goes there?!
+
+@78
+The Shinsengumi!! Do you mean to make an enemy of the Satsuma men?!
+
+@79
+I'll be your opponent! Draw!
+
+@80
+To arms! To arms!
+
+@81
+Bah, stand aside!
+
+@83
+Kondō-san, push into the residence. I'll hold them here!
+
+@84
+Right!
+
+@85
+I want each of you to take on at least five.
+
+@86
+That's a tall order.
+
+@88
+Here they come again!
+
+@89
+Sōji! Rest for a while!
+
+@90
+What's this?!
+
+@91
+Ōkubo-san! Look ou...
+
+@92
+...Guwaaah!
+
+@93
+Heh heh heh, found you!
+
+@96
+Saigō-san, the Shinsengumi are attacking!!
+
+@97
+The Shinsengumi?!
+
+@98
+It's dangerous here! Please flee quickly!
+
+@99
+Bad luck for you.
+
+@101
+We won't let you off so easily.
+
+@102
+For five long years it had reigned over Kyōto and Ōsaka and terrified the sonnō shishi. In this moment the Shinsengumi collapsed completely.
+
+@103
+It is said that not one survivor was confirmed, a few were missing, and all the rest fell in battle: a truly grim end.
+
+@104
+With the loss of Saigō and Ōkubo, the two heads who should have led Satsuma, the history of the Restoration that followed was greatly altered. And yet...
+
+@105
+In the books that record that course of events, the name of Hijikata Toshizō, once Vice-Commander of the Shinsengumi, is nowhere to be seen.
+
+@106
+On the all too dramatic stage of the Bakumatsu, he left a mark all too vivid,
+
+@107
+played out a finale all too shocking, and then vanished from sight.
+
+@108
+For five long years it had reigned over Kyōto and Ōsaka and terrified the sonnō shishi. In this moment the Shinsengumi collapsed completely.
+
+@109
+It is said that not one survivor was confirmed, a few were missing, and all the rest fell in battle: a truly grim end.
+

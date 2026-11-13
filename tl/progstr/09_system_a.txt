@@ -1,0 +1,283 @@
+# street encounters (Shinsengumi patrols, foreigners) and building / place labels of the towns (PROG 80020000-80020fff)
+PROG:8002001c	The rōshi glanced at you as they passed by.
+PROG:80020050	The rōshi took one look at you and hurried away.
+PROG:80020088	Public order in %s rose by 1.\n
+PROG:800200a4	%s's influence and morale each rose by 1!
+PROG:800200cc	%s's influence rose by 1!
+PROG:800200e4	%s's morale rose by 1!
+PROG:80020118	Run Without a Word
+PROG:8002012c	Give an Alias
+PROG:8002013c	Hold! You there, stop!\nWe are of the Shinsengumi.\nForgive us, but we must ask your name.
+PROG:800201ac	I am a retainer of %s, %s by name.%s
+PROG:800201c4	 
+PROG:800201cc	 
+PROG:800201dc	Pardon the trouble.\nTravel safely.
+PROG:800201fc	Hold! You are with those rōshi!\nSeize him!
+PROG:8002022c	The Shinsengumi has surrounded you.\nWill you run?
+PROG:80020250	Hah, not running? You have nerve.\nCut this rōshi down!
+PROG:80020284	Damn! Cut him down!\nDo not let him escape!
+PROG:800202a8	Fool, did you think you could flee the Shinsengumi?\nCut this rōshi down!
+PROG:800202e8	You are completely surrounded.\nYou have no choice but to fight!
+PROG:80020314	Japan samurai, all, cowards.\nThis country, soon, belong to us.
+PROG:8002035c	Oh! Samurai!\nNice to meet chu!
+PROG:80020388	Ha ha! Oh! Rōnin!\nKatana, great! Ha ha!
+PROG:800203c4	A drunken foreigner is approaching.
+PROG:800203ec	He seems to be mocking you.\nCut him down for his insolence?
+PROG:8002042c	The foreigner went away.
+PROG:80020448	Oh! No!\nHelp me!
+PROG:8002060c	JM Company
+PROG:80020618	Shop
+PROG:80020620	Kōki Trading Co.
+PROG:8002062c	Qing Office
+PROG:80020638	Eatery
+PROG:80020640	Yokoi Residence
+PROG:80020648	Kumamoto Castle
+PROG:80020650	Sakuraya
+PROG:80020658	Kumamoto Inn
+PROG:80020664	Etō Residence
+PROG:8002066c	Ōkuma Residence
+PROG:80020674	Saga Castle
+PROG:8002067c	Saga Inn
+PROG:80020688	Fukuoka Castle
+PROG:80020690	Hakata Sundries
+PROG:8002069c	Ishikuraya
+PROG:800206a4	Tenjin Tavern
+PROG:800206b0	Hakata Inn
+PROG:800206bc	Kokura Castle
+PROG:800206c4	Kokura Inn
+PROG:800206d0	Ibusuki Spa Inn
+PROG:800206dc	Mt. Takachiho
+PROG:800206e8	Kirishima Spa Inn
+PROG:800206f4	Aso Spa Inn
+PROG:80020700	Dazaifu Tenmangū
+PROG:80020710	Enjuō-in
+PROG:8002071c	Dazaifu Teahouse
+PROG:80020728	Dazaifu Inn
+PROG:80020734	Beppu Spa Inn
+PROG:80020740	Itō Sukenori Residence
+PROG:8002074c	Kuroda Residence
+PROG:80020754	Kawamura Residence
+PROG:8002075c	Murata Shinpachi Residence
+PROG:80020768	Yoshii Residence
+PROG:80020770	Saigō Residence
+PROG:80020778	Shinohara Residence
+PROG:80020780	Ōyama Residence
+PROG:80020788	Tōgō Residence
+PROG:80020790	Kajiyachō Clinic
+PROG:800207a0	Kōraibashi Tavern
+PROG:800207b0	Kajiyachō Eatery
+PROG:800207c0	Wharf Battery
+PROG:800207cc	Shūseikan
+PROG:800207d4	Western Medical School
+PROG:800207e0	Matsukata Residence
+PROG:800207e8	Mori Residence
+PROG:800207f0	Satsuma Hayato
+PROG:800207fc	Honmachi Inn
+PROG:80020808	Zōshikan
+PROG:80020810	Arima Residence
+PROG:80020818	Shimazu Zusho Residence
+PROG:80020824	Komatsu Residence
+PROG:8002082c	Kawaji Toshiyoshi Residence
+PROG:80020838	Godai Residence
+PROG:80020840	Tsurumaru Castle
+PROG:80020848	Kameyama Shachū
+PROG:80020854	Wakamiya Inari
+PROG:80020860	Ryōrin-tei
+PROG:80020868	Ōura Shore
+PROG:80020874	Glover Residence
+PROG:80020880	Seaside Teahouse
+PROG:8002088c	Awajiya
+PROG:80020894	Maruyama Tavern
+PROG:800208a0	Kagetsu Restaurant
+PROG:800208ac	Maruyama Inn
+PROG:800208b8	Nagasaki Naval School
+PROG:800208c8	Nagasaki Dutch School
+PROG:800208d4	Ueno Photo Studio
+PROG:800208e0	Nagasaki Clinic
+PROG:800208ec	Seifū-tei
+PROG:800208f4	Tosaya
+PROG:800208fc	Saifū-tei
+PROG:80020904	Sotomachi Eatery
+PROG:80020910	Zaitsuya
+PROG:80020918	Nagasaki Magistrate
+PROG:80020924	Nagasaki Gaol
+PROG:80020930	Orandaya
+PROG:8002093c	Ozone Residence
+PROG:80020948	Aritaya
+PROG:80020950	Nanban Wharf
+PROG:8002095c	Dutch Trading Post
+PROG:8002096c	Uwajima Castle
+PROG:80020978	Warei Shrine
+PROG:80020984	Castle Town Inn
+PROG:80020990	Magoshi Residence
+PROG:80020998	Tokushima Sundries
+PROG:800209a4	Awaya
+PROG:800209ac	Donzō-rō
+PROG:800209b4	Konpira Shrine
+PROG:800209c0	Zōzuzan Tavern
+PROG:800209d0	Sanukiya
+PROG:800209d8	Takamatsu Inn
+PROG:800209e4	Iwasaki Residence
+PROG:800209ec	Okanoue Residence
+PROG:800209f4	Harimaya Bridge
+PROG:80020a00	Yamadachō Gaol
+PROG:80020a0c	Mazaki Residence
+PROG:80020a14	Kawada Shōryū Residence
+PROG:80020a20	Takechi Dōjō
+PROG:80020a2c	Shitamachi Tenement
+PROG:80020a38	Nagaoka Residence
+PROG:80020a40	Tabuchi Tenement
+PROG:80020a4c	Tosa Bathhouse
+PROG:80020a58	Shitamachi Tavern
+PROG:80020a64	Tachibanaya
+PROG:80020a6c	Harimaya Inn
+PROG:80020a7c	Shian Bridge
+PROG:80020a84	Tokuhiro Residence
+PROG:80020a8c	Hineno Dōjō
+PROG:80020a98	Ikeda Residence
+PROG:80020aa0	Mōri Residence
+PROG:80020aa8	Sakamoto Residence
+PROG:80020ab0	Mochizuki Residence
+PROG:80020ab8	Ike Residence
+PROG:80020ac0	Hirai Residence
+PROG:80020ac8	Kamimachi Sundries
+PROG:80020ad4	Saitaniya
+PROG:80020adc	Manjūya
+PROG:80020ae4	Kamimachi Tavern
+PROG:80020af0	Minami Kaisho
+PROG:80020af8	Kyōjukan
+PROG:80020b00	Chidōkan
+PROG:80020b08	Watanabe Residence
+PROG:80020b10	Yoshida Tōyō Residence
+PROG:80020b1c	Gotō Residence
+PROG:80020b24	Itagaki Residence
+PROG:80020b2c	Motoyama Residence
+PROG:80020b34	Sasaki Takayuki Residence
+PROG:80020b44	Yamauchi Residence
+PROG:80020b4c	Fukuoka Residence
+PROG:80020b54	Fukao Residence
+PROG:80020b5c	Hirai Zennojō Residence
+PROG:80020b6c	Kominami Residence
+PROG:80020b74	Kōchi Castle
+PROG:80020b7c	Fujinami Shrine
+PROG:80020b88	Tani Residence
+PROG:80020b90	Hiroshima Castle
+PROG:80020b98	Hiroshima Sundries
+PROG:80020ba4	Hiroshima Inn
+PROG:80020bb0	Kōrakuen
+PROG:80020bb8	Okayama Castle
+PROG:80020bc0	Bizenya
+PROG:80020bc8	Nodayamachi Inn
+PROG:80020bd8	Yamaguchi Govt. Hall
+PROG:80020be4	Yamaguchi Inn
+PROG:80020bf0	Shimonoseki Magistrate
+PROG:80020bfc	Nogi Residence
+PROG:80020c04	Miyoshi Residence
+PROG:80020c0c	Kokuraya
+PROG:80020c14	Sakaiya
+PROG:80020c1c	Nakasei
+PROG:80020c24	Hamamuraya
+PROG:80020c2c	Shimonoseki Honjin
+PROG:80020c38	Kiheitai Barracks
+PROG:80020c44	Kōzan-ji
+PROG:80020c4c	Shōkenkaku
+PROG:80020c54	Kōbe Naval School
+PROG:80020c64	Kōbe Tavern
+PROG:80020c70	Kōbe Inn
+PROG:80020c7c	Hagi Furnace
+PROG:80020c88	Shōka Sonjuku
+PROG:80020c94	Yoshida Residence
+PROG:80020c9c	Itō Residence
+PROG:80020ca4	Shinagawa Residence
+PROG:80020cac	Yoshida Toshimaro Residence
+PROG:80020cb8	Yamada Residence
+PROG:80020cc0	Maehara Residence
+PROG:80020cc8	Irie Residence
+PROG:80020cd0	Hagi Harbour Eatery
+PROG:80020ce0	East Hagi Inn
+PROG:80020cec	Yūbikan
+PROG:80020cf4	Meirinkan
+PROG:80020cfc	Yamagata Residence
+PROG:80020d04	Terashima Residence
+PROG:80020d0c	Nagai Residence
+PROG:80020d14	Shiji Residence
+PROG:80020d1c	Kusaka Residence
+PROG:80020d24	South Town Tavern
+PROG:80020d30	Boat Depot
+PROG:80020d38	Noyama Gaol
+PROG:80020d40	Tsuboi Residence
+PROG:80020d48	Katsura Residence
+PROG:80020d50	Hirosawa Residence
+PROG:80020d58	Takasugi Residence
+PROG:80020d60	Matsushima Residence
+PROG:80020d68	Jōnen-ji
+PROG:80020d70	Aoki Residence
+PROG:80020d78	North Town Sundries
+PROG:80020d84	Yoshitomi Residence
+PROG:80020d8c	Hayashi Yūzō Residence
+PROG:80020d98	Hamamachi Tavern
+PROG:80020da4	North Town Eatery
+PROG:80020db0	North Town Restaurant
+PROG:80020dbc	North Town Inn
+PROG:80020dc8	Kijima Residence
+PROG:80020dd0	Masuda Residence
+PROG:80020dd8	Fukuhara Residence
+PROG:80020de0	Kunishi Residence
+PROG:80020de8	Sufu Residence
+PROG:80020df0	Hagi Castle
+PROG:80020df8	Hanae Teahouse
+PROG:80020e04	PlayStation
+PROG:80020e10	Shimada Residence
+PROG:80020e18	Ōgaki Castle
+PROG:80020e20	Ōgaki Inn
+PROG:80020e2c	Mutsu Residence
+PROG:80020e34	Wakayama Castle
+PROG:80020e40	Hamaguchi Residence
+PROG:80020e48	Kikuchi Residence
+PROG:80020e50	Wakayama Inn
+PROG:80020e5c	Hikone Castle
+PROG:80020e64	Hikone Inn
+PROG:80020e70	Mitsuoka Residence
+PROG:80020e78	Fukui Castle
+PROG:80020e80	Fukui Eatery
+PROG:80020e8c	Tobacconist
+PROG:80020e98	Kenroku-en
+PROG:80020ea0	Kanazawa Castle
+PROG:80020ea8	Garden Teahouse
+PROG:80020eb4	Kagaya
+PROG:80020ebc	Tsu Castle
+PROG:80020ec4	Tsu Inn
+PROG:80020ecc	Kuwana Castle
+PROG:80020ed4	Shimaya
+PROG:80020edc	Funatsuya
+PROG:80020ee4	Meirindō
+PROG:80020eec	Owari Western School
+PROG:80020ef8	Lower Residence
+PROG:80020f04	Nagoya Castle
+PROG:80020f10	Sakura Tenjin
+PROG:80020f18	Kameo Tennō
+PROG:80020f24	Sōken-ji
+PROG:80020f2c	Igakukan
+PROG:80020f34	Teahouse
+PROG:80020f3c	Eirakuya
+PROG:80020f44	Ume Bathhouse
+PROG:80020f4c	Jingū Teahouse
+PROG:80020f58	Owariya
+PROG:80020f60	Sunpu Castle
+PROG:80020f68	Fuchū Sundries
+PROG:80020f74	Ishibeya
+PROG:80020f7c	Chōjiya
+PROG:80020f84	Kōfu Castle
+PROG:80020f8c	Kōfu Inn
+PROG:80020f98	Oshi Castle
+PROG:80020fa0	Oshi Inn
+PROG:80020fa8	Sakura Castle
+PROG:80020fb0	Sakura Inn
+PROG:80020fbc	Kairaku-en
+PROG:80020fc4	Kōdōkan
+PROG:80020fcc	Ichikawa Residence
+PROG:80020fd4	Fujita Residence
+PROG:80020fdc	Mito Castle
+PROG:80020fe4	Kashima Shrine
+PROG:80020ff0	Shitamachi Sundries
+PROG:80020ffc	Shitamachi Eatery

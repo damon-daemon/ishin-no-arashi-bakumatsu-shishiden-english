@@ -1,0 +1,156 @@
+@0
+Inspecting Hiroshima with Kondō Isami.
+
+@1
+Persuade the Geishū Domain.
+
+@2
+You are of the Shinsengumi, I take it?
+
+@3
+I am Tsuji Shōsō, a retainer of the Geishū Domain.
+
+@4
+I have something to submit regarding the recent situation in Chōshū.
+
+@5
+Hm. Let us hear it.
+
+@6
+We of Geishū saw at close quarters the troops of the various domains gathered for the last expedition, and they were quite unfit to fight, I assure you.
+
+@7
+The morale of officers and men was low; none of them could think of anything but going home. There was not one who would throw away his life in battle.
+
+@9
+The Chōshū forces, on the other hand, were like a wounded beast driven into a corner. High and low were of one mind for the domain's survival, and ready to fight to the last without regard for their lives.
+
+@10
+Hmm...
+
+@11
+Fortunately the pro-shogunate faction seized power in Chōshū, so the shogunate won without a fight. But it appears the sonnō faction now holds the domain again.
+
+@12
+If we raise another great army now and should it happen to be defeated, I fear the shogunate's prestige would fall to the ground.
+
+@13
+Agree\nDisagree
+
+@14
+...So it would seem.
+
+@15
+You speak very much on Chōshū's behalf.
+
+@16
+Not at all. Please take it as counsel offered from my poor wits, for the shogunate's sake.
+
+@18
+It seems the loyalists already run the government of Chōshū.
+
+@19
+That domain is, in the end, a den of ruffians. We will have to crush them thoroughly.
+
+@20
+"We should try conciliation"\n"We should crush them, no question"
+
+@21
+Kondō-san, what matters is using the carrot and the stick in turn.\nWhy not try conciliation first?
+
+@22
+Toshi-san, what's this soft talk at this late hour?
+
+@23
+Won't pressing them any further only harden Chōshū's attitude?
+
+@24
+No, Hijikata-dono may well be right. The wealth of the shogunate and the lords is long since exhausted. Raising another expedition is quite out of the question.
+
+@25
+And unlike last time, this Chōshū expedition has no reason that would satisfy the domains.
+
+@26
+Let us watch how Chōshū responds. If it still keeps its contempt for the shogunate, we can punish them on that ground.
+
+@27
+That's far too slow.
+
+@28
+Hm. I shall do everything I can.
+
+@30
+Better to stamp out the spark now.
+
+@31
+Chōshū should be abolished, or reduced to a petty daimyō of some 50,000 koku and moved to the east.
+
+@32
+Hmm... the wealth of the shogunate and the lords is long since exhausted. Raising another expedition is quite out of the question.
+
+@33
+And unlike last time, this Chōshū expedition has no reason that would satisfy the domains.
+
+@34
+Money and reasons can be arranged somehow. But leaving Chōshū unchecked will leave a root of trouble for later.
+
+@35
+Exactly so.
+
+@37
+...So it cannot be avoided.
+
+@39
+We had better wait and see for a while.
+
+@41
+Toshi-san, it's about time we went back to Kyōto.
+
+@42
+Now I'm going to ask the lord of Geishū to join the Chōshū expedition. Will you come along?
+
+@46
+You are Nagai-dono's companions. Please, come in.
+
+@47
+So this is the famed Kondō-dono of the Shinsengumi.
+
+@49
+For this Chōshū expedition, Geishū's strength is absolutely required.
+
+@50
+But once it comes to battle, our domain will have to be the vanguard, because of the geography, will it not?
+
+@51
+"Of course"\n"That won't be necessary"
+
+@52
+To clear the suspicion that Geishū is anti-shogunate, the quickest way is to show it by fighting at the front.
+
+@53
+When Chōshū is abolished, your domain may be granted more land as you wish.
+
+@54
+No, it is enough that you stand in reserve behind us and apply silent pressure.
+
+@55
+If Chōshū's will to fight can be broken without a battle, nothing could be better.
+
+@56
+Hmmm...
+
+@57
+Understood. Geishū will spare no cooperation, so rest assured.
+
+@60
+I would gladly help, but Chōshū is a neighbouring province and many of our retainers sympathise with them.
+
+@61
+I believe the best course is to seek a settlement through political negotiation.
+
+@63
+Stay in Hiroshima.
+
+@64
+Toshi-san, it's about time we went back to Kyōto.
+

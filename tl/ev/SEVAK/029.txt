@@ -1,0 +1,1152 @@
+@0
+Persuade Saigō in Kyōto
+
+@1
+Please, Sakamoto-san, this way.
+
+@2
+Sakamoto-san! Thank goodness you're safe!
+
+@3
+You are a wanted man, and the Kyōto-Ōsaka area is dangerous.
+
+@4
+I want to see Saigō-don.
+
+@6
+Understood. This way, please.
+
+@7
+Oh, Kōsuke-don. Roast sweet potatoes, is it?
+
+@8
+Ah, Sakamoto-san. Will you have one?
+
+@9
+Looks good. I'll take one.
+
+@10
+Is this the time to be eating that stuff? We must see Saigō-don at once!
+
+@11
+I won't let "that stuff" pass.
+
+@12
+Ah, no...
+
+@13
+Satsuma folk do love their sweet potatoes.
+
+@14
+It's not a matter of taste. Rice is hard to grow in Satsuma, so sweet potatoes are our staple.
+
+@15
+But eating sweet potatoes in Kyōto gets us mocked as "potato samurai", so our domain troops are fed rice.
+
+@16
+Ha ha, Satsuma runs Kyōto's politics single-handed. It can hardly do its work if people call it potatoes.
+
+@17
+This year the harvest at home failed too, and with the present troubles rice prices around Kyōto are soaring. The cost of sending troops to the capital is no small matter.
+
+@18
+Ah! Saigō-don!
+
+@19
+I truly am sorry about that.
+
+@20
+Saigō-don, explain yourself!
+
+@21
+Well, that is...
+
+@22
+Now, Shintarō, go easy. Satsuma has its reasons too.
+
+@23
+So it's the lord and the conservatives after all?
+
+@25
+Let me ask again. You do favour an alliance with Chōshū, don't you, Saigō-don?
+
+@26
+Of course.
+
+@27
+...But Chōshū bears a grudge against me.
+
+@28
+I see... True. Given how Chōshū men feel now, Shimonoseki would be like walking alone into enemy land for Saigō-don.
+
+@29
+The Satsuma-Chōshū talks will be held here in Kyōto. Will that do?
+
+@31
+Saigō-don!
+
+@32
+Understood. I will try to persuade Lord Hisamitsu once more!
+
+@33
+Thank you! Saigō-don, we are in your debt!
+
+@34
+You need not thank me, Nakaoka-san. It is I who should be grateful.
+
+@35
+Still, this time Kyōto is as good as enemy land to Chōshū. Satsuma must promise to keep them safe...
+
+@36
+I will guard them with my life.
+
+@37
+Oh, right... There's one favour I'd like to ask of you, Saigō-don...
+
+@38
+What would that be?
+
+@39
+Chōshū has no weapons now. Even if it tried to buy them, the foreign powers in league with the shogunate refuse to deal with it.
+
+@41
+So I want the Kameyama Shachū to borrow Satsuma's name, buy weapons and warships, and sell them to Chōshū!
+
+@43
+May we use Satsuma's name?
+
+@44
+Ha ha, so that was it. The Shachū's Satsuma name was lent to you, Sakamoto-san. Use it freely.
+
+@45
+Good, that sets the stage. Once the weapons are arranged, I'll bring Chōshū's representative to Kyōto.
+
+@46
+Let's go back to Chōshū at once and report to Katsura-san.
+
+@47
+Report to Katsura Kogorō in Hagi
+
+@48
+Let me think on it a little longer.
+
+@49
+I'll come again, so please reconsider by then.
+
+@50
+Katsura-san. I have the consent for buying the weapons.
+
+@51
+Ah, splendid!
+
+@53
+This is Ōmura Masujirō-dono, who will be chief of staff of Chōshū's army in the coming war against the shogunate.
+
+@55
+This is Sakamoto-kun, who will procure the weapons.
+
+@56
+Oh, is that so?
+
+@57
+As you know, with our present strength we have no hope of beating the shogunate.
+
+@58
+How many guns would we need?
+
+@59
+However many we have, we lack soldiers to use them.
+
+@61
+Then... are you saying Chōshū will lose?
+
+@62
+We will lose, I think...
+
+@63
+Ō-Ōmura-dono!!
+
+@64
+Don't panic. There is one way to win.
+
+@65
+What is it?!
+
+@66
+Getting new-model rifles.
+
+@67
+New-model rifles?
+
+@68
+The Minie rifle.
+
+@69
+Minie?
+
+@70
+The latest breech-loader. It fires ten shots in the time the shogunate's Gewehr fires one.
+
+@71
+So with that gun, one Chōshū soldier is worth ten shogunate soldiers!
+
+@72
+No, more than that. The Minie's longer range makes it stronger still. Against the other domains' matchlocks, there would be no contest at all.
+
+@73
+Right, let's buy up those new rifles! How many?
+
+@74
+Five thousand at least. But beyond ten thousand we'd have no men to use them.
+
+@75
+Five to ten thousand, then.
+
+@76
+Not all five thousand need be new models, but buy more new ones than old.
+
+@77
+Hm, understood.
+
+@78
+Wait!!
+
+@80
+We want warships too!
+
+@81
+Takasugi-kun!!
+
+@82
+Takasugi-san, it's been a while!!
+
+@83
+Ah, Sakamoto-kun. While you're at it, get us a steamship!
+
+@85
+This is Takasugi-kun, who commands Chōshū's navy. Though he's terribly weak to seasickness.
+
+@86
+Ha ha, just like my teacher Katsu-sensei.
+
+@87
+Sakamoto-kun, is it? While you're at it, get us a steamship!
+
+@88
+You bought one on your own the other day!
+
+@89
+The shogunate's naval power is overwhelming. We need one more warship, whatever it takes.
+
+@90
+The money...
+
+@91
+If Chōshū loses, that's the end. If it wins, we'll manage somehow.
+
+@92
+But we lack crew. Even training them in a rush, I doubt they'd be ready before the shogunate attacks...
+
+@93
+We'll run them ourselves\n...
+
+@94
+What if we run them ourselves?
+
+@95
+What, Chōshū's ships?
+
+@96
+The Kameyama Shachū needs as many trading ships as it can get for now. In return, we'll fight as part of Chōshū's army in the war against the shogunate.
+
+@97
+Oh! Excellent idea!
+
+@98
+Takasugi-kun!
+
+@100
+Why not let Sakamoto-kun and his men run them?
+
+@101
+What, Chōshū's ships?
+
+@102
+Sakamoto-kun's Shachū needs as many trading ships as it can get for now. In return, they fight as part of Chōshū's army in the war against the shogunate.
+
+@103
+Oh! Excellent idea!
+
+@104
+B-but...
+
+@105
+Don't worry. When the war is over we'll take them back and train a crew at leisure. Until then I'll lend them for nothing.
+
+@106
+Hmm... Very well.
+
+@107
+Takasugi-san, Katsura-san, thank you!
+
+@108
+Oh, and you may get weapons cheaply from the British merchants. They say Britain is glutted with arms now.
+
+@109
+These are Itō Shunsuke-kun and Inoue Monta-kun, who will handle the weapons purchase in Nagasaki as my agents.
+
+@112
+Settle the arms deal with Glover in Nagasaki
+
+@113
+Gentlemen, is your English good?
+
+@114
+I went abroad, so I can manage a little, but I wouldn't swear to it.
+
+@115
+We rushed home halfway when we heard the four-nation fleet would bombard Shimonoseki.
+
+@116
+Well, we can manage the English ourselves.
+
+@117
+Right. Chōjirō, interpret the important parts.
+
+@118
+Leave it to me.
+
+@119
+A steamship? A new one would take about a year, though.
+
+@120
+We have no time for that. Second-hand will do.
+
+@121
+Then I have a good one for you.
+
+@122
+The Union. 39,000 ryō.
+
+@123
+It's quite a bargain.
+
+@124
+Anything else?
+
+@125
+After that, only sailing ships or a brand-new modern ship.
+
+@126
+How much is the new one?
+
+@127
+200,000 ryō.
+
+@128
+...Our whole budget is 130,000 ryō.
+
+@129
+Then let's take the Union. What about the guns?
+
+@130
+Minie rifles? Yes, I have plenty in stock.
+
+@131
+How much?
+
+@132
+A little dear, at 18 ryō each.
+
+@133
+And Gewehrs?
+
+@134
+Gewehrs are glutted now that the American Civil War is over, so they are cheap at 5 ryō each.
+
+@135
+How much budget is left?
+
+@136
+130,000 minus 39,000... that leaves 91,000.
+
+@137
+Chōjirō, how many can we buy?
+
+@138
+All Minies would be... a little over 5,000.
+
+@139
+Just what Ōmura-dono said was the minimum.
+
+@140
+Why not buy some of the cheap Gewehrs too?
+
+@141
+Hm. True, soldiers without guns are no use.
+
+@142
+Buying 1,000 Gewehrs leaves us just under 4,800 Minies.
+
+@143
+5,800 in all. What about 2,000 Gewehrs?
+
+@144
+4,500 Minies. 6,500 guns in all.
+
+@145
+And 3,000?
+
+@146
+4,200 Minies, making 7,200 guns in all.
+
+@147
+Well, I'm amazed. It's like watching a Western magic trick.
+
+@148
+Sakamoto-san, you have a wonderful man there.
+
+@149
+My pride and joy of a secretary. Chōjirō, what about 4,000 Gewehrs?
+
+@150
+Just under 4,000 Minies, nearly the same number. 8,000 guns in all.
+
+@151
+We were told to buy more of the new type than the old, so that won't do, will it?
+
+@152
+Sakamoto-san, how many of the old Gewehrs shall we buy?
+
+@153
+0\n1000\n2000\n3000\n4000
+
+@154
+I'll throw in 100 extra Minies. You gentlemen of Chōshū look like good business partners in the future.
+
+@155
+What, you knew we were Chōshū men?
+
+@156
+Politics is no concern of us merchants. On paper, I am selling to Satsuma anyway.
+
+@157
+A shrewd one. Perhaps the world to come really will belong to merchants.
+
+@158
+I will order them from Shanghai, so please wait about two months.
+
+@159
+Sakamoto-dono, have you lived abroad?
+
+@160
+No.
+
+@161
+Your English is truly fluent.
+
+@162
+Is it?
+
+@163
+May I invest in your company?
+
+@164
+I couldn't ask for more!
+
+@165
+Right, I'll report to Katsura-san at once and make him happy. Then we'll push straight on to the Satsuma-Chōshū alliance!
+
+@167
+Wait. Takasugi-san did say it would be cheaper to buy from a British merchant.
+
+@168
+There should be a British merchant in Nagasaki called Glover.
+
+@169
+Right, let's go to him.
+
+@170
+Katsura-san! The deal is done!
+
+@173
+News of the Satsuma-Chōshū alliance is spreading among Chōshū men. The backlash is fierce. All of them say they won't use weapons sent by the Satsuma thieves.
+
+@174
+What are you saying now! Without weapons we can't win the war!
+
+@175
+They don't want a victory that Satsuma has forced a favour on them for. They'd rather die fighting gloriously, and they won't listen.
+
+@176
+Fools! Is this the time to say such things!
+
+@177
+I'm truly sorry for your trouble. Sorry, but...
+
+@178
+"Don't talk nonsense!"\n"There's something I want you to sell"
+
+@179
+...What nonsense is this!
+
+@181
+What of the alliance! Is that scrapped too?
+
+@182
+What is it? What's all the shouting about?
+
+@183
+...Takasugi-kun.
+
+@184
+I hear Chōshū men refuse to take Satsuma's weapons?
+
+@185
+Ah... that.
+
+@186
+Clinging to a petty pride... Do you not care what becomes of Japan?
+
+@187
+No... we want the weapons. But I can't rest easy being in Satsuma's debt in any form.
+
+@188
+But in this crisis, what can Chōshū give Satsuma? The only surplus we have is this year's rice, which was a good harvest.
+
+@189
+!! That's it!!
+
+@191
+Satsuma had a bad harvest this year and is struggling with the cost of its troops in the capital.
+
+@192
+I see!
+
+@193
+If Chōshū sells them rice and hands the favour back, we're even. Fifty-fifty.
+
+@194
+Good, Satsuma can have as much as it wants.
+
+@195
+How much a koku? If it's not cheap, it won't count as a favour.
+
+@196
+Nothing!
+
+@198
+Not a single coin!
+
+@199
+Heh.
+
+@200
+Ha ha ha! Just like you, Katsura-san, the true chief of Chōshū!
+
+@201
+...Does Chōshū have any rice to spare?
+
+@202
+Eh? Ah, yes. We have stockpiled a great deal for the coming war with the shogunate. With this year's good harvest we have some to spare...
+
+@203
+Why not sell that rice to Satsuma?
+
+@204
+Rice?
+
+@205
+Satsuma had a bad harvest, and its troops in Kyōto are short of provisions. If Chōshū shares rice cheaply now, you can wipe out the favour you owe Satsuma, can't you?
+
+@207
+Right?
+
+@208
+...Yes!
+
+@209
+Very well! Satsuma can have as much as it wants!
+
+@210
+Well said! How much a koku?
+
+@211
+Nothing!
+
+@213
+Not a single coin!
+
+@214
+Ha ha ha! Just like you, Katsura-san, the true chief of Chōshū!
+
+@215
+Sakamoto-kun... I can't tell whether you're a samurai or a merchant.
+
+@216
+Both.
+
+@217
+Heh.
+
+@218
+Oh, Sakamoto-kun! Did you buy the warship?
+
+@219
+Takasugi-san! I did! It should be on its way from Shanghai by now!
+
+@220
+Good, now we can fight the shogunate's troops without a care!
+
+@221
+All that's left is for Katsura-san to go to Kyōto and seal the alliance.
+
+@222
+Wait, wait!
+
+@224
+Why must I go to Kyōto?!
+
+@225
+It's an alliance of equals, so neither domain's territory suits, does it?
+
+@226
+Hm... But you know very well we Chōshū men cannot enter Kyōto!
+
+@227
+Ha ha, and who was it who made a clean escape from that same Kyōto?
+
+@228
+Ha ha, quite so!
+
+@229
+D-don't be absurd! Do you know what I went through...
+
+@230
+It's all right. Satsuma takes responsibility for your safety. Other places are actually more dangerous, being beyond Satsuma's reach.
+
+@231
+Can we really trust them?
+
+@232
+They want the alliance as much as we do. If you keep doubting the other side, you'll never reconcile.
+
+@233
+And all because Saigō broke his promise!
+
+@234
+Katsura-kun. The Satsuma-Chōshū alliance is now an order of the domain. Go to Kyōto and conclude it.
+
+@235
+Why me?
+
+@236
+Because you represent Chōshū. Our lord named you himself.
+
+@237
+...I may be cut down, you know.
+
+@238
+That too would be a result. At a time like this, why fear death?
+
+@239
+Think of the future of Chōshū and Japan resting on your shoulders, and a word or two with the Satsuma men is nothing, surely?
+
+@240
+If you feel so strongly, go yourself!
+
+@241
+I'm not suited to such negotiations. If I lost my temper even a little I might cut Saigō down. Everyone has his own role.
+
+@242
+You're a coward.
+
+@243
+Stop whining. Katsura-kun, please go.
+
+@244
+Grr... If it's the domain's order...
+
+@247
+There's no choice! I'll go!
+
+@248
+I'm counting on you!
+
+@249
+Good, it's settled!
+
+@250
+Sakamoto-kun. I want you to see how things go in Kyōto. If the talks run into difficulty, I'd like you to take steps.
+
+@251
+Kyōto is dangerous. Take this. Use it in an emergency.
+
+@252
+And I'll assign Miyoshi-kun to guard you. He's a master of the spear and will be a help.
+
+@253
+Sakamoto-san, I look forward to working with you.
+
+@254
+See the Satsuma-Chōshū alliance sealed in Kyōto
+
+@257
+Oh, Shinagawa-san and Miyoshi-san.
+
+@259
+Ah, Katsura-san too. How did it go?
+
+@261
+The place is bad.
+
+@263
+We are returning to Chōshū!
+
+@266
+It was no good.
+
+@267
+No good? What do you mean?
+
+@269
+What on earth have you been doing all this time?
+
+@270
+Day after day, all they did was feed us lavish banquets!
+
+@271
+...That's all.
+
+@272
+Was Saigō there?
+
+@273
+Saigō, Ōkubo, Komatsu and the other Satsuma representatives were all lined up.
+
+@274
+But... not one of them would come to the point!
+
+@276
+If they won't say it, why won't Chōshū?!
+
+@277
+How could I!
+
+@278
+Satsuma openly pays homage to the Emperor, openly meets the shogunate, openly mixes with the lords.
+
+@279
+Chōshū, by contrast, stands alone in the realm, branded an enemy of the Court, hunted by the shogunate and on the very verge of ruin.
+
+@280
+If Chōshū opened the talks now, it would no longer be an alliance of equals! It would be begging Satsuma for aid!
+
+@281
+Still clinging to your domain's face! Chōshū, Satsuma, what of it!
+
+@282
+Did we Tosa men throw away our lives and run about for Tosa's sake?!
+
+@283
+Kogorō! What Yoshida Shōin-sensei entrusted to you was Japan... the future of this Japan, wasn't it!
+
+@287
+But... I can't!
+
+@288
+Can't?!
+
+@289
+I'll go straight home and meet the shogunate's army.
+
+@290
+What...!
+
+@291
+Chōshū will perish, I expect. So be it!
+
+@292
+...!!
+
+@293
+If Satsuma serves the Imperial house, then even if Chōshū perishes, it will be a blessing for the realm!
+
+@297
+Where are you going?
+
+@298
+Need you ask!
+
+@299
+I'll make Satsuma propose the alliance! Along with an apology for this discourtesy!
+
+@300
+Visit the Satsuma residence in Kyōto
+
+@301
+Ah, Sakamoto-san.
+
+@302
+Where is Saigō-don?!
+
+@303
+P-please wait.
+
+@304
+Katsura-san told me everything.
+
+@306
+Saigō-don, enough of this childish bullying of Chōshū. Why don't you bring up the alliance?
+
+@307
+But... shouldn't Chōshū be the one to come asking?
+
+@308
+That won't do. This is no time to cling to a domain's face. This time Satsuma must be the one to step forward.
+
+@309
+...Katsura-san listed nothing but grudges against Satsuma.
+
+@310
+But Saigō-don said, "Quite right," and bowed his head low.
+
+@311
+...Chōshū is wounded and surrounded on all sides. No wonder it harbours grudges.
+
+@313
+Appeal with desperate resolve\nAppeal calmly to the benefits of the alliance\nStare at Saigō in silence
+
+@314
+Katsura-san said this--
+
+@315
+"If Satsuma serves the Imperial house, then even if Chōshū perishes, it will be a blessing for the realm!"
+
+@316
+...Saigō-don, how do you hear these words of Katsura-san?!
+
+@317
+Chōshū may perish, he says. If Satsuma survives to accomplish the great task of the realm, he would gladly fall under the rain of the shogunate's bullets!
+
+@320
+Saigō-don, I beg you. Ally with Chōshū. Then the shogunate will fall, and we can be spared any more needless sacrifice!
+
+@321
+If you won't go to Katsura-san, I'll cut you down here, then cut my own belly too...!
+
+@325
+I was in the wrong.
+
+@326
+True, it is Chōshū that will revive thanks to this alliance.
+
+@327
+But if Chōshū, so battered by Satsuma, bows its head now, its face will be wholly lost, won't it?
+
+@328
+The stronger side should make the offer. Satsuma gains from this alliance too. In fact, without it Chōshū and Satsuma alike will be crushed by the shogunate.
+
+@331
+It is as you say, Sakamoto-san.
+
+@332
+Chōshū is too pitiful. It would be like surrendering.
+
+@333
+Hm...
+
+@334
+Please make the proposal for the Satsuma-Chōshū pact yourselves.
+
+@339
+Satsuma will propose the alliance to Chōshū.
+
+@340
+The six articles written on the front were discussed with Messrs. Komatsu and Saigō, and with you, Katsura, and Ryō (Ryōma) present too; there is not the slightest error.
+
+@341
+Even in the future, nothing will ever change, as the gods know.
+
+@342
+Sakamoto Ryōma
+
+@343
+Miyoshi-kun, Miyoshi-kun! It's done!
+
+@344
+Really?!
+
+@345
+Yes! We did it!
+
+@346
+I see... At last!
+
+@347
+Let's drink the night away!
+
+@349
+Ah, Sakamoto-san, you're Chōshū's benefactor!
+
+@350
+Ha ha, a benefactor, am I?
+
+@351
+Yes, indeed!
+
+@352
+Hm, where's Oryō?
+
+@353
+She said she was going to the bath...
+
+@356
+Sakamoto-sama, Miyoshi-sama, it's the constables!
+
+@357
+What!
+
+@358
+We're surrounded by a great crowd of them!
+
+@359
+Miyoshi-kun, we'll meet them! Give us room to move!
+
+@361
+Oryō, go downstairs.
+
+@362
+No. I'm staying here.
+
+@363
+With you here we can't get away. We'll be fine.
+
+@364
+But...
+
+@365
+Trust me.
+
+@367
+...Here they come!
+
+@368
+Slam!!
+
+@369
+You're Sakamoto Ryōma, aren't you! Come quietly!
+
+@373
+Slam!!
+
+@374
+You're Sakamoto Ryōma, aren't you! Come quietly!
+
+@376
+Trouble! The shogunate's constables!
+
+@377
+They sniffed us out!
+
+@378
+Get them!
+
+@379
+There are still more.
+
+@380
+There's no end to them.
+
+@381
+Let's resolve to die here and fight like samurai.
+
+@382
+Miyoshi-kun, don't throw your life away. I'll fire a few shots to scare them, and you slip away in the confusion.
+
+@384
+Whoa! He has a gun!
+
+@385
+Now!
+
+@386
+More are coming!
+
+@387
+No end to them. We'll flee by the back stairs.
+
+@390
+Did we shake them off?
+
+@391
+Somehow... but the magistrate's office has men out all over Fushimi.
+
+@392
+I see... Ugh!
+
+@393
+What's wrong?
+
+@394
+Miyoshi-kun, I seem to have been cut at the base of my fingers without knowing it. The blood won't stop.
+
+@396
+My sight is growing dim. I can't... run all the way to the Satsuma residence.
+
+@398
+Go to the Satsuma residence and bring help. ...Please.
+
+@399
+Understood! I'll come back without fail, so wait for me!
+
+@400
+...No good. I can't...
+
+@406
+Ah! ...Thank goodness!
+
+@407
+...Oryō...
+
+@409
+...Sana-san...
+
+@410
+Ah! ...Thank goodness!
+
+@411
+...Kaho-san...
+
+@412
+You're awake!
+
+@413
+...Miyoshi-kun... Did I survive?
+
+@414
+Indeed. This is the Satsuma residence.
+
+@415
+I see... Ugh!
+
+@416
+Sakamoto-sama! Don't get up!
+
+@417
+Ryōma-dono! You mustn't get up!
+
+@418
+Sakamoto-sama! You mustn't get up!
+
+@419
+The wound has festered and you have a fever. You must rest for a while.
+
+@420
+We can't treat you properly in Fushimi. We will move you all to the residence in Kyōto.
+
+@421
+I'm coming too!
+
+@422
+Of course. No one could nurse him better than you.
+
+@424
+I'm coming too!
+
+@425
+Of course. No one could nurse him better than you.
+
+@426
+Naturally!
+
+@427
+I'm coming too!
+
+@428
+Of course. No one could nurse him better than you.
+
+@429
+Hee hee... Yes!
+
+@430
+Two platoons and even cannon... quite a guard for a mere rōnin.
+
+@431
+Naturally. You are the great figure behind the Satsuma-Chōshū pact.
+
+@433
+Hijikata-san!
+
+@434
+The shogunate's army has finally begun its invasion of Chōshū!
+
+@436
+Nakaoka managed to give the alliance some shape, but Chōshū is in great confusion.
+
+@437
+Kozone-san. I'm very sorry, but could you look after Oryō for a while?
+
+@438
+Yes, don't worry.
+
+@439
+Miyoshi-kun, I'm counting on you.
+
+@440
+I'll guard her on my honour.
+
+@441
+Oryō. Sorry, but please stay here in their care for a while.
+
+@442
+I'll practise my gekkin. If you don't come back soon, I'll be sad.
+
+@444
+Kozone-san. I'm very sorry, but could you look after Sana for a while?
+
+@445
+Yes, don't worry.
+
+@446
+Miyoshi-kun, I'm counting on you.
+
+@447
+With skill like Sana-dono's, I may be the one who gets protected.
+
+@449
+Sana-san. Sorry, but please stay here in their care for a while.
+
+@451
+There's no dōjō in Nagasaki, so I'm bored.
+
+@452
+Just bear with it a little while.
+
+@453
+Kozone-san. I'm very sorry, but could you look after Kaho for a while?
+
+@454
+Yes, don't worry.
+
+@455
+Miyoshi-kun, I'm counting on you.
+
+@456
+I'll guard her on my honour.
+
+@457
+Kaho-san. Sorry, but please stay here in their care for a while.
+
+@458
+Take me with you. I won't be any trouble, I'll dress as a man.
+
+@459
+Don't be selfish. I can't allow that.
+
+@460
+But...
+
+@461
+I'll be back soon. All right?
+

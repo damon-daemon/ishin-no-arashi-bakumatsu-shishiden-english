@@ -1,0 +1,342 @@
+@2
+What is it, Kondō-san?
+
+@3
+Tani-kun saddled me with a dud.
+
+@5
+Shūhei, I mean. I took him to the Ikedaya to give him a chance to win some glory, and not only did he do nothing, he stood outside shaking.
+
+@6
+To think that such a coward is a relative of mine. I can hardly bear it.
+
+@7
+You decided it yourself. There's no use grumbling over what's done.
+
+@8
+That is true, but...
+
+@9
+Treat him as a rank-and-file man and pay him little mind. Sooner or later he and everyone else will forget it ever happened.
+
+@10
+Yes...
+
+@12
+It's about Okita...\nCould he have consumption?
+
+@13
+"I think so."\n"No, I don't."
+
+@14
+No doubt about it.
+
+@15
+No, I doubt it.
+
+@16
+Still, one can never be sure.
+
+@17
+I hear there's a doctor in Nakagyō who is good with consumption. I mean to have Okita go to him.
+
+@18
+Good idea.
+
+@19
+Ow! Hey, watch where you're going!
+
+@20
+Oh! Beg pardon, sir!
+
+@21
+What, a beggar? Keep to the edge of the road. You're in the way of our duty.
+
+@22
+Yes, sir!
+
+@23
+Come on, out of the way.
+
+@25
+Let him pass\nStop him
+
+@29
+Let me see your face.
+
+@30
+Ohh, mercy!
+
+@32
+Forgive me, please forgive me.
+
+@33
+...No, never mind.
+
+@34
+Ohh, please forgive me...
+
+@35
+Just my imagination, then...
+
+@37
+Stop, Sakuma!
+
+@39
+Scum who has sold his heart to the foreigners! Tenchū!
+
+@40
+You jōi idiots!
+
+@42
+Gaah!!
+
+@43
+Sakuma Shōzan has died!
+
+@44
+...Phew.
+
+@45
+To think I would be saved by the Shinsengumi.
+
+@46
+Kawakami Gensai has died!
+
+@47
+Don't think this is over!
+
+@48
+The Shinsengumi's influence rose by 4!
+
+@49
+Hijikata Toshizō's renown rose by 80!
+
+@50
+Gaah!!
+
+@51
+Sakuma Shōzan has died!
+
+@54
+Toshi-san! A big job has come up!
+
+@55
+Toshi-san! A big job has come up!\nCome back quickly.
+
+@56
+About half a month earlier, in Chōshū, where the news of the Ikedaya Incident had arrived...
+
+@57
+What?! Yoshida-kun is dead?!
+
+@58
+M-Miyabe-dono too...!!
+
+@59
+Graaah!! The Shinsengumi, those Aizu villains, I'll never forgive them! Prepare to march! We advance on Kyōto!!
+
+@62
+Kusaka, since when have you become such a coward?!\nNow is the time to remove the traitors around the throne, Satsuma and Aizu, and set the Emperor's seat at ease. What is there to hesitate over?!
+
+@68
+If we sit with folded arms like this, we only decline.\nTo break this deadlock, whatever the outcome, we have no choice but to act.
+
+@72
+Chōshū's forces, driven from Kyōto by the Satsuma-Aizu coup, were enraged by the grim news of the Ikedaya Incident. Aiming to avenge themselves on Aizu and restore the sonnō-jōi faction, they marched on the capital with an army.
+
+@73
+At this news the Shinsengumi, too, were ordered out and took position on the Fushimi side.
+
+@74
+The Chōshū army approached the Imperial Palace to petition the Throne that it had no ill intent toward the Court, while the allied pro-shogunate forces moved to stop it. The first shots of battle were about to be fired.
+
+@75
+Now I shall announce the Shinsengumi's field code!
+
+@76
+Let's see, let's see.
+
+@77
+Hold your post, and advance or retreat on the order of your unit captain... Hm.
+
+@78
+If a captain is killed in battle... the whole unit must die fighting?!
+
+@79
+Bodies of the fallen must not be carried off. Anyone who leaves the field on that pretext is to be beheaded...
+
+@81
+In other words... no matter who falls, nobody leaves the field until we win. Is that it?
+
+@84
+Kondō-dono, is the Shinsengumi ready?
+
+@85
+Fully prepared.
+
+@86
+The Senpōtai under Fukuhara Echigo, a house elder of Chōshū, is advancing on the Palace from the Fushimi side. It seems to be their main force, so we expect great things of the Shinsengumi.
+
+@87
+Yes, sir. Leave it to us.
+
+@88
+(The main force coming at Fushimi?\nSomething smells wrong...)
+
+@89
+Promise results\nComplain about the deployment
+
+@90
+We will surely drive Chōshū back.
+
+@91
+Most reassuring. Then, if you will excuse me...
+
+@92
+Please wait.
+
+@94
+The unit at Fushimi must be a decoy.
+
+@95
+What are you saying? The Senpōtai is the elite corps of Chōshū's upper samurai.
+
+@96
+Upper samurai who have lounged on fat stipends are no use at all once they are on a battlefield. The real main force is more likely the mixed army centred on the sonnō-jōi rōnin.
+
+@98
+(Toshi-san! That's not wise...)
+
+@99
+It is a decision of headquarters, in any case. I must ask you to put aside your doubts and comply.
+
+@100
+Comply\nRefuse
+
+@102
+Then please convey what I have just said to headquarters.
+
+@103
+Hijikata-kun, mind your tongue!
+
+@104
+Toshima-dono, this is a vital battle to defend the Emperor. Should a mistake occur, it could never be atoned for even if all of us cut open our bellies.
+
+@106
+Now that you put it that way...
+
+@107
+Indeed, Fushimi here is held by the finest warriors of Aizu, Hikone and Ōgaki, and the defences are complete. But the guard on the Tanba side is thin, and one could say His Majesty is in real danger.
+
+@108
+Hmmm.
+
+@109
+...Very well. To be safe, I shall report this to headquarters.
+
+@110
+I spoke out of turn. Please forgive me.
+
+@111
+No, I will trust your strategic eye.
+
+@112
+Right, the Shinsengumi will now go to guard the San'indō side!
+
+@113
+Message, message! The rōnin unit under Kijima Matabei of Chōshū is closing on the Palace, at the Hamaguri Gate!
+
+@114
+Damn!
+
+@115
+So the Fukuhara unit was a decoy after all!
+
+@118
+It's begun! The Ōgaki army is engaging the Fukuhara unit!
+
+@119
+Right, we go to their aid.
+
+@120
+Where's the enemy?!
+
+@121
+Commander! The Fukuhara unit took a fierce attack from the Ōgaki army and was routed with hardly a fight.
+
+@123
+Strange... too weak.
+
+@124
+Message, message! The rōnin unit under Kijima Matabei of Chōshū is closing on the Palace, at the Hamaguri Gate!
+
+@126
+So the Fukuhara unit was a decoy after all!
+
+@127
+Toshi-san's hunch was right!
+
+@128
+Hurry, to the Hamaguri Gate! I won't let Satsuma take the glory!
+
+@129
+The Chōshū army is being pushed back.
+
+@130
+It's not too late even now! Cut down every last enemy!
+
+@131
+Toshi-san, take the right wing!
+
+@132
+Understood! Okita, Heisuke, with me!
+
+@133
+Damn it! Cut a way out!
+
+@134
+Hijikata-san, these are rōshi troops!
+
+@135
+The Shinsengumi's influence rose by 25!
+
+@136
+Hijikata Toshizō's renown rose by 100!
+
+@143
+It ends here!
+
+@145
+Furthermore, Nakaoka Shintarō, leader of the Tosa men who had fled their domain, was also struck down by the Shinsengumi.
+
+@146
+After this battle, which ended in a great victory for the shogunate side, still harsher hardships were to fall on Chōshū.
+
+@148
+The Court and the shogunate have granted a reward for the Shinsengumi's services at the Ikedaya and in the Kinmon Incident. I will share it out according to each man's work.
+
+@149
+Whoo!
+
+@150
+Let's celebrate in style tonight!
+
+@152
+The Shinsengumi's wealth rose by 10!
+
+@153
+The Shinsengumi's wealth rose by 5!
+
+@154
+Lord Matsudaira heard that you were using a Kanesada, Toshi-san.
+
+@155
+Here.
+
+@156
+A Kanesada?!\nAnd an old blade, no less!
+
+@157
+The second-generation smith, said to be the finest. It is a gift. Accept it gratefully.
+

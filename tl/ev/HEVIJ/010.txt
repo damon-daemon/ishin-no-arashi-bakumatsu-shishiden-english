@@ -1,0 +1,264 @@
+@0
+Say, Toshi-san. Don't you think Sōji's been acting odd lately?
+
+@2
+He just slips away without telling anyone where he's going.
+
+@3
+...A woman?
+
+@4
+Toshi-san, could you look into it quietly for me?
+
+@7
+He's not a child. Let him be.
+
+@8
+His sister Omitsu-dono asked me most particularly to look after Sōji. I can't have some bad influence attach itself to him.
+
+@9
+That's...
+
+@11
+Where do you think you're going?
+
+@12
+Call out to him\nFollow him
+
+@13
+Sōji.
+
+@16
+Hijikata-san... what is it?
+
+@17
+Nothing, I'm just passing by on duty.
+
+@18
+I was thinking of going to the doctor...
+
+@22
+What business could he have in a place like this... hm?
+
+@23
+Oh, so that's the woman.
+
+@24
+Okita with a woman...
+
+@25
+Call out to him\nLeave quietly
+
+@26
+Sōji.
+
+@27
+H-Hijikata-san... what is it?
+
+@28
+Nothing, I'm just passing by on duty.
+
+@29
+I-I'm...
+
+@30
+You needn't say. I already know.
+
+@31
+N-no... well, that is...
+
+@33
+It isn't like that. Really.
+
+@34
+I'll get out of your way. See you. Good luck.
+
+@37
+(Surely she isn't a woman from the enemy camp?)
+
+@38
+Patrol and gather information.\n(Priority areas: Kawaramachi, Nakagyō, Shimabara, Kiyomizu)
+
+@39
+The Shinsengumi has come to count for something in Kyōto, but for the weight of our duties we are now running short of men.
+
+@40
+We'll have to recruit new members.
+
+@41
+The western provinces tend to sympathise with Chōshū and the sonnō-jōi faction. If we're gathering men, Kantō warriors would be best.
+
+@42
+As it happens I must go down to Edo on business. I'll do the recruiting there.
+
+@43
+Kondō-san, I know a few swordsmen in Edo.
+
+@44
+Is that so? Then go ahead and lay the groundwork for the recruiting.
+
+@46
+Shinsengumi! We're searching the place!
+
+@47
+Come now, submit quietly!
+
+@48
+You've got the wrong man! I'm a samurai of Tosa!
+
+@49
+Cut him down\nSheathe the sword
+
+@50
+Never mind, cut him down!
+
+@51
+It was our mistake. Forgive us.
+
+@52
+You think a mistake settles it?!
+
+@53
+It was our mistake. Forgive us.
+
+@54
+Yaah! Official inspection!
+
+@56
+It's the Shinsengumi! Run!
+
+@60
+Er... is something the matter?
+
+@61
+Huh? Did we guess wrong?
+
+@62
+No... the mistake was ours.
+
+@63
+A false tip?
+
+@64
+Hm, Sōji?
+
+@69
+(That's... Sakamoto Ryōma!)
+
+@74
+Stop him\nLet him pass
+
+@77
+Hm? Who might you be?
+
+@78
+Vice-Commander of the Shinsengumi, Hijikata Toshizō!
+
+@80
+Sōji. He's no longer with the shogunate's Naval Training Institute. He's just a rōnin who fled his domain.
+
+@82
+Now, now, Okita-kun, was it?\nDraw in front of a lady and there'll be no undoing it.
+
+@83
+Okita-han...
+
+@85
+Hijikata-san, let's leave it.
+
+@86
+Sōji!
+
+@87
+Are we done?\nI'll be getting along, then.
+
+@90
+Sōji. Why didn't you draw?
+
+@91
+I couldn't cut that man. His killing intent just gets turned aside, somehow. And besides...
+
+@93
+With his hand tucked inside his kimono like that, he may well have been gripping a pistol.
+
+@95
+More to the point, what's up? Did you want me for something?
+
+@96
+No, I was just passing by on duty.
+
+@97
+Um... please don't tell Kondō-san.
+
+@100
+It's nice that he worries about me, but sometimes he's a bit of a busybody.
+
+@105
+Now, how shall we spend the corps' budget?
+
+@108
+The Shinsengumi's strength rose by 2!
+
+@113
+Toshi-san, I'm off to recruit in Edo. I'll take Nagakura-kun, Takeda-kun and the others, so I leave things to you.
+
+@114
+"Understood."\n"I'm coming too."
+
+@116
+I'm coming too.
+
+@117
+What about the corps' duties?
+
+@118
+Chief Yamanami can handle them.
+
+@119
+Toshi-san, I'm back.
+
+@120
+Kondō-san. How did it go?
+
+@121
+Toshi-san, I'm back.
+
+@122
+Kondō-san. How did it go?
+
+@123
+Let me introduce him. Itō-kun, who has now become one of us.
+
+@126
+And with him, his whole group has agreed to join us.
+
+@127
+Shinohara Tainoshin.
+
+@128
+Hattori Takeo, at your service.
+
+@129
+Sano Shimenosuke, at your service.
+
+@130
+Suzuki Mikisaburō.
+
+@131
+Nakajima Nobori, at your service.
+
+@132
+The Shinsengumi's strength rose by 20!
+
+@133
+Toshi-san. Have you found out anything about that business of Sōji's?
+
+@134
+Report to Kondō\nStay silent
+
+@137
+So that's how it was.
+
+@138
+No, nothing.
+

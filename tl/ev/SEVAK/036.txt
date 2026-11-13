@@ -1,0 +1,666 @@
+@0
+We have to talk Nagai-dono round, whatever it takes. Let's give it one more push.
+
+@1
+So we do... Hm? Who's that over there?
+
+@2
+Hm? Those are Kondō and Hijikata, the leaders of the Shinsengumi who used to police Kyōto. A pig-headed lot.
+
+@3
+The Shinsengumi...
+
+@4
+Ah, Gotō-dono! Just the man. Might I have a moment of your time... Hm?
+
+@6
+It's him!
+
+@7
+Sakamoto, the man on the shogunate's wanted notice! Why is a villain plotting to overthrow the shogunate here?!
+
+@8
+Ah, Kondō-kun, Hijikata-kun.
+
+@9
+Nagai-dono!
+
+@10
+He is an important guest. The order for his capture is withdrawn, so the Shinsengumi are not to lay a hand on Sakamoto-kun. Is that understood?
+
+@12
+Is that clear?
+
+@13
+...Yes, sir.
+
+@14
+(Why is a lowly rōnin on such terms with Nagai-dono of the shogunate's council...?)
+
+@15
+Ryōma, I'll have to hear what those two have to say. I leave Nagai-dono to you.
+
+@16
+Understood.
+
+@17
+I understand fully. I shall seek Lord Yoshinobu's decision.
+
+@18
+Thank you! Then I leave it in your hands!
+
+@21
+Will the shōgun really decide to do it? I'm uneasy...
+
+@22
+No, I can't relax yet. I'd better win over the domains sitting on the fence and clear the way first.
+
+@23
+Persuade the pro-shogunate domains to back the Emperor
+
+@24
+Next I should persuade the anti-shogunate faction not to act rashly.
+
+@26
+Think it over carefully, Nagai-dono.
+
+@28
+I'll come again.
+
+@29
+You again. Very well, I shall hear you out.
+
+@30
+Sakamoto-san! The mountain has finally moved!
+
+@32
+The shōgun is gathering the representatives of the great domains and the Rōjū to discuss the shogunate's future!
+
+@33
+At last!
+
+@34
+Gotō will attend for Tosa. This is truly the final big gamble!
+
+@38
+What are you writing?
+
+@39
+A letter to Gotō.
+
+@41
+Minekichi, take this to the Tosa residence.
+
+@43
+Now all we can do is wait...
+
+@44
+He is late. Where is Lord Yoshinobu?
+
+@45
+Even the Rōjū Itakura-dono is not here...
+
+@46
+...Hmph.
+
+@47
+Hm, what is that?
+
+@48
+Ah, yes. A letter from Sakamoto Ryōma.
+
+@49
+From Sakamoto-san? And what does it say?
+
+@51
+"If the petition should by any chance be rejected, you will surely have resolved to die already, so do not leave the castle: take your own life on the spot."
+
+@53
+"If you do not leave the castle, I will lead the Kaientai men to cut into the shōgun's procession as he goes to the Imperial Court, strike down Lord Yoshinobu, and then every one of us will commit seppuku.
+
+@54
+We shall meet again in the underworld."
+
+@56
+Ryōma...!
+
+@57
+He's late! What is Gotō-dono doing?
+
+@58
+What's this, the whole crowd of you?
+
+@59
+Nobody can settle to anything at a time like this.
+
+@60
+He's late! What is Gotō-dono doing?
+
+@61
+Sakamoto-san, no word yet?
+
+@62
+What's this, the whole crowd of you?
+
+@63
+Nobody can settle to anything at a time like this.
+
+@64
+Could it have gone badly?!
+
+@65
+Don't get worked up!
+
+@67
+For now... wait.
+
+@68
+We thank you all for your attendance. The matter on which Lord Yoshinobu seeks your counsel will now be passed round; any of you with an opinion, speak.
+
+@71
+Th-this is...!!
+
+@72
+G-Gotō-don!
+
+@73
+Yes!
+
+@74
+Gotō-don, let us ask for an audience with the shōgun!
+
+@75
+Exactly!
+
+@77
+Ahh! I can't keep still!
+
+@78
+Sakamoto-san, this is taking far too long.
+
+@80
+Still nothing...
+
+@81
+Still nothing...
+
+@82
+Gotō, come back alive...!
+
+@83
+You are no more than senior retainers of tozama daimyō, and by rights you would not be allowed an audience with the shōgun. This once, it is specially permitted.
+
+@84
+Yes, sir!
+
+@85
+State your views.
+
+@86
+Then, with all humility, I shall speak.
+
+@87
+...Hm.
+
+@88
+(Too slow.)
+
+@89
+Why is it taking so long?
+
+@90
+Surely not... has it failed?!
+
+@92
+So it was hopeless after all.
+
+@93
+Come to think of it, a man in power giving up his own position of his own accord hardly ever happens.
+
+@94
+...It means war.
+
+@95
+There's nothing for it but to cut into the shōgun's procession!
+
+@96
+Sakamoto-san, I'm going!
+
+@97
+Wait!
+
+@98
+Sakamoto-san!
+
+@99
+One more hour. Just wait that long...
+
+@100
+Thud, thud, thud!
+
+@101
+He's here!
+
+@103
+A l-letter from Gotō-dono!!
+
+@106
+What?! Oh...
+
+@109
+Excuse me.
+
+@110
+..."I have just left the castle. Let me report briefly on today's events."
+
+@111
+"The shōgun has issued the order to return the government to the Imperial Court...!!"
+
+@112
+Waaah!!
+
+@113
+Whoooa!!
+
+@114
+We... we did it!!
+
+@115
+Yeeeaaah!!
+
+@116
+"Tomorrow this proposal will be presented to the Court, the day after we shall receive the imperial sanction, and then an assembly hall will be built at once and an upper and a lower house founded. It is a matter of the greatest joy for the whole realm."
+
+@118
+A... a miracle.
+
+@119
+(Sob) Sakamoto-san, at last... at last...
+
+@120
+Right now we are standing in the middle of history's great stage.
+
+@121
+This isn't a dream, is it...?
+
+@122
+We've been had! That man has outplayed us completely! Now we cannot raise an army!
+
+@124
+...Sakamoto-san.
+
+@125
+Wh-what is this... To think the shogunate would give up the reins of government!
+
+@126
+M-my lord!
+
+@127
+Not only Satsuma, but Tosa too has betrayed us!!
+
+@129
+Who would have thought... that the shōgun would agree...
+
+@130
+If the Tokugawa keep their vast lands, they remain the mightiest daimyō. In other words, the system stays under Tokugawa leadership.
+
+@131
+Th-that won't do! What was the overthrow for, then?!
+
+@132
+Sakamoto-kun. You've outmanoeuvred us...
+
+@133
+What! The shōgun has finally done it?
+
+@135
+Toshi-san, what shall we do now?
+
+@136
+Don't worry. The real fight starts now.
+
+@137
+Sakamoto-san, it is our victory! We have finally done it!
+
+@138
+...Sakamoto-san?
+
+@139
+...Your Highness. I can well imagine what lies in your heart today. A wise and bold decision! A wise and bold decision indeed!
+
+@143
+For Lord Yoshinobu, who saved Japan, I would gladly give up my life!
+
+@144
+Sakamoto-san...
+
+@145
+Saigō-don! It's Sakamoto-san!
+
+@147
+Saigō-don, the first thing now is to form the new government.
+
+@150
+The Return of Rule to the Emperor was almost entirely the shōgun's own decision. Some shogunate retainers and domains of the shōgun's own kin may refuse the order and rise in arms.
+
+@151
+If we strike them now, it becomes a private war between the anti-shogunate and pro-shogunate factions. If the new government's army does it, the enemy become rebels and we can strike them in the name of a just cause.
+
+@152
+I see... that is quite right.
+
+@153
+But drafting the new government's charter and the appointments will take time.
+
+@154
+I have already thought of it. Mutsu.
+
+@155
+Here...
+
+@156
+Well now!
+
+@158
+...Ho, this is splendid work.
+
+@159
+I also have an idea of the men to appoint.
+
+@163
+(Heh, he's surprised. No wonder.)
+
+@164
+Sakamoto-san...
+
+@166
+Satsuma has four names there and Chōshū three, but the only man from Tosa in a key post is Gotō-san.
+
+@167
+In this drama of turning the tide, Tosa has taken the lead role. The rest I leave to Satsuma and Chōshū, who have more men.
+
+@168
+I see...
+
+@169
+But...
+
+@170
+The name that should come first from Tosa is not there: yours.
+
+@171
+Me? I won't be in it.
+
+@173
+Why not?
+
+@174
+I can't stand the stiff life of an official.
+
+@175
+If you dislike the life of an official, what will you do?
+
+@176
+Well now...
+
+@177
+Perhaps I'll run a Kaientai for the whole world.
+
+@182
+Whenever Mutsu later spoke of Ryōma to others, he almost always quoted these words.
+
+@183
+It is said that at that moment Ryōma seemed a far bigger man than even Saigō.
+
+@184
+Mitsuoka-san. There is no one but you to entrust the new government's finances to.
+
+@185
+Relied on that much, I could hardly refuse. I humbly accept.
+
+@186
+I want Lord Yoshinobu in a key post of the new government, whatever it takes.
+
+@187
+What!
+
+@188
+That would soften the pro-shogunate backlash and win the hearts of the people across the land. He sacrificed himself for Japan: he is one of the greatest contributors to the Restoration.
+
+@189
+Satsuma and Chōshū will not agree. The Tokugawa are still far stronger than anyone.
+
+@190
+Simple: put the gold and silver mints under the new government's direct control. Then the Tokugawa, who are short of money even now, will just waste away.
+
+@191
+You have an eye for frightening things. But whether the warriors of Satsuma and Chōshū can grasp such economic subtleties...
+
+@192
+We just have to explain it with patience. To complete a truly bloodless revolution, Lord Yoshinobu must be in the new government.
+
+@193
+I am a gōshi of Totsukawa. If Sakamoto-sensei is at home, I wish to see him.
+
+@194
+Well, well, so that little bed-wetter Ryōma has gone and saved Japan?
+
+@195
+Hahaha, I can hardly believe it.
+
+@196
+Uncle Ryōma will be home soon, won't he?
+
+@197
+Knowing Ryōma, he might fly off to a foreign country. This time I'm definitely going with him.
+
+@198
+Otome!
+
+@199
+Still, what a surprise. To think Ryō-san became so famous.
+
+@200
+Jūtarō. As heir to the dōjō that produced Sakamoto Ryōma, you too must polish your skills accordingly.
+
+@201
+Eh? Hmm, so that's how it is. That's going to be hard.
+
+@204
+Brother...
+
+@205
+Sakamoto-sama has fulfilled the dream you and the others had.
+
+@206
+Takechi-sama and everyone of the Loyalist Party must be overjoyed.
+
+@207
+Otose-han, may I open the shop now?
+
+@208
+The Emperor's reign is coming. There's no need to tiptoe around anyone any more.
+
+@209
+...(Sakamoto-han, you've finally pulled off something great.)
+
+@210
+Wahaha! So Ryōma is coming to Nagai-dono's place tomorrow. Heh heh heh.
+
+@211
+That man did everything I wanted to do, all by himself. What an outrageous pupil.
+
+@212
+He'd never imagine I'm here in Kyōto. I wonder what face he'll make when I show up after all this time. Heh heh.
+
+@213
+Sana-dono!
+
+@214
+Oh, I'm sorry!
+
+@215
+Are you all right? Ah, you're bleeding!
+
+@217
+What is the matter?
+
+@218
+N-no, nothing...
+
+@219
+(Ryōma-dono...)
+
+@221
+Kaho-dono, what is the matter?
+
+@223
+You look pale. Are you unwell?
+
+@224
+N-no.
+
+@225
+You are white as a sheet.
+
+@227
+(Surely not...)
+
+@229
+Oryō-dono. What is the matter?
+
+@230
+Ryōma-dono... appeared at my pillow in a dream.
+
+@231
+Ho ho ho. To come and see you even in your dreams, how close you two are.
+
+@233
+Keiō 3 (1867), 15th of the 11th month
+
+@234
+On the very day that marked thirty-two years since Sakamoto Ryōma, a man of Japan, came into this world...
+
+@235
+The miracle of the Bakumatsu became a star.
+
+@236
+Mitsuoka-san. There is no one but you to entrust the new government's finances to.
+
+@237
+Relied on that much, I could hardly refuse. I humbly accept.
+
+@238
+I want Lord Yoshinobu in a key post of the new government, whatever it takes.
+
+@239
+What!
+
+@240
+That would soften the pro-shogunate backlash and win the hearts of the people across the land. He sacrificed himself for Japan: he is one of the greatest contributors to the Restoration.
+
+@241
+Satsuma and Chōshū will not agree. The Tokugawa are still far stronger than anyone.
+
+@242
+Simple: put the gold and silver mints under the new government's direct control. Then the Tokugawa, who are short of money even now, will just waste away.
+
+@243
+You have an eye for frightening things. But whether the warriors of Satsuma and Chōshū can grasp such economic subtleties...
+
+@244
+We just have to explain it with patience. To complete a truly bloodless revolution, Lord Yoshinobu must be in the new government.
+
+@245
+The 12th month, 1868...
+
+@246
+The lords of the whole land were gathered together for a conference before the Emperor.
+
+@247
+Thus a new Japan was born, a republic with the Emperor as head of state.
+
+@248
+Still, what a surprise. To think Ryō-san became so famous.
+
+@249
+Jūtarō. As heir to the dōjō that produced Sakamoto Ryōma, you too must polish your skills accordingly.
+
+@250
+Eh? Hmm, so that's how it is. That's going to be hard.
+
+@253
+Brother...
+
+@254
+Sakamoto-sama has fulfilled the dream you and the others had.
+
+@255
+Takechi-sama and everyone of the Loyalist Party must be overjoyed.
+
+@256
+Otose-han, may I open the shop now?
+
+@257
+The Emperor's reign is coming. There's no need to tiptoe around anyone any more.
+
+@258
+...(Sakamoto-han, you've finally pulled off something great.)
+
+@259
+Otome, are you serious?
+
+@260
+Of course. If Ryōma won't do it, I will. They say that in Chōshū even women and children took up spears to fight.
+
+@261
+Even so, opening a dōjō for women...
+
+@262
+From now on women should learn to fight too! And someday I'll make the new government grant men and women equal rights and duties, the sooner the better!
+
+@263
+She'll never get any pupils... (Well, it's better than seeing her gloomy all day long.)
+
+@265
+Hyah! Yah!
+
+@266
+You look busy, Katsu-dono.
+
+@267
+Tomorrow Ryōma comes home from America for the first time in ages.
+
+@268
+And what's all that luggage?
+
+@269
+Heh heh, he says he'll let me into his company too. I'll be saying goodbye to this house for a while.
+
+@270
+Just watch. Our company will surely become the best in the world.
+
+@272
+Mutsu, what is it?
+
+@273
+We've been had! They say a secret imperial edict to overthrow the shogunate has gone to Satsuma and Chōshū!
+
+@274
+What?!
+
+@275
+On this day, the schemes of Lord Iwakura and Ōkubo Toshimichi bore fruit, and a secret edict to punish the Tokugawa was issued.
+
+@276
+The Return of Rule to the Emperor that Ryōma and the others had planned did not come to pass, and the grand proclamation of the Restoration of Imperial Rule was finally issued.
+
+@277
+Japan split into the pro-shogunate and loyalist camps and plunged into a civil war that dragged on in the mire for years.
+
+@278
+Which camp will win cannot be told here.
+
+@279
+All that is certain is that the strength of the nation, exhausted here, would not recover for a long time.
+

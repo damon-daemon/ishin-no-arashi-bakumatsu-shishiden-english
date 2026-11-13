@@ -1,0 +1,957 @@
+@0
+Ryō-san. Do you know the man who just became assistant instructor at the Saitō dōjō?
+
+@1
+The Saitō dōjō?
+
+@2
+The Renpeikan, one of the Three Great Dōjō. It's in Banchō-Iida...
+
+@3
+What about its assistant instructor?
+
+@4
+He's a man called Katsura of Chōshū, and they say he's tremendously strong.
+
+@5
+Stronger than you, Jū-san?
+
+@6
+It galls me, but I might be no match. They say even Takechi-kun of the Shigakukan narrowly lost to him.
+
+@7
+Hanpeita did?!
+
+@8
+The Renpeikan's fame only keeps rising. There's always someone better in this world.
+
+@9
+And who might you be?
+
+@10
+"I'm Sakamoto"\n"Who are you?"
+
+@11
+I am Sakamoto of Tosa... and you are?
+
+@12
+Forgive my rudeness. I am Katsura Kogorō, a retainer of Chōshū.
+
+@13
+When you ask a man's name...
+
+@14
+Forgive my rudeness. I am Katsura Kogorō, a retainer of Chōshū.
+
+@15
+...Pardon my rudeness. I'm Sakamoto of Tosa.
+
+@16
+(Katsura Kogorō?)
+
+@17
+"I've heard the name"\n"Never heard of him"
+
+@18
+I've heard that name...
+
+@19
+Katsura, Katsura... Ah, the assistant instructor of this dōjō!
+
+@20
+Oho, you know of me?
+
+@21
+I serve as assistant instructor here at the Renpeikan.
+
+@22
+I see.
+
+@23
+So... may I help you with something?
+
+@24
+"I want to enrol"\n"Nothing"
+
+@25
+I'd like to enrol.
+
+@26
+Enrol? Hm...
+
+@27
+(What's he staring at?)
+
+@28
+Forgive me, but haven't you already been training in swordsmanship somewhere?
+
+@29
+You noticed.
+
+@30
+It shows in your build and bearing.
+
+@31
+Just joking. I was only passing by. Sorry to have disturbed you.
+
+@32
+It's nothing.
+
+@33
+Wait a moment.
+
+@34
+Forgive me, but you seem to possess something ordinary men lack. Why not come in for a while? It won't take long.
+
+@35
+Stop in\nLeave
+
+@36
+I have a bit of urgent business.
+
+@37
+I see, that's a pity. I would like to talk with you at leisure next time.
+
+@38
+Me...? Well then, I'll take you up on your kind offer.
+
+@39
+Forgive the sudden question...
+
+@40
+What do you think of the shogunate's opening of the country?
+
+@42
+The shogunate has just yielded to the pressure of the foreign powers and concluded what they call a treaty of friendship. Are you aware of it?
+
+@43
+Only by hearsay\nI don't know
+
+@44
+Well, only by hearsay.
+
+@45
+I see. At this rate they will end up concluding commercial treaties piecemeal, and the closed-country system that lasted over two hundred years will come to an end.
+
+@46
+I haven't the faintest idea what that's about.
+
+@47
+In short, they will give up the seclusion that lasted over two hundred years and open the ports to the foreign powers.
+
+@48
+Outrageous\nI don't follow
+
+@49
+That won't do.
+
+@50
+Quite so. It won't do.
+
+@51
+Hm... so ending seclusion is bad?
+
+@52
+Look beyond the sea.
+
+@53
+I can't quite see it from here.
+
+@54
+That's not what I mean.
+
+@55
+Japan has grown so used to three hundred years of peace that it doesn't know how fearsome foreigners are.
+
+@56
+The civilised nations of the West, Britain and France, rule the countries of the East and treat their people like slaves. If we carry on like this, we will meet the same fate.
+
+@57
+Hm.
+
+@58
+The shogunate, the head of the warrior houses, hardly has any cannon or muskets, and the hatamoto it relies on can't even afford to buy armour and weapons.
+
+@59
+When the foreign powers show their true colours, we will have no choice but to do as they say. I must say Japan is in extreme danger.
+
+@60
+Indeed\nNo, no
+
+@61
+So it is. Yes, you are quite right.
+
+@62
+You seem a very sharp man. I would like to talk with you about many things in the future.
+
+@63
+The pleasure is mine.
+
+@64
+No... I really don't follow.
+
+@65
+You don't seem to grasp the situation our country is in. Well, never mind. It will become clear in time.
+
+@66
+I'm sorry, I've kept you too long.
+
+@67
+Don't worry about it. I'll be going now.
+
+@68
+Ryō-san, Ryō-san.
+
+@69
+What is it?
+
+@70
+If you're free, why not come along with me for a bit?
+
+@71
+Come along? Where to?
+
+@72
+Just follow me.
+
+@73
+This is quite a fine place.
+
+@74
+Heh heh, it's on me.
+
+@75
+I'm in training, so I shouldn't carouse too wildly.
+
+@76
+You need a breather now and then, don't you?
+
+@77
+"You're right"\n"Hold on"
+
+@78
+True, a breather it is.
+
+@79
+Hold on.
+
+@80
+Hm, what's the matter? You like sake, don't you?
+
+@81
+I do, but I can drink sake elsewhere.
+
+@82
+You're more serious than I thought.
+
+@83
+I'd hate for it to become a habit.
+
+@84
+Ha ha ha. The point is not to drown in it.
+
+@85
+"You're right"\n"I'll pass"
+
+@86
+That's true enough.
+
+@87
+No! Let's not.
+
+@88
+Hmm, how admirable. Sorry for dragging you all the way here.
+
+@89
+Don't worry about it.
+
+@90
+Welcome, please come this way.
+
+@91
+Welcome, I am Saki. Pleased to meet you.
+
+@92
+Here, have a drink.
+
+@93
+Thank you.
+
+@94
+My, what a handsome man... you must be an old hand at this?
+
+@96
+Hee hee, you can't hide it from me.
+
+@97
+Ah.
+
+@98
+What's the matter? You've gone bright red without even drinking.
+
+@100
+Ryō-san. Let's drink hard tonight.
+
+@101
+Come now, one more cup.
+
+@102
+Ha ha ha ha.
+
+@103
+Please come again.
+
+@104
+Damn, I've stayed far too long!
+
+@105
+Oh, Sakamoto-sama.
+
+@106
+Ah. Saki.
+
+@107
+Thank you for the other day. Tosa men really do love their sake, don't they.
+
+@108
+No, I was enjoying myself and drank too much.
+
+@109
+Please come to the shop again. I enjoy myself so much when I'm with you, Sakamoto-sama.
+
+@110
+"Sure"\n"No"
+
+@111
+Sure, I'll come and make a racket again.
+
+@112
+No, I can't be carrying on all the time...
+
+@113
+Hee hee... I'll be waiting for you.
+
+@114
+Well then, until next time.
+
+@116
+!! Ah, Sana-san...
+
+@117
+Who was that? The person just now.
+
+@118
+Well, who, you ask...
+
+@119
+She's from some shop, isn't she? So that's where you go wandering about, Sakamoto-sama?
+
+@120
+It's not like that.
+
+@123
+Come with me for a moment.
+
+@124
+Where are we going?
+
+@125
+Just come along.
+
+@126
+Wait here a moment.
+
+@127
+Eh? Hold on... Ah, she's gone.
+
+@128
+Ryō-san, what's wrong? Sana seems awfully angry.
+
+@129
+I ran into Saki-san back there, and Sana-san saw it.
+
+@130
+Ha ha. That's bad luck.
+
+@131
+Why do you look so pleased? It was you who invited me.
+
+@132
+"Help me"\n"Oh well"
+
+@133
+Won't you smooth things over for me?
+
+@134
+I'm an accomplice, so it would only backfire. Let sleeping dogs lie.
+
+@135
+I'll wait for her temper to cool, then.
+
+@136
+From the look of her, that's all you can do.
+
+@137
+I have an errand to run, so I'm off. See you.
+
+@138
+Hey, don't leave me alone.
+
+@139
+What a fix...
+
+@141
+Whoa!!
+
+@143
+W-what is it?
+
+@144
+...Would you do me the honour of a bout?
+
+@145
+What?! Train... with Sana-san?
+
+@146
+I'll beat that rotten attitude out of you.
+
+@147
+(Yikes! Heaven help me!)
+
+@148
+"All right"\n"Spare me"
+
+@149
+Don't blame me if you get hurt.
+
+@151
+Are you holding back because I'm a woman?
+
+@152
+There's no need to worry. There is no way I could lose to a dissolute pretty boy. Now, on guard!
+
+@153
+Ow, ow...
+
+@154
+Honestly, how pathetic. Over a man like this... I'm such a fool.
+
+@155
+That's enough. I'll let you off.
+
+@156
+Are you all right?
+
+@157
+...How frustrating.
+
+@158
+Sana-san...?
+
+@159
+Don't touch me!
+
+@160
+Apologise\nLeave her be
+
+@161
+...I'm sorry.
+
+@162
+Why do you apologise? Do you have a guilty conscience?
+
+@163
+That's...
+
+@164
+Never mind. It's all right.
+
+@167
+Are you satisfied? That's enough, isn't it?
+
+@169
+...She's gone.
+
+@170
+Happy New Year, Sakamoto-sama. I look forward to another year with you.
+
+@171
+Ah, Sana-san. Happy New Year. And likewise to you.
+
+@172
+Ah, Ryōma. Happy New Year. Do your best this year, too.
+
+@173
+Happy New Year. I'll be counting on you again this year.
+
+@174
+Come to think of it, this is the year you go home.
+
+@175
+Yes, by order of the domain.
+
+@176
+We'll miss you, but that's how things are in your domain, so there's nothing for it.
+
+@177
+...
+
+@178
+Oh, right. This year take Sana on her first shrine visit. Having a noisy one about the house over New Year is more than I can bear.
+
+@179
+Oh! How cruel.
+
+@180
+...Well then, Sakamoto-sama, would you take this noisy girl somewhere?
+
+@182
+No, I have a bit of business.
+
+@183
+I see... Very well. Then I'll be good and stay quiet...
+
+@184
+All right. Let's go and make our New Year's visit, then.
+
+@185
+Really?! Then shall we try Kamakura?
+
+@186
+Oh, Kamakura. Splendid. Let's set out at once.
+
+@187
+Right, off you go. You needn't come back today.
+
+@188
+What?
+
+@189
+Father!
+
+@190
+Ha ha ha! Well then, take care.
+
+@191
+Ah, Kamakura has history and charm, as you'd expect.
+
+@192
+Yes, it's a calm and lovely place. Come, let's pray.
+
+@193
+... (Hm, what shall I wish for...)
+
+@195
+Well, shall we go? By the way, Sana-san, what did you wish for?
+
+@196
+Eh? That is... W-what did you wish for, Sakamoto-sama?
+
+@197
+"I don't know"\n"Better swordsmanship"\n"With Sana-san..."
+
+@198
+Embarrassing as it is, I didn't know what to wish for. I know there is something I must do, though...
+
+@199
+Well, I suppose I'll think of a wish little by little from now on.
+
+@200
+Hee hee, what a strange man, not knowing what to wish for. Still, I feel I'm beginning to understand that side of you, Sakamoto-sama.
+
+@201
+Ha ha, is that so? Well, I'm an odd one.
+
+@202
+Let me see, for now I suppose getting better with the sword.
+
+@203
+I see. I'm sure you'll grow strong, Sakamoto-sama. Do your best.
+
+@204
+Thank you. With Sana-san's seal of approval, it's bound to come true.
+
+@205
+Oh. Only if you don't slack off in your training, that is.
+
+@206
+Oh, so that's how it is. The oracle of the great god Sana is no soft touch after all.
+
+@207
+Hee hee.
+
+@208
+Hmm... marrying Sana-san, I suppose.
+
+@209
+Eh...
+
+@210
+No, I'm joking. A man of my station could never do such a thing. Please forget I said it.
+
+@211
+...\nI...
+
+@213
+N-no, it's nothing.
+
+@214
+Is that so? Then shall we go now?
+
+@215
+Say, Sakamoto-sama, since we've come all this way, why not go and see the Great Buddha?
+
+@216
+The Great Buddha?
+
+@217
+Yes, it's very close by. Come, let's go.
+
+@218
+So this is the Great Buddha of Kamakura. My, it's big. The view from the top must be fine.
+
+@219
+You'd be punished for climbing up there. But you can go inside from the back.
+
+@220
+What, you can go inside?!
+
+@221
+That sounds fun. Let's go in right away.
+
+@222
+Yes, go ahead. But you need an offering to go inside.
+
+@223
+Hmph, how stingy... But if it brings blessings, I suppose it's worth it.
+
+@224
+Hee hee, come, let's go in.
+
+@225
+Having enjoyed a New Year stroll around Kamakura, the two set off back to the Chiba Dōjō, talking about swordsmanship, the future, and more.
+
+@226
+Ah, Ryōma.
+
+@227
+Hello. ...Hm?
+
+@228
+Ah, let me introduce you. Hey.
+
+@229
+Yes.
+
+@230
+This is Okada Izō-kun. A fellow Tosa man, like us. He trains here with me.
+
+@231
+P-pleased to meet you. Takechi-sensei looks out for me.
+
+@232
+A powerful swordsman. A reliable comrade of ours.
+
+@233
+(He has a sharp gaze.)
+
+@235
+Ryōma. You've trained this long and you're still only at kirigami.
+
+@236
+...I'm ashamed.
+
+@237
+I'll hold the exam on the 5th of next month. If you pass, you get your mokuroku. Train properly.
+
+@239
+What is it?
+
+@240
+Next month on the 10th is the exam. If you pass, I'll name you an assistant instructor of this dōjō. All right?
+
+@241
+What, me, an assistant instructor?!
+
+@242
+Yes, your skill has been rising by leaps and bounds lately. I'm counting on you.
+
+@249
+I have high hopes for you. Someday you'll have to be the pride of this dōjō.
+
+@251
+Hmm, your discipline is still lacking. The mokuroku will have to wait.
+
+@253
+Beat three mokuroku students in a row and you pass. Are you ready?
+
+@254
+Three...
+
+@255
+Then we begin. First man, step forward.
+
+@256
+Not yet!
+
+@257
+One more! Don't let your guard down!
+
+@258
+Well done, well done! I name you an assistant instructor!
+
+@260
+Hmm, so close. But a fail is a fail.
+
+@261
+Raise your sword skill for the assistant instructor re-examination\n(Goal: sword skill 135)
+
+@262
+Hey, hey, did you really train? This is a fail.
+
+@263
+No good, no good. Your basics are poor.
+
+@269
+Raise your sword skill for the assistant instructor exam
+
+@271
+Raise your sword skill for the assistant instructor exam
+
+@273
+Ah, Ryōma. Come here a moment.
+
+@274
+Yes?
+
+@275
+On the 30th of this month there's a grand tournament at the Tosa residence.
+
+@276
+What is it?
+
+@277
+It was Lord Yōdō's idea, since he loves the martial arts. He's holding a friendly tournament between the dōjō of Edo.
+
+@278
+Oh, our own lord? He has odd tastes.
+
+@279
+Don't "oh" me. You, as an assistant instructor, will represent our dōjō.
+
+@280
+Isn't Jū-san going?
+
+@281
+If Jūtarō, who holds our school's full licence, were to lose, it would threaten the survival of the dōjō.
+
+@282
+Ah, I see.
+
+@283
+You'll face a representative of some other school. You won't know who until the day. Best of three points, and just one match.
+
+@284
+Listen. Don't bring shame on the name of Hokushin Ittō-ryū.
+
+@285
+Well. I'll do what I can.
+
+@286
+Train for the inter-school tournament on the 30th of the 3rd month, 1858
+
+@294
+Ryō-san, we came to pick you up.
+
+@295
+Come, let's go.
+
+@296
+What, all of you came to fetch me? Quite a fuss.
+
+@297
+Well, today you're representing the dōjō.
+
+@298
+There are strong-looking men all over the place!
+
+@299
+The pairings have been decided. Your opponent is Shimada Komanosuke of the Saitō dōjō.
+
+@300
+The Saitō dōjō? Isn't Katsura entering?
+
+@301
+Katsura Kogorō is in it too. Sending in two men, the Renpeikan must be well blessed with talent.
+
+@302
+It looks like Katsura-dono's match is about to begin.
+
+@303
+Winner, Katsura Kogorō!
+
+@304
+D-damn it!
+
+@305
+Ah, he really is in a class of his own.
+
+@306
+They say Lord Mōri himself has his eye on Katsura-dono.
+
+@307
+Oh, that's something.
+
+@308
+Now, Sakamoto-sama. It's almost time.
+
+@309
+It's up to you. Shimada is a formidable man, ranked alongside Katsura. Don't let your guard down.
+
+@310
+Is he that strong?
+
+@311
+Oh, you're not going to lose heart now, are you?
+
+@312
+Well, there's no turning back now. Beat that man and show them your skill, Ryō-san.
+
+@313
+Easy talk, when it's not your problem. I'm the one fighting in your place, Jū-san.
+
+@314
+I know, I know. Look, it's your turn.
+
+@315
+Best of three, begin!
+
+@316
+Winner! Hokushin Ittō-ryū, Sakamoto Ryōma!
+
+@317
+Well done! That's our Ryō-san!
+
+@318
+For Sakamoto-sama, this is only natural.
+
+@319
+Ha, that's true! Right, I'll go and tell Father right away.
+
+@320
+...What a carefree pair of siblings.
+
+@321
+Sakamoto-kun, so you were in the tournament too.
+
+@323
+Ah, so you are Sakamoto-dono, the Chiba school's representative.
+
+@324
+That was a splendid victory. Someday I'd like to cross swords with you.
+
+@325
+Take up the challenge\nWave it off
+
+@326
+You'll regret it.
+
+@327
+Bold words. Until then.
+
+@328
+Hardly. I'm no match for you.
+
+@329
+I'll take that as modesty. Now, excuse me.
+
+@330
+Sakamoto-dono. Lord Yamauchi Yōdō, who sponsored this tournament, summons you.
+
+@331
+Eh? Me?
+
+@332
+This way.
+
+@333
+Yes, yes.
+
+@334
+You are Sakamoto?
+
+@335
+Yes.
+
+@336
+Your match just now was most admirable. I am told you are a Tosa man. I am surprised to find such a stalwart among men I have never heard of.
+
+@337
+I'm a gōshi.
+
+@338
+...What, a gōshi?
+
+@339
+Hmph, a pity. How dull. You may withdraw.
+
+@340
+(In Tosa a gōshi is a gōshi after all. Lord Yamauchi is just like the upper samurai.)
+
+@341
+Winner! Shintō Munen-ryū, Shimada Komanosuke!
+
+@342
+Argh! What a shame!
+
+@343
+There are plenty of strong people in the world, aren't there.
+
+@344
+Sakamoto-kun, so you were in the tournament too.
+
+@346
+Sakamoto-kun, bad luck.
+
+@347
+Ah, so you are Sakamoto-dono, the Chiba school's representative.
+
+@348
+...You saw me make a poor showing.
+
+@349
+Not at all, there's no shame in losing to Shimada. Even in our dōjō, there aren't three men who can beat him.
+
+@350
+You are strong after all.
+
+@351
+No, my skill is mere child's play beside the son of the Chiba house. Some time I would very much like to cross swords with you.
+
+@352
+I'd like to say I'll take you on, but I haven't any confidence at all.
+
+@353
+I'll take that as modesty. Now, if you'll excuse me. Sakamoto-kun, until we meet again.
+
+@354
+...He is so composed it is almost annoying.
+
+@355
+The genius type, I'd say.
+
+@356
+I have a feeling I was subtly made a fool of.
+
+@357
+Yes, really. I'm starting to feel sorry for you, Sakamoto-sama.
+
+@358
+Hey, hey, I think that's making a fool of him too.
+
+@359
+...Enough.
+
+@360
+Ah! Hey, Ryō-san, sorry!
+

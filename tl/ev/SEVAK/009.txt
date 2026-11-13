@@ -1,0 +1,270 @@
+@0
+Pardon me. Is Kusaka Genzui-dono at home?
+
+@1
+I am Genzui... Hm? You are... if I remember rightly...
+
+@2
+It's been a long time.
+
+@3
+Ah, Sakamoto-kun!
+
+@4
+Do you remember me?
+
+@5
+That big frame and that frizzy hair, I couldn't forget them if I tried. What brings you here?
+
+@6
+I'm Hanpeita's messenger.
+
+@7
+I am Genzui... and you are?
+
+@8
+Sakamoto of Tosa. I have come today as Takechi Hanpeita's messenger.
+
+@9
+Oh, Takechi-kun's messenger! Well, let's skip the formalities. Do come in.
+
+@10
+Here is a letter from Jaw... I mean, from Takechi.
+
+@11
+Hmm...
+
+@12
+...So even the Tosa Loyalist Party, so newly raised, has already run into an obstacle.
+
+@13
+You mean Tōyō.
+
+@14
+Chōshū has its own troublemaker. A house elder named Nagai Uta, a hopeless advocate of supporting the shogunate and opening the country.
+
+@15
+Thanks to him, our lord's mind has been turned right around.
+
+@17
+Here is what Nagai says.
+
+@18
+The shogunate should keep opening the country and promote trade; through trade we should enrich the country and strengthen the army, learn all we can of Western civilisation, and build Black Ships one after another.
+
+@19
+Then we could stand up to the foreign powers, he says. That is the tune he sings.
+
+@20
+"That's unforgivable"\n"What's wrong with that?"
+
+@21
+Unforgivable.
+
+@22
+(Nagai's argument seems sound to me, though...)
+
+@23
+Why is opening the country so bad? Won't you explain it to me?
+
+@24
+To defile the divine land of Japan with the stench of barbarians is out of the question!
+
+@25
+For one thing, Japan has few products to sell abroad. If trade grows, our gold and silver will only drain away.
+
+@26
+Domestic Insight rose by 2!
+
+@27
+Foreign Insight rose by 4!
+
+@28
+The foreigners preach the profits of trade, but the only one who grows fat on it is the shogunate.
+
+@29
+And those fool officials of the shogunate have been tricked in the end, forced to accept treaties that profit only the foreigners.
+
+@31
+Look at it now! Opening the country has sent prices soaring, and the common people groan in misery. On top of that, the foreigners have brought us the cholera. At this rate Japan will perish!
+
+@32
+"Exactly"\n"Is that so?"
+
+@33
+(Arguing jōi against opening the country any further is pointless. I'll just go along with him.)
+
+@35
+It galls me, but neither the Tengu Party of Mito nor the Seichūgumi of Satsuma is getting anywhere. In both domains policy is in the hands of philistines, and a domain rising for the Emperor is a distant dream.
+
+@36
+So what on earth are we to do?
+
+@37
+There is nothing for it but to leave our domains.
+
+@38
+...Leave the domain?
+
+@39
+From now on there is no such thing as a domain. We gather volunteers from all over the country and raise an army of rōnin. After that we carve out a small domain.
+
+@40
+There we build up military strength while travelling the whole country to preach, and wait for the times to change.
+
+@41
+(What an outrageous thing to say!)
+
+@42
+"Rise up, gathering the strength of the grassroots shishi." Those were the words our late Shōin-sensei always spoke.
+
+@43
+I shall leave my domain! If you too despair of Tosa, then leave it. Together with comrades from all over the country, we will stand against the shogunate!
+
+@44
+An army of rōnin, eh... That sounds interesting.
+
+@45
+Please give my regards to Takechi-kun.
+
+@47
+I'd better be getting back to Kōchi soon.
+
+@48
+Return to Kōchi
+
+@50
+Damn, the new year has already begun!\nI have to get Kusaka-san's reply quickly!
+
+@52
+You there! You're Sakamoto Ryōma, a Tosa samurai, aren't you?
+
+@53
+Ah, I've overrun the deadline!
+
+@54
+Seize him!
+
+@55
+Go quietly\nLeave the domain
+
+@56
+I clean forgot.
+
+@57
+Stop grumbling and walk!
+
+@58
+Ryōma, what have you been doing all this time? As for the errand to Chōshū, I already asked somebody else.
+
+@59
+Oh! You're back!
+
+@60
+You came to meet me?
+
+@61
+Ha ha ha, I'm more worried about the letter than about you!
+
+@62
+Well, thanks a lot!
+
+@64
+...So Chōshū is no good either.
+
+@65
+"..."\n"Let's leave the domain"
+
+@67
+Hanpeita, let's flee the domain. Let's turn our backs on this rotten place.
+
+@68
+What are you saying!
+
+@69
+Let's leave and raise an army of rōnin! I'll get ships and build a navy, so you build an army!
+
+@70
+Dreamer's talk... Besides, it's quicker to make Tosa loyalist and confront the shogunate from there.
+
+@71
+It's impossible...
+
+@72
+It isn't impossible! I have already won the support of the senior elders and the old families. Once Tōyō is out of the way...
+
+@73
+An alliance with such rigid conservatives will crumble sooner or later! You are only being used by them!
+
+@74
+I won't be used! ...Let's stop. However much we debate, neither of us will change his mind.
+
+@76
+Thanks for your trouble.
+
+@77
+I'll take this chance and leave the domain.
+
+@78
+Hey, you! Are you running away?!
+
+@79
+Yes, I'm running!
+
+@80
+Ryōma, what have you been doing all this time? As for the errand to Chōshū, I already asked somebody else.
+
+@83
+Oh! You're back!
+
+@84
+You came to meet me?
+
+@85
+Ha ha ha, I'm more worried about the letter than about you!
+
+@86
+Well, thanks a lot!
+
+@88
+...So Chōshū is no good either.
+
+@89
+"..."\n"Let's leave the domain"
+
+@91
+Hanpeita, let's flee the domain. Let's turn our backs on this rotten place.
+
+@92
+What are you saying!
+
+@93
+Let's leave and raise an army of rōnin! I'll get ships and build a navy, so you build an army!
+
+@94
+Dreamer's talk... Besides, it's quicker to make Tosa loyalist and confront the shogunate from there.
+
+@95
+It's impossible...
+
+@96
+It isn't impossible! I have already won the support of the senior elders and the old families. Once Tōyō is out of the way...
+
+@97
+An alliance with such rigid conservatives will crumble sooner or later! You are only being used by them!
+
+@98
+I won't be used! ...Let's stop. However much we debate, neither of us will change his mind.
+
+@100
+Thanks for your trouble.
+
+@101
+Halt! Who are you?
+
+@102
+Sakamoto Ryōma, a Tosa samurai.
+
+@103
+A Tosa samurai? With this pass I cannot let you into Edo. Be on your way.
+

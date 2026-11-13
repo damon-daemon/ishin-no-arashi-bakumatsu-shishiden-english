@@ -1,0 +1,729 @@
+@0
+Ah, Sakamoto-kun.
+
+@1
+Katsura-san.
+
+@2
+Well? If you're free, how about a drink?
+
+@3
+"Sounds good"\n"Better not"
+
+@4
+I'm not in the mood.
+
+@5
+I see. Then another time.
+
+@6
+Now that's the spirit!
+
+@7
+You were born in Tosa, weren't you, Sakamoto-kun? What sort of place is it?
+
+@8
+A country backwater full of rough sorts, that's what. Tosa men drink so much they share the title of Japan's best with Satsuma, I reckon.
+
+@9
+It must be full of mighty heroes.
+
+@10
+But they're far too simple-minded. The gōshi especially.
+
+@11
+Gōshi... their ancestors served Lord Chōsokabe in the Sengoku age, didn't they?
+
+@12
+In their hearts they're still the ichiryō gusoku country warriors. They still bear a grudge over Sekigahara.
+
+@13
+Lord Mōri was on the Western side too, so Chōshū men hold the same grudge over Sekigahara.
+
+@14
+No, it's different. In Chōshū, upper samurai and gōshi alike are true Mōri retainers.
+
+@15
+Tosa was land the Eastern Tokugawa handed to the Yamauchi. So the Yamauchi upper samurai strut around lording it over us, and treat us gōshi as less than human.
+
+@16
+Complicated household affairs, then.
+
+@17
+So you mean to probe the state of Tosa, do you? I'd better hear about Chōshū too, or I'll have done all the talking for nothing.
+
+@18
+Ha ha ha, so be it. Then it is my turn to speak of our domain's future. Hm? Wait a moment.
+
+@19
+Ah, Katsura-kun! So you're here!
+
+@20
+Oh, Kusaka-kun.
+
+@21
+Hm? And who is this gentleman?
+
+@22
+This is Sakamoto Ryōma-dono of Tosa. He is a patriot, too.
+
+@23
+Is that so. I am Kusaka Genzui. Katsura-san and I studied together under Shōin-sensei.
+
+@24
+"Who is Shōin-sensei?"\n"Go on with your story"
+
+@25
+Who is Shōin-sensei?
+
+@26
+Yoshida Shōin-sensei. He is our teacher.
+
+@27
+A shishi must remember this man's name.
+
+@28
+Even before Perry's arrival he studied the threat of the foreigners, and he teaches that Japan must unite all its strength to face the great powers.
+
+@29
+Well, I never!
+
+@30
+Yet he tried to stow away on Perry's Black Ship to go abroad, and was seized by the shogunate and condemned.
+
+@31
+It all came from the sensei's single-minded belief that we must know the enemy...
+
+@32
+Even so, though he is confined to his house, our lord has let him open the Shōka Sonjuku back home, and there he shows us the road this country must take.
+
+@33
+What a remarkable man...
+
+@34
+Pleased to meet you... now, about that story...
+
+@35
+Ah, yes. We were speaking of our domain.
+
+@36
+Shōin-sensei says that from now on Chōshū will aim to realise "sonnō jōi".
+
+@37
+"What is sonnō?"\n"Indeed"
+
+@38
+I understand jōi... but what's this "sonnō" you speak of?
+
+@39
+Revering the sovereign... with all respect, it means honouring His Majesty the Emperor.
+
+@40
+?
+
+@41
+After all, the sovereign of Japan is Emperor Kōmei. The shogunate merely holds a commission from the Court for government and military affairs.
+
+@42
+You mean the shōgun is not the head of Japan?
+
+@43
+Keep your voice down. Of course real power rests with the shōgun. But the shōgun is, in the end, the Emperor's subject, and it is only natural for a subject to honour his sovereign.
+
+@44
+So Chōshū means to put the Emperor first, is that it?
+
+@45
+That's right.
+
+@46
+The Emperor hates foreigners with all his heart. His will is for jōi, yet the shogunate's policy ignores it completely.
+
+@47
+Chōshū intends to press the shogunate, as a whole domain, to carry out jōi without fail.
+
+@48
+"Wonderful!"\n"That's dangerous"
+
+@49
+Haa! Amazing! Amazing, this land of Chōshū!
+
+@50
+I told you to keep your voice down!
+
+@51
+A tozama daimyō, with his whole domain, giving the shogunate his opinion. This is a grave matter indeed.
+
+@52
+The sensei says the shogunate, grown used to nearly three hundred years of peace, has gone soft.
+
+@53
+The shogunate gone soft? A fearsome thing to say. I'd like to meet this sensei once...
+
+@54
+At last, the time has come for us young shishi.
+
+@55
+Sakamoto-kun! Can you stand by in silence while Japan is devoured by foreign powers? We must do something!
+
+@56
+You're a fine man!
+
+@57
+...Preaching to stubborn heads is pointless. If things go wrong, all you get for your trouble is punishment.
+
+@58
+We can't leave it at that.
+
+@59
+Sakamoto-kun! Can you stand by in silence while Japan is devoured by foreign powers? We must do something!
+
+@60
+Well, that's true, but...
+
+@61
+Hm, I may have drunk too much. Shall we go home?
+
+@62
+Sponge off Katsura\nSplit the bill
+
+@63
+This is on you, isn't it?
+
+@64
+Why should I be the one to pay?
+
+@65
+It's only reasonable that whoever invites pays.
+
+@66
+Hm, reasonable, is it? Then I suppose I'll pay.
+
+@67
+Well then, until we meet again.
+
+@68
+Ryō-san, got a moment?
+
+@69
+?
+
+@70
+Do you know who has just become Tairō of the shogunate?
+
+@71
+"No idea"\n"I do"
+
+@72
+Not a clue.
+
+@73
+Ii Naosuke, the lord of Hikone Domain.
+
+@74
+Ii something-or-other...
+
+@75
+Right, Ii Naosuke. The lord of Hikone Domain.
+
+@76
+What about him?
+
+@77
+He's a real villain. A man utterly unlike the timid councillors we've had until now.
+
+@78
+Sounds good to me.
+
+@79
+Not so fast. He's crushing the opposition and means to force the opening of the country.
+
+@80
+So he's of the open-country faction.
+
+@81
+No, that's not it. This Ii fellow isn't acting out of concern for where this country is headed.
+
+@82
+What do you mean?
+
+@83
+He's a pure shogunate supremacist. Whatever the shogunate decides is absolutely right. So it's "open the country", and that's all. He won't tolerate a single objection, that's the long and short of it.
+
+@84
+A nasty piece of work.
+
+@85
+Worse still. His Highness is gravely ill and an heir must be chosen, but he has no child.
+
+@86
+Hmm.
+
+@87
+In that case, custom is to take the shōgun from one of the Three Houses, Owari, Kishū and Mito. But Iemochi of Kishū, who has the right, is still only ten and sickly besides.
+
+@88
+When no suitable man can be found among the Three Houses, candidates are put forward from the Three Lords, Tayasu, Shimizu and Hitotsubashi. So voices rose for Hitotsubashi Yoshinobu, renowned for his wisdom, as the next shōgun.
+
+@89
+"Hold on a moment"\n"And then?"
+
+@90
+Hold on a moment, let's skip the hard stuff. I get the gist. In short, Ii ignores those voices and says the lord of Kishū, with his better blood, should be the heir. Is that it?
+
+@91
+!
+
+@92
+...How did you know?
+
+@93
+It's not hard to see.
+
+@94
+You're a strange man, Ryō-san...
+
+@95
+You're against it, Jū-san?
+
+@96
+And then?
+
+@97
+But Ii is a stubborn conservative. He says an heir with blood closer to the shōgun is better, and means to force Yoshitomi of Kishū into the post.
+
+@98
+But that lord of Kishū is young and frail... isn't he?
+
+@99
+Yes. In the old days of peace it might do, but in these turbulent times we need a brilliant ruler. This is no time to be talking about Tokugawa bloodlines.
+
+@100
+"True"\n"No"
+
+@101
+Indeed.
+
+@102
+That is for the high and mighty to worry about. We'd best not stick our necks in.
+
+@103
+Ryōma, good to run into you. Have you a moment?
+
+@105
+I'm just on my way for a drink. Care to join me?
+
+@106
+"Let's go"\n"No, thanks"
+
+@107
+Sorry. I have business today.
+
+@108
+I see. No, that's fine. See you.
+
+@109
+Of course.
+
+@110
+Let me introduce you. This is Nakaoka Shintarō, from the same province as us.
+
+@111
+Pleased to meet you.
+
+@113
+Eh? Nakaoka-kun?
+
+@114
+...Pleased to meet you.
+
+@115
+Don't take offence, Ryōma. That's how he is.
+
+@116
+Oh? Takechi-san.
+
+@117
+Oh, Izō, you're here too.
+
+@118
+By the way, what's this about? Wanting a drink all of a sudden?
+
+@119
+Listen. The shogunate has finally gone and done it.
+
+@120
+Done what?
+
+@121
+The Treaty of Amity and Commerce with America. They say it has been signed.
+
+@122
+What?!
+
+@123
+Oh?
+
+@124
+??
+
+@125
+This is plainly an unequal treaty, and Japan gets the worse of it.
+
+@126
+What makes it unequal?
+
+@127
+Take consular jurisdiction. Even if a foreigner breaks the law in Japan, our country cannot punish him.
+
+@128
+And if we commit a crime in America?
+
+@129
+That is not the point of this treaty.
+
+@130
+That's one-sided!
+
+@131
+In short, the treaty was forced on us. There is more. We must provide settlements for foreigners trading in Japan.
+
+@132
+That is... something like Dejima, then?
+
+@133
+If it stopped at that, fine, but as trade grows they will demand ever more land. With the treaty as their shield, we can't refuse.
+
+@134
+And if we sign the same kind of treaties with other countries, not only America...
+
+@135
+This country will be whittled away bit by bit, and in the end turned into a colony of the foreigners!
+
+@136
+Well, that's about the size of it. Ryōma, this is a grave state of affairs.
+
+@137
+"Indeed"\n"Nothing we can do"
+
+@138
+With such a gap in national strength, even the shogunate could not have held out.
+
+@139
+Sakamoto-san. Forgive my saying so, but you understand nothing!
+
+@140
+Hey, Nakaoka-kun! Mind your tongue!
+
+@141
+No, I'll say it. Even if it meant war, they should have held out!
+
+@142
+Even if Japan loses?
+
+@143
+That won't do. We must not lose.
+
+@144
+Even if we die, we won't become slaves of foreigners!
+
+@145
+...That, we must avoid...
+
+@146
+A treaty on unequal terms is no good. It means Japan stands below America.
+
+@147
+Exactly. In time the foreigners mean to make slaves of every Japanese.
+
+@148
+I-I won't stand for it!
+
+@149
+Ryōma! Let's do it! Even if the shogunate won't, we shall be the vanguard of jōi!
+
+@150
+Right!
+
+@151
+...Do what, exactly?
+
+@152
+I-I'll cut down every foreigner I see.
+
+@153
+That's always your answer, Izō.
+
+@154
+That I don't know yet. I don't know, but I'll think of something. Even if we can't now, we are bound to find a way someday.
+
+@155
+I intend to unite the gōshi of Tosa into one great force.
+
+@156
+A force?
+
+@157
+Yes. The upper samurai of Tosa, fat on their high stipends, are frantic to protect their own interests, and not one of them thinks about the country.
+
+@158
+T-the upper samurai, I'll cut them down!
+
+@159
+What we'll do with that force I don't know yet. But we gōshi who grieve for the country have no choice but to rise.
+
+@160
+Yes... we have to do it!
+
+@161
+I'll see this through, mark me. Ryōma, when the time comes I'll call on you too. Agreed?
+
+@162
+"Of course"\n"I'll think about it"
+
+@163
+Of course!
+
+@164
+Hmm... I'll think about it.
+
+@165
+...What an indecisive man!
+
+@166
+Nakaoka-kun, mind your tongue!
+
+@167
+No, I'll say it! Sakamoto-san, the Imperial Court is in danger, and what kind of samurai doesn't rise up now?
+
+@168
+Nakaoka!
+
+@169
+Or what? You won't stand with us?
+
+@170
+Enough! Ryōma has his own thoughts! Ryōma, forgive him.
+
+@171
+No. Nakaoka is right to be angry at me for not rousing myself after hearing Hanpeita's resolve.
+
+@172
+When the time comes, I'll do it, I swear. But I've no learning, so without knowing what to do I can't make up my mind.
+
+@173
+Chanting "jōi, jōi" like a prayer I can do too. But what you mean by "doing it" isn't that, is it?
+
+@174
+Hm...
+
+@175
+Decide what you will do, then call me. I'll think again and give you my answer then.
+
+@176
+Understood. You're right, Ryōma.
+
+@177
+That was out of line... forgive me.
+
+@178
+Think nothing of it. I'll forget it.
+
+@179
+Oh, Ryōma. There you are.
+
+@180
+What is it?
+
+@181
+Would you enter a match on the 30th of next month?
+
+@182
+What, all of a sudden? We had a match just the other day.
+
+@183
+This one is between domains. Tosa's representative can only be you.
+
+@184
+Then it's no place for us gōshi. Leave it to the upper samurai.
+
+@185
+It's not that simple. Lord Yōdō watched the last match and named you himself.
+
+@186
+The lord? I thought he saw only upper samurai.
+
+@187
+Aye, he won't remember your name. But he hates to lose. To save Tosa's face, he can't afford to care who is upper samurai and who is gōshi.
+
+@188
+So in Tosa, gōshi only count when it suits them.
+
+@189
+Come now, don't say that. The other gōshi expect much of you too. They want you to show the upper samurai up.
+
+@190
+Is the format the same as last time?
+
+@191
+No. This time it's a knockout.
+
+@192
+Wait. Is Katsura of Chōshū entering?
+
+@193
+Of course. If you keep winning, he'll be your opponent in the final. Ryōma, will you do it?
+
+@194
+"Understood"\n"No"
+
+@195
+Then I can't lose. Aren't you entering?
+
+@196
+I'm on the organising staff. This match is hosted by our dōjō.
+
+@197
+I'm counting on you. Show them there is a Sakamoto in Tosa.
+
+@198
+Train in swordsmanship for the inter-domain match on the 30th of the 8th month, 1858
+
+@199
+I don't like fighting for the domain's honour. You enter, then.
+
+@200
+Don't sulk. I'm on the staff, so I can't enter. Think of it as going in my place. Please.
+
+@201
+"Understood"\n"No"
+
+@202
+...All right. I can't refuse a request from you.
+
+@203
+Good, I'm counting on you. Show them there is a Sakamoto in Tosa.
+
+@204
+Train in swordsmanship for the inter-domain match on the 30th of the 8th month, 1858
+
+@205
+Even if it's you asking, Hanpeita, no means no. For a start, I can't beat Katsura.
+
+@206
+I see.
+
+@207
+...All right. Sorry to have bothered you.
+
+@208
+Ryōma. Today you get special training.
+
+@209
+Special training?
+
+@210
+That's right. Beat five of my mokuroku-rank students in a row.
+
+@211
+Five?!
+
+@212
+Then let's begin. First man, step forward!
+
+@213
+That's one. Good, next.
+
+@214
+Hmph, still got energy to spare? Next!
+
+@215
+Now comes the real test.
+
+@216
+Getting tired, are you? Right, the last three bouts!
+
+@217
+Well done!
+
+@218
+Good. Now I'll train you myself.
+
+@219
+Huh?
+
+@220
+Don't just stand there, come at me!
+
+@221
+...Then, here I come.
+
+@222
+Yaaah!
+
+@224
+(...Just what I'd expect of him. Not a single opening.)
+
+@225
+What's the matter? Strike!
+
+@226
+...Haaaa!!
+
+@227
+...??
+
+@228
+Ugh! Ouch.
+
+@229
+Well?
+
+@230
+What was that just now...?
+
+@231
+Get up! Learn it with your body. Once more.
+
+@232
+All right, you've managed to get it down.
+
+@234
+Don't you forget the thrust you just made.
+
+@235
+You have learned the secret technique "Teppō Tsuki"!
+
+@236
+Hm, one step short.
+
+@237
+Tsk! Still not enough training.
+
+@238
+You green fool! Come back when you've trained properly!
+
+@239
+Haah, pathetic. What have you been doing all this time?
+
+@240
+...I overrated you. Enough.
+
+@241
+Train in swordsmanship for the assistant instructor exam
+
+@243
+You cannot enter the town of Kōchi during your training period.
+
+@244
+We cannot let a man of another domain into our land.
+
+@245
+What secretive folk.
+
+@246
+Entry by men of other domains is forbidden.
+
+@247
+Stingy, aren't they.
+

@@ -1,0 +1,311 @@
+# Last generic lines 0x80034000-0x80036fff: gift refusals, introductions, companions, hobbies, shop greetings, sightseeing lines, gate guards
+PROG:80034004	Such a costly gift...\nOh, I couldn't possibly...
+PROG:80034030	I cannot possibly accept so costly a gift.
+PROG:80034060	Pray spare me such kindness.
+PROG:80034084	I'm glad you thought of me, but I can't take it.
+PROG:800340bc	Such a costly thing? I can't take it.
+PROG:800340ec	I appreciate the thought, but I cannot accept it.
+PROG:80034120	I couldn't accept anything so costly.
+PROG:80034148	Oh, I couldn't take such a costly thing.
+PROG:80034170	I can't take something this pricey.
+PROG:800341a0	The thought alone is enough, K2.
+PROG:800341c4	I have no reason to receive so costly a gift.
+PROG:800341f0	I cannot possibly receive such a costly gift.
+PROG:80034220	Use it yourself, why not?
+PROG:80034248	I don't want such a thing!
+PROG:80034268	I can't even stand to look at that.
+PROG:8003428c	A foreign thing, is it?\nTake it home with you.
+PROG:800342b8	It is of no use to me.
+PROG:800342d4	A rare thing, but I can't accept it.
+PROG:80034308	I don't want foreign goods.
+PROG:80034324	Foreign goods...\nI can't bear even to see them!
+PROG:80034358	I cannot accept foreign goods.
+PROG:80034374	I couldn't take foreign goods.
+PROG:80034394	I'll take just the thought, thank you.
+PROG:800343bc	Oh, you put me in an awkward spot.
+PROG:800343dc	Please, you mustn't do this for me.
+PROG:80034404	I need no souvenirs.
+PROG:80034420	I can't take souvenirs.
+PROG:8003443c	I want no souvenirs.
+PROG:8003445c	I will not accept souvenirs.
+PROG:80034480	Please, there's no need to trouble yourself.
+PROG:800344a0	No souvenirs, please.
+PROG:800344c0	I've no reason to take souvenirs.
+PROG:800344e4	I need nothing like this.\nKeep it yourself.
+PROG:80034510	I have no reason to receive such a thing.
+PROG:80034540	I have no reason to take gifts from you.
+PROG:80034564	Oh, K2?
+PROG:80034574	Oh, it's you, K2.\nWhat business does a %svisitor have with me?
+PROG:8003459c	Well, if it isn't K2!\nWhat brings a %sfellow like you here?
+PROG:800345cc	Ah, K2.\nWhat do you want of me?
+PROG:800345fc	K2, was it?\nWhat is your business with me?
+PROG:8003461c	Oh, K2. Did you want something?
+PROG:80034640	Ah, K2, is it?\nWhat can I do for you?
+PROG:8003466c	You're %sK2, aren't you?
+PROG:80034684	K2, was it?\nWhat do you want?
+PROG:800346a4	You are %sK2, I recall.
+PROG:800346bc	Are you not %sK2?
+PROG:800346d0	K2. How nice to see you again.
+PROG:800346ec	Oh, K2.\nIs there something I can do?
+PROG:80034710	K2, was it not?
+PROG:80034720	You are %sK2, I believe. What can I do for you?
+PROG:80034748	Well, K2!\nWhat do you want?
+PROG:8003476c	You'd be %sK2, then.\nWhat is it you want of me?
+PROG:8003479c	Ah, K2, was it?\nWhat is it you seek?
+PROG:800347c0	K2, was it? What's your business?
+PROG:800347e4	K2, wasn't it? What brings you here?
+PROG:8003480c	You're %sK2, aren't you?\nWhat can I do for you?
+PROG:80034834	Hm, K2, was it?\nWhat is it?
+PROG:8003485c	You are %sK2, as I recall.\nWhat is your business with me?
+PROG:80034884	Ah, you're %sK2, aren't you?
+PROG:8003489c	Oh, K2. I did so want to see you.
+PROG:800348b8	Oh, K2. Did you want something?
+PROG:800348d8	Yes, K2? What is it?
+PROG:800348e8	Ah, K2.\nWhat do you want of me?
+PROG:80034908	Hey, K2.\nWant something of me?
+PROG:80034928	Well, if it isn't K2.\nWhat do you want?
+PROG:80034958	Oh, K2, is it?\nWhat is your business?
+PROG:8003497c	Ah, K2. What do you want?
+PROG:80034998	Ah, K2. What can I do for you?
+PROG:800349b8	Oh, K2. What do you want?
+PROG:800349dc	Oh, K2. Want something of me?
+PROG:800349fc	Ah, K2. How may I help?
+PROG:80034a1c	Hello, K2. What do you need?
+PROG:80034a38	Is there something you need?
+PROG:80034a50	What do you want of me...?
+PROG:80034a6c	What would %sS2-san want with me?
+PROG:80034a90	What would you want of me?
+PROG:80034aac	And what brings %sS2-san here?
+PROG:80034ad0	Now, what brings you here?
+PROG:80034af4	Now, what business brings S2-han here?
+PROG:80034b1c	Now then, what's it about?
+PROG:80034b38	And what does %sS2-san want, eh?
+PROG:80034b54	Well, what do you want with me?
+PROG:80034b70	And what business brings S2-dono?
+PROG:80034b90	%sS2-sama, for me...?
+PROG:80034ba4	S2... I hear much of you.
+PROG:80034bc8	I know your name well, S2-sama.
+PROG:80034bec	Why, I know of you, S2-sama.
+PROG:80034c10	I know the name of %sS2-san well.
+PROG:80034c38	I've heard of your exploits.
+PROG:80034c5c	S2-san, word of you has reached me.
+PROG:80034c80	Your fame precedes you.
+PROG:80034c9c	So you are the famed %sS2-han.
+PROG:80034cc0	You're the famed %sS2-han, then.
+PROG:80034ce0	So you're the famous %sS2-san.
+PROG:80034d00	Your name has reached my ears.
+PROG:80034d20	You are the renowned %sS2-dono.
+PROG:80034d3c	An honour to meet the renowned S2-sama.
+PROG:80034d60	I'm M1.
+PROG:80034d70	I'm S1.
+PROG:80034d80	I am S1.
+PROG:80034d8c	I am %sS1.
+PROG:80034d9c	I'm %sS1.
+PROG:80034dac	I am %sS1.
+PROG:80034dc0	S2, you say?\nI am S1.
+PROG:80034de0	I'm S1.
+PROG:80034df0	I'm S1.
+PROG:80034e00	I'm %sS1.
+PROG:80034e0c	S2, you say?\nI am S1.
+PROG:80034e2c	I am %sS1.
+PROG:80034e40	Pleased to meet you. I am %sS1.
+PROG:80034e60	You will rest until the next day.\nIs that all right?
+PROG:80034e84	Make %s your base?\nIs that all right?
+PROG:80034f3c	It seems this shop is closed.
+PROG:80034f60	It seems best not to drop in at this shop.
+PROG:80034f94	This place is closed.
+PROG:80034fb0	Bakufu
+PROG:80034fb8	Court
+PROG:80034fc4	%s Rōnin
+PROG:80034fcc	%s 
+PROG:80034fd4	Leave %s
+PROG:80035010	Shōgun
+PROG:8003505c	you
+PROG:80035088	Sister
+PROG:800350a4	you
+PROG:800350b4	Uncle
+PROG:8003540c	Shinsengumi Intel
+PROG:8003541c	{M0} Select  {M3} Exit
+PROG:80035438	You learned nothing new.
+PROG:8003547c	Choose the information to gather.
+PROG:8003549c	%s's Domestic Insight rose by %d!
+PROG:800354bc	%s's whereabouts are unknown...
+PROG:800354d0	, 
+PROG:800354d4	You learned that %s is based in %s.
+PROG:80035504	You learned that %s is based in %s and is sometimes in %s.
+PROG:80035548	You learned that %s is based in %s and is sometimes in %s, %s.
+PROG:80035590	You learned that %s is based in %s and is often in %s.
+PROG:800355d4	You learned that %s is based in %s and is often in %s, %s.
+PROG:8003561c	You learned that %s has gone to %s for now.
+PROG:80035650	You learned that %s has gone to %s, %s for now.
+PROG:800356dc	Not enough Drive.
+PROG:800356f0	  No  
+PROG:800356fc	  Yes  
+PROG:80035708	Funds: %5d
+PROG:8003573c	Price
+PROG:80035760	Ship
+PROG:80035768	{C7}%s  %s  %s
+PROG:8003578c	%s  %s   %d
+PROG:8003579c	Cargo
+PROG:800357b8	Choose a destination.
+PROG:800357d0	You are now acquainted!
+PROG:800357e8	You are now acquainted with %s!
+PROG:80035804	You are now close!
+PROG:80035818	You are now close to %s!
+PROG:80035830	You are now close! You may make this your base.
+PROG:8003586c	You may make %s your base.
+PROG:80035908	I won't leave you, K2.
+PROG:80035920	I'll never leave you, K2.
+PROG:80035938	I will not leave you, K2.
+PROG:80035950	I really can't leave you, K2.
+PROG:80035974	I'm not leaving you, K2.
+PROG:8003598c	I cannot leave you, K2.
+PROG:800359b4	I shall not leave you, K2.
+PROG:800359cc	I can't leave your side, K2.
+PROG:800359f8	I mustn't leave your side, K2.
+PROG:80035a20	I ain't leaving you, K2.
+PROG:80035a44	I can't leave you, K2.
+PROG:80035a64	I may not leave your side, K2.
+PROG:80035a8c	I cannot leave your side, K2.
+PROG:80035ab4	Drop %s from your party?\nIs that all right?
+PROG:80035adc	Your party can hold only %d people.\nDrop one of them?
+PROG:80035b18	Your party cannot be changed now.
+PROG:80035b38	Take %s along?
+PROG:80035b50	%s has joined your party.
+PROG:80035b70	You mean to buy out my contract?
+PROG:80035b94	I'm glad, but I can't leave this place.
+PROG:80035bd0	Without Father's leave...
+PROG:80035bec	Forgive me, but I have duties of my own.
+PROG:80035c1c	I'm glad you asked, but I'm busy too.
+PROG:80035c48	Kind of you, but I've work to do. I can't come.
+PROG:80035c80	Such matters are not my forte. Ask another.
+PROG:80035cb8	Kind of you to ask, but work keeps me busy.
+PROG:80035cf4	Kind of you, but I'm too busy with work.
+PROG:80035d28	Sorry, but I've things to do myself.
+PROG:80035d50	Kind of you, but I'm a busy man.
+PROG:80035d70	Your offer is kind, but I have my duties. I decline.
+PROG:80035db8	Kind of you to ask, but I have things I must do.
+PROG:80035df8	%s cannot join your party.
+PROG:80035e10	Letters
+PROG:80035e18	Sailing
+PROG:80035e20	Kids' Games
+PROG:80035e30	Bawdy Jokes
+PROG:80035e8c	Saving
+PROG:80035e94	Dining
+PROG:80035ea0	Carousing
+PROG:80035eb0	Dancing
+PROG:80035f04	None
+PROG:80035f0c	What's your hobby?
+PROG:80035f20	What's your hobby?
+PROG:80035f34	I like %s. And you, %s-sama?
+PROG:80035f48	%s is my hobby.
+PROG:80035f54	...No hobbies.
+PROG:80035f64	%s.
+PROG:80035f6c	No hobbies.
+PROG:80035f78	None...
+PROG:80035f94	To study
+PROG:80035fa4	To take photos
+PROG:80035fb8	To bathe
+PROG:80035fc8	To drink
+PROG:80035fd8	To dine
+PROG:80035fec	%sNot enough Drive!
+PROG:80036008	Welcome!
+PROG:80036014	Yes, welcome!
+PROG:80036028	Welcome.
+PROG:8003603c	Welcome back.
+PROG:8003604c	Welcome!
+PROG:8003605c	Welcome back!
+PROG:8003606c	We've been awaiting you. Through here, please.
+PROG:80036090	We've been expecting you. This way, please.
+PROG:800360b4	We've been expecting you. Come through.
+PROG:800360d8	We've been expecting you. This way.
+PROG:800360f8	We were expecting you. This way, please.
+PROG:8003611c	Welcome home. Do come through.
+PROG:80036138	Welcome back. This way, please.
+PROG:80036158	Step right up!
+PROG:8003616c	Yes, step right up!
+PROG:80036184	Welcome back.
+PROG:80036198	Welcome, %s-sama.
+PROG:800361b0	Welcome, sir.
+PROG:800361c8	Welcome. This way, please.
+PROG:800361e8	We take no petty trade. If you've no business, please go.
+PROG:8003622c	Hey! I've got good work for you today.
+PROG:8003624c	Looking for work?
+PROG:80036264	Good day, %s-sama. What can I do for you?
+PROG:8003628c	What is it?
+PROG:8003629c	Good day, %s-sama.
+PROG:800362b0	Those who can't speak foreign tongues may not enter. Please go.
+PROG:800362e8	We take no petty trade. If you've no business, please go.
+PROG:80036330	Good day. Can I help you?
+PROG:80036350	We turn away strangers!
+PROG:80036378	We turn away those who don't understand us!
+PROG:8003639c	Welcome back, %s-sama.
+PROG:800363b4	Allow me to show you in.
+PROG:800363cc	The master is away. Please go.
+PROG:800363f4	What brings you here? Please leave.
+PROG:8003641c	This is the shogunate's own camp! Begone!
+PROG:80036448	All is quiet in the gaol.
+PROG:80036464	What do you want at the gaol? Suspects get thrown in!
+PROG:80036494	This is the execution ground. Begone if you've no business.
+PROG:800364c0	This is the magistrate's office. Begone if you've no business.
+PROG:800364f0	This is %s.
+PROG:80036500	This is %s.\n
+PROG:80036510	Foreign ships can be seen.
+PROG:8003652c	My, so many big ships!\nI'd like to go out into the world too.
+PROG:80036570	Seeing the Black Ships lined up like this brings home the might of the foreigners.
+PROG:800365b8	The Yosakoi song goes: "At Harimaya Bridge in Kōchi, I saw a priest buy a hairpin."
+PROG:80036610	Ah, Harimaya Bridge.
+PROG:80036628	On the summit stands the Heavenly Reverse Halberd, thrust in by Ninigi-no-Mikoto on his descent from heaven.
+PROG:8003667c	So this is the Heavenly Reverse Halberd.
+PROG:8003669c	So this is Mount Takachiho of the Kojiki...\nIt does look the part.
+PROG:800366d4	The Shūseikan is a factory with modern equipment.
+PROG:800366fc	My... this is amazing.\nI never knew Satsuma's technology was this advanced...
+PROG:80036734	A great many cannon stand in rows.
+PROG:80036754	My, what a lot of cannon!\nAnd even this is no match for the Black Ships...
+PROG:80036798	Such defences...\nAnd yet they are no match for the Black Ships?
+PROG:800367e4	Used to drill the hatamoto in archery and riding.
+PROG:80036810	So this is Takadanobaba, famed for Horibe Yasubei's revenge.
+PROG:80036848	Ah, so this is Takadanobaba, where Horibe Yasubei took his famous revenge.
+PROG:8003687c	The name comes from the three mansions of Kishū, Owari and Ii.
+PROG:800368bc	A bridge built to link Nihonbashi and Fukagawa.
+PROG:800368ec	So this is Eitai Bridge, which the Akō rōnin crossed.
+PROG:80036920	So this is the bridge the Akō rōnin crossed.
+PROG:8003694c	Where koban are cast and wrapped.
+PROG:80036974	So they cast koban here?\nNot that a koban has ever come my way...
+PROG:800369c0	So this is the Kinza that mints koban.\nI wouldn't mind pinching a few.
+PROG:800369fc	The shogunate's drill ground for cavalry training.
+PROG:80036a34	Well, they're hard at it.\nStill fighting like it's the Warring States era.
+PROG:80036a74	Bah, drills like that are useless.\nNo wonder foreigners scorn us.
+PROG:80036abc	Where shogunate troops are stationed.
+PROG:80036ad8	Used for riding practice.
+PROG:80036af8	Where the shogunate's warships anchor.
+PROG:80036b1c	So there are Black Ships among them?\nOh, this is exciting!
+PROG:80036b50	Where the shogunate drills hatamoto and gokenin.
+PROG:80036b84	A reverberatory furnace for refining iron.
+PROG:80036ba4	So this furnace makes iron?\nHow interesting.
+PROG:80036be8	So this is a reverberatory furnace.\nIt refines iron.
+PROG:80036c10	Cross here, and it's the Tosa residence.
+PROG:80036c30	Great daimyō mansions stand nearby.
+PROG:80036c58	The Chōshū lord's ships are moored here.
+PROG:80036c7c	One of Japan's Three Great Gardens, made by Tokugawa Nariaki as a place of rest for samurai and commoners.
+PROG:80036cc4	One of Japan's Three Great Gardens, named Kenrokuen for combining six fine qualities.
+PROG:80036d14	One of Japan's Three Great Gardens, an elegant stroll garden.
+PROG:80036d40	In Tosa-a, in Kōchi-i, at Harima-ya Bridge\nA priest-t bought a hairpin, I saw-aw\nYosa-koi, yosa-koi
+PROG:80036da4	Boarding a ship?
+PROG:80036db8	Thank you for your service.
+PROG:80036dcc	Leaving the domain is death in Tosa... Best keep away.
+PROG:80036df8	...Domain deserters use the back door.
+PROG:80036e1c	Ah, Sakamoto-dono. Please enter.
+PROG:80036e3c	Ah, Hijikata-dono. Please enter.
+PROG:80036e5c	Welcome back.
+PROG:80036e6c	A letter of introduction... Very well, pass.
+PROG:80036ea0	A friend of %s-sama, I see. Please enter.
+PROG:80036ed4	A den of radical sonnō shishi. Shogunate men keep out.
+PROG:80036f08	A stronghold of radical shogunate men. Sonnō men keep out.
+PROG:80036f38	The renowned %s-sama. Please, go through.
+PROG:80036f64	Outsiders from other domains, please keep out.
+PROG:80036f80	Hey! Gōshi aren't allowed in the castle!
+PROG:80036fa8	Ah, Hijikata-dono of the Shinsengumi. Please go through.
+PROG:80036fd4	This is the shogunate's own castle! Begone at once!
+# review: own English for strings that shared another string's line
+PROG:80035064	Sensei

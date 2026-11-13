@@ -1,0 +1,30 @@
+@0
+I will hold them here! Everyone, get downstairs!
+
+@1
+What are you saying! You are a man who must not die!
+
+@2
+Grrr! Run, and wait for another day...
+
+@3
+Gahh!!
+
+@4
+Ah... ugh... this is the end.
+
+@5
+Sensei...!!
+
+@6
+Ugh!\nS-so strong!
+
+@7
+Nuooh!\nI will not die for nothing!!
+
+@8
+Ugh, grrr...!
+
+@9
+Come!!
+

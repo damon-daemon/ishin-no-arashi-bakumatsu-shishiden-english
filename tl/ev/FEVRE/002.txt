@@ -1,0 +1,129 @@
+@0
+Come to think of it, isn't today the day the Rōshigumi assembles?!
+
+@2
+I can't throw in my lot with that crowd.
+
+@4
+I gave my word. Well then, let's go at once!
+
+@8
+Ah, S2-kun. You've come!
+
+@9
+So you are S2 M2?
+
+@10
+A pleasure to meet you.
+
+@13
+What is this crowd?
+
+@17
+Oh! To meet you in a place like this!
+
+@18
+Kiyokawa-dono!
+
+@20
+Are you in the Rōshigumi too, Kiyokawa-dono?
+
+@25
+(How high-handed...)
+
+@26
+(A band of country swordsmen? I will talk them round with a few smooth words.)
+
+@27
+Ha ha ha! I'm itching for a fight, Toshi-san!
+
+@29
+Now we set out for Kyōto, to guard the shōgun!
+
+@30
+Oh, they have gone...
+
+@34
+We have finally reached the Honjō post town.
+
+@35
+Now, which inn shall we stay at...
+
+@49
+Tch...
+
+@50
+Ha ha ha ha!
+
+@65
+So this is our new roost.
+
+@66
+What is this? What a shabby house!
+
+@67
+Bear with it for a while, Sensei.
+
+@84
+Niimi! We're cutting Kiyokawa down!
+
+@88
+Forgive me for intruding at a busy moment.
+
+@94
+...A charlatan. A worthless wretch.
+
+@99
+The authorities must be bitter about Kiyokawa's turnabout this time as well. If we only had the backing of, say, Lord Matsudaira, lord of Aizu and Protector of Kyōto...
+
+@101
+Wait in Kyōto for now
+
+@102
+Serizawa-sensei.
+
+@104
+I hear the Rōshigumi is to be called back to Edo.
+
+@106
+They say it's in case the British attack, angry that a foreigner who crossed the Satsuma procession at Namamugi was cut down.
+
+@107
+No, surely that is only the official reason.
+
+@109
+I think the real reason is that the shogunate, having learned of Kiyokawa's reckless acts in Kyōto, plans to call the Rōshigumi back.
+
+@111
+If we stay in Kyōto, we will not have to look at Kiyokawa's face...
+
+@112
+Let's wait and see for a while.
+
+@118
+We leave the supreme command to you, Serizawa-dono.
+
+@123
+Such matters could be settled later, surely.
+
+@144
+(Hmm... Should I just join them?)
+
+@145
+(Hmm. Or should I slip away quietly?!)
+
+@146
+Join the Shinsengumi\nSlip out the back door...
+
+@147
+(So that no one notices...)
+
+@149
+Thus the two parties of Serizawa and Kondō, fourteen men in all, broke away from the Rōshigumi and stayed on in Kyōto.
+
+@150
+Here was born the Shinsengumi, the astonishing band of rōnin that would later shake the old capital.
+
+@151
+Serve with the Shinsengumi
+

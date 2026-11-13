@@ -1,0 +1,15 @@
+@0
+Oh, Hijikata-san?
+
+@1
+I'll lend a hand.
+
+@2
+Ah, Hijikata-san!
+
+@4
+Okita, don't overdo it.
+
+@5
+I'm all right.
+

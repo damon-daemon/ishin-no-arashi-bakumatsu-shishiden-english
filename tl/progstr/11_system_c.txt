@@ -1,0 +1,202 @@
+# town spots (Edo, Hakodate), food and drink, place kinds, shop actions, parting and duel lines, PROG 80022000-80022fff
+PROG:80022000	Itakura Residence
+PROG:80022008	Niimi Residence
+PROG:80022010	Tsukikage Restaurant
+PROG:8002201c	Banchō Inn
+PROG:80022024	Riding Ground
+PROG:8002202c	Kioizaka
+PROG:80022038	Sakurada Gate
+PROG:80022040	Sankeijuku
+PROG:80022048	Takamatsu Residence
+PROG:80022050	Manabe Residence
+PROG:80022058	Kishū Residence
+PROG:80022064	Owari Residence
+PROG:80022070	Sakurada Satsuma Residence
+PROG:80022080	Sakurada Chōshū Residence
+PROG:80022090	Saga Residence
+PROG:8002209c	Hikone Residence
+PROG:800220a8	Hiyoshi Sannō Shrine
+PROG:800220b4	Hirakawa Tenjin
+PROG:800220c0	Jōsen-ji
+PROG:800220c8	Ryūgan-ji
+PROG:800220d0	South Magistrate
+PROG:800220dc	Hyōjōsho
+PROG:800220e4	North Magistrate
+PROG:800220f0	Hayashi Residence
+PROG:800220fc	Hitotsubashi Residence
+PROG:80022104	Shimizu Residence
+PROG:8002210c	Tayasu Residence
+PROG:80022114	Edo Castle
+PROG:8002211c	Tosa Residence
+PROG:80022128	Aizu Residence
+PROG:80022134	Fukui Residence
+PROG:80022140	Goryōkaku
+PROG:80022148	Hakodate Restaurant
+PROG:80022154	Hakodate Inn
+PROG:80022160	Hokkai-tei
+PROG:80022168	Matsumaeya
+PROG:80022170	Steamed Yōkan
+PROG:80022178	Neri Yōkan
+PROG:80022180	Botamochi
+PROG:800221a8	Daibutsu Mochi
+PROG:800221b0	Gyūhi
+PROG:800221b8	Rice Cracker
+PROG:800221c4	Okoshi
+PROG:800221e0	Amazake
+PROG:800221e8	Tokoroten
+PROG:800221f4	Kuzuyu
+PROG:800221fc	Shiratama
+PROG:80022204	Chestnut Zenzai
+PROG:80022210	Zenzai
+PROG:8002221c	Oshiruko
+PROG:80022228	Kinako Mochi
+PROG:80022230	Daifuku
+PROG:80022238	Mochi
+PROG:8002223c	Three-Colour Dango
+PROG:80022248	Dango
+PROG:80022250	Fried Rice
+PROG:80022258	Chinese Noodles
+PROG:80022264	Sanuki Udon
+PROG:80022270	Tanuki Udon
+PROG:80022280	Kitsune Udon
+PROG:80022290	Miso Udon
+PROG:800222a0	Nabeyaki Udon
+PROG:800222b0	Zaru Soba
+PROG:800222bc	Udon
+PROG:800222c4	Kake Soba
+PROG:800222d0	Jindai-ji Soba
+PROG:800222dc	Rice Porridge
+PROG:800222e4	Zōsui
+PROG:800222f8	Grilled Clam
+PROG:80022300	Gyoden
+PROG:80022308	Tofu
+PROG:80022310	Miso Dengaku
+PROG:8002231c	Horse Sashimi
+PROG:80022324	Seared Bonito
+PROG:80022330	Sashimi
+PROG:80022338	Teriyaki Yellowtail
+PROG:80022348	Grilled Eel
+PROG:80022354	Salmon Roe Bowl
+PROG:80022360	Sea Urchin Bowl
+PROG:80022368	Egg Rice
+PROG:80022378	Eel Box
+PROG:80022380	Kaiseki Meal
+PROG:8002238c	Kyō Kaiseki
+PROG:80022394	Karashi Renkon
+PROG:800223a0	Nara-zuke
+PROG:800223ac	Takuan Pickles
+PROG:800223b8	Wasabi-zuke
+PROG:800223c4	Mugitoro Rice
+PROG:800223d4	Rice Ball
+PROG:800223e0	Bubuzuke
+PROG:800223ec	Tempura Set
+PROG:800223f8	Simmered Fish Set
+PROG:80022404	Grilled Fish Set
+PROG:80022410	Kiritanpo Pot
+PROG:80022420	Venison Pot
+PROG:80022428	Boar Pot
+PROG:80022430	Yamakujira Pot
+PROG:80022438	Yanagawa Pot
+PROG:80022440	Pork Pot
+PROG:80022448	Beef Pot
+PROG:80022450	Chicken Pot
+PROG:80022458	Pheasant Pot
+PROG:80022460	Battera Sushi
+PROG:80022470	Funa-zushi
+PROG:80022478	Inari Sushi
+PROG:80022484	Conger Sushi
+PROG:80022490	Edomae Sushi
+PROG:8002249c	Prime Edomae Sushi
+PROG:800224b4	Beer
+PROG:800224bc	Awamori
+PROG:800224c4	Hon-naoshi
+PROG:800224cc	Yanagikage
+PROG:800224e4	Kiku
+PROG:800224ec	Nanatsu-ume
+PROG:8002250c	Nakagumi
+PROG:80022524	Port
+PROG:80022528	Place
+PROG:80022530	Sights
+PROG:80022538	Magistrate
+PROG:80022540	Execution Site
+PROG:80022548	Gaol
+PROG:80022550	Naval School
+PROG:8002255c	Domain School
+PROG:80022564	Academy
+PROG:8002256c	Dōjō
+PROG:80022574	Shachū HQ
+PROG:80022580	Townhouse
+PROG:80022588	Noble Home
+PROG:80022590	Scholar Home
+PROG:80022598	Samurai Home
+PROG:800225a0	In Castle
+PROG:800225a8	Residence
+PROG:800225b0	Shrine
+PROG:800225b8	Temple
+PROG:800225bc	Legation
+PROG:800225c8	Trading House
+PROG:800225d4	Photo Studio
+PROG:800225dc	Doctor
+PROG:800225e4	Job Broker
+PROG:800225f0	Swords
+PROG:800225f8	Sundries
+PROG:80022604	Local Goods
+PROG:80022610	Shop
+PROG:80022618	Spa
+PROG:80022620	Bathhouse
+PROG:80022628	Tavern
+PROG:80022630	Restaurant
+PROG:80022638	Inn
+PROG:80022640	Stay
+PROG:80022648	Eat
+PROG:80022654	Have a Meal
+PROG:80022660	Drink Sake
+PROG:8002266c	Dine
+PROG:80022678	Buy Souvenirs
+PROG:80022688	Take a Break
+PROG:80022694	Bathe
+PROG:800226a0	Take the Waters
+PROG:800226ac	Appraisal
+PROG:800226b8	Sell Items
+PROG:800226c4	Buy Items
+PROG:800226d0	Sell Arms
+PROG:800226dc	Buy Arms
+PROG:800226e8	Work
+PROG:800226f0	See the Doctor
+PROG:80022700	Take a Photo
+PROG:8002270c	Visit
+PROG:80022718	Pray
+PROG:80022724	Shinsengumi Duty
+PROG:80022734	Kaientai Duty
+PROG:800228b0	-----
+PROG:800228c4	Base
+PROG:800228dc	{C5}Name{T148}Type{T224}Status
+PROG:80022904	K2, something urgent has come up, so I must take my leave of you here.\nWell then, farewell.
+PROG:8002294c	K2, I am sorry, but an urgent matter has come up and I must part from you here.\nIf you will excuse me, then.
+PROG:8002299c	K2, an urgent matter has come up, so please let me take my leave here.\nExcuse me, then.
+PROG:800229e0	K2, a bit of business has come up, so I'll have to leave you here.\nSee you around, then!
+PROG:80022a1c	K2, urgent business has arisen, so I will part from you here.
+PROG:80022a58	K2, forgive me, but pressing business calls me away, so we part here.\nTake good care on your way.
+PROG:80022ab4	K2, I do beg your pardon, but urgent business has come up, so I shall leave you here.\nWell, goodbye now.
+PROG:80022b0c	K2, I am ever so sorry, but something urgent has come up, so I must leave you here.\nWell, goodbye, then.
+PROG:80022b6c	K2, something urgent came up, so I'll have to leave you here.\nSee you later, then.
+PROG:80022bb8	K2, sorry, but urgent business calls me, so I must leave you here.\nFarewell, then.
+PROG:80022c00	K2, I regret that urgent business obliges me to leave you here.\nIf you will pardon me.
+PROG:80022c48	K2, I am terribly sorry, but urgent business means I must leave you here.\nPlease excuse me.
+PROG:80022c90	Well, the victory is mine today.\nLet us face each other again.
+PROG:80022cc8	Ha, I win!\nThat pleases me well.
+PROG:80022cf4	Ha, the victory is mine!\nMy thanks for the bout.
+PROG:80022d28	Ha, I win!\nHow pleasant!
+PROG:80022d4c	Thank you for letting me win.\nI hope we can spar again.
+PROG:80022d88	Thank you for letting me win.\nDo let us spar again.
+PROG:80022dc4	Well, it looks like I won today.\nIf you like, let's fight again.
+PROG:80022e0c	Hah hah hah! You are all talk!\nStill, don't let this discourage you. Spar with me again.
+PROG:80022e58	Well, it seems I somehow won.\nMy thanks for the bout.
+PROG:80022e90	Thank you for graciously handing me a lucky win.\nEven a lucky one is a joy.
+PROG:80022ee4	Well, I am in awe of your splendid skill.
+PROG:80022f04	Well, you have got me!\nThere is no beating you.
+PROG:80022f28	I yield.\nYour sword work is on another level.
+PROG:80022f58	Splendid.\nI am clearly no match for you.
+PROG:80022f8c	I yield.\nI am no match for you at all.
+PROG:80022fb8	I yield.\nYour sword work is truly on another level.
+PROG:80022fe8	You beat me, K2.\nI am no match for you.

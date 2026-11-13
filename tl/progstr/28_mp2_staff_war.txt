@@ -1,0 +1,371 @@
+# MP2 overlay (academies, dojo joining, shops, shrines, harbour, inns, doctor, work), SCOM (duel prompts), STAFF (credits; real names kept in Japanese), WAR (hex battle cries, status)
+MP2:8015b858	Western
+MP2:8015b860	Medicine
+MP2:8015b868	Strategy
+MP2:8015b870	Confucianism
+MP2:8015b878	Kokugaku
+MP2:8015b880	Dutch Studies
+MP2:8015b888	This academy teaches 
+MP2:8015b898	, 
+MP2:8015b89c	.
+MP2:8015b8b0	Quit the dōjō you joined (%s)?
+MP2:8015b8d4	Quit %s.
+MP2:8015b8e8	Cancel
+MP2:8015b8f0	Oguri-ryū
+MP2:8015b8f8	Jigen-ryū
+MP2:8015b900	Ryūgō-ryū
+MP2:8015b908	Ittō-ryū
+MP2:8015b910	Shingyōtō-ryū
+MP2:8015b91c	Jikishinkage-ryū
+MP2:8015b928	Hōzōin-ryū
+MP2:8015b934	Tennen Rishin-ryū
+MP2:8015b940	Shintō Munen-ryū
+MP2:8015b94c	Kyōshin Meichi-ryū
+MP2:8015b958	Hokushin Ittō-ryū
+MP2:8015b964	You're that dōjō challenger from before! Get out!
+MP2:8015b994	Your skill surpasses mine. You need not enrol here.
+MP2:8015b9cc	You seem to be training in other schools. Do not spread yourself thin in the way of the sword.
+MP2:8015ba1c	This dōjō teaches %s.\nFirst, pay an entrance fee of %d ryō.
+MP2:8015ba54	Splendid! I shall make ready at once.
+MP2:8015ba84	A dōjō needs funds to run. Come back later.
+MP2:8015bac4	A pity. Yet a samurai must not neglect his swordsmanship.
+MP2:8015bb0c	You seem to be studying many things. Do not spread yourself thin in your learning.
+MP2:8015bb5c	Quit the academy you joined?
+MP2:8015bb7c	First, pay an entrance fee of %d ryō.
+MP2:8015bba4	Even a school has its expenses. Come back later.
+MP2:8015bbe0	A pity. Learning is the way of the age ahead.
+MP2:8015bc30	Thanks!
+MP2:8015bc40	%s costs %d ryō. Buy it?
+MP2:8015bc64	Equip %s?
+MP2:8015bc78	Change your equipment to %s?
+MP2:8015bc94	You got a discount!
+MP2:8015bcb0	Hm, my pack is full...
+MP2:8015bccc	Sorry, customer, you're short of money.
+MP2:8015bcf4	Sorry, but I've nothing to sell you.
+MP2:8015bd18	No good, I lack the funds...
+MP2:8015bd30	No good, this ship's hold is full...
+MP2:8015bd5c	Sorry, I have no goods to sell...
+MP2:8015bd8c	Anything else?
+MP2:8015bda4	Stop Shopping
+MP2:8015bdd0	Right.
+MP2:8015bdd8	You got a discount!
+MP2:8015bdf4	Sorry, we're not open now.
+MP2:8015be34	%s... Well, that's about right.
+MP2:8015be54	Not enough Drive to pay a visit!
+MP2:8015be7c	Now, what shall I pray for...
+MP2:8015be98	Great Luck! Something good may happen today!
+MP2:8015bec4	Great Luck! Today will bring good things!
+MP2:8015bef4	Middle Luck! Something good may happen!
+MP2:8015bf1c	Middle Luck! Good things ahead!
+MP2:8015bf44	Small Luck
+MP2:8015bf4c	Slight Luck
+MP2:8015bf54	Luck
+MP2:8015bf58	Bad Luck! How ominous...
+MP2:8015bf70	Terrible Luck! Hm... heaven help me.
+MP2:8015bf98	I'd leave an offering, but I'm penniless...
+MP2:8015bfe0	If you insist, so be it. Shall we sever ties?
+MP2:8015c01c	Are you serious?
+MP2:8015c064	Hold on, I can't take you aboard.
+MP2:8015c094	No regular ships leave this port.
+MP2:8015c0b4	Go to Near Port
+MP2:8015c0c4	Go to Far Port
+MP2:8015c0d4	Cancel Selection
+MP2:8015c0e0	You cannot enter %s now.
+MP2:8015c104	There is no port near here.\nChoose Go to Far Port to set a destination.
+MP2:8015c148	No Port
+MP2:8015c158	You cannot sail without someone with Navigation 20 or more.
+MP2:8015c18c	We shall sail for %s now.\nIs that all right?
+MP2:8015c1bc	Right, we sail for %s!
+MP2:8015c214	The Great Buddha of Kōtoku-in is about 11 metres high; standing, it would reach 24 metres, they say.
+MP2:8015c26c	Sanjūsangen-dō is named for the thirty-three bays between the pillars of its main hall.\nThousand-armed Kannon statues line its long interior.
+MP2:8015c2d8	Nikkō Tōshō-gū enshrines Tokugawa Ieyasu as Tōshō Daigongen. The third shōgun, Iemitsu, is said to have completed its present form.
+MP2:8015c344	Kiyomizu-dera is said to have been founded by the shōgun Sakanoue no Tamuramaro.\nIts main hall is famed as the "Kiyomizu Stage".
+MP2:8015c3a4	Ginkaku-ji was founded by Ashikaga Yoshimasa in 1482.\nIt evokes the wabi and sabi of Higashiyama culture.
+MP2:8015c404	Kinkaku-ji was founded by Ashikaga Yoshimitsu in 1394.\nIt is famed as a symbol of the splendid Kitayama culture.
+MP2:8015c458	Sensō-ji is said to date from the reign of Empress Suiko.\nIts gate, Kaminarimon, enshrines the Wind God on the right and the Thunder God on the left.
+MP2:8015c4c4	Kan'ei-ji was founded in Kan'ei 2 by the third shōgun, Iemitsu, as the Tokugawa family temple.
+MP2:8015c510	Not enough Drive to go sightseeing!
+MP2:8015c534	So this is the renowned %s... Truly magnificent...
+MP2:8015c574	So this is the renowned %s... Truly magnificent...
+MP2:8015c5b0	Thank you!
+MP2:8015c5c0	Thank you for your custom.
+MP2:8015c5e0	%s fetches %d ryō. Sell it?
+MP2:8015c604	Can't sell equipped gear!
+MP2:8015c620	Your purse is full!
+MP2:8015c638	You have nothing to sell to %s!
+MP2:8015c65c	Sorry, we don't buy things here...
+MP2:8015c688	You can't hold any more money!
+MP2:8015c6c4	%s-san, this won't do. Sorry, come back later.
+MP2:8015c6ec	%s-san, that won't do. Sorry, come back another time, eh?
+MP2:8015c714	%s-han, I'm so sorry, but would you kindly come back later?
+MP2:8015c740	%s-han, pardon me, but would you mind coming back another day?
+MP2:8015c76c	%s-san, that's awkward. Sorry, but come back again.
+MP2:8015c798	%s-san, that's no good. Sorry, but could you come back later?
+MP2:8015c7cc	%s-san, this is awkward. Our apologies, pray come back later.
+MP2:8015c804	Out of cash, eh? No custom without %d ryō!
+MP2:8015c838	Forgive me, sir, but we turn away anyone without %d ryō.
+MP2:8015c864	Sorry, sir, we can't take anybody short of %d ryō.
+MP2:8015c88c	We don't take anyone with less than %d ryō.
+MP2:8015c8b8	Nobody with less than %d ryō gets in.
+MP2:8015c8e4	Sir, those without %d ryō are refused.
+MP2:8015c93c	No free baths!
+MP2:8015c954	My wounds are mending...
+MP2:8015c96c	My illness is easing...
+MP2:8015c984	My body feels lighter...
+MP2:8015c998	My skin feels clearer somehow...
+MP2:8015c9b8	Ahh, I feel alive again...
+MP2:8015c9cc	Ahh, nothing beats a hot spring...
+MP2:8015ca04	Sorry, customer, we are not in business.
+MP2:8015ca34	Not enough Drive to have a photo taken!
+MP2:8015ca5c	A photograph costs about %d ryō. Is that all right?
+MP2:8015ca8c	Now, hold the same pose, without moving, until my signal. Understood?
+MP2:8015cad4	You are now acquainted with %s!
+MP2:8015caec	Foreign Insight rose by %d!
+MP2:8015cb08	Hm, my pack is full...
+MP2:8015cb24	A photograph costs about %d ryō. I'm afraid you don't have enough.
+MP2:8015cb74	Hangover 
+MP2:8015cb80	Food Poisoning 
+MP2:8015cb88	Influenza
+MP2:8015cb90	Cholera 
+MP2:8015cb98	Smallpox 
+MP2:8015cba0	Consumption 
+MP2:8015cba8	Gunshot Wound 
+MP2:8015cbb0	Sword Wound 
+MP2:8015cbb8	Just a hangover. Come again if you feel worse.
+MP2:8015cbf0	You should be fine now. Drinking too much poisons the body.
+MP2:8015cc1c	Food poisoning. Eat little for a while and keep coming.
+MP2:8015cc4c	You should be fine now. Take care with your food.
+MP2:8015cc80	Influenza. It is going round, so keep coming.
+MP2:8015cca8	You should be fine now. A chill invites influenza, so take care.
+MP2:8015ccf4	Cholera. A dangerous epidemic, so keep coming.
+MP2:8015cd24	You should be fine now. Where cholera spreads, beware raw water and raw food.
+MP2:8015cd74	Smallpox. It threatens life, so keep coming.
+MP2:8015cda0	You should be fine now. Do take great care with smallpox.
+MP2:8015cdd4	...Looks like consumption. Keep coming.
+MP2:8015cdf4	Rest and recover. That is the best medicine for consumption.
+MP2:8015ce24	Gunshot wounds heal slowly. Come back to be seen.
+MP2:8015ce4c	You should be fine now. Do not get shot again.
+MP2:8015ce84	A bad sword wound. Keep coming for a while yet.
+MP2:8015ceb0	You should be fine now. Do not be so reckless.
+MP2:8015cee4	Without rest, your life is at risk.
+MP2:8015cf04	That should do it.
+MP2:8015cf1c	Oh, your companion looks unwell. Come, let me take a look.
+MP2:8015cf58	Thank you.
+MP2:8015cf70	Hm, those wounds look bad. Let me treat them.
+MP2:8015cfa0	Hm, you look unwell. Let me treat you.
+MP2:8015cfcc	Medicine is a benevolent art. Pay what you have on you.
+MP2:8015cffc	Hm, the wounds are in a bad way. You must stay for treatment.
+MP2:8015d03c	Hm, a serious illness. You must stay in hospital for a while.
+MP2:8015d070	It may take ten days or more. Will you stay?
+MP2:8015d0a0	Medicine is a benevolent art. No charge this time.
+MP2:8015d0c4	Hm, you seem worn out. Let me see.
+MP2:8015d0f4	You are fine. If fatigue lingers, eat something nourishing.
+MP2:8015d12c	Hm, nothing seems wrong with you.
+MP2:8015d154	I'll give you the usual treatment, then.
+MP2:8015d180	Medicine is benevolent, but we must eat. Come back later.
+MP2:8015d1b8	Good work! Here's %d ryō.
+MP2:8015d1d0	Not enough Drive to work!
+MP2:8015d1f0	You look pale. Sick folk, go home and rest!
+MP2:8015d220	Sorry, we're closed today.
+MP2:8015d244	Very hard work, but it pays the most. Want it?
+MP2:8015d274	Hard work, but good pay. Want it?
+MP2:8015d298	Easy work, but low pay. Want it?
+MP2:8015d2b8	Load
+MP2:8015d2c4	Unload
+MP2:8015d2cc	Sort Cargo
+MP2:8015d2dc	Quit Work
+MP2:8015d2ec	Not enough Drive for %s!
+SCOM:8015ba48	{c5}Connect Controller 1.{c7}
+SCOM:8015bac0	  One moment, please.
+STAFF:8015b858	-
+STAFF:8015b86c	General Producer
+STAFF:8015b884	Office Two-One Inc.
+STAFF:8015b8a4	Aoni Production Co., Ltd.
+STAFF:8015b8c0	Digimation Co., Ltd.
+STAFF:8015b8d8	Studio Deen Co., Ltd.
+STAFF:8015b8f4	Studio Loft
+STAFF:8015b904	Jec-E
+STAFF:8015b910	Trans Arts Co., Ltd.
+STAFF:8015b92c	Urban Product
+STAFF:8015b940	-
+STAFF:8015b94c	-
+STAFF:8015b958	-
+STAFF:8015b964	-
+STAFF:8015b970	Production Aid
+STAFF:8015b97c	-
+STAFF:8015b98c	Office Shintairiku
+STAFF:8015b99c	-
+STAFF:8015b9a8	ASCII Login Editorial Dept.
+STAFF:8015b9c8	Planning Aid
+STAFF:8015b9d4	-
+STAFF:8015b9e4	-
+STAFF:8015b9f0	-
+STAFF:8015b9fc	-
+STAFF:8015ba0c	-
+STAFF:8015ba14	-
+STAFF:8015ba20	-
+STAFF:8015ba2c	-
+STAFF:8015ba38	-
+STAFF:8015ba44	-
+STAFF:8015ba50	-
+STAFF:8015ba5c	-
+STAFF:8015ba68	-
+STAFF:8015ba74	Data and Events
+STAFF:8015ba8c	-
+STAFF:8015ba98	-
+STAFF:8015baa4	-
+STAFF:8015bab0	-
+STAFF:8015babc	-
+STAFF:8015bac8	-
+STAFF:8015bad4	-
+STAFF:8015bae0	-
+STAFF:8015baec	-
+STAFF:8015baf8	-
+STAFF:8015bb04	-
+STAFF:8015bb10	-
+STAFF:8015bb1c	-
+STAFF:8015bb28	-
+STAFF:8015bb44	-
+STAFF:8015bb60	-
+STAFF:8015bb7c	-
+STAFF:8015bb98	-
+STAFF:8015bbb4	-
+STAFF:8015bbd0	-
+STAFF:8015bbec	-
+STAFF:8015bc08	-
+STAFF:8015bc24	-
+STAFF:8015bc40	-
+STAFF:8015bc5c	Character Models
+STAFF:8015bc6c	-
+STAFF:8015bc8c	-
+STAFF:8015bc98	-
+STAFF:8015bca8	-
+STAFF:8015bcb4	-
+STAFF:8015bcc0	-
+STAFF:8015bccc	-
+STAFF:8015bcdc	-
+STAFF:8015bcf0	-
+STAFF:8015bd0c	-
+STAFF:8015bd24	Movie Voices
+STAFF:8015bd34	-
+STAFF:8015bd40	-
+STAFF:8015bd4c	Sales
+STAFF:8015bd54	Software Manual
+STAFF:8015bd6c	-
+STAFF:8015bd8c	-
+STAFF:8015bdac	(Opening / Ending)
+STAFF:8015bdcc	-
+STAFF:8015bdd8	Music
+STAFF:8015bde4	-
+STAFF:8015bdf8	-
+STAFF:8015be04	-
+STAFF:8015be10	-
+STAFF:8015be20	-
+STAFF:8015be2c	Sound Staff
+STAFF:8015be40	-
+STAFF:8015be4c	-
+STAFF:8015be58	CG Design
+STAFF:8015be68	-
+STAFF:8015be74	Main CG Design
+STAFF:8015be88	-
+STAFF:8015be94	Main Character Design
+STAFF:8015beb0	-
+STAFF:8015bebc	-
+STAFF:8015bec8	-
+STAFF:8015bed4	-
+STAFF:8015bee0	-
+STAFF:8015beec	Director
+STAFF:8015befc	-
+STAFF:8015bf08	Producer
+STAFF:8015bf18	Original Staff
+STAFF:8015bf2c	-
+STAFF:8015bf38	-
+STAFF:8015bf44	Special Thanks
+STAFF:8015bf58	-
+STAFF:8015bf68	-
+STAFF:8015bf74	Publicity
+STAFF:8015bf7c	-
+STAFF:8015bf88	-
+STAFF:8015bf94	Manual
+STAFF:8015bfa0	-
+STAFF:8015bfac	Sound Director
+STAFF:8015bfc4	-
+STAFF:8015bfd0	Movie Editing
+STAFF:8015bfe0	-
+STAFF:8015bfec	CG Director
+STAFF:8015c000	-
+STAFF:8015c00c	-
+STAFF:8015c018	Programming
+STAFF:8015c028	-
+STAFF:8015c038	-
+STAFF:8015c044	Scenario
+STAFF:8015c050	Staff
+STAFF:8015c074	Sakamoto Ryōma
+WAR:8015b858	Ugh, my armour saved me...
+WAR:8015b874	Your armour was destroyed!
+WAR:8015b88c	Heh, too slow.
+WAR:8015b89c	Too soft.
+WAR:8015b8a8	Cheeeeeeeeeest!
+WAR:8015b8d0	Raaah!
+WAR:8015b8e0	Hmph!
+WAR:8015b8ec	Hyah!
+WAR:8015b8f8	Tennen Rishin-ryū, Tiger Tail Flash!
+WAR:8015b91c	Damn... I'm done...
+WAR:8015b930	The shame...
+WAR:8015b93c	Damn you...
+WAR:8015b948	Careless...
+WAR:8015b950	Gwaah!
+WAR:8015b95c	Ugh!
+WAR:8015b964	Hmph, a trifle!
+WAR:8015b978	Damn
+WAR:8015b980	Ouch
+WAR:8015b988	Eek
+WAR:8015b990	Ouch!
+WAR:8015b99c	O-ow, it pains me
+WAR:8015b9b0	Eeeek
+WAR:8015b9bc	Ah, the shame of it...
+WAR:8015b9d4	Ow!
+WAR:8015b9e0	No!
+WAR:8015b9ec	Aaaaah!
+WAR:8015b9fc	Ugh...
+WAR:8015ba04	D-damn you...
+WAR:8015ba18	Guh...
+WAR:8015ba24	Damn, my sword broke
+WAR:8015ba38	Damn, the sword broke!
+WAR:8015ba70	%s's Sword Skill rose by %d!
+WAR:8015ba8c	{C5}  Name{T128}Status{T176}Exp.{C7}
+WAR:8015bab8	%s{T176}
+WAR:8015bac0	---
+WAR:8015bae4	Damn it, I'll not retreat!
+WAR:8015bb08	No! I can't escape
+WAR:8015bb20	I can't get away like this
+WAR:8015bb3c	I'll never retreat!
+WAR:8015bb58	I can't be the only one to retreat!
+WAR:8015bb7c	Retreat is forbidden by Shinsengumi rules!
+WAR:8015bba8	Have %s retreat?
+WAR:8015bbc0	%s retreated from the field!
+WAR:8015be60	{C4}Fled{C7}
+WAR:8015be6c	{C}:Dead{C7}
+WAR:8015be78	{C}:Fainted{C7}
+WAR:8015be84	{C2}Serious{C7}
+WAR:8015be90	{C6}Minor{C7}
+WAR:8015be9c	{C4}Normal{C7}
+WAR:8015beb4	Vigour: %s
+WAR:8015bec0	{C7}Fencing:%5g
+WAR:8015bed0	Status: %s
+WAR:8015bedc	{C7}Exp.:%5g
+WAR:8015beec	Come on, come on!
+WAR:8015bf04	Raaaah!!
+WAR:8015bf14	Raaah!
+WAR:8015bf20	Come at me!
+WAR:8015bf34	Phew
+WAR:8015bf3c	Not done yet!
+WAR:8015bf50	Haah, haah...
+WAR:8015bf60	This is hard...
+WAR:8015bf6c	{C5} Name {n}:Vigour
+WAR:8015bfb8	{C2}Peak
+WAR:8015bfc0	{C4}Fit
+WAR:8015bfc8	{C5}Fair
+WAR:8015bfd0	{C}:Tired
+
+WAR:8015bad0	Hm, no escape!

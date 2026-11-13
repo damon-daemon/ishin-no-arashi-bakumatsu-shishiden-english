@@ -1,0 +1,645 @@
+@0
+Ryōma, today there's someone I want you to meet.
+
+@2
+Never mind that, just follow me.
+
+@3
+Sorry to keep you waiting.
+
+@4
+Ah, Awa-dono! We started without you.
+
+@5
+Not at all, please don't mind me.
+
+@6
+And who is this?
+
+@7
+This is Sakamoto Ryōma-kun, who recently became my pupil.
+
+@8
+Pleased to meet you... and who might you be, sir?
+
+@9
+Matsudaira Yoshinaga, Lord Shungaku of Echizen.
+
+@10
+...What?!
+
+@11
+Lord Shungaku... one of the famed Four Wise Lords...
+
+@12
+The Chief Political Councillor of the shogunate? A lord of the shogun's own kin, with masterless rōnin like us...?
+
+@13
+Now, now, don't stiffen up. Lord Shungaku is a friend of mine.
+
+@14
+Ha ha ha, pleased to meet you.
+
+@15
+The pleasure is mine... (What a friendly lord...)
+
+@16
+Y-yes, my lord!
+
+@17
+And this is Mitsuoka Hachirō. He is Lord Shungaku's right hand, and runs the finances of the Fukui Domain.
+
+@18
+Pleased to meet you.
+
+@19
+This Ryōma is quite a hero, I tell you. He's different from the common shishi who flood the streets.
+
+@20
+Oh ho, that is reassuring.
+
+@21
+He understands that jōi cannot be done overnight.
+
+@22
+Then with what should we face the foreign powers? What do you think, Ryōma-kun?
+
+@23
+"Swords"\n"Ships"\n"Money"
+
+@24
+Swords... you say?
+
+@25
+Ah yes, Sakamoto-kun is a master of the Hokushin Ittō-ryū. But I doubt swords can stand against foreign weapons.
+
+@26
+"Indeed"\n"That's wrong"
+
+@27
+...You're right, sir.
+
+@28
+Ha ha, if you agree that meekly, I'm rather let down.
+
+@29
+That's not so. What matters is the spirit of the sword. Watch how the enemy moves and always seize the initiative. In war, speed is what counts.
+
+@30
+Ha ha. A lofty argument, I'm impressed.
+
+@31
+The Black Ship fleet, of course!
+
+@32
+Do you like ships, Sakamoto-kun?
+
+@33
+"Yes"\n"No"
+
+@34
+I love them!
+
+@35
+Ha ha, following the path one loves to the end is a fine thing.
+
+@36
+Not really... but the Black Ships are terribly strong!
+
+@37
+Pfft! Ha ha, that's certainly true.
+
+@38
+The power of money. Making a profit through trade comes first.
+
+@39
+I'm astonished. You think like no samurai I know.
+
+@40
+I'm only repeating what Katsu-sensei taught me.
+
+@41
+Ha ha, but I believe that's right too.
+
+@42
+In the world to come, no battle can be won without financial strength.
+
+@43
+Right now he is a rōnin who fled Tosa. Pursuers dog him every day.
+
+@44
+That must be hard. I am on close terms with Lord Yōdō. When the chance comes, I'll ask him to pardon you for leaving the domain, Ryōma-kun.
+
+@45
+You are too kind. Thank you.
+
+@46
+Come, Ryōma, let's drink!
+
+@47
+For Japan, surrounded by sea, to stand as a nation, expanding maritime trade and building a navy are essential.
+
+@48
+Hmm. Still, the shogunate alone will find it difficult. And right now the whole shogunate council is busy preparing for the journey to Kyōto.
+
+@49
+I think we should build a navy apart from the shogunate, with funds from the domains.
+
+@51
+In Kyōto, violent rōnin keep committing pointless Tenchū almost every day. I want to stop their outrages and train them into sailors who will defend Japan in the future.
+
+@52
+"That's a fine idea!"\n"..."
+
+@53
+That's a fine idea! There are plenty of fools in Tosa too who have dirtied their hands with that worthless Tenchū. I want to save them from the path of carnage!
+
+@54
+Let me join that navy too.
+
+@55
+Of course, that's what I had in mind. You're my best pupil, so I expect you to become at least the captain of a Black Ship... no, a fleet commander.
+
+@56
+Me?! Good heavens!
+
+@58
+Ryōma, you're my best pupil, so I'll have you captain one of those Black Ships... no, command a whole fleet.
+
+@59
+Me?!
+
+@60
+Ha ha ha! It will surely be a splendid fleet. My domain will gladly help.
+
+@61
+I'm counting on you.
+
+@62
+Ryōma!
+
+@63
+Hanpeita! You came to Edo!
+
+@64
+I wanted to disbelieve the rumour, but I hear you've become Katsu's disciple.
+
+@66
+Ryōma! What is the meaning of this?! Katsu is a shogunate retainer, and the standard-bearer of the open-country faction!
+
+@67
+I changed my mind.
+
+@68
+You changed your mind? Didn't you come to Edo to cut Katsu down?!
+
+@69
+Listening to Katsu-sensei opened my eyes. I've seen the road to save Japan that I was searching for.
+
+@70
+Katsu has fooled you! That man will sell Japan to the foreigners!
+
+@71
+Go and meet Katsu-sensei yourself. That misunderstanding will clear up at once.
+
+@72
+...It seems there's no use talking further. I was wrong to count on you...
+
+@73
+Do as you please. But you'll soon see Katsu for what he is, and regret it!
+
+@74
+Hanpeita...
+
+@75
+"Stop the Tenchū"\n"..."
+
+@76
+It's your way that's wrong. Tenchū won't change the world.
+
+@77
+No, it will. I'll make it change! As I made Tosa a loyalist domain!
+
+@78
+Tosa hasn't changed at all. Yōdō and most of the upper samurai are sabaku at heart.
+
+@79
+...Enough. It seems we can come no closer.
+
+@81
+Is Ryōma here?
+
+@82
+Sensei.
+
+@83
+The shōgun is going up to Kyōto, so I have to head for Kamigata. You come along too.
+
+@84
+Kamigata... you mean Kyōto?
+
+@85
+We go on a shogunate Black Ship. We should arrive in two or three days. I won't be back in Edo for a while, so bear that in mind.
+
+@86
+Go\nDon't go
+
+@87
+I'd like to stay in Edo, though...
+
+@88
+Don't be selfish. Until now the Tosa officials turned a blind eye because you're my pupil. Once I'm gone, you'll be caught if you stay in Edo.
+
+@90
+I hear Lord Yōdō is in Kamigata, so I mean to ask him to pardon your leaving the domain. Come on, come with me.
+
+@91
+Go\nDon't go
+
+@92
+I have things to do in Edo for a while.
+
+@93
+I see. Then come later, but get to Kyōto before the domain officials catch you.
+
+@94
+If you say you're my pupil, you should manage until you leave Edo.
+
+@96
+Leave Edo
+
+@98
+I'm coming along too.
+
+@99
+Can my companions ride with us as well?
+
+@100
+Yes, go ahead.
+
+@101
+At last we can work in Kyōto too!
+
+@102
+Um... me too...
+
+@103
+Invite Sana\nDon't invite her
+
+@104
+Will you come too, Sana-san?
+
+@105
+Ryōma. Don't take this the wrong way, but would you wait to take Sana along until you're properly ready for it?
+
+@106
+...You're quite right.
+
+@108
+Sana!
+
+@110
+Set off\nInvite Jūtarō
+
+@111
+Jū-san, won't you come too?
+
+@112
+Me?
+
+@113
+You'd get to ride a Black Ship, you know.
+
+@114
+If you're going, Ryō-san, I'll come along.
+
+@115
+No, I'll pass.
+
+@116
+Now, we sail!
+
+@117
+You look happy.
+
+@118
+"Of course"\n"Not that much"
+
+@119
+How could I not be glad!
+
+@120
+Few grown men can be that openly happy.
+
+@121
+...Not that much.
+
+@122
+Ha ha, don't be shy.
+
+@123
+Listen, Ryōma. During this voyage, watch the actual handling of the ship as much as you can.
+
+@124
+Katsu-dono.
+
+@125
+What is it? Later.
+
+@126
+Are you really going to lodge this man in your cabin, Katsu-dono?
+
+@127
+Yes, he's my pupil.
+
+@128
+That's a problem. The cabins are full as it is, and even high shogunate officials have been put in the common quarters.
+
+@129
+What does it matter? Only I use it anyway. If cabins are short, all the better.
+
+@130
+Shogunate retainers are complaining: why is a rōnin in the officers' quarters?
+
+@131
+Honestly, what petty things they say. I say it's fine, so it's fine! Give your attention to something more sensible!
+
+@132
+Y-yes, sir...
+
+@133
+Leave the cabin\nStay put
+
+@134
+I'll go out on deck.
+
+@135
+Is it all right if I stay here?
+
+@136
+Yes, don't mind them. Ignore them.
+
+@138
+That's shogunate retainers for you, always like this. All they value is rank and precedent; they're fools who never think about the substance of things.
+
+@139
+Ugh, b-bleargh!
+
+@140
+Sensei, are you all right?
+
+@141
+I-I'm fine... bleaaargh!
+
+@142
+A Navy Commissioner who gets seasick...
+
+@143
+Th-this isn't even funny. Ha, ha, uuugh!
+
+@144
+We've arrived.
+
+@145
+T-thank goodness...!
+
+@146
+First, we go and see Lord Yōdō at the Tosa residence.
+
+@147
+Let's rest a little first.
+
+@148
+No, I felt better the moment I stepped on dry land. We must get your crime of leaving the domain pardoned quickly.
+
+@149
+Sensei...
+
+@150
+Excuse me. I am Katsu, a shogunate retainer. I wish to see Lord Yōdō.
+
+@151
+Katsu-dono... pray wait a moment.
+
+@152
+You stay here. I'll arrange it.
+
+@153
+Well, it seems Lord Shungaku already put in a word. They forgave you at once.
+
+@154
+Rejoice, Ryōma. You're forgiven. It went so easily that I was almost let down.
+
+@155
+Truly, thank you.
+
+@156
+But there's a catch.
+
+@158
+You're to be confined in this residence for 15 days.
+
+@159
+You're to be confined in this residence for 7 days.
+
+@161
+Don't complain. For a little patience, your grave crime of leaving the domain vanishes completely. And they've even granted you leave to travel freely in the Kinai!
+
+@163
+I'm heading to Kyōto at once. Come when your confinement is lifted.
+
+@165
+Sakamoto Ryōma! You, a gōshi of this domain, abandoned your proper duty and fled the domain. Your crime is truly grave.
+
+@166
+By rights you would be ordered to commit seppuku, but through the retired lord's special consideration, this time...
+
+@167
+(Get on with it...)
+
+@168
+...after discussion, you are sentenced to 15 days' confinement. Understood?
+
+@169
+...after discussion, you are sentenced to 7 days' confinement. Understood?
+
+@171
+So dull... I'm sorry for Katsu-sensei, who went to such trouble, but I might as well have stayed a rōnin.
+
+@172
+Sakamoto Ryōma, your confinement is lifted as of today. From now on, at the Kyōto residence, obey the domain's rules, keep to the true duty of a samurai, and in the spirit of Lord Yōdō's mercy...
+
+@173
+(Haa...)
+
+@174
+...in accordance with that attitude, devote yourself daily to improvement. Understood?
+
+@175
+"Yes, yes"\n"Shut up"
+
+@178
+Be quiet!
+
+@179
+W-w-what?! What did you just say?!
+
+@180
+Nothing. A horsefly has been buzzing around me this whole time. Ah, how annoying.
+
+@181
+Grr...!
+
+@182
+Thank you for having me.
+
+@183
+Hm? What's that crowd?
+
+@184
+Quite a lot of rōnin have gathered.
+
+@185
+Out of the way! Out of my way!!
+
+@187
+Gah ha ha ha!! In the capital, I'll make the name of Serizawa Kamo ring out!
+
+@188
+What on earth was that...?
+
+@189
+Oh! Sakamoto-kun, is that you?
+
+@190
+Kiyokawa-san!
+
+@191
+How do you like it? This is the Rōshigumi that will keep the peace in Kyōto. Impressive, isn't it?
+
+@192
+You're in the Rōshigumi too, Kiyokawa-san?
+
+@193
+Ha ha, this corps came about from my own proposal. I lobbied the high officials of the shogunate.
+
+@195
+(Between us, the moment this corps reaches Kyōto it becomes a loyalist army.)
+
+@196
+But the shogunate made this corps, didn't it?
+
+@197
+(Shh! ...Don't worry, I've been entrusted with steering things in Kyōto. I've got them to gather troops for overthrowing the shogunate with the shogunate's own money. A rather clever trick, don't you think?)
+
+@198
+(Will everyone go along with it?)
+
+@199
+(A bunch of provincial swordsmen? I'll talk them round with my glib tongue. Will you join too?)
+
+@200
+Join\nDon't join
+
+@201
+(If it truly becomes a loyalist corps, I might join.)
+
+@202
+(Well, just watch how I handle it.)
+
+@203
+(I can't entrust myself to something so dubious.)
+
+@204
+(Well, just watch how I handle it.)
+
+@205
+Wa ha ha! I can't wait to get started, Toshi-san!
+
+@206
+...Heh.
+
+@207
+Hm? Are you also hoping to join the Rōshigumi?
+
+@209
+Eh? Ah, yes.
+
+@210
+I hear you line up over there and write your name.
+
+@211
+I see. Thank you.
+
+@212
+I only came to look.
+
+@213
+I see.
+
+@214
+Now, we depart for Kyōto!
+
+@215
+(Wait. With this Rōshigumi, I could slip past the domain officials and enter Kyōto.)
+
+@216
+Slip in\nLeave
+
+@217
+(I'll slip in.)
+
+@218
+(It's too much trouble. I'll go up to Kyōto on my own.)
+
+@219
+Sakamoto Ryōma, deserter of Tosa!
+
+@221
+You can't escape now!
+
+@222
+Pursuers from the domain!
+
+@224
+Sana-san! Get back!
+
+@225
+Ryō-san, run!
+
+@226
+You're under arrest for the murder of Tōyō!
+
+@227
+I won't die in a place like this!
+
+@229
+Give up! Resist and you'll be cut down!
+
+@230
+They mean business.
+
+@231
+Get him! Cut him down!
+
+@232
+Damn it, don't flinch! All at once!
+
+@233
+Don't let him escape! Cut him down, cut him down!
+
+@234
+What are you doing?! Hurry up and finish him!
+
+@235
+You think you can escape?!
+
+@236
+That takes care of them.
+
+@237
+I managed to get away.
+
+@238
+So the domain's hand has reached even Edo... I have no choice but to go to Katsu-sensei in Kyōto.
+

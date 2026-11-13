@@ -1,0 +1,225 @@
+@0
+S2-dono!
+
+@2
+It seems the shogunate is finally moving its army against Chōshū! We of the Yūgekitai will meet them together with Chōshū. Hurry and join us!
+
+@3
+On the remaining Sekishū and Geishū fronts too, thanks to the Kiheitai's extraordinarily high morale, the overwhelming power of the new rifles and the genius of Ōmura Masujirō's generalship...
+
+@6
+Meanwhile, the armies of the other pro-shogunate domains only exposed their outdated equipment, unchanged since Sekigahara, their low morale after long peace, and their clumsy tactics.
+
+@7
+On the Sekishū and Geishū fronts, thanks to the Kiheitai's extraordinarily high morale and the genius of Ōmura Masujirō's generalship...
+
+@11
+On the remaining Sekishū and Geishū fronts too, thanks to the Chōshū army's extraordinarily high morale, the overwhelming power of the new rifles and the genius of Ōmura Masujirō's generalship...
+
+@12
+the Chōshū army began to drive back an enemy of overwhelming numbers.
+
+@14
+On the Sekishū and Geishū fronts, thanks to their extraordinarily high morale, the overwhelming power of the new rifles and the genius of Ōmura Masujirō's generalship, the Chōshū army...
+
+@16
+On the Sekishū and Geishū fronts, thanks to their extraordinarily high morale and the genius of Ōmura Masujirō's generalship, the Chōshū army...
+
+@18
+And now, news arrives of the death of the 14th shōgun, Iemochi.
+
+@19
+S2-han. At last, the second Chōshū Expedition has begun.
+
+@20
+At last we are to punish Chōshū, enemy of the Court, by force of arms!
+
+@21
+Fight bravely, every man of you!
+
+@22
+M2, I leave command of the swordsmen's unit to you. Break through their lines for us.
+
+@23
+At last we are to punish Chōshū, enemy of the Court, by force of arms!
+
+@24
+Fight bravely, every man of you!
+
+@25
+M2, I leave command of the swordsmen's unit to you. Break through their lines for us.
+
+@26
+Charge!
+
+@27
+Even this victory was a very small gain when set against the sorry state of the shogunate army as a whole.
+
+@28
+As it turned out, the war was all too one-sided, contrary to prewar expectations.
+
+@29
+Though the shogunate army had overwhelming numbers, it lost battle after battle before Chōshū's extraordinarily high morale, the tremendous power of its new rifles and Ōmura Masujirō's military genius.
+
+@30
+Though the shogunate army had overwhelming numbers, it was instead pushed back by Chōshū's extraordinarily high morale, the tremendous power of its new rifles and Ōmura Masujirō's military genius.
+
+@32
+As it turned out, the prewar predictions had been entirely wrong.
+
+@36
+And now, news arrives of the death of the 14th shōgun, Iemochi.
+
+@37
+But at that moment, news arrives of the death of the 14th shōgun, Iemochi.
+
+@38
+Fearing the drop in morale this would cause, the punitive army was forced to withdraw, even with Hagi Castle right before its eyes.
+
+@44
+Good timing. Would you come with me?
+
+@46
+I won't force you.
+
+@47
+I'll go on my own, then.
+
+@50
+I can't say it out loud, but it seems that man has a taste for men...
+
+@54
+Of course, I've no firm proof, but wouldn't it be trouble if such a rumour spread through the corps?
+
+@58
+When I declined, saying I had no interest, he told me every time we met that a man ought not to be like that, so I had no choice but to go along.
+
+@66
+N-never! I have no such tastes!
+
+@79
+Don't blame me if Magoshi-kun strays from the path.
+
+@80
+But since nothing has actually happened yet, it's hard to say anything to Takeda-kun. Besides, I'm no good with this sort of thing.
+
+@82
+Yamazaki-kun, S2-san. Just in case, look into what Takeda-kun is up to.
+
+@83
+Besides, Takeda-kun's behaviour has been suspicious in other ways too.
+
+@84
+Watch Takeda Kanryūsai
+
+@86
+Ah, Takeda-san!
+
+@87
+He's gone...
+
+@88
+Follow him\nDo nothing
+
+@89
+Well, it's probably nothing.
+
+@90
+S2-han. Takeda-han has committed seppuku.
+
+@92
+Just to be safe, I'll tail him.
+
+@93
+Hm?! He went into the Satsuma residence!
+
+@94
+(I'll watch for a while.)
+
+@96
+Thank you for your trouble.
+
+@97
+Keep this between us!
+
+@98
+Understood.
+
+@99
+Then, take care.
+
+@101
+(He was talking on friendly terms with a Satsuma samurai! I must report this to Hijikata-san!)
+
+@102
+What? You saw Takeda-kun going in and out of the Satsuma residence?!
+
+@103
+Satsuma... There have been disturbing moves lately between them and Chōshū...
+
+@104
+I think it is reasonable to suppose Takeda-san is in secret contact with Satsuma.
+
+@105
+You're right. I'll talk it over with Kondō-san.
+
+@125
+Ha ha ha. We've spent years together as comrades, after all. Let's have no more secrets now.
+
+@127
+A celebration for Takeda-kun's great advancement. Everyone, drink up! Come, Takeda-kun, empty your cup too.
+
+@136
+Ah, Takeda-kun is finally off to the Satsuma residence. Saitō-kun, Shinohara-kun, see him off.
+
+@137
+N-no, I c-can go alone, I am q-quite all right.
+
+@138
+You're unsteady on your feet. It's dangerous to walk alone at night. Come, let's go.
+
+@148
+Oh, you too, S2-san?
+
+@149
+It wouldn't do to talk about this at headquarters.
+
+@151
+There's something I want to ask of you two today.
+
+@153
+Itō Kashitarō's faction has me worried.
+
+@154
+Just the other day...
+
+@164
+If you're thinking of Japan's future, you'd do better to give up on the shogunate.
+
+@171
+That's what happened.
+
+@172
+It's only a hunch, but that faction looks ready to make a move...
+
+@174
+So I want you two to keep an eye on Itō.
+
+@175
+Saitō-kun, you will become Itō's disciple.
+
+@177
+S2-san, pass every report from Saitō-kun on to me.
+
+@179
+This won't end as easily as it did with Serizawa. Don't let your guard down!
+
+@180
+Watch Itō's faction together with Saitō Hajime
+
+@182
+On this day, the great proclamation of the Restoration of Imperial Rule was at last issued.
+
+@183
+At the Battle of Toba-Fushimi, the Satsuma-Chōshū-Tosa allied army showed overwhelming superiority in firepower and defeated the shogunate army advancing west.
+

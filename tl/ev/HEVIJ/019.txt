@@ -1,0 +1,321 @@
+@1
+Patrol and gather information.\n(Priority areas: Kamigyō, Nakagyō, Shimabara, Gion)
+
+@2
+Toshi-san, I need money. I'd like you to lend me some of the corps' funds.
+
+@3
+Money?
+
+@4
+Well... to buy out Miyuki-dayū. It takes a considerable sum.
+
+@6
+Kawai-kun. You are in charge of the accounts, are you not?
+
+@7
+Ah... yes.
+
+@8
+We need the corps' money. Bring it, please.
+
+@9
+Eh? Um, well...
+
+@10
+Is something wrong?
+
+@11
+N-no. H-here it is.
+
+@12
+Hm... strange. It seems to be about fifty ryō short of the amount reported.
+
+@13
+I-I don't know anything about it! This morning I looked in the strongbox and exactly fifty ryō had vanished without a trace!
+
+@14
+Oh, this morning? So it was there until yesterday?
+
+@15
+I-it's true!
+
+@16
+But if the corps' money goes missing, who do you think bears the blame?
+
+@17
+P-please wait. Only a moment ago I sent a letter to my family home asking them to send money.
+
+@19
+I will make up the missing sum myself! Please forgive me!
+
+@20
+We need the money now.
+
+@21
+Wait just five days! The money will surely arrive from my family!
+
+@22
+...Very well, five days only. You know the Shinsengumi code?
+
+@24
+Has the money come from Kawai-kun's family?
+
+@25
+No, it seems not yet.
+
+@26
+Kawai-kun, it seems the deadline has passed.
+
+@27
+One more day, please wait just one more day!
+
+@28
+The date you named has already passed.
+
+@29
+No, something must have gone wrong on their end! By tomorrow the money will certainly arrive!
+
+@30
+I can't wait any longer\nWait a little more
+
+@31
+Shameful. Make your peace.
+
+@32
+Tomorrow without fail! H-h-help me!
+
+@35
+Toshi-san, is that money not here yet?
+
+@36
+Give him one more day.
+
+@37
+It's arrived! Fifty ryō, addressed to Kawai-san!
+
+@39
+Kawai-kun, I hear your money has arrived.
+
+@40
+!! Oh, oh, oh...
+
+@41
+Be more careful from now on.
+
+@42
+Oh... thank you...
+
+@43
+Ow, ow, ow!!
+
+@45
+He's been badly cut up.
+
+@46
+Was somebody cut down?
+
+@47
+A rank-and-file man, Tauchi-kun.
+
+@48
+Who did it?
+
+@49
+It's a stupid story. He went to a woman's place, and her other man, a rōnin, was hiding in the closet and slashed him from behind.
+
+@51
+Seppuku\nOverlook it
+
+@52
+Unfit to be a samurai. Seppuku.
+
+@53
+I suppose there's no other way.
+
+@54
+Tani-san, I'll ask you to be his second.
+
+@55
+Eh? Me?
+
+@56
+Yes, let's do that.
+
+@58
+Tani-kun will be his second.
+
+@59
+Yes, let's do that.
+
+@60
+T-Tauchi-dono. Prepare yourself!
+
+@62
+D-don't move. I can't cut you cleanly!
+
+@63
+Hmph. With that stance he will never make the cut.
+
+@64
+Yaaaah!
+
+@65
+Aaagh!!
+
+@66
+What are you doing?
+
+@67
+...I can't watch this.
+
+@69
+Saitō-kun! Cutting in from the side is rude, is it not?
+
+@70
+Tauchi-kun was suffering.
+
+@71
+Y-you said strange things, and that threw off my hand!
+
+@73
+Tani-kun, enough. Step back.
+
+@74
+Honestly, what pleasure does he get out of interfering with people? Mutter, mutter...
+
+@76
+Saitō-kun, never mind him. Leave him be.
+
+@77
+...I'll turn a blind eye.
+
+@78
+Are you sure?
+
+@79
+At root, it's the other man and that faithless woman who are to blame. Just make him break with the woman for good.
+
+@80
+Understood, we will let this matter pass.
+
+@81
+The Shinsengumi's morale fell by 2!
+
+@82
+Shinsengumi.
+
+@84
+I hear you've been looking after one of our men.
+
+@85
+I hear you've been looking after one of our men.
+
+@86
+Tch, cocky bastard!
+
+@90
+Lately Tani-kun keeps running down Saitō-kun to me.
+
+@91
+He seems to still bear a grudge over the other matter. Surely you don't believe Tani's story.
+
+@92
+Of course not, but it seems he's been spreading it among the men too. It leaves Saitō-kun with no standing. A troublesome fellow.
+
+@94
+Unforgivable\nLeave it alone
+
+@95
+It's conduct unworthy of the way of the samurai. If we leave it, discipline will fall apart.
+
+@97
+Saitō-kun! Are you there?
+
+@99
+As for Tani-kun, I leave him to you.
+
+@101
+That man need no longer be counted a comrade. Whatever you do, the Shinsengumi will know nothing of it.
+
+@102
+...You're sure?
+
+@103
+Do as you like.
+
+@105
+It's a trifle. Leave it alone and it will quiet down.
+
+@107
+Kawase Dazai. We have questions for you.
+
+@109
+Sensei, run!
+
+@110
+Not so fast!
+
+@111
+You won't escape!
+
+@114
+Gentlemen, listen. From now on guns will be the main force in war. I mean to bring Western-style drill into the Shinsengumi too.
+
+@116
+Well, well, no room left for the great Takeda-sensei.
+
+@117
+I wonder, does Western drill also lay down in detail how to tie a helmet cord and how to take an enemy's head?
+
+@118
+Ha ha ha! Only Naganuma-ryū would teach such silly things!
+
+@119
+...Grr!
+
+@120
+Oh, Hijikata-san.
+
+@121
+Hm? Sōji. That's a sword I haven't seen before.
+
+@122
+Oh, this? What do you think, isn't it splendid?
+
+@123
+This is...! Where did you get it?
+
+@124
+The master of the Harimaya let me have it cheap.
+
+@125
+Cheap? For how much?
+
+@126
+He said 800 ryō would do...
+
+@127
+800!? Hmm... no, surely not.
+
+@130
+Recruit members\nBuy rifles\nShare it among the members
+
+@133
+Let's buy rifles. The Shinsengumi will need a gun corps too.
+
+@134
+The Shinsengumi's armament rose by 5!
+
+@136
+The Shinsengumi's morale rose by 4!
+
+@139
+Toshi-san, the army for the Chōshū expedition is finally on the move!
+
+@140
+At last...
+
+@141
+Yes, at last.\nWe'll be setting out soon too.\nHurry, Toshi-san!
+

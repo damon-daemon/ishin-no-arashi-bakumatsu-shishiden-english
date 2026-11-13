@@ -1,0 +1,183 @@
+@0
+Oh, it's Takasugi-san.
+
+@1
+Takasugi-san, what are you doing?
+
+@2
+S2-kun? Don't startle me like that.
+
+@3
+There's someone there.
+
+@4
+Try speaking to him\nWalk away
+
+@5
+I want no part in any trouble.
+
+@6
+Pardon me, but...
+
+@7
+Hm? Who are you?
+
+@9
+Oh! I've heard of you! The name's Takasugi.
+
+@10
+Hm. I've heard that name somewhere...
+
+@11
+The name's Takasugi.
+
+@12
+You're a sonnō shishi too, aren't you?
+
+@14
+I'm visiting the graves of my friends from the Shōka Sonjuku.
+
+@15
+These fellows and I used to be called the Four Heavenly Kings of the school... How I miss those days...
+
+@16
+(Takasugi-san, in tears?)
+
+@17
+Kusaka and Irie fell in battle in Kyōto, and Toshimaro was cut down by the Shinsengumi at the Ikedaya.
+
+@18
+Every one of them died with his work half done.
+
+@19
+They called me the unruly ox, yet I'm the one who survived while they're gone. Ironic, isn't it?
+
+@20
+I hear that every one of them met a noble end...
+
+@21
+Toshimaro-san died as a true samurai should...
+
+@22
+I took part in the battle at Kyōto myself.
+
+@23
+I hear both of them met noble ends.
+
+@25
+Their will, and Shōin-sensei's will...
+
+@26
+To save Japan from the foreigners who have set their sights on her, we will smash that rotten shogunate.
+
+@27
+I have strong allies in Katsura, Itō, Inoue and Yamagata... *cough*, *cough*... I do...
+
+@28
+Takasugi-san!
+
+@29
+You've caught me at a bad moment.
+
+@30
+Blood on your hand!
+
+@31
+Yes, it's consumption.
+
+@33
+Don't you ever tell anyone.
+
+@34
+Are you all right?
+
+@35
+Don't worry about it, S2-kun.
+
+@36
+Oh, S2-dono.
+
+@37
+Pardon me. Are you not the renowned S2-dono?
+
+@38
+I am, but... who are you?
+
+@39
+Forgive my late introduction. I am Tsukigata Senzō.
+
+@43
+It seems the Chōshū domain government has submitted to the shogunate's army. As things stand, Chōshū may be abolished or have its lands greatly reduced.
+
+@45
+Fortunately, Saigō-dono of Satsuma, who is also a staff officer of the Chōshū expeditionary army, has come to Kokura. I hear Satsuma has given up on the Union of Court and Shogunate too, and the sonnō faction is rising there.
+
+@46
+I intend to petition Saigō-dono to treat Chōshū leniently.
+
+@48
+...Can it be done?
+
+@53
+(S2-han, a word.)
+
+@54
+What is it?
+
+@55
+A radical rōnin who fled Higo is hiding here.
+
+@57
+I'll keep watch here. S2-han, you go and fetch the Vice-Commander.
+
+@59
+The Ogawa-tei in Gion, is it!
+
+@60
+Yes. Yamazaki-san is keeping watch.
+
+@61
+Right, move out!
+
+@71
+Renown rose by 15!
+
+@92
+Hm? That's Sakamoto-san!
+
+@94
+Oh, S2-san! You've come to Kyōto too?
+
+@95
+At last we're going to ally Satsuma and Chōshū. S2-san, you worked hard for the loyalist coalition, so I want you to be part of this.
+
+@97
+I see. Well, if that's how it is.
+
+@98
+Persuade the pro-shogunate domains to back the Emperor
+
+@99
+Working for the shogunate to return rule to the Emperor
+
+@100
+Persuade the pro-war domains to moderation
+
+@101
+Working to overthrow the shogunate by force
+
+@102
+Persuade the moderate domains to favour war
+
+@104
+Working towards a union of the shogunate, Court and great domains
+
+@105
+Persuade the pro-war domains to moderation
+
+@106
+Working to establish a centralised shogunate state
+
+@107
+Persuade the moderate domains to favour war
+

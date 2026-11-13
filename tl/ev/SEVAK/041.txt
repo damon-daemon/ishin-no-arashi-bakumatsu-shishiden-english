@@ -1,0 +1,480 @@
+@0
+In hiding in Kyōto
+
+@1
+Go to the Tantora in Kyōto
+
+@3
+Nakaoka, are you there?
+
+@7
+This is Nakamura Hanjirō-don of Satsuma.
+
+@8
+Ah...\nHanjirō-don, there's something I'd like to ask you about Satsuma.
+
+@9
+Satsuma?!
+
+@10
+Don't look at me like that, please.
+
+@11
+Satsuma's sudden betrayal was mostly the doing of Lord Hisamitsu and the conservative top brass. At heart, Hanjirō-don is a sonnō-jōi man.
+
+@12
+I see... So that was how it was.
+
+@13
+But as long as the retired lord preaches the Union of Court and Shogunate, I, a Satsuma retainer, cannot say so openly.
+
+@14
+If Satsuma would come over to our side again, things would change...
+
+@15
+That would be quite impossible.
+
+@18
+Oh, Sakamoto-kun.
+
+@19
+What are you plotting?
+
+@20
+Heh heh, brace yourself.
+
+@21
+We're going to cut down Shimazu Hisamitsu!
+
+@23
+In our domain, a radical faction wants to march on Kyōto, destroy Satsuma and Aizu and petition the Emperor in person about Chōshū's innocence. They could go off at any moment.
+
+@25
+That would be walking blindly into Satsuma's scheme to brand Chōshū a rebel army.
+
+@26
+But Kijima Matabei, who leads them, is firmly resolved and in no state to be persuaded. So, here is the plan.
+
+@27
+The root of the coup was that turncoat. He preached jōi, yet cut down shishi at the Teradaya, and this time he drove the Chōshū forces out of Kyōto.
+
+@28
+Kusaka-kun has come up to the capital for this purpose too. He says he won't rest until he has cut down that fool Hisamitsu.
+
+@30
+Yes, let's do it!
+
+@31
+Ha ha, that's the spirit!
+
+@32
+Stop it! It will never work!
+
+@33
+Faint-hearted, aren't you. We won't know until we try.
+
+@34
+Look at the situation. This is nothing like the Sakuradamon days!
+
+@35
+Still, it has better odds than starting a war in Kyōto. We have no choice but to do it.
+
+@37
+Ryōma, well? Can we cut Hisamitsu down?
+
+@38
+Can we? We can't even catch sight of Hisamitsu...
+
+@39
+What about you, Kusaka-san?
+
+@40
+No good. Too many guards. They seem more wary than I expected.
+
+@42
+And who is this?
+
+@43
+Kusaka-san of Chōshū. Kusaka-san, this is Sakamoto.
+
+@44
+So you are Sakamoto-kun. Nakaoka-kun has told me a great deal about you.
+
+@46
+What's wrong, Takasugi-san?
+
+@47
+I'm dropping out.
+
+@49
+I've been ordered back to the domain. I have to go.
+
+@50
+Can't you put it off somehow?
+
+@51
+I cannot defy the command of the lord and his son.
+
+@52
+So the plan is finished...
+
+@53
+I'm sorry.
+
+@55
+Oh, Kitsuma!
+
+@56
+And who are you?
+
+@57
+Kitazoe Kitsuma of the Loyalist Party!
+
+@59
+Kameyata! What brings you two here?
+
+@60
+We heard the sonnō-jōi shishi are holding a gathering.
+
+@61
+They say there's a plan to bring Chōshū back from the dead. I can't sit still any longer!
+
+@62
+A plan? When and where is this gathering?
+
+@63
+I've been asking around everywhere, but...
+
+@64
+Probably the Tantora in Kawaramachi, or the Ikedaya, I think.
+
+@65
+Quite a crowd has gathered.
+
+@66
+Hm? Who are you?
+
+@67
+Sakamoto, a Tosa man who left his domain.
+
+@68
+A Tosa rōnin. Then you must be a sonnō-jōi shishi too. I am Miyabe Teizō.
+
+@69
+You seem to have been in high spirits. What were you talking about?
+
+@70
+A plan to turn public opinion in the realm back to sonnō jōi.
+
+@71
+Sakamoto-kun, you're just in time. I should tell you too.
+
+@72
+The plan to bring Chōshū back from the dead?
+
+@73
+Yes.
+
+@75
+A plan to turn public opinion in the realm back to sonnō jōi.
+
+@76
+What do you mean to do?
+
+@78
+Set fire to the city of Kyōto.
+
+@80
+In the confusion we cut down Matsudaira Katamori and Shimazu Hisamitsu, and carry the Emperor off to Chōshū.
+
+@81
+W-wait! What of the innocent people of Kyōto?!
+
+@82
+Compared with fighting a war, this causes less harm.
+
+@84
+We have no moves left. Every plan has failed. To turn the tide there is nothing but to seize the "jewel", the Emperor himself!
+
+@85
+You'd stop at nothing for that?!
+
+@86
+It is to save Japan from crisis. ...Some sacrifice is unavoidable.
+
+@87
+...Madness!
+
+@88
+Whatever you say to me, it can't be stopped now. The plan is already moving, with more than twenty men.
+
+@89
+If you object, come to the Ikedaya on the night of the 5th of the 6th month. We hold a meeting there, and you may put your case to everyone.
+
+@90
+Attend the Ikedaya meeting on the 5th of the 6th month, 1864
+
+@92
+Katsura-san. Miyabe-san is planning something outrageous!
+
+@93
+Yes, I've heard.
+
+@94
+It's reckless!
+
+@95
+Yes... I think so too.
+
+@96
+Then why don't you stop it?
+
+@97
+Of course I tried. But they have already lost their senses. However I reason with them one by one, they won't listen at all.
+
+@98
+...So there's nothing for it but to go to the Ikedaya.
+
+@99
+I'll go too. We must somehow make them think again.
+
+@100
+Sakamoto-kun, you came.
+
+@101
+Sakamoto-san, you're late!
+
+@102
+Ah, you're at it already.
+
+@103
+Come, have a drink.
+
+@104
+We Tosa men who left the domain are ready to throw away our lives for the imperial cause!
+
+@105
+Indeed! With so many brave men gathered, our plan is certain to succeed!
+
+@107
+Isn't Katsura-san here yet?
+
+@108
+Doesn't look like it.
+
+@109
+What is it?!
+
+@110
+S-Shinsengumi?!
+
+@111
+In hiding in Kyōto
+
+@112
+Wait for the Ikedaya Incident to blow over
+
+@114
+Ah!
+
+@115
+Vice-Commander! Kondō-san's squad has collapsed!
+
+@116
+Damn! Don't let a single one escape!
+
+@117
+Ah!
+
+@118
+Look! The rōshi are coming out of the Ikedaya!
+
+@119
+Don't let a single one escape!
+
+@120
+Damn! Reinforcements!
+
+@121
+Everyone, scatter and run!
+
+@122
+Damn it!
+
+@123
+Miyabe-san!
+
+@124
+Sakamoto-kun, are you all right?!
+
+@125
+There's a rōshi! Stop! Stop right there!
+
+@126
+Aizu troops!
+
+@127
+Damn! If Aizu has sent out its troops, there's no way all of us can get away!
+
+@128
+I can't run any more. Sakamoto-kun, forgive me, but go to the Chōshū residence and call for reinforcements!
+
+@129
+Surrounded... is this the end?!
+
+@130
+On this day, Sakamoto Ryōma fell at the Ikedaya together with many sonnō-jōi shishi...
+
+@131
+Open up! Open the gate!
+
+@132
+Oh, Sakamoto-dono. Are you unhurt?!
+
+@133
+Oh, you are one of the shishi!
+
+@134
+The Shinsengumi has burst into the Ikedaya!
+
+@136
+Aizu has sent its troops and surrounded the Ikedaya! Won't you send out men?!
+
+@137
+...No, I cannot do that!
+
+@138
+What?! Why not?!
+
+@139
+Have Yoshida-san and the others come?!
+
+@140
+Yes, they begged for reinforcements... and when I refused, they went back to the Ikedaya.
+
+@141
+What! Why didn't you send the domain's troops?
+
+@142
+...The Chōshū residence cannot send reinforcements. To oppose the Protector of Kyōto is to openly make an enemy of the shogunate and the other domains.
+
+@143
+You mean we leave the shishi to die?!
+
+@144
+It pains me too! It tears me apart, of course it does! But I will never do anything here that would bring ruin on Chōshū!
+
+@145
+"Give up"\n"Go to the rescue alone"
+
+@146
+...Gaaah!
+
+@147
+I won't forget... I won't forget this bitterness!
+
+@148
+There are rōshi here! Seize them!
+
+@150
+After them! After them!
+
+@151
+Kameyata!
+
+@152
+Yoshida-san!
+
+@153
+Sakamoto-kun! Don't come!
+
+@154
+It's time to go! There's no use staying!
+
+@155
+How can I stand by and watch my comrades be taken?!
+
+@156
+Yoshida-san, dying gets us nothing! Let's live to rise again!
+
+@157
+Ngh... damn it!
+
+@158
+Surrounded... is this the end?!
+
+@159
+On this day, Sakamoto Ryōma fell at the Ikedaya together with many sonnō-jōi shishi...
+
+@160
+It's no use! We can't get anywhere near the Ikedaya!
+
+@161
+Thus ended the Ikedaya Incident, which stained the dawn of the imperial capital with the blood of fervent patriots.
+
+@162
+The Shinsengumi's feat in cutting down so many leading sonnō-jōi men burned their name all the deeper into people's minds.
+
+@163
+Even the shishi who escaped the tiger's jaws of the Ikedaya were caught in the heavy cordon of Aizu and the other domains' troops, and fell in battle or took their own lives one after another.
+
+@164
+Though hard pressed, the Shinsengumi had cut down many leading sonnō-jōi men, and their exploits were enough to make their name echo across the land.
+
+@165
+Even the shishi who escaped the tiger's jaws of the Ikedaya were caught in the heavy cordon of Aizu and the other domains' troops, and fell in battle or took their own lives one after another.
+
+@166
+The sonnō-jōi shishi, who thanks to Ryōma and the rest had put the Shinsengumi in great difficulty, could not withstand Hijikata's reinforcements and were finally wiped out.
+
+@167
+Even the shishi who escaped the tiger's jaws of the Ikedaya were caught in the heavy cordon of Aizu and the other domains' troops, and fell in battle or took their own lives one after another.
+
+@168
+Thanks to Ryōma and the rest, the sonnō-jōi rōnin won a miraculous victory over the Shinsengumi, but were then surrounded by the overwhelming forces of Aizu and the other domains and destroyed.
+
+@169
+Even the shishi who escaped the tiger's jaws of the Ikedaya were, most of them, caught in the heavy cordon and fell in battle or took their own lives one after another.
+
+@170
+Their tragic deaths would give rise to a still greater surge in the history of the Bakumatsu.
+
+@171
+Oh, you're here.
+
+@172
+Anyway, if Chōshū is left isolated now, it's all over. We need a strong ally in another domain.
+
+@173
+But we have no time to tour the provinces. All we can do is meet the men who have come up to Kyōto and look for a domain that seems promising.
+
+@174
+For now, let's make the Chōshū residence our base and hold our meetings here.
+
+@175
+Gather information in Kyōto
+
+@185
+Yoshida-san too... and Miyabe-san?
+
+@189
+In hiding in Kyōto
+
+@190
+Wait for the Ikedaya Incident to blow over
+
+@192
+If I remember right, we were to meet at a place called the Tantora.
+
+@193
+Come to think of it, I haven't been to the Tantora lately. I ought to show my face now and then.
+
+@194
+Come to think of it, I haven't been to the Tantora lately. I ought to show my face now and then.
+
+@195
+Come to think of it, I haven't been to the Tantora lately. I ought to show my face now and then.
+
+@196
+Miyabe-san's meeting at the Ikedaya is tonight, if I remember right...
+

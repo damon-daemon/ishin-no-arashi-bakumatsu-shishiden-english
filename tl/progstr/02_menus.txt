@@ -1,0 +1,44 @@
+# town / facility menus (seen in the emulator: dōjō menu and the facility icon labels)
+PROG:800204a4	Leave
+PROG:800204ac	Advance the Date
+PROG:800204bc	View Info
+PROG:800204c8	Train at %s until your %s improves.\nIs that all right?
+PROG:80020504	skill
+PROG:8002050c	ability
+PROG:80020514	Spend the day freely
+PROG:80020528	Check the goal
+PROG:80020538	Do unit duty
+PROG:80020544	Go out to work
+PROG:80020550	Train in learning
+PROG:80020564	Train in arms
+PROG:80020578	Not enough Drive!
+PROG:80020590	Choose where to train in arms.
+PROG:800205b8	Choose where to study.
+PROG:800205fc	British Consulate
+PROG:80022744	Kameyama Shachū Duty
+PROG:80022754	Challenge to a Match
+PROG:80022764	Quit the Dōjō
+PROG:80022774	Practise
+PROG:80022780	Enrol
+PROG:8002278c	Quit the School
+PROG:8002279c	Study
+PROG:800227a8	Attend a Lesson
+PROG:800227b8	Go Inside
+PROG:800227c4	Board Own Ship
+PROG:800227d4	Board the Ferry
+PROG:800227e4	Close
+PROG:800227ec	Familiar
+PROG:800227f8	Disliked
+PROG:80022804	Closed
+PROG:8002280c	Barred
+PROG:80022818	Shut
+PROG:80022820	Map Point
+PROG:8002284c	Save and Settings
+PROG:80022870	Set as Home Base
+PROG:80022884	Rest
+PROG:80022890	Gather News
+PROG:800228a0	Meet
+PROG:800228bc	School
+COM:8015bcc8	Train Arms
+COM:8015ccc0	Trend{C7}
+GATE:8015ba74	I am of %s, %s.%s

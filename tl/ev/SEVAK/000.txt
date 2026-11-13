@@ -1,0 +1,279 @@
+@0
+What are you doing, lazing about at a time like this!
+
+@1
+Aw... and I was finally going to see a rare arrest up close.
+
+@2
+Never mind that! Come with me, quickly!
+
+@3
+Why are you in such a hurry? What on earth has happened?
+
+@4
+Foreigners! America is attacking us!
+
+@5
+What?!
+
+@6
+Oh? America? Across the sea?
+
+@7
+Yes! Iron warships, a whole fleet of them, are crowding in off Uraga!
+
+@8
+Warships... ships, you say?!
+
+@9
+Y-yes, great black ships, as big as a small castle...
+
+@10
+I can't sit around here!
+
+@11
+Ah! Hey!
+
+@12
+Sakamoto-sama! You've forgotten your sword!
+
+@13
+Oops, silly me!
+
+@14
+It means war, there will be war! Hm? What are you doing?
+
+@15
+We can't fight a war until we know the enemy. Come, brother, let's go.
+
+@16
+Fool! I can't take women and children along!
+
+@17
+What are you saying?! With foreigners about to trample all over Edo, what does it matter if one is a woman or a man?
+
+@18
+Absolutely not! You stay here and keep the men of the dōjō in order!
+
+@19
+I want to see these American Black Ships for myself.
+
+@20
+No, no, no. Hey, Ryō-san? Wait a moment, Ryō-san!
+
+@21
+Ryō-san! Isn't that them?!
+
+@22
+Whoa...!!
+
+@23
+...
+
+@24
+...Can a ship made of iron really sail on water?
+
+@25
+Well, there they are, crossing the sea right before our eyes.
+
+@26
+America must be quite a country.
+
+@27
+This is no time to admire the enemy! This won't end well. It's the worst crisis for our land since the Mongol invasions!
+
+@28
+Jū-san, you do talk about difficult things.
+
+@29
+They fired!
+
+@30
+N-no! Edo is in danger, let's hurry back!
+
+@31
+"Let's go back"\n"Wait"
+
+@32
+I wonder if the Chiba Dōjō is safe.
+
+@33
+There don't seem to be any fires rising from Edo...
+
+@34
+Where are they aiming?!
+
+@35
+Ryō-san, something is odd... those were blanks.
+
+@36
+A threat?
+
+@37
+Probably. Damn it, they're making fools of us!
+
+@38
+Wait!
+
+@39
+What is it?!
+
+@40
+Those were blanks. It's only a threat.
+
+@41
+What, a threat?! Damn it, they're making fools of us!
+
+@42
+Welcome back.
+
+@43
+Ah...
+
+@44
+My, you went off so bravely and come back so dispirited... How were the Black Ships? Have the foreigners landed yet?
+
+@45
+No... but if they get serious, it is only a matter of time. The fleet's envoy and the Uraga magistrate seem to be negotiating for now.
+
+@46
+How can you be so complacent! Strike while the foreigners are off guard and drive them out at once!
+
+@47
+You can say such grand things because you didn't see them. Ordinary cannon would be useless against ships that huge.
+
+@48
+Yes, yes! I didn't see them, no indeed!
+
+@49
+Calm her down\nLeave her be
+
+@50
+Now, now. Squabbling here won't settle anything.
+
+@51
+You haven't seen them, so don't talk as if you understand.
+
+@52
+How dreadful! It isn't that I didn't want to see them!
+
+@53
+Er... well, that's true.
+
+@54
+And Sakamoto-sama is just as feeble! If I were a man, I would board the Black Ships alone and cut down their commander!
+
+@55
+Sana, that's enough!
+
+@56
+Ha ha ha, I wouldn't put it past you, Sana-san.
+
+@57
+Perhaps the shogunate means to fight America. We must prepare ourselves.
+
+@58
+"Sleep of peace, shaken awake\nby the finest tea, Jōkisen--\nfour cups alone, and no night's rest"
+
+@59
+The shock of Perry's arrival plunged Japan, which had shut itself in the shell of seclusion for over two hundred years, into unprecedented turmoil.
+
+@60
+I demand that our fleet be admitted to port, supplied with fuel and provisions, and that shipwrecked sailors be protected.
+
+@61
+That... cannot be done. Our country allows no foreign ships to come here at all.
+
+@62
+Under international law, you cannot simply do as you please.
+
+@63
+I-international law? In any case, seclusion has been the ancestral law since Lord Tokugawa Ieyasu...
+
+@64
+Ha ha ha, you seem to have overlooked our fleet. If you refuse, we will simply use force.
+
+@65
+Y-you dare mock our country!
+
+@66
+You surely know what befell China when it defied Britain in the Opium War?
+
+@67
+Hmm... I cannot decide this on my own. We will consider our response at Edo Castle...
+
+@68
+I cannot wait long. I expect a favourable reply.
+
+@69
+America demanded that Japan open its doors. The panic of the shogunate's senior officials on hearing it was almost comical.
+
+@70
+Oh, what a predicament... What on earth are we to do?\nGentlemen, what do you think?
+
+@71
+Eh? I... have no particular opinion, my lord.
+
+@72
+No opinion?! What do you mean, none? Well then, what about you?
+
+@73
+Well. I suggest we give some vague reply, buy time, and wait for them to change their minds.
+
+@74
+Fool! That solves nothing at the root! Hmm...
+
+@75
+In the end the shogunate could not reject America's demands and was forced into signing a treaty of friendship.
+
+@76
+It then had to conclude treaties one after another with the Netherlands, Russia, Britain, France and others who made the same demand.
+
+@77
+Many people were outraged at the shogunate's weak response. Those who made their feelings most plain were the lords of the powerful domains, who saw themselves as "enlightened rulers".
+
+@78
+Ours is a divine land. To let foreigners approach it is utterly unthinkable!
+
+@79
+Foreigners deceive the hearts of a divine land with their evil faith, steal its wealth through trade, and in the end seize the country with soldiers. Foreign ships should be driven off on sight!
+
+@80
+If we meekly answer the foreigners' arrogant demands with "very well", our country's prestige will suffer!
+
+@81
+Before Perry's arrival, it would have been unthinkable for daimyō to criticise the shogunate openly like this.
+
+@82
+But the time was not yet ripe... The shishi of the Restoration would not begin their vigorous activity until a little later.
+
+@83
+Meanwhile, Ryōma, ordered by his home domain of Tosa to train in swordsmanship, was lodging at the Chiba Dōjō in Okemachi, Edo...
+
+@84
+Devote myself to sword training\nStudy as well as train with the sword\nSkip the sword and devote myself to study\nTrain with the sword, but play now and then\nStudy hard, but play now and then\nTry my hand at many things
+
+@85
+And so, while the world around him grew ever more turbulent, he spent his days on the sword training his domain had ordered.
+
+@86
+Alongside the sword training his domain had ordered, he also applied himself to study, so as not to fall behind a world growing ever more turbulent.
+
+@87
+Not to fall behind a world growing ever more turbulent, he set aside the sword training his domain had ordered and threw himself into study.
+
+@88
+And so, while the world around him grew ever more turbulent, he spent his days on the sword training his domain had ordered, and on amusements.
+
+@89
+He set aside the sword training his domain had ordered and threw himself into study and amusements.
+
+@90
+Beyond the sword training his domain had ordered, he busied himself with study, with amusements, with everything.
+
+@91
+Four years passed...
+
+@92
+Ryōma, after a long-awaited visit home to Tosa, came to the city of Edo once more.
+

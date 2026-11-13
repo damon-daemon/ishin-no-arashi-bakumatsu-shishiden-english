@@ -1,0 +1,204 @@
+# system messages (map, load/save) and debate topics, part A (description string first, then its title)
+PROG:800101d0	Town Map
+PROG:80010398	Town Details
+PROG:800103ec	Talk to People Nearby
+PROG:80010420	{C5}Name
+PROG:80010524	Area Map
+PROG:80010540	{c7}Initialising data...
+PROG:80010558	Cannot get object: %d.
+PROG:8001057c	%s:%d failed to initialise.
+PROG:800105c0	Loading data.\nUntil this window disappears, do not remove the %s or %s, and do not switch off the power.
+PROG:80010628	Failed to load the data.
+PROG:80010648	%s:%d failed to load.
+PROG:80010668	This save data is corrupt.
+PROG:8001068c	%s:%d failed to write.
+PROG:800106ac	Saving data.\nUntil this window disappears, do not remove the %s or %s, and do not switch off the power.
+PROG:80010714	Failed to save.
+PROG:8001072c	Save complete.
+PROG:80010bf4	Solution
+PROG:80010c20	%s%s's %s is now %s.\n
+PROG:80010c3c	Whether to overthrow the shogunate by force or by peaceful means.
+PROG:80010c6c	Restoration and Return of Rule
+PROG:80010c80	On the sudden death of the 14th shōgun Iemochi, Hitotsubashi Yoshinobu became the 15th shōgun.
+PROG:80010cbc	Shōgun Tokugawa Yoshinobu
+PROG:80010ccc	If Satsuma and Chōshū, the two champions of the anti-shogunate cause, join hands, the way is open to overthrow the shogunate.
+PROG:80010d10	The Satchō Alliance Movement
+PROG:80010d20	Britain drew closer to the anti-shogunate forces, while France moved to support the shogunate.
+PROG:80010d68	Foreign Demands and Overtures
+PROG:80010d7c	Satsuma held the key between Chōshū, now moving to overthrow the shogunate, and the shogunate, which sought to crush Chōshū.
+PROG:80010ddc	Anti-Shogunate Faction Moves
+PROG:80010dec	The shogunate issued an order to subdue Chōshū after a series of reckless acts by the domain.
+PROG:80010e1c	The Chōshū Expedition Problem
+PROG:80010e2c	Satsuma and Chōshū carried out jōi and attacked foreign ships.
+PROG:80010e5c	Satsuma, Chōshū Carry Out Jōi
+PROG:80010e6c	Part of the Rōshigumi that went up to Kyōto became the Shinsengumi in the service of Aizu and cracked down on the rampant rōnin to keep order.
+PROG:80010ecc	The Shinsengumi in Action
+PROG:80010edc	Chōshū shishi worked behind the scenes over the shōgun's successor and the imperial sanction for the treaties.
+PROG:80010f18	Political Manoeuvring in Kyōto
+PROG:80010f2c	Foreigners were murdered again and again by radical sonnō-jōi shishi and others.
+PROG:80010f5c	Jōi Attacks Everywhere
+PROG:80010f70	Sonnō-jōi shishi rose to prominence in many regions.
+PROG:80010f98	Rise of the Sonnō-Jōi Faction
+PROG:80010fa8	Measures were adopted to parry attacks from the sonnō-jōi faction, and naval strength was built up.
+PROG:80010ff4	Shogunate Reforms
+PROG:80011000	Jōi shishi, backed by the power of their domains, began to carry out open political activity.
+PROG:8001103c	Mediation in National Affairs
+PROG:8001104c	A trade treaty with America meant opening ports to foreign countries and carrying on trade.
+PROG:80011094	Open
+PROG:8001109c	The Western powers, which had been expanding overseas, were reaching out toward Asia, and Japan was no exception.
+PROG:800110f4	Foreign Affairs
+PROG:80011100	A policy of uniting the shogunate and the Court to stabilise the government and resist the pressure of the Western powers.
+PROG:80011154	Union of Court and Shogunate
+PROG:80011164	The 13th shōgun Iesada was sickly and seemed unlikely to produce an heir, so the question of his successor arose during his term.
+PROG:800111cc	The Shōgun's Succession
+PROG:800111dc	To deal with the hopelessly confused political situation, Ii Naosuke, lord of Hikone, was appointed Tairō.
+PROG:80011228	Enter Ii Naosuke
+PROG:80011238	To prepare for the approaching Western powers, the shogunate and the domains set about domestic reforms.
+PROG:80011278	Shogunate and Domain Reforms
+PROG:8001128c	Pressed to conclude a treaty, the weakened shogunate could not cope alone and sought the help of the Imperial Court.
+PROG:800112d8	The Treaty and Imperial Sanction
+PROG:800112ec	Within the domains too, there were struggles between the sonnō and sabaku factions, and between the open-country and jōi factions.
+PROG:80011328	Strife Within the Domains
+PROG:80011338	The Western powers, backed by mighty naval strength, pressed Japan, which still kept its seclusion, to open the country.
+PROG:80011384	Arrival of the Black Ships
+PROG:80011390	Usable when sake has been served, to hold a drinking party. It settles the contest, so beware when your opponent plays it.
+PROG:80011400	Start a Drinking Party
+PROG:80011410	Lets you have sake prepared. Take care if you cannot hold your drink.
+PROG:80011448	Prepare Sake
+PROG:80011458	Ii Naosuke's actions bred anti-shogunate forces, and his assassination also damaged the shogunate's authority.
+PROG:800114c4	The Death of Ii Naosuke
+PROG:800114d4	The assassins' manifesto condemned the treaty signed against the imperial will and the repression of shishi, but did not yet reject the shogunate.
+PROG:80011534	Why the Tairō Was Attacked
+PROG:80011544	Sonnō-jōi shishi of Satsuma and Mito attacked Ii Naosuke outside the Sakuradamon Gate as he went to the castle, and cut him down.
+PROG:8001158c	The Sakuradamon Incident
+PROG:8001159c	Saigō fled the shogunate's men in Kyōto for Satsuma, but was ordered to hand over the priest Gesshō, and the two tried to drown themselves.
+PROG:800115fc	Gesshō and Saigō Takamori
+PROG:8001160c	Hashimoto Sanai, a trusted aide of Matsudaira Yoshinaga of Fukui, was executed. No one had thought he would receive a heavy sentence.
+PROG:80011668	Hashimoto Sanai Beheaded
+PROG:80011678	Shishi arrested in Kyōto and Edo received harsh sentences: death, seppuku, exile to remote islands, banishment and so on.
+PROG:800116c8	Crackdown on Sonnō-Jōi Men
+PROG:800116dc	On Tairō Ii's orders, Manabe Akikatsu decided and carried out punishments of the court nobles.
+PROG:80011724	Punishment of the Court Nobles
+PROG:80011730	He entered the palace to explain the treaty signed against the imperial will. The Emperor refused approval, but gave way once the arrests reached the Court.
+PROG:800117ac	Rōjū Manabe at the Palace
+PROG:800117c0	Retainers of the nobles who had backed the Hitotsubashi faction, and shishi close to them, were hunted down too, and those nobles lost heart.
+PROG:80011824	Nobles' Retainers Arrested Too
+PROG:80011838	The crackdown on the sonnō-jōi faction began with the arrest of Umeda Unpin. At the news, most of the domains' shishi in Kyōto fled the city.
+PROG:800118a8	The Arrest of Umeda Unpin
+PROG:800118b8	To sweep the thriving sonnō-jōi faction out of Kyōto, Ii Naosuke sent a new Shoshidai to his post and Rōjū Manabe Akikatsu to the capital.
+PROG:80011918	The Shoshidai Goes to Kyōto
+PROG:8001192c	The imperial edict to Mito and the move to oust the Kampaku were grave matters for the shogunate, and the shishi behind them were arrested one by one.
+PROG:8001198c	Edict and Move to Oust Kampaku
+PROG:800119a0	Opponents of Tairō Ii were suppressed, with the crackdown on the sonnō-jōi faction and the house arrest of the Hitotsubashi faction.
+PROG:800119f4	The Ansei Purge Begins
+PROG:80011a08	Ii Naosuke persuaded Harris to extend the deadline for negotiations, and had his men work in Kyōto to obtain imperial sanction once more.
+PROG:80011a60	Handling the Trade Treaty
+PROG:80011a70	Through the manoeuvres of the Nanki faction, Ii Naosuke was suddenly appointed Tairō.
+PROG:80011aac	Ii Naosuke Becomes Tairō
+PROG:80011ac0	Sufu Masanosuke and others took control of the domain government, and Chōshū's policy turned to sonnō-jōi.
+PROG:80011afc	Chōshū Turns to Sonnō-Jōi
+PROG:80011b10	Ii Naosuke's scheme at the Court underestimated the court nobles and was defeated by the manoeuvres of the sonnō faction.
+PROG:80011b6c	Ii Naosuke's Failure
+PROG:80011b7c	Goaded by the anti-shogunate faction, the shogunate fought the imperial army.\nYoshinobu was thus branded an enemy of the Court.
+PROG:80011bcc	The Battle of Toba-Fushimi
+PROG:80011be0	The anti-shogunate faction proclaimed the Restoration of Imperial Rule, giving birth to a new regime to replace the shogunate.
+PROG:80011c38	The Restoration Proclamation
+PROG:80011c4c	Sakamoto Ryōma and Nakaoka Shintarō were assassinated by unknown men at the Ōmiya in Kyōto.
+PROG:80011c84	As Shōgun Yoshinobu's side pressed a counterattack, the anti-shogunate forces massed in Kyōto and Ōsaka and readied for a decisive battle.
+PROG:80011ce0	Anti-Shogunate Forces Assemble
+PROG:80011cf4	The daimyō were ordered to Kyōto to settle the political order after the Return of Rule, but only the great domains answered.
+PROG:80011d48	Daimyō Ordered to Kyōto
+PROG:80011d5c	The return of rule threw the shogunate's retainers into uproar: some blamed Yoshinobu, others burned to fight Satsuma and Chōshū.
+PROG:80011db0	The Retainers' Confusion
+PROG:80011dbc	Believing that a Return of Rule in name alone would change nothing, they discussed concrete measures to overthrow the shogunate.
+PROG:80011e00	The shogunate's retainers complained, and the anti-shogunate hardliners felt forestalled; both sides sought to turn the tables.
+PROG:80011e74	Politics After the Return of Rule
+PROG:80011e88	The 15th shōgun, Tokugawa Yoshinobu, petitioned the Court to return rule to the Emperor, ending 260 years of Tokugawa shogunate rule.
+PROG:80011ee8	The Return of Rule Is Achieved
+PROG:80011ef8	Even after the Return of Rule he meant to keep strong power, and to win command of the armed forces in time as well.
+PROG:80011f40	Yoshinobu's New Regime Plan
+PROG:80011f54	Through the manoeuvres of Iwakura Tomomi and others, a secret imperial order to strike down the shogunate was issued.
+PROG:80011f90	Secret Order Against Shogunate
+PROG:80011fa0	Geishū joined the Satsuma-Chōshū anti-shogunate forces, and a military alliance of the three domains was concluded.
+PROG:80011fe0	Satsuma-Chōshū-Aki Alliance
+PROG:80011ff4	While planning to overthrow the shogunate by force, Saigō, Ōkubo and others of Satsuma made a pact with Tosa, which sought the Return of Rule.
+PROG:80012054	The Satsuma-Tosa Pact Is Made
+PROG:80012064	For Satsuma and Chōshū, bent on overthrowing the shogunate by force, the Return of Rule was a move that forestalled them.
+PROG:800120a4	Anti-Shogunate Unrest
+PROG:800120b4	Britain welcomed a peaceful transfer of power, while France stubbornly wanted a government centred on the shōgun, and their intentions clashed.
+PROG:80012130	The British and French Aims
+PROG:80012140	With criticism of the shogunate mounting, he felt the need to take a bold step.
+PROG:80012184	Shōgun Yoshinobu's Thinking
+PROG:80012194	The idea was for the shōgun to return rule voluntarily, avoiding armed conflict within the country and building a new political system.
+PROG:800121f0	The Return of Rule Movement
+PROG:80012200	An eight-point plan for a new state, with a two-house assembly and a constitution, which Sakamoto Ryōma presented to Gotō Shōjirō of Tosa.
+PROG:8001226c	The Eight-Point Plan
+PROG:80012278	The four lords were wholly out of step and disbanded without result, making it clear that overthrowing the shogunate by peaceful means would be difficult.
+PROG:800122f0	The Four Lords' Council Disbands
+PROG:80012300	The aim of this gathering was to strip the shōgun of his office and return the Tokugawa house to the rank of an ordinary daimyō.
+PROG:8001234c	Aim of the Four Lords' Council
+PROG:8001235c	With Satsuma at its centre, a council of four lords was planned: Shimazu Hisamitsu, Yamauchi Yōdō, Matsudaira Yoshinaga and Date Munenari.
+PROG:800123b4	The Four Lords' Council Meets
+PROG:800123c4	Because Emperor Kōmei favoured the shogunate, Iwakura Tomomi and others working for the Restoration were driven away from him.
+PROG:80012420	The Restoration Faction Falls
+PROG:80012434	Iwakura Tomomi plotted the Restoration, and first sought to suppress the court nobles who supported the shogunate.
+PROG:80012474	The Restoration Plan
+PROG:80012484	Exports grew regardless of domestic demand, so controls on distribution were attempted.\nThe controls were quite effective for a time.
+PROG:800124e4	Trade Controls
+PROG:800124f0	To avoid opening Edo, Ōsaka and Hyōgo, envoys were sent to negotiate, and the opening was postponed on conditions.
+PROG:80012544	Talks to Delay Opening Ports
+PROG:80012558	Because the value of gold and silver in Japan differed greatly from abroad, foreign merchants and soldiers exported gold and silver in large quantities.
+PROG:800125b4	Outflow of Gold and Silver
+PROG:800125c0	Trade with foreign countries left domestic demand unmet, and soaring prices began to squeeze samurai and commoners alike.
+PROG:80012620	Soaring Prices
+PROG:8001262c	Silkworm disease cut raw silk output in Europe, so Japan's fine raw silk was exported in ever greater amounts.
+PROG:80012690	Growth in Exports
+PROG:8001269c	The shogunate let merchants trade freely with foreigners, but banned the sale of law books, armour, swords and goods with the hollyhock crest.
+PROG:800126f8	Shogunate Proclamation
+PROG:80012704	To keep ordinary people from meeting foreigners through trade, the port was moved to Yokohama, away from the Tōkaidō road.
+PROG:8001276c	Why Yokohama Was Opened
+PROG:8001277c	The treaty provided for opening Kanagawa, but Yokohama, a better harbour, was opened instead.
+PROG:800127d4	The Opening of Yokohama
+PROG:800127e0	On Tsushima, the lowest-ranking samurai and farmers rose up and kept resisting the Russians to defend their own land.
+PROG:80012840	Resistance of the Lowest Ranks
+PROG:80012850	Harried by the Russian warship, Tsushima's leaders weakly asked the shogunate to take the island as its own land and grant them territory elsewhere.
+PROG:800128c0	Attitude of the Domain Leaders
+PROG:800128d0	The ship had moored for repairs, but its crew landed, began building permanent facilities and even demanded a land lease.
+PROG:80012930	Actions of the Russian Warship
+PROG:80012944	Russia wished to secure the sea route from the Sea of Japan to the East China Sea, and even considered obstructing trade between Europe and Japan and Qing.
+PROG:800129a4	Russia's Strategy
+PROG:800129b4	Tsushima is a vital point with shipping lanes on both sides, rich in good harbours and good timber.
+PROG:800129f8	Tsushima's Strategic Position
+PROG:80012a0c	A Russian warship anchored at Imozaki Bay on Tsushima and refused to leave.
+PROG:80012a44	Russian Warship at Tsushima
+PROG:80012a58	It became clear that Christianity is by no means the evil creed it is said to be at home.
+PROG:80012aa0	On Christianity
+PROG:80012ab4	Americans were aboard the Kanrin-maru, nominally as passengers, but in the end it was they who sailed the ship across.
+PROG:80012b14	Crossing the Pacific
+PROG:80012b24	Meeting the Americans, I realised that my former views of foreigners had been mistaken.
+PROG:80012b78	Mistaken Views of the Barbarians
+PROG:80012b88	In America women are treated with great care, far better than Japanese women are. It is astonishing.
+PROG:80012be8	Treatment of Women
+PROG:80012bf4	The president has dignity, yet dresses like a merchant, without any ornament. There is no social rank, and no manners at all.
+PROG:80012c50	Barbarians Have No Manners
+PROG:80012c60	In America things called steam locomotives run on railways, as swift as an arrow.
+PROG:80012cb0	On the Railway
+PROG:80012cc0	American politics is decided in a congress, and its members and the president are chosen from the common people by election.
+PROG:80012d0c	The American Congress
+PROG:80012d18	To make the final confirmation of the Treaty of Amity and Commerce, the shogunate sent an embassy of about 70 men to America.
+PROG:80012d60	Embassy to America
+PROG:80012d70	The foreigners have over a hundred Western warships; Japan is no match for them.
+PROG:80012db8	The Foreigners' True Strength
+PROG:80012dcc	Shanghai has become a colony of the powers, and the Qing people live in misery under Western rule.
+PROG:80012e20	The Plight of the Qing People
+PROG:80012e30	Striking Western-style buildings line Shanghai, and Western warships come and go constantly.
+PROG:80012e74	Scene at Shanghai Harbour
+PROG:80012e84	The Qing government stalled in diplomacy over foreign demands for trade, so Britain took military action.
+PROG:80012ee0	Qing Attitude to Foreign Powers
+PROG:80012ef4	The Arrow Incident was a scheme of the powers to open new commercial markets.
+PROG:80012f34	Britain's Market-Seeking Aim
+PROG:80012f48	War broke out between the Anglo-French allies and Qing.
+PROG:80012f80	The Arrow Incident in Qing
+PROG:80012f94	The open-country advocate Sakuma Shōzan is assassinated.
+PROG:80012fb4	Sakuma Shōzan Assassinated
+PROG:80012fc8	With no clear charge, Takechi Hanpeita, leader of the Tosa Loyalist Party, was ordered to commit seppuku.

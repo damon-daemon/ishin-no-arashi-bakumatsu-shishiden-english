@@ -1,0 +1,798 @@
+@0
+Hello? Is nobody here?
+
+@1
+Eek!
+
+@2
+Whoa, are you all right?
+
+@4
+Isn't the master of the house in?
+
+@6
+What's this?
+
+@7
+Hee hee.
+
+@9
+...I've taken a liking to this man.
+
+@10
+Hey, hey?
+
+@11
+I'm Omoto. Pleased to meet you.
+
+@12
+Omoto, is it?
+
+@13
+Do come in. The master will be back soon.
+
+@14
+Oh! Is that...?!
+
+@16
+Oh! The Black Ships! It's a Black Ship!
+
+@17
+Step closer\nLook around
+
+@18
+Good grief, it's huge! I really do want a ship like that!
+
+@19
+Hey, you! You can't just walk in here! Who are you?
+
+@20
+A shogunate official is keeping watch, it seems.
+
+@21
+Call out to him\nPut him to sleep
+
+@23
+Hm? Who are you?
+
+@24
+...Pardon me!
+
+@25
+Guh!
+
+@26
+Now I can look at the ship in peace... Hm?
+
+@27
+A Black Ship flying the shogunate's flag is about to leave port.
+
+@28
+Keep watching\nSneak aboard
+
+@29
+Wonderful... ships are wonderful.
+
+@30
+The ship for Shanghai is leaving!
+
+@31
+It's gone...
+
+@32
+I don't know where it's going, but I'd like a ride.
+
+@33
+The ship for Shanghai is leaving!
+
+@34
+Shanghai?!
+
+@35
+"A Tosa samurai"\n"A cargo porter"
+
+@36
+A Tosa samurai.
+
+@37
+What business does a Tosa samurai have here? If none, kindly leave.
+
+@38
+Why, I'm just a cargo porter, sir.
+
+@39
+A porter with a sword?
+
+@40
+It's one more piece of baggage, you see.
+
+@41
+Fool! Don't wear it at your waist, it's confusing!
+
+@42
+Sorry, sir.
+
+@43
+There's little time before the Shanghai ship leaves. Get to work!
+
+@44
+Yes, sir... (Shanghai?)
+
+@45
+The Senzai-maru's at the far end! You'll be sorry if you're late!
+
+@46
+Yes, sir, right away!
+
+@47
+(That ship seems to be bound for Shanghai... What shall I do?)
+
+@48
+Sneak aboard\nLeave
+
+@49
+(I want to see foreign lands too... Right, I'll slip aboard!)
+
+@50
+The ship for Shanghai is leaving!
+
+@51
+Wow, I'm on a Black Ship! My first voyage!
+
+@52
+(If my stowing away is found out, it's a serious crime... Better give it up.)
+
+@53
+Urgh... Bleeeargh!
+
+@54
+So this is the Qing Empire! The harbour is full of Black Ships!
+
+@55
+Ugh, that was awful. ...Hm?
+
+@56
+Are those shabby little boats Qing ships? They'd never beat the Black Ships... just like Japan.
+
+@57
+Foreign Insight rose by 5!
+
+@58
+Hey, you. What are you gawking at?
+
+@59
+...Me?
+
+@60
+Oh? Sakamoto-kun? It is you, Sakamoto-kun!
+
+@61
+T-Takasugi-san!! What are you doing here?!
+
+@62
+That's my line.
+
+@63
+I wanted to see how foreign lands really are. So I mixed in with the dock hands at Nagasaki and forced my way aboard.
+
+@64
+Is this your first time in Shanghai?
+
+@65
+Yep.
+
+@66
+...You're no ordinary porter. You're a stowaway, aren't you?
+
+@68
+I'm just a porter.
+
+@69
+I'm not out to make trouble for you. You walk like a swordsman, plain as day. And from your speech, you're a Tosa samurai, aren't you?
+
+@71
+No.
+
+@72
+I see. You don't trust me, then?
+
+@74
+You've seen through me, so there's no hiding it. ...I'm a rōnin who fled Tosa.
+
+@75
+What? Why would a man who left his domain be in a place like this?
+
+@76
+I wanted to see how foreign lands really are.
+
+@79
+Admirable!!
+
+@80
+?!
+
+@81
+You're admirable! You've got promise! It takes a reckless man of action like you to save Japan!
+
+@83
+We're here on an inspection of Shanghai too. I'll pass you off as my attendant, so come along. That way no one will be suspicious.
+
+@84
+Accept\nDecline
+
+@85
+That's a help... but are you sure?
+
+@86
+I leave the destination to you.
+
+@88
+No, there's something I want to see on my own.
+
+@89
+I see... Then I'll go along with you.
+
+@90
+What?
+
+@91
+I don't get on with those Satsuma fellows, and the shogunate fools are just boring company.
+
+@92
+What a coincidence! Come on, Sakamoto-kun, let's go!
+
+@93
+Why not tell me how you beat Katsura with a sword! Ha ha, it must have been a sight!
+
+@94
+I'm Takasugi Shinsaku, a Chōshū samurai. And you?
+
+@95
+You're a Chōshū man? Do you know Katsura-san?
+
+@96
+Oh, you know Katsura-kun!
+
+@97
+And Kusaka-san, too.
+
+@98
+Even Kusaka-kun!
+
+@99
+Well, what a small world! ...Hm? Could you be from the Chiba school...
+
+@100
+Yes, Sakamoto Ryōma.
+
+@101
+Sakamoto-kun! Yes, yes, Katsura-kun told me about you! Well, well, one meets the unexpected in unexpected places!
+
+@104
+I'm Sakamoto Ryōma.
+
+@105
+Hm, I've heard that name... of the Chiba school, isn't it?
+
+@106
+Yes.
+
+@107
+I see, that's reassuring. Sakamoto-kun, let's go.
+
+@108
+Sakamoto-kun, let's go.
+
+@109
+Can't we go inside the city walls?
+
+@110
+Impossible.
+
+@111
+But this is terrible. The people here live truly wretched lives.
+
+@112
+Yes, worse than I expected. They must be people burned out of their homes by the war... Qing's jōi seems to have been utterly defeated.
+
+@113
+Did the Qing have a jōi movement too?
+
+@114
+Yes, I hear there's a force called the Taiping, which opposes foreigners and aims to overthrow the Qing government.
+
+@115
+...Just like today's jōi and anti-shogunate movement in Japan.
+
+@116
+But of all things, the Qing government joined hands with the Western powers and crushed it. To protect its own position, it slaughtered its own people with foreign weapons and troops.
+
+@118
+As a result, the Qing Empire can no longer hold its head up before the powers. Its strength has withered, its people have had their souls drained by opium, and everything is at the foreigners' bidding.
+
+@119
+Foreign Insight rose by 5!
+
+@120
+What a terrifying number of Black Ships!
+
+@121
+Yes. It chills me to think of them all coming to Japan.
+
+@122
+Swords and Japanese cannon are no match for them.
+
+@124
+Foreign Insight rose by 5!
+
+@125
+This district is leased from the Qing by the foreign powers. In effect, they simply seized it.
+
+@126
+What magnificent buildings. Nothing like the houses the Qing people live in.
+
+@127
+Off the scale. You can see how much the Westerners are making.
+
+@128
+Are the servants all Qing people?
+
+@129
+The only ones who profit from the Westerners are Qing officials. The common people here can't live without becoming slaves to the Westerners.
+
+@130
+Foreign Insight rose by 5!
+
+@131
+The ship home is about to leave.
+
+@132
+Gasp... I hate ships...
+
+@134
+Anyway... Sakamoto-kun. If Japan stays as it is, it will end up like the Qing...
+
+@136
+Having seen Shanghai, I judge that jōi against the great powers is impossible. Yet if we don't expel the foreigners and overthrow the shogunate, the country will perish! So what should we do? What do you think?
+
+@137
+Overthrow the shogunate\nReform the shogunate\nFight to the death\nWe need Black Ships\nGive up
+
+@138
+We have to overthrow the shogunate first.
+
+@139
+Yes! A shogunate that fawns on the Western powers is no different from the Qing government!
+
+@140
+We have to reform the rotten shogunate.
+
+@141
+Too naive, Sakamoto-kun! The shogunate surely has no future!
+
+@142
+...All we can do is fight to the death.
+
+@143
+...It's a desperate plan, but it is one option. If all the people, not just the samurai, fought to the death, the foreigners might take fright and change their attitude a little.
+
+@144
+Weapons. We have no choice but to gather Black Ships and cannon.
+
+@145
+And just how do you propose to raise the money?
+
+@146
+...I don't know, but Japan, surrounded by sea, has no other way to defend itself than a strong navy.
+
+@147
+I see... Indeed, we do need weapons.
+
+@148
+After seeing all that...
+
+@149
+What good will giving up do! It's up to us to do it!
+
+@150
+First, I'll make those shogunate fools realise how terrifying the foreigners are. And if that doesn't wake them up, I'll simply smash the shogunate.
+
+@151
+That's right... I'll smash the damned shogunate that killed Shōin-sensei!!
+
+@155
+...After I return to Chōshū, I intend to get my lord's permission and go to Edo.
+
+@156
+If you feel like it, come to Edo too. Let's give that thoroughly rotten shogunate a scare!
+
+@158
+The ship home is about to leave.
+
+@161
+Anyway... Sakamoto-kun. If Japan stays as it is, it will end up like the Qing...
+
+@163
+Having seen Shanghai, I judge that jōi against the great powers is impossible. Yet if we don't expel the foreigners and overthrow the shogunate, the country will perish! So what should we do? What do you think?
+
+@164
+Overthrow the shogunate\nReform the shogunate\nFight to the death\nWe need Black Ships\nGive up
+
+@185
+What's that fearsome band over there?
+
+@186
+There's Sakamoto! Seize him at all costs!
+
+@187
+Damn!
+
+@188
+He's running! After him!
+
+@189
+Ryōma! This way!
+
+@190
+Shūjirō!
+
+@191
+(Shūjirō, why are you in Kyōto?)
+
+@192
+(Tell you later, follow me.)
+
+@193
+You're safe here.
+
+@194
+Shūjirō, why...
+
+@195
+Better ask him than me.
+
+@198
+Ryōma, it's been a while.
+
+@199
+Hanpeita!!
+
+@200
+Rejoice, Ryōma! Tosa's loyalist cause has triumphed!
+
+@201
+You've... taken hold of the domain government?
+
+@202
+Nearly. It's because we removed Tōyō.
+
+@203
+...You finally did it!
+
+@204
+It's thanks to you. I'm grateful.
+
+@205
+Thanks to that, I'm a hunted man.
+
+@206
+Sorry, I caused you trouble.
+
+@207
+Tōyō's remnants are searching for you with bloodshot eyes. It's dangerous for you in Kyōto.
+
+@208
+Whose doing do you think this is?
+
+@209
+Don't say that. ...Ryōma, go to Edo.
+
+@210
+To Edo?
+
+@211
+It will take some time before the Loyalist Party holds the domain entirely. Wait in Edo until things blow over.
+
+@212
+Why Edo?
+
+@213
+Actually, there's a job I want you to do.
+
+@215
+I want you to cut down Katsu Kaishū, a shogunate retainer and the Navy Commissioner.
+
+@216
+"Understood"\n"Why?"
+
+@217
+...If you say so, I'll ask nothing. I'll do it.
+
+@218
+You'll do it!
+
+@219
+Hold on. You're always too quick to cut people down... What has this Katsu done?
+
+@220
+That man is a villain besotted with foreign ways and a leader of the pro-shogunate, open-country faction.
+
+@222
+What's more, I hear he made the shogunate buy Black Ships. A man who sold his soul to the foreigners.
+
+@223
+"Outrageous"\n"I'm jealous"
+
+@224
+Outrageous!
+
+@225
+Black Ships! I'm jealous!
+
+@226
+Ryōma, what a thing to say!
+
+@227
+Listen, Ryōma. If the shogunate gets Black Ships, the loyalist dream will vanish! Tosa will go back to being the upper samurai's world!
+
+@228
+Think it over. Do you believe foreigners would sell Black Ships to the shogunate with no ulterior motive? They mean to put it in their debt and take over the whole country!
+
+@229
+Well, will you do it?
+
+@230
+"I'll do it"\n"Wait"
+
+@231
+I'll do it.
+
+@232
+You'll do it!
+
+@233
+Wait. I'll meet him and see whether he should be cut down. I'll decide that myself.
+
+@234
+...Well, fine. You'll soon see how black his heart is.
+
+@235
+It's dangerous outside. I'll have you escorted out of Kyōto. Izō!
+
+@236
+Yes, understood.
+
+@237
+I'm counting on you, Ryōma.
+
+@238
+Right.
+
+@239
+Take care on the road.
+
+@240
+Oh, if it isn't Izō.
+
+@241
+...!! R-Ryōma.
+
+@242
+Hey, what's the matter, why so flustered?
+
+@243
+N-nothing, really...
+
+@244
+...! There's blood on you! Are you hurt?
+
+@245
+No, this isn't my blood.
+
+@246
+...You cut someone down?
+
+@247
+Y-yes. I did. ...Ha ha. That's right, Ryōma. Tenchū!
+
+@248
+Izō!
+
+@249
+Tosa officials were searching for Tōyō's killer. If the killer were caught, it would be the end of Takechi-sensei and the work he's doing.
+
+@250
+That's why I cut him down. And it means you won't be caught either, Ryōma.
+
+@251
+Why me?
+
+@252
+The upper samurai back home think you're Tōyō's killer, because you fled the domain just when Tōyō was killed. The officials were looking for you too.
+
+@254
+Right, Ryōma? Takechi-sensei will praise me for it, won't he?
+
+@255
+"Yes, well done"\n"Don't cut people down needlessly"
+
+@256
+...Yes, well done, Izō.
+
+@257
+R-right.
+
+@258
+Don't cut people down needlessly, Izō.
+
+@261
+Sakamoto Ryōma! At last we've found you!
+
+@262
+Damn, the domain's pursuers! What a crowd!
+
+@263
+The domain's pursuers! What a crowd!
+
+@264
+Heh heh, think you can escape? Get him!
+
+@265
+Tch!
+
+@266
+He's running! After him, after him!
+
+@267
+Right, catch him in a pincer! He has no way out!
+
+@268
+Damn!
+
+@269
+(Hey, over here!)
+
+@270
+K-Kiyokawa-san?!
+
+@271
+Who are you?
+
+@272
+(Never mind, hide in this tub!)
+
+@273
+Thanks!
+
+@275
+There he is! Hm? No, wrong man!
+
+@276
+Is something the matter?
+
+@277
+...Did a big man who looked like a rōnin come this way?
+
+@278
+A rōnin type? ...Ah! You mean the samurai who rushed in a panic into those bushes over there?
+
+@279
+That's him! Don't let him escape, after him!
+
+@281
+...They've gone.
+
+@282
+...I'm obliged to you.
+
+@283
+You're being hunted, it seems.
+
+@284
+You're being hunted, it seems... Care to tell me why?
+
+@285
+Tell him\nDon't tell him
+
+@286
+I'm Sakamoto Ryōma... I left Tosa, so I'm being chased.
+
+@287
+Sakamoto of Tosa? Then you're of the Hokushin school?
+
+@288
+How do you know my name...?
+
+@289
+Ha ha ha, I thought so! Anyone who doesn't know Sakamoto of Hokushin, who beat Chōshū's Katsura, is an impostor!
+
+@290
+Truth be told, I am Kiyokawa Hachirō of the Great Chiba, Hokushin school.
+
+@291
+You're from my school!
+
+@293
+Ha ha, I'm a stranger to you. When you're hunted, you can't be too careful, is that it?
+
+@294
+But there's no need to worry. I mean you no harm.
+
+@295
+Tell him\nDon't tell him
+
+@296
+...I left my domain, so I'm being chased.
+
+@297
+That accent is Tosa... I'm a domain-leaver myself. Kiyokawa Hachirō of the Hokushin Ittō-ryū.
+
+@298
+From my school?!
+
+@299
+What? And what is your name?
+
+@300
+Sakamoto... Ryōma.
+
+@301
+Oh, Sakamoto-kun! I've heard about you. They say you beat Chōshū's Katsura!
+
+@302
+That was a fluke.
+
+@304
+...
+
+@305
+If you don't want to talk, I won't force you. I'm Kiyokawa Hachirō of the Hokushin Ittō-ryū. If you come to Edo, look me up.
+
+@306
+Hokushin Ittō-ryū?! From my school?!
+
+@307
+What, the same school?!
+
+@308
+Are you truly of the Chiba school?
+
+@309
+Then you must be of the Little Chiba. I'm Great Chiba, so no wonder we haven't met. In that case... that Tosa accent means you're Sakamoto-kun?
+
+@310
+You've found me out.
+
+@311
+I've heard about you. They say you beat Chōshū's Katsura!
+
+@312
+That was a fluke.
+
+@313
+But it would be troublesome if those men came back. At this rate, they may have the barriers everywhere watched.
+
+@314
+I can get you safely as far as Edo, if you like. Will you leave it to me?
+
+@315
+There seems no other way.
+
+@316
+Then get into the tub on this cart again. We'll slip through like this for a while.
+
+@317
+Me too?
+
+@318
+You'll pull this cart.
+
+@319
+What?! Why me?!
+
+@436
+You will pull this cart.
+
+@439
+So it can't be done...
+

@@ -1,0 +1,690 @@
+@1
+Ryōma, are you ready?
+
+@2
+Yes.
+
+@3
+Then let's go.
+
+@4
+Ryōma, so this is where you were.
+
+@5
+Yes.
+
+@6
+We'll be late for the match. Let's go.
+
+@7
+Ah, Sakamoto-kun! You're late!
+
+@8
+Katsura-san.
+
+@9
+Heh, you're calm. ...I'll be waiting in the final.
+
+@10
+Don't expect too much.
+
+@11
+Ryō-san, we've come to cheer you on.
+
+@12
+Please be sure to win.
+
+@13
+Oh dear, I can't afford to lose early on.
+
+@14
+Ryōma, get ready. The first round is right away.
+
+@15
+What a rush.
+
+@16
+Your opponent is Ueda Umanosuke of this dōjō. He's famous for his courage. Don't let your guard down.
+
+@17
+I know.
+
+@18
+Both contestants, step forward.
+
+@19
+A solid win to start, as it should be.
+
+@20
+Only natural for Sakamoto-sama.
+
+@21
+Oh, he lost.
+
+@22
+A match is a fickle thing.
+
+@23
+Excuses are unseemly.
+
+@25
+The Final
+
+@26
+Match Results
+
+@27
+Champion! Katsura Kogorō of Chōshū, Shintō Munen-ryū!
+
+@28
+As expected.
+
+@29
+...Ryō-san, shall we go home?
+
+@30
+...Yes.
+
+@31
+Ryōma! Do your best!
+
+@32
+Izō! Are you Tosa's representative too?
+
+@33
+Not me. Takechi-san isn't entering, so I can't either.
+
+@34
+I see...
+
+@35
+But I want to. I wanted to... If I had, I'd have thrashed those men of other domains...
+
+@37
+Ryōma, I won't forgive you if you lose. D-do your very best!
+
+@38
+Well... I'll do what I can.
+
+@39
+The second round begins!
+
+@40
+Good, good, that's it.
+
+@41
+Not yet. There is still the next bout.
+
+@42
+Hmm, no good.
+
+@43
+Oh, he has lost already?
+
+@44
+There's always someone better out there.
+
+@45
+The Final
+
+@46
+Match Results
+
+@47
+Champion! Katsura Kogorō of Chōshū, Shintō Munen-ryū!
+
+@48
+As I thought, Katsura won.
+
+@49
+...Ryō-san, shall we go home?
+
+@50
+...Yes.
+
+@51
+Go, go, Sakamoto! Put your spirit into it, Ryōma!
+
+@52
+What's this?
+
+@53
+I brought every Tosa man in Edo! If you show us anything shameful, they'll beat you black and blue!
+
+@54
+My, what a lively cheering section.
+
+@55
+Nobody asked for this...
+
+@56
+Third round!
+
+@57
+Well done, Ryō-san!
+
+@58
+No, the real fight starts now.
+
+@59
+Argh, what a shame!
+
+@60
+I've let them down.
+
+@61
+That's how it goes. Fortune was not with you.
+
+@62
+The Final
+
+@63
+Match Results
+
+@64
+Champion! Katsura Kogorō of Chōshū, Shintō Munen-ryū!
+
+@65
+As expected.
+
+@66
+Ryō-san, let's go home.
+
+@67
+I can't face my fellow Tosa men.
+
+@68
+That's it, that's it, Sakamoto!
+
+@69
+D-don't lose! Cut him down!
+
+@70
+(How embarrassing...)
+
+@71
+The semi-finals begin now!
+
+@72
+Sakamoto Ryōma of Tosa against Mori Yōzō of Aizu.
+
+@73
+Yes! He's in the final!
+
+@74
+Yes!
+
+@75
+I'm worn out.
+
+@76
+Ryōma, you seem in good form.
+
+@77
+Not really.
+
+@78
+Katsura is strong. Don't lose.
+
+@79
+All I can do is try.
+
+@80
+The Final
+
+@81
+Match Results
+
+@82
+Champion! Katsura Kogorō of Chōshū, Shintō Munen-ryū!
+
+@83
+Katsura-san, so you won after all.
+
+@84
+No, only because my opponent Mori-dono was tired from his hard fight with you, Sakamoto-kun.
+
+@85
+You've a smooth tongue, you.
+
+@86
+Go all the way!
+
+@87
+Beat Katsura!!
+
+@88
+Now, the final begins!
+
+@89
+Katsura Kogorō of Chōshū, Shintō Munen-ryū!
+
+@90
+Sakamoto-kun, you've come at last.
+
+@91
+Sakamoto Ryōma of Tosa, Hokushin Ittō-ryū!
+
+@92
+Go easy on me.
+
+@93
+Best of three in the final! Both contestants, step forward!
+
+@94
+He did it, he did it! He's the champion!
+
+@95
+...Sakamoto-sama!
+
+@96
+Argh! So close!
+
+@97
+He was so close!
+
+@99
+He really is strong.
+
+@100
+No, you are too, Sakamoto-kun. It's been a long time since I met such a strong opponent.
+
+@101
+You've a smooth tongue, you.
+
+@102
+Well then, I'll take my leave. I look forward to crossing swords again.
+
+@103
+...
+
+@105
+...
+
+@106
+...Ryō-san?
+
+@107
+...Hm? Oh, sorry. It's nothing.
+
+@108
+Sakamoto-sama!
+
+@109
+Whoa!
+
+@110
+Honestly, look at you... Be a man and pull yourself together!
+
+@111
+Ha ha... Still, there's always someone better.
+
+@112
+Whump!
+
+@113
+Hm? A hand towel?
+
+@114
+If you can't win today, then resolve to win tomorrow! With a faint heart like that, you'll never beat Katsura-sama!
+
+@115
+Hey, Sana!
+
+@116
+Honestly... wipe off your sweat before you catch a chill.
+
+@117
+Sana-san, the towel... she's gone.
+
+@118
+Sorry, Ryō-san. Please go easy on her. She must have been terribly frustrated.
+
+@119
+Eh? ...Ah.
+
+@120
+Ryōma! Well done!
+
+@121
+Yeah! Sakamoto of Tosa is champion!
+
+@122
+Whooo! Ryōma! You won, you won!
+
+@123
+Quiet down.
+
+@124
+You're strong, Sakamoto-kun. You got me. A complete defeat.
+
+@125
+A match is a fickle thing. I just happened to win.
+
+@126
+Champion! Sakamoto Ryōma of Tosa, Hokushin Ittō-ryū!
+
+@132
+Ryōma, your training in Edo will be over in a little while.
+
+@135
+Ryō-san, before you leave Edo, let's settle which of us is better.
+
+@136
+With you, Jū-san?
+
+@137
+You might say it's your graduation test. I want to see the fruits of your training too.
+
+@138
+I'll do it\nI can't
+
+@139
+...I will.
+
+@140
+Please excuse me from that.
+
+@141
+Why? Not confident? Or the opposite?
+
+@142
+The opposite?
+
+@143
+Don't hold back out of kindness. Go all out.
+
+@144
+I'll do it\nI can't
+
+@145
+...Let's do it.
+
+@146
+I don't want to fight Jū-san.
+
+@148
+Sakamoto-sama... why?
+
+@149
+Well, all right. Forget the whole thing. Don't let it bother you, either of you.
+
+@150
+I'm sorry.
+
+@151
+Good, best of three. Both of you, give it everything.
+
+@152
+Ryōma, you have trained well! I grant you the full licence!
+
+@153
+The full licence...
+
+@154
+I've nothing more to teach you. The rest is up to you.
+
+@155
+Jūtarō, you saved face.
+
+@156
+...Yes, somehow.
+
+@157
+Ryōma, well done too. It was a good bout.
+
+@158
+Ryōma. Today is your last special training.
+
+@159
+The final one?
+
+@161
+...Yes, sir!
+
+@187
+Tsk! You need more training.
+
+@188
+Ryōma. The way of the sword is deeper than you know.
+
+@190
+...Enough.
+
+@196
+Ryō-san, something has come for you from the Tosa domain office. Come to the dōjō.
+
+@197
+Sorry for the trouble, Jū-san.
+
+@198
+Ryōma, there you are. A summons from the Tosa residence.
+
+@199
+An order to return home, then.
+
+@200
+Sakamoto Ryōma, gōshi of Tosa Domain
+
+@201
+You are to end your stay in Edo by the 10th month of Ansei 5. Further, you are to return to Kōchi in Tosa by the 12th month of the following year, Ansei 6.
+
+@202
+Yamauchi Yōdō, Lord of Tosa
+
+@203
+Can't you somehow stay on in Edo?
+
+@204
+Impossible. A domain order is absolute; defy it and you're a criminal.
+
+@205
+Hmm, they say the shogunate has at last begun arresting the sonnō-jōi shishi... maybe our work as shishi will only get harder in Edo.
+
+@206
+Work?
+
+@207
+I can't speak lightly of it now. I'll tell you someday.
+
+@208
+Are you going back to Tosa too?
+
+@209
+No, I still have things to do in Edo. Until I return, I leave Tosa to you.
+
+@210
+Leave it to me\nLeave what?
+
+@211
+Leave it to me.
+
+@212
+What should I do?
+
+@213
+Study first. Learning will show you the way by itself.
+
+@214
+Is that how it works?
+
+@215
+Well then, take care on the road.
+
+@216
+Finish your sword training and leave Edo by the 30th of the 10th month, 1858
+
+@217
+So you're finally off.
+
+@218
+Thank you for everything.
+
+@220
+Take care on the road.
+
+@221
+Edo will be lonely without you, Ryō-san.
+
+@223
+Be sure to come back to Edo someday.
+
+@224
+Yes, I will.
+
+@225
+Come, Sana, say something too.
+
+@227
+Say something kind\nSay something spiteful
+
+@228
+Sana-san, take care of yourself.
+
+@229
+I... cannot look at your face, Sakamoto-sama.
+
+@230
+I'll come to Edo again.
+
+@231
+You promise?
+
+@232
+I promise.
+
+@233
+Find a husband quickly, or no one will take you.
+
+@234
+! ...You'd do better to worry about yourself!
+
+@235
+Keep well, everyone. Master, live a long life.
+
+@236
+Heh, I'm not about to kick the bucket yet.
+
+@237
+Well then.
+
+@238
+Keep well.
+
+@239
+Give my regards to your sister Otome.
+
+@240
+Be sure to come back!
+
+@241
+Ryōma, you have a visitor.
+
+@242
+A visitor?
+
+@243
+Are you Sakamoto Ryōma, gōshi of Tosa?
+
+@244
+Who are you?
+
+@245
+Insolent! Your leave to stay in Edo ran out long ago. We have orders to haul you home if we must. Submit quietly.
+
+@246
+Understood\nShut up
+
+@247
+What a fuss.
+
+@248
+Take him away!
+
+@249
+What a noisy bunch.
+
+@250
+Wh-what... t-take this man away!
+
+@251
+Hold on a moment!
+
+@252
+Y-you'd defy us?
+
+@253
+I'm only saying my goodbyes.
+
+@254
+Everyone, thank you for everything.
+
+@255
+Ryōma... take care.
+
+@256
+Ryō-san! Be sure to come back to Edo someday!
+
+@258
+...Take care of yourselves.
+
+@260
+Come on, move!
+
+@261
+Hey. You don't mean to march along with me all the way to Kōchi, do you?
+
+@262
+Of course.
+
+@263
+Do as you like\nSpare me
+
+@264
+Do what you like.
+
+@265
+Don't be absurd. By the domain's order I only have to be back by the end of this year, don't I?
+
+@266
+...Well, I might look the other way.
+
+@267
+What is it? You want money?
+
+@268
+Give 50 ryō\nDon't give
+
+@269
+I've no money for rotten officials.
+
+@270
+What did you say!
+
+@271
+Talking to myself. Pay it no mind.
+
+@272
+Stop muttering and keep walking!
+
+@273
+Here, travel money. Take it and get out of my sight.
+
+@274
+Insolent fellow... oh, very well. I'll turn a blind eye this once.
+
+@275
+...is what I'd say, if I had any money.
+
+@276
+You mock me! Shut up and walk!
+
+@277
+Phew, we've finally arrived.
+
+@278
+Hm? S-Sakamoto! He's gone! Where is he?!
+
+@279
+Sorry, but I'll do as I please until the deadline.
+

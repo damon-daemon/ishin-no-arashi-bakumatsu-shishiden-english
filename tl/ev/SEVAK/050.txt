@@ -1,0 +1,207 @@
+@3
+Takasugi-san, are you in?
+
+@4
+*cough* Sakamoto-kun, *cough cough*!
+
+@5
+Oh, Ryōma-san.
+
+@6
+Takasugi-san? What's wrong?
+
+@7
+Better keep your distance. It seems I've got a lung sickness.
+
+@8
+A lung sickness?! Surely not...
+
+@9
+Yes, consumption. They say I won't last another year.
+
+@11
+Why does a hero like Takasugi-san have to... You must not die!
+
+@12
+Ha ha ha, *cough*... I have done what I had to do. The rest is up to you.
+
+@13
+Don't say such things!
+
+@14
+A man's life is not measured by its length.
+
+@15
+Shōin-sensei died at about my age, yet his teaching lit the flame of loyalism in us, and now it is shaking the shogunate, once so mighty.
+
+@16
+Compared with Shōin-sensei, I am fortunate. Merely by being born a few years later, I have been able to see the dream he never could.
+
+@17
+It won't end as a dream. Overthrowing the shogunate is within reach.
+
+@18
+Yes... I'm a little tired. Let me rest.
+
+@19
+What a cruel twist of fate. Just when it is all about to begin...
+
+@21
+I long to be back in Kyōto soon. The success of the loyalist cause and the fall of the shogunate rests on the work of you shishi.
+
+@22
+We are well aware, my lord.
+
+@23
+Ryōma, good timing.
+
+@28
+What's the matter, everyone?!
+
+@31
+Surely not... Takasugi-san has...
+
+@32
+Yes...
+
+@34
+A man who came through such storms... and his end was so sudden.
+
+@35
+"In a world where nothing is amusing, let us make it amusing"
+
+@36
+He left us those words and died laughing. ...His face in death was truly... free of care.
+
+@38
+I see... That is a death poem worthy of Takasugi-san.
+
+@39
+Who's this?
+
+@40
+Lord Iwakura Tomomi. He was punished and now lives in retirement in his home village, but though a court noble he is called a monster for his scheming. He still has influence with the new Emperor's attendants. He is the trump card Satsuma has its eye on.
+
+@41
+Ironically, the death of the late Emperor, the most ardent supporter of the shogunate, may let us draw the tide of the times toward overthrowing it.
+
+@47
+The shogunate's authority is fading fast after its failed expedition against Chōshū. Now is the time to bring it down.
+
+@48
+To raise an army against the shogunate we need a just cause. We humbly ask for an imperial edict.
+
+@49
+Satsuma's Ōkubo is of the same mind, and I shall see to it somehow. But besides Satsuma and Chōshū, we would like one more ally.
+
+@50
+Do you mean...
+
+@51
+Your own domain.
+
+@53
+If Tosa stands with the Emperor, I can rest easy. The uprising is sure to succeed. With the Emperor on our side we become the imperial army, and we can draw the lords to us.
+
+@54
+Understood. We will bring Tosa over to the sonnō cause and the overthrow of the shogunate, whatever it takes.
+
+@55
+I'm counting on you.
+
+@56
+Domestic Insight rose by 7!
+
+@57
+Think you can pull it off?
+
+@58
+I do. The Tosa lot are getting anxious too. If the world keeps leaning toward the loyalists, Satsuma and Chōshū will leave them completely behind.
+
+@60
+Itagaki Taisuke, who commands Tosa's Western-style army, has leaned strongly towards the loyalists lately. I mean to win him over to our side, and I want your help too.
+
+@63
+Since you left the domain, the upper samurai of Tosa have hunted you and killed your comrades. I well understand that you can't feel easy about it. But now is no time to speak of such things.
+
+@64
+Itagaki too must know full well that Tosa has to join the loyalist side, even if it means shutting his eyes to his feud with the Tosa gōshi. Let us put aside private feelings for the sake of the realm.
+
+@68
+Takasugi-san, are you in?
+
+@69
+*cough* Sakamoto-kun, *cough cough*!
+
+@70
+Oh, Ryōma-san.
+
+@71
+Takasugi-san? What's wrong?
+
+@72
+Better keep your distance. It seems I've got a lung sickness.
+
+@73
+A lung sickness?! Surely not...
+
+@74
+Yes, consumption. They say I won't last another year.
+
+@76
+Why does a hero like Takasugi-san have to... You must not die!
+
+@77
+Ha ha ha, *cough*... I have done what I had to do. The rest is up to you.
+
+@78
+Don't say such things!
+
+@79
+A man's life is not measured by its length.
+
+@80
+Shōin-sensei died at about my age, yet his teaching lit the flame of loyalism in us, and now it is shaking the shogunate, once so mighty.
+
+@81
+Compared with Shōin-sensei, I am fortunate. Merely by being born a few years later, I have been able to see the dream he never could.
+
+@82
+It won't end as a dream. Overthrowing the shogunate is within reach.
+
+@83
+Yes... I'm a little tired. Let me rest.
+
+@84
+What a cruel twist of fate. Just when it is all about to begin...
+
+@86
+I long to be back in Kyōto soon. The success of the loyalist cause and the fall of the shogunate rests on the work of you shishi.
+
+@87
+We are well aware, my lord.
+
+@110
+What's the matter, everyone?!
+
+@113
+Surely not... Takasugi-san has...
+
+@114
+Yes...
+
+@116
+A man who came through such storms... and his end was so sudden.
+
+@117
+"In a world where nothing is amusing, let us make it amusing"
+
+@118
+He left us those words and died laughing. ...His face in death was truly... free of care.
+
+@120
+I see... That is a death poem worthy of Takasugi-san.
+
+@123
+Tosa has come over to our side! The Satsuma-Tosa alliance is as good as arranged!
+

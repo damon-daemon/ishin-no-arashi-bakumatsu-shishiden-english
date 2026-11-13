@@ -1,0 +1,213 @@
+@5
+Understood. Please, go in.
+
+@10
+"That sort of thing"? I cannot let that pass!
+
+@23
+Of course. But...
+
+@26
+...Our lord and I do not get along.
+
+@27
+Then what if we persuade Ōkubo Toshimichi-don and Komatsu Tatewaki-don?
+
+@28
+That might work...
+
+@29
+Right. We will persuade Ōkubo-don and Komatsu-don to drop Satsuma's pro-shogunate policy at once. Only after that will Saigō-don hear us out.
+
+@30
+I will persuade Komatsu-don. You take Ōkubo-don.
+
+@31
+Ōkubo-don, eh... a tough opponent.
+
+@32
+By the way, where is Ōkubo-don now?
+
+@33
+Still in the home domain, I should think.
+
+@34
+So I have to go to Kagoshima...
+
+@35
+Persuade Ōkubo Toshimichi in Kagoshima
+
+@36
+That matter again?
+
+@37
+Sakamoto-san?\nWhat is the matter?
+
+@38
+Ōkubo-don, please hear me out.
+
+@39
+Hear what?
+
+@40
+None other than the Satsuma-Chōshū alliance.
+
+@42
+Sakamoto-san, you have beaten me.
+
+@43
+Then Ōkubo-don, you agree?
+
+@44
+Tell Saigō-don so, if you would.
+
+@46
+Report to Saigō Takamori in Kyōto
+
+@47
+I cannot give you an answer.
+
+@48
+Let us leave it for today. But I am not giving up.
+
+@49
+Ichizō-don (Ōkubo Toshimichi) is not keen on overthrowing the shogunate.
+
+@50
+It will take patient persuasion.
+
+@52
+Ōkubo-san and Komatsu-san are both for the Emperor and for overthrowing the shogunate.
+
+@60
+I deserve no thanks from Nakaoka-san. It is I who should be grateful.
+
+@62
+I will guard them with my life.
+
+@63
+There is one more thing I want to ask.
+
+@64
+What would that be?
+
+@65
+Chōshū has no forces of its own to fight the shogunate.\nThey want the newest weapons, but foreign merchants are wary of Chōshū, a jōi domain.
+
+@66
+Satsuma will buy them from Britain in their place.
+
+@67
+That will not do. Chōshū already feels indebted over this alliance, and it would be in Satsuma's debt yet again.
+
+@68
+Understood. I will lend you only Satsuma's name, Sakamoto-san. Why not urge Glover-don in Nagasaki to trade with Chōshū?
+
+@70
+Good, the stage is set. Once I have spoken to Glover in Nagasaki, I will bring a Chōshū representative to Kyōto.
+
+@71
+Negotiate with Glover in Nagasaki
+
+@74
+And who might you be?
+
+@75
+Saigō-don of Satsuma introduced me. I am Sakamoto Ryōma, a Tosa runaway.
+
+@76
+Runaway? What business does a rōnin have with me?
+
+@77
+It is not I who want to trade. It is Chōshū.
+
+@78
+Chōshū?! Out of the question, they are fervent jōi men!
+
+@79
+But lately things have changed a little.
+
+@81
+At Shimonoseki they learned how strong the foreigners are, and now the shogunate is about to attack them again.
+
+@82
+A man named Katsura, who holds Chōshū in his hands, wants to open the country as soon as possible and get the newest weapons.
+
+@83
+If that is true, we could gain a large new customer.
+
+@84
+I'll have Chōshū send someone. Meet him and talk it over.
+
+@85
+Very well. I will meet him.
+
+@87
+Katsura-san!
+
+@89
+Don't worry, it went splendidly!
+
+@90
+It looks like you can buy weapons from a Nagasaki merchant named Glover. Will you send someone?
+
+@93
+...We would be taking a favour from Satsuma.
+
+@94
+Worry about that after we beat the shogunate.
+
+@95
+News of the Satsuma-Chōshū alliance is gradually spreading among the Chōshū men, and the backlash is terrible. They all say with one voice that they will never use weapons sent by those Satsuma thieves.
+
+@97
+They would rather not win than have Satsuma force a favour on them. They say they'd sooner die fighting gloriously, and they won't listen.
+
+@99
+No, only a Chōshū man can understand this feeling.
+
+@116
+If Chōshū sells them rice and pays the favour back, nobody owes anybody. We'd be square.
+
+@126
+Why not sell that rice to Satsuma?
+
+@138
+Oh, Sakamoto-kun!
+
+@139
+Takasugi-san has come too! Glover in Nagasaki will sell us weapons!
+
+@140
+Oh, really?!
+
+@160
+With the future of Chōshū and of Japan on your shoulders, surely a word or two with those Satsuma potato samurai is nothing to you?
+
+@163
+That's not fair!
+
+@171
+Sakamoto-kun. I want you to see how things go in Kyōto. If the talks run into difficulty, I'd like you to step in.
+
+@174
+Sakamoto-san, I'm at your service.
+
+@182
+This place is no good.
+
+@237
+...Saigō-don, what do you make of these words of Katsura-san's?!
+
+@249
+The stronger side should make the offer. This alliance benefits Satsuma too. More than that, without it Chōshū and Satsuma alike will be crushed by the shogunate.
+
+@311
+Did we lose them?
+
+@314
+What's wrong?
+
+@315
+Miyoshi-kun, it seems I got the base of my finger cut without noticing. The bleeding won't stop.
+

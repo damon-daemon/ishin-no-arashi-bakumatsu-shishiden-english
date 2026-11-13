@@ -1,0 +1,201 @@
+@1
+Kondō-san, what's the matter?
+
+@2
+Damn it all. It's the cholera. Lately, even when I go out to teach, none of the students turn up.
+
+@4
+At this rate the dōjō's finances will only get worse.\nIs there nothing to be done?
+
+@6
+Kondō-san!
+
+@8
+Ah, there he is!
+
+@9
+Kondō-sensei, good news!
+
+@10
+What is it, Tōdō-kun, Yamanami-kun?\nWhat on earth is going on?
+
+@11
+They say the shogunate is forming a "Rōshigumi" in Kyōto.
+
+@12
+They're recruiting rōshi and swordsmen from the provinces around Edo.
+
+@14
+What's this?
+
+@15
+What's that, then?
+
+@16
+Kiyokawa Hachirō-dono, a fellow student of our school, has lobbied the shogunate's council.
+
+@17
+Hmm.\nAnd what is the purpose of this "Rōshigumi"?
+
+@18
+Yes, well, it is...
+
+@19
+Oh? You say gather rōshi and have them guard Kyōto?
+
+@20
+Yes. It is not merely a way to keep the radical rōshi of Kyōto in check.
+
+@21
+Gathering rōshi also means that dangerous elements can be kept under the watchful eye of the shogunate.
+
+@22
+Hm, I see. A clever plan that kills two birds with one stone.
+
+@23
+And it would also guard His Highness, who is soon to come to Kyōto...
+
+@24
+Very well.\nI shall consider your proposal at once.
+
+@25
+Yes, my lord.\nI am overwhelmed by your gracious words.
+
+@26
+(...Heh, how easy.)
+
+@27
+(Little does the shogunate know that it is raising troops to overthrow itself...)
+
+@28
+Recruiting rōshi to police the radical rōshi... is it?
+
+@29
+Setting a poison to fight poison, then.
+
+@30
+In fact, there is more to it than that.
+
+@32
+They say the shōgun will soon go up to Kyōto.
+
+@33
+What!
+
+@34
+Is that true?
+
+@35
+So the purpose of the Rōshigumi is...
+
+@36
+To guard the shōgun!
+
+@37
+What about the shogunate's famous eighty thousand hatamoto?
+
+@38
+How many of the shogunate's retainers today would risk their lives for the shōgun?
+
+@39
+Even if it came to expelling the foreigners, they could never do it.
+
+@40
+Oh! Then, depending on our service, might we be raised to hatamoto?
+
+@41
+No... I can't say about that...
+
+@42
+If the whole country rises to drive out the foreigners, we'll have our chance to shine as the nation's vanguard.
+
+@43
+Mm... what do the rest of you think?
+
+@44
+What's there to think? If I can use my sword arm, I'll go anywhere.
+
+@45
+I have no objection.
+
+@46
+I'll simply follow Kondō-san.
+
+@47
+We can hone our swordsmanship in real combat to our hearts' content.
+
+@48
+What about you, Toshi-san? The Shieikan will go under, though...
+
+@49
+It's about to go under as it is. We have no choice but to go.
+
+@50
+If the shōgun's own spineless retainers won't go, then we'll show Kyōto what the way of the samurai really is.
+
+@51
+If Kondō-san and Hijikata-san go, then I'll go too.
+
+@52
+It's settled! When do we leave?
+
+@53
+Next month.
+
+@54
+Good. Everyone, make your preparations.
+
+@55
+Toshi-san.\nBefore we leave, pay your respects to the Satō family in Hino, too.
+
+@56
+Visit the Satō house in Hino
+
+@57
+Hijikata-san!
+
+@59
+Hijikata-san, they say it's almost time to leave. Let's go.
+
+@60
+Kondō-sensei, I have some affairs to settle back home, so I will come to Kyōto later.
+
+@61
+Very well. We'll meet in Kyōto.
+
+@62
+Then I take my leave.
+
+@64
+I hear you're going to Kyōto.
+
+@66
+...Take this with you.
+
+@67
+This is... Kanesada!
+
+@68
+A guard of His Highness can't go about with a blunt blade. It would set a poor example to the whole realm.
+
+@69
+Yes. I gratefully accept it.
+
+@70
+Everyone's here. Then let's be off!
+
+@71
+Whoa... what a crowd.
+
+@73
+Gah ha ha ha!! I'll make the name of Serizawa Kamo ring through Kyōto!
+
+@74
+What's that?
+
+@75
+Serizawa Kamo, a fierce warrior of the Mito Tengu Party. He was in prison for killing a man over a trifle, and was pardoned for answering this call for rōshi.
+
+@77
+Ha ha ha! I'm itching to get started, Toshi-san!
+

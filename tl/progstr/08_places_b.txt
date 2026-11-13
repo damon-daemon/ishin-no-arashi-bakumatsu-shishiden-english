@@ -1,0 +1,273 @@
+# status screen, person info, actions, street encounters (PROG 8001e000-8001ffff)
+PROG:8001e000	{B}Status
+PROG:8001e008	{B}Price
+PROG:8001e010	Polity is now %s %d!\n
+PROG:8001e028	Foreign Policy is now %s %d!\n
+PROG:8001e040	Solution is now %s %d!\n
+PROG:8001e058	Domestic Insight rose by %s!\n
+PROG:8001e070	Foreign Insight rose by %s!\n
+PROG:8001e088	Luck rose by %s!\n
+PROG:8001e098	Charm rose by %s!\n
+PROG:8001e0ac	Eloquence rose by %s!\n
+PROG:8001e0c0	Tolerance rose by %s!\n
+PROG:8001e0d4	Style rose by %s!\n
+PROG:8001e0e4	Stamina rose by %s!\n
+PROG:8001e0f8	Drive rose by %s!\n
+PROG:8001e10c	Learning rose by %s!\n
+PROG:8001e120	Athletics rose by %s!\n
+PROG:8001e138	Spirit rose by %s!\n
+PROG:8001e14c	Sword Skill rose by %s!\n
+PROG:8001e164	Kokugaku rose by %s!\n
+PROG:8001e17c	Confucianism rose by %s!\n
+PROG:8001e194	Western Studies rose by %s!\n
+PROG:8001e1ac	Military Science rose by %s!\n
+PROG:8001e1c4	Navigation rose by %s!\n
+PROG:8001e1e0	Languages rose by %s!\n
+PROG:8001e1f8	Medicine rose by %s!\n
+PROG:8001e38c	He
+PROG:8001e390	She
+PROG:8001e398	%s lost his life for his deeds. The memory of %s faded away into the turbulent tide of history...
+PROG:8001e404	%s met his end in a fierce battle.\nThey say his life was full of upheaval...
+PROG:8001e450	%s's convictions were utterly overturned...\nAnd so %s lost the strength to carry on...
+PROG:8001e4a0	You cannot leave %s while it is in turmoil.
+PROG:8001e4cc	You cannot leave %s during the war.
+PROG:8001e4f4	You cannot leave %s while wanted.
+PROG:8001e51c	You cannot leave %s: enemy forces surround it.
+PROG:8001e548	You cannot leave %s while on unit duty.
+PROG:8001e570	You cannot leave %s.
+PROG:8001e58c	You may not leave %s during training.
+PROG:8001e5bc	You may not leave %s by order of the domain.
+PROG:8001e5ec	Free to come and go.
+PROG:8001e5fc	-- Unknown --
+PROG:8001e60c	Map Base
+PROG:8001e728	Name
+PROG:8001e734	Alias
+PROG:8001e740	Age
+PROG:8001e74c	%2d
+PROG:8001e754	Origin
+PROG:8001e758	 
+PROG:8001e75c	 
+PROG:8001e760	Base
+PROG:8001e774	%s/%s
+PROG:8001e77c	Status
+PROG:8001e790	Renown
+PROG:8001e794	 
+PROG:8001e798	 
+PROG:8001e7a0	Title
+PROG:8001e7a8	 
+PROG:8001e7ac	Aunt
+PROG:8001e7b4	Uncle
+PROG:8001e7bc	Niece
+PROG:8001e7c0	Nephew
+PROG:8001e7c4	Younger Sister
+PROG:8001e7c8	Elder Sister
+PROG:8001e7cc	Younger Brother
+PROG:8001e7d0	Elder Brother
+PROG:8001e7d4	Child
+PROG:8001e7dc	Mother
+PROG:8001e7e0	Father
+PROG:8001e7e4	Pupil
+PROG:8001e7ec	Teacher
+PROG:8001e7f4	Friend
+PROG:8001e7fc	%s's %s.\n
+PROG:8001e808	Wife of %s.\n
+PROG:8001e814	Husband of %s.\n
+PROG:8001e820	{B}%s's childhood friend.\n
+PROG:8001e834	Whereabouts unknown.
+PROG:8001e844	Under house arrest.
+PROG:8001e850	Imprisoned.
+PROG:8001e85c	Exiled to an island.
+PROG:8001e874	Sabaku %d
+PROG:8001e880	Sonnō %d
+PROG:8001e898	Jōi %d
+PROG:8001e8a4	Open %d
+PROG:8001e8bc	Militant %d
+PROG:8001e8c8	Moderate %d
+PROG:8001e8d4	Ideology
+PROG:8001e8d8	 
+PROG:8001e8dc	 
+PROG:8001e8f0	Domestic Insight
+PROG:8001e900	Foreign Insight
+PROG:8001e90c	{C8}Views
+PROG:8001e91c	Trend{C7}
+PROG:8001e92c	This person has no political aims.
+PROG:8001e95c	Well versed in affairs at home and abroad,
+PROG:8001e97c	Knows affairs at home and abroad,
+PROG:8001e994	Well versed in domestic affairs,
+PROG:8001e9b0	Knows domestic affairs,
+PROG:8001e9c4	Well versed in foreign affairs,
+PROG:8001e9e0	Knows foreign affairs,
+PROG:8001e9f4	Pursues %s as %s.
+PROG:8001ea10	a goal
+PROG:8001ea18	the aim
+PROG:8001ea20	Sword Skill
+PROG:8001ea2c	Combat Exp.
+PROG:8001ea3c	Blade
+PROG:8001ea44	Adds to attack
+PROG:8001ea58	Armour
+PROG:8001ea60	Adds to defence
+PROG:8001ea70	School
+PROG:8001ea74	 
+PROG:8001ea78	 
+PROG:8001ea7c	Skill: %s.\n
+PROG:8001ea8c	Not much of a swordsman.\n
+PROG:8001eaac	A fair hand with a sword.\n
+PROG:8001eac8	A very capable swordsman.\n
+PROG:8001eae0	Highly skilled with the sword.\n
+PROG:8001eb00	Has seen a fair amount of combat.\n
+PROG:8001eb20	Has plenty of combat experience.\n
+PROG:8001eb34	Plenty of combat experience, and known as a hitokiri.\n
+PROG:8001eb60	Plenty of combat experience, and has survived many a bloody scrape.\n
+PROG:8001eb90	Learning
+PROG:8001eb9c	Kokugaku
+PROG:8001eba4	Western
+PROG:8001ebac	Languages
+PROG:8001ebb4	Military
+PROG:8001ebbc	Confucian
+PROG:8001ebc4	Medicine
+PROG:8001ebcc	Navigation
+PROG:8001ec4c	Songs
+PROG:8001ec5c	Haikai
+PROG:8001ec6c	Has a hangover.\nNeeds treatment and rest.
+PROG:8001ec90	Seems to have eaten bad food.\nNeeds treatment and rest.
+PROG:8001ecc0	Seems to have caught an epidemic illness.\nNeeds treatment and rest.
+PROG:8001ecf4	Seems to have caught cholera.\nNeeds treatment and rest.
+PROG:8001ed28	Seems to have caught smallpox.\nNeeds treatment and rest.
+PROG:8001ed58	Seems to be afflicted with consumption.\nNeeds treatment and rest.
+PROG:8001ed8c	Has a gunshot wound.\nNeeds treatment and rest.
+PROG:8001edbc	Is injured.\nNeeds treatment and rest.
+PROG:8001ede4	Stamina
+PROG:8001edf0	Spirit
+PROG:8001edf4	 
+PROG:8001edf8	 
+PROG:8001edfc	Physique
+PROG:8001ee08	Luck
+PROG:8001ee0c	Charm
+PROG:8001ee18	Eloquence
+PROG:8001ee24	Tolerance
+PROG:8001ee30	Style
+PROG:8001ee34	Hobbies
+PROG:8001ee40	etc.
+PROG:8001ee48	, 
+PROG:8001ee4c	No particular hobbies.
+PROG:8001ee64	In good health.
+PROG:8001ee7c	A little tired.
+PROG:8001ee94	Needs a little rest.
+PROG:8001eea8	Quite worn down.\nNeeds plenty of rest.
+PROG:8001eed8	In a dangerous state.\nNeeds plenty of rest.
+PROG:8001ef04	A man of action, full of courage and charm.\n
+PROG:8001ef28	Full of courage, and values action over theory.\n
+PROG:8001ef58	Full of charm, and values action over theory.\n
+PROG:8001ef88	A flexible thinker and a man of action.\n
+PROG:8001efb0	Ordinary in temper, but with an active side.\n
+PROG:8001efe0	Keeps debates cheerful.\n
+PROG:8001f008	Gives weighty opinions in debate.\n
+PROG:8001f030	Dandy
+PROG:8001f038	Stylish Woman
+PROG:8001f044	Also a %s fond of drink.\n
+PROG:8001f068	Often drinks deep and recites poetry aloud.\n
+PROG:8001f094	Often debates affairs of state over drink.\n
+PROG:8001f0c4	Haiku
+PROG:8001f0cc	Also enjoys %s now and then.
+PROG:8001f0f4	Also an elegant %s.
+PROG:8001f114	Brilliant and given to careful action.\n
+PROG:8001f140	Cheerful, yet thoughtful.\n
+PROG:8001f164	Somewhat gloomy, with a calculating side.\n
+PROG:8001f194	Sharp in debate, overwhelming others.\n
+PROG:8001f1b8	Persuades with orderly arguments.\n
+PROG:8001f1f0	Have %s wait for a few days.
+PROG:8001f208	Go to the hero's base
+PROG:8001f220	Go to a person's base
+PROG:8001f234	Have them move to %s's base.\nIs that all right?
+PROG:8001f260	Tōhoku
+PROG:8001f268	Kantō
+PROG:8001f270	Chūbu
+PROG:8001f278	Kinki
+PROG:8001f31c	Choose a place.
+PROG:8001f334	%s has no place to gather information.\nPlease choose another place.
+PROG:8001f37c	Have %s gather information at %s.\nIs that all right?
+PROG:8001f3a8	You can think of no one to persuade.
+PROG:8001f3d0	Send %s to persuade %s.\nIs that all right?
+PROG:8001f3fc	You can think of no one to assassinate.
+PROG:8001f424	Send %s to assassinate %s.\n%sIs that all right?
+PROG:8001f454	Risky, but
+PROG:8001f464	Very risky, but
+PROG:8001f4dc	Assassination
+PROG:8001f4e8	Persuasion
+PROG:8001f4fc	Martial Training
+PROG:8001f508	Academic Training
+PROG:8001f524	Moving to destination
+PROG:8001f534	%s is now carrying out %s.\nChange the orders?
+PROG:8001f57c	Name
+PROG:8001f584	Status
+PROG:8001f58c	Views
+PROG:8001f594	Trust
+PROG:8001f59c	You can give orders to a comrade.\nGive orders?
+PROG:8001f5cc	Order
+PROG:8001f5d8	Location
+PROG:8001f5e0	Destination
+PROG:8001f5e8	Target Person
+PROG:8001f5f4	Target Group
+PROG:8001f600	On the move.
+PROG:8001f668	Order
+PROG:8001f670	Trusts
+PROG:8001f678	Tr. By
+PROG:8001f680	Nature
+PROG:8001f688	Studies
+PROG:8001f690	Outline
+PROG:8001f6e8	Town
+PROG:8001f6f4	{C5} Name Type
+PROG:8001f714	You cannot enter %s now, by order of the domain.
+PROG:8001f738	You cannot enter %s now: you are in training.
+PROG:8001f75c	You cannot enter %s now: you are on unit duty.
+PROG:8001f780	You cannot enter %s now: enemy forces surround it.
+PROG:8001f7b0	You cannot enter %s now: you are wanted.
+PROG:8001f7d4	You cannot enter %s.
+PROG:8001f80c	Surrender quietly
+PROG:8001f820	Shout them down
+PROG:8001f834	Fight
+PROG:8001f83c	Hey! You are %s from the wanted notice!\nSurrender quietly!
+PROG:8001f874	Constables have surrounded you.\nBreak through?
+PROG:8001f898	Wah! Don't let him get away!
+PROG:8001f8b4	You managed to break through.
+PROG:8001f8c8	Fool, you're a rat in a trap now!\nSurrender quietly!
+PROG:8001f8f8	The constables have you completely surrounded.\nThere is no escape!
+PROG:8001f928	Tch... surrounded, are we...\nThere is nothing for it but to fight.
+PROG:8001f95c	Now the fight begins.
+PROG:8001f974	Get out of my way if you don't want to be hurt!\nI don't want to cut anyone down!
+PROG:8001f9dc	Hah!\n%s
+PROG:8001f9e4	Eek!\nDon't think you'll get away with this!
+PROG:8001fa10	The constables ran away.
+PROG:8001fa2c	Do not flinch! Do not yield to threats!
+PROG:8001fa58	The attempt to scare them off failed.\nThere is nothing for it but to fight.
+PROG:8001fa88	G-good, that is the way!\nSeize this man!
+PROG:8001fabc	Dog of the shogunate! Tenchū!
+PROG:8001fad8	Shameless open-country cur!\nTenchū!
+PROG:8001faf8	Rōnin are attacking you.\nRun away?
+PROG:8001fb24	Aah! Running away, coward!
+PROG:8001fb44	You managed to get away.
+PROG:8001fb5c	Fool, did you think you could escape?\nShameless wretch, I will cut you down!
+PROG:8001fba0	The rōnin have you completely surrounded.\nThere is no escape.
+PROG:8001fbcc	Heh, you have nerve.\nRest easy, I will send you to the underworld!
+PROG:8001fc10	Yes, sir! It's %s!\nWhy not enjoy yourself tonight, sir?
+PROG:8001fc64	He seems to be a tout for a restaurant called %s.\nGo in?
+PROG:8001fc94	Oh, what a shame...\nWell, drop in again some time.
+PROG:8001fcd4	Ah, how stylish, sir!\nRight, a daimyō's party coming through!
+PROG:8001fd14	Welcome, welcome!\nSir, for a bed, try %s.
+PROG:8001fd4c	He seems to be a tout for an inn called %s.\nGo in?
+PROG:8001fd7c	Oh, no need of an inn?\nThen another time, please.
+PROG:8001fdb4	Thank you very much!\nRight this way, sir!
+PROG:8001fde8	Let Pass
+PROG:8001fdf0	Question Them
+PROG:8001fdfc	You have found a group of suspicious rōshi.\nWhat will you do?
+PROG:8001fe2c	You have found a group of rōnin in Chōshū style.\nWhat will you do?
+PROG:8001fe5c	You have found a group of rōnin in Tosa style, long swords at their belts.\nWhat will you do?
+PROG:8001fe9c	Wah! Mibu wolves!\nRun!
+PROG:8001fec4	The rōnin fled.\nThey did not seem worth bothering with.
+PROG:8001ff00	Insolent Mibu wolves, die!\nAttack!
+PROG:8001ff30	A rōnin has slashed at you.\nYou fight back.
+PROG:8001ff58	Sh-Shinsengumi!\nEveryone, run!
+PROG:8001ff7c	Shogunate dog, you die here!
+PROG:8001ff9c	Oh no, this is bad!\nR-run!
+PROG:8001fff8	The rōshi passed calmly by.
+PROG:8001e7a4	 

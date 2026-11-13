@@ -1,0 +1,453 @@
+@0
+Oh, S2-dono! You came too!
+
+@1
+Hm? Who might you be?
+
+@2
+I am S1 M1.
+
+@3
+A sonnō shishi, I see. I am Nakaoka Shintarō.
+
+@4
+Many of the rōshi who were in Kyōto have gathered here in Mitajiri.
+
+@7
+We rōnin have decided to form the Yūgekitai, a sonnō-jōi army to help Chōshū. Join us.
+
+@11
+Halt!
+
+@12
+Not likely!
+
+@13
+If you're a sonnō man too, you'd best run.
+
+@14
+Run away together\nStrike them down
+
+@15
+Discretion is the better part of valour.
+
+@16
+Oh, if it isn't S2-san! I'm short-sighted, so I didn't notice you.
+
+@17
+You're in a tight spot too, Sakamoto-san.
+
+@19
+Halt!
+
+@20
+Run as fast as you can!
+
+@21
+I'll strike them down.
+
+@22
+Oh, if it isn't S2-san! You'd best not take on the Shinsengumi.
+
+@23
+Run after all\nFight
+
+@24
+Don't let the rōnin scum escape!
+
+@25
+On second thought, I'd better run.
+
+@26
+Leave this to me.
+
+@27
+Defy the Shinsengumi? You're ten years too green!
+
+@28
+(Nagakura... Of all the men to face.)
+
+@29
+I think we're safe now.
+
+@30
+Oh no! They're coming from over there too!
+
+@31
+That's it, running's our best bet!
+
+@32
+Fight\nRun away together
+
+@33
+So it seems.
+
+@34
+I will fight.
+
+@35
+I can't go along with this. I'm off!
+
+@36
+Phew, we got out of that somehow...
+
+@37
+We'll be safe out here.
+
+@38
+Sorry to have dragged you into that. I'm Sakamoto Ryōma.
+
+@39
+By the way, how would you like to ride a Black Ship?
+
+@40
+What?\nI'm interested
+
+@41
+What's this, all of a sudden?
+
+@42
+There's a naval school in Kōbe. I've been studying the navy there.
+
+@43
+We'll sail the wide seas in Black Ships.
+
+@44
+Well? Wouldn't you like to ride one?
+
+@45
+Decline\nI'd like to try
+
+@46
+I'd rather not.
+
+@47
+Come now, don't be so stiff.
+
+@48
+Just come along for a bit, won't you?
+
+@49
+(What a pushy man...)
+
+@50
+Can I really ride one?
+
+@51
+Sure you can!
+
+@52
+Then let's go to Kōbe right away.
+
+@53
+This is Kōbe. It's still a quiet village, but it'll be bustling soon.
+
+@54
+This is the naval school.
+
+@55
+It's a school where you learn about Black Ships.
+
+@56
+Well, why not join the naval school?
+
+@57
+Think about it\nJoin!
+
+@59
+What's that unsure look for? Learning about Black Ships is a kind of jōi too.
+
+@61
+With samurai swords and Japanese cannon, we'd be beaten in no time by the foreigners' Black Ships.
+
+@62
+Japan has to build lots of Black Ships and grow stronger than the foreigners.
+
+@63
+Cutting down foreigners isn't the only kind of jōi.
+
+@64
+Decline\nJoin the naval school
+
+@65
+I have other things to do...
+
+@66
+Ah well, if that's how it is.
+
+@67
+Well, I'll be looking forward to it.
+
+@68
+I want to study the Black Ships too.
+
+@69
+So you see it my way!
+
+@70
+Right, I'll introduce you to everyone. Come in.
+
+@71
+Hey, everyone, we have a new comrade!
+
+@72
+I am S1 M1. Pleased to meet you.
+
+@73
+I'm Kondō Chōjirō. I ran a manjū shop back in Kōchi.
+
+@74
+Sawamura Sōnojō.
+
+@75
+Okamoto Kenzaburō.
+
+@76
+Shingū Umanosuke. Everyone calls me Akazura Umanosuke.
+
+@77
+Takamatsu Tarō. I'm related to Ryōma-san.
+
+@78
+And last, I'm Mutsu Munemitsu. I'm the only one here who's not from Tosa.
+
+@79
+Well, everyone, get along.
+
+@80
+Navigation rose by 1!
+
+@81
+Study at the Kōbe Naval Training Institute
+
+@82
+So, have you made up your mind to study the navy?
+
+@83
+"Yes!"\n"No"
+
+@85
+I want to study the Black Ships too.
+
+@86
+So you see it my way!
+
+@87
+Right, I'll introduce you to everyone. Come in.
+
+@88
+Hey, everyone, we have a new comrade!
+
+@89
+I am S1 M1. Pleased to meet you.
+
+@90
+I'm Kondō Chōjirō. I ran a manjū shop back in Kōchi.
+
+@91
+Sawamura Sōnojō.
+
+@92
+Okamoto Kenzaburō.
+
+@93
+Shingū Umanosuke. Everyone calls me Akazura Umanosuke.
+
+@94
+Takamatsu Tarō. I'm related to Ryōma-san.
+
+@95
+And last, I'm Mutsu Munemitsu. I'm the only one here who's not from Tosa.
+
+@96
+Well, everyone, get along.
+
+@97
+Navigation rose by 1!
+
+@98
+Study at the Kōbe Naval Training Institute
+
+@99
+S2-san, could you come here a moment?
+
+@101
+You were called too, S2-han?
+
+@102
+I'll get straight to it. I have something to ask of you two inspectors.
+
+@104
+Our numbers have grown lately, but it seems Chōshū spies have slipped in among the recruits.
+
+@105
+I have heard of it too.
+
+@106
+So besides your usual duties, I want you two to search for those spies.
+
+@107
+"Leave it to me!"\n"(That's a bit of a burden...)"
+
+@110
+Good. Now, where would Chōshū-affiliated shishi lie low...
+
+@111
+Around Kawaramachi and Nakagyō, I'd say.
+
+@112
+Right. Search that area thoroughly.
+
+@113
+Search Kawaramachi and Nakagyō thoroughly
+
+@114
+Oh! It's Arakida-san!
+
+@115
+The Shinsengumi's crackdown is getting stricter. Everyone, take great care.
+
+@117
+(Arakida-san is a Chōshū spy!?)
+
+@118
+(Should I report to Hijikata-san?)
+
+@119
+(Perhaps I should report to Hijikata-san...)
+
+@121
+Arakida was with rōnin at the Chōshū residence!?
+
+@122
+I knew it...
+
+@123
+Kondō-san. S2-san has caught that swine Arakida red-handed.
+
+@124
+Shall we cut him down...
+
+@127
+Nagakura-kun, Saitō-kun, S2-san, come here.
+
+@134
+(It may be only my imagination...)
+
+@135
+(It must be only my imagination...)
+
+@136
+Ah, S2-han.
+
+@137
+Yamazaki-san!
+
+@138
+Have you heard about Kusunoki-han?
+
+@139
+No.
+
+@140
+Word from Kondō-han: Kusunoki-han has been acting suspiciously.
+
+@142
+You be careful too, S2-han.
+
+@143
+S2-kun, an urgent job!
+
+@145
+Kusunoki Kojūrō has run away!
+
+@147
+His conduct had been odd lately, and I had just set Yamazaki-kun to look into it.
+
+@148
+Any idea where?\n...
+
+@149
+Do you have any idea where he is?
+
+@150
+Probably at some place the Chōshū, Satsuma and Tosa rōnin frequent...
+
+@152
+Will you look into it?
+
+@153
+Yes\n...
+
+@154
+...Understood. I'll look for him anyway.
+
+@155
+I'm counting on you!
+
+@156
+I'll ask one of the other men, then!
+
+@158
+Hm! Kusunoki-san!
+
+@159
+So you found me...
+
+@160
+You must know that leaving the corps is punishable.
+
+@162
+Even if I go back and explain myself, it will be seppuku...
+
+@163
+"..."\n"That's not so!"
+
+@164
+I will do what I can to intercede for you.
+
+@165
+No, it's too late...
+
+@166
+If I cut you down here, I can get away...
+
+@168
+I found him, but... he drew on me...
+
+@169
+Yes. Then you had no choice. Good work.
+
+@170
+I'll spare your life... Farewell!
+
+@171
+Found you! Time for the purge!
+
+@172
+Tch... This time you won't get away.
+
+@173
+Found you! Time for the purge!
+
+@174
+Tch... This time you won't escape.
+
+@175
+Found you! Time for the purge!
+
+@176
+Tch... This time you won't escape.
+
+@177
+Found you! Time for the purge!
+
+@178
+Tch... This time you won't escape.
+
+@179
+Found you! Time for the purge!
+
+@180
+Tch... This time you won't escape.
+

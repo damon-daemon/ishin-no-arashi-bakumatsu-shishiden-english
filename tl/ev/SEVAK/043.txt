@@ -1,0 +1,219 @@
+@1
+Lie low in Mitajiri
+
+@3
+Ryōma-san. The shogunate has finally ordered the lords of the Chūgoku and Kyūshū regions to mount the Chōshū Expedition.
+
+@4
+On top of that, the four-nation fleet of America, Britain, France and the Netherlands has apparently bombarded Shimonoseki in revenge for the earlier jōi attacks.
+
+@5
+So Chōshū is in mortal danger.
+
+@6
+With Maki-dono gone, there's no one left to lead our Yūgekitai.
+
+@7
+Why don't you do it?
+
+@8
+No... I want you to do it. You were close to Takechi-sensei, and you've been the foremost of the Tosa gōshi since the Loyalist Party was founded.
+
+@9
+"All right"\n"No"
+
+@10
+All right. Very well.
+
+@11
+No, not me. Only you can do it.
+
+@13
+Kaho-san, what's the matter?
+
+@14
+I can no longer stay in Chōshū.
+
+@18
+Now that Chōshū has been branded an enemy of the Court, he can no longer guarantee the Five Nobles' safety. He said it's dangerous and that I should go home.
+
+@19
+"I see..."\n"Please don't go home"
+
+@22
+Kaho-san... won't you stay?
+
+@24
+I'd like to be with you, Kaho-san.
+
+@26
+Won't you?
+
+@27
+Yes!
+
+@29
+Then... take care of yourself...
+
+@32
+Oh, Nakaoka.
+
+@33
+It looks as if the conservative, pro-shogunate faction will take over the government of Chōshū.
+
+@34
+So Chōshū finally buckled under the shogunate's pressure.
+
+@35
+Chōshū alone no longer has the strength to break through. I will go round the Chūgoku region and sound out the domains. Would you go to Kyūshū?
+
+@37
+Tour Kyūshū
+
+@61
+Sakamoto, a rōshi.
+
+@62
+Oh? Come in.
+
+@64
+I see, I see. Very well.
+
+@65
+To get through this national crisis, we must first scrap the unequal treaties forced on us by the threats of Perry, Harris and the rest, with the resolve not to shrink from war.
+
+@68
+Then the shogunate must be overthrown.
+
+@69
+I believe we need a place where all the lords of the land, the Tokugawa house included, can debate as equals and settle every national question by discussion.
+
+@71
+Agree\nDisagree
+
+@75
+Hmm... your argument, Sensei, seems a little different from my own thinking.
+
+@76
+Asking you to understand all at once is too much. Well, no matter.
+
+@77
+Do not become a traitor.
+
+@79
+Always think how our country can stand shoulder to shoulder with the Western powers, and work for the sake of the realm.
+
+@80
+Come to think of it, Yokoi Shōnan-sensei is from Kumamoto.\nI wonder how he is.
+
+@81
+Oh, Sakamoto-dono.
+
+@82
+Pardon me. Are you not the renowned Sakamoto-dono?
+
+@83
+I am Sakamoto, true enough... And you?
+
+@84
+I am Tsukigata Senzō.
+
+@85
+If you don't mind, might I ask for a little of your time?
+
+@86
+Go with him\nRefuse
+
+@87
+Kind of you, but I'm in a hurry.
+
+@88
+I see... Then another time.
+
+@89
+Fine.
+
+@90
+It seems the Chōshū government means to declare submission before the shogunate's army. If it goes badly, Chōshū may be abolished or have its lands sharply reduced.
+
+@91
+If Chōshū dies, we sonnō shishi are wiped out.
+
+@92
+Fortunately, Saigō-dono of Satsuma, who is also a staff officer of the Chōshū Expedition army, has come to Kokura. They say he is lobbying the shogunate's council to treat Chōshū as leniently as possible.
+
+@93
+I hear that Satsuma too has given up on the Union of Court and Shogunate, and the sonnō faction is beginning to rise.
+
+@95
+To change the position of the sonnō faction completely, I believe Satsuma and Chōshū must in time ally. What do you say?
+
+@96
+If only that could be done... but Chōshū's grudge is no small thing.
+
+@97
+To bring about a great anti-shogunate alliance of the western domains, reconciling Satsuma and Chōshū, the representatives of the powerful domains, is the first requirement.
+
+@98
+A great anti-shogunate alliance?!
+
+@99
+Right now the sonnō-jōi men of every province are being suppressed one after another, and the flame of the imperial cause is nearly out.
+
+@100
+Overthrow the shogunate. As things stand, there is no other way for us to survive.
+
+@101
+Overthrow the shogunate...
+
+@103
+Takasugi-san! What are you doing in a place like this?
+
+@104
+The conservatives, who support the shogunate, took control of the domain. I fled.
+
+@105
+I wonder if Katsura-san and the others are all right.
+
+@106
+Katsura-kun hasn't come back yet.
+
+@107
+Surely he isn't still in Kyōto? If he can't go back to Chōshū either, he has nowhere to go.
+
+@108
+Oh, he's alive.
+
+@109
+I haven't given up yet, not by a long way. If Chōshū dies, Japan is finished. I will bring it back to life without fail.
+
+@110
+Let's go, Ouno.
+
+@112
+I'd kill every crow in the three thousand worlds, just to sleep late in the morning with you...
+
+@114
+Kurata! You're safe!
+
+@115
+Takasugi-san drove the conservatives out of Chōshū!
+
+@117
+I met Takasugi-san, who was on the run in Kyūshū.
+
+@118
+Takasugi-san and I seized the Chōshū fleet at Mitajiri, sailed up off Hagi and fired blanks. Ha ha ha, we gave the conservatives a proper fright!
+
+@120
+The Kiheitai led by Yamagata-san answered the call. After fierce fighting they scattered the pro-shogunate upper-samurai army!
+
+@121
+Well, splendid! Now we loyalists won't be left without a domain to take shelter in!
+
+@122
+No, Chōshū is still surrounded by enemies.
+
+@123
+Still, as long as Chōshū lives, there is hope.
+

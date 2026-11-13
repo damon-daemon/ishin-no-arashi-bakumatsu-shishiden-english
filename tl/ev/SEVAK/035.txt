@@ -1,0 +1,651 @@
+@0
+Lobbying for the Return of Rule to the Emperor
+
+@3
+What! Lord Yōdō has gone home to Tosa?!
+
+@4
+They say he was suffering from a severe toothache.
+
+@5
+Hmm... did Satsuma's high-handed plotting against the shogunate anger him?
+
+@6
+...His old bad habit has come out again, it seems.
+
+@8
+Damn! I'm going straight back to Tosa to persuade Lord Yōdō! You have ties to Satsuma. Stay in Kyōto and persuade their senior men.
+
+@9
+Understood.
+
+@10
+Go to the Satsuma residence in Kyōto and persuade the advocates of armed overthrow
+
+@12
+Now then... the Teradaya has caught the officials' eye, so where should I make my base?
+
+@13
+Kawaramachi: Tosa residence\nKawaramachi: Suya
+
+@14
+Now then... where should I make my base in Kyōto?
+
+@15
+Kawaramachi: Tosa residence\nFushimi: Teradaya
+
+@16
+The Return of Rule to the Emperor?!
+
+@17
+Yes. So I would like you to hold off raising troops against the shogunate for a while.
+
+@18
+That would trouble us... The secret plan to bring Chōshū troops up to Kyōto is already in place. Is it not, Shinagawa-san?
+
+@19
+Exactly. We of Chōshū could rise as early as tomorrow.
+
+@20
+Isn't that so, Nakaoka-san?
+
+@22
+Nakaoka, so this is where you were!
+
+@23
+Nakaoka-san is now the strategist of Satsuma and Chōshū. He, of course, is one of those who support overthrowing the shogunate by force.
+
+@24
+A soft plan like the Return of Rule to the Emperor won't do! The one word that settles this is "war". Nothing else!
+
+@25
+I've also come to terms with Itagaki Taisuke, who leads Tosa's Western-style army. Even if Yōdō shrinks back when the time comes to raise troops, we have it arranged for the domain's troops to march on Kyōto on his own authority.
+
+@26
+Gentlemen, would you leave us for a while? I want to talk with Ryōma.
+
+@27
+Ryōma, however often you come, my answer is the same!
+
+@28
+Hmm... but the shogunate will never agree.
+
+@29
+If it agrees, good. If it refuses, that suits me too. This plan actually has a hidden side.
+
+@30
+A hidden side?
+
+@31
+If Yōdō goes up to Kyōto to submit this plan to the shogunate, we can bring Tosa's troops to Kyōto openly, without waiting for Itagaki to act on his own, whenever that may be.
+
+@32
+What! So the memorial on the Return of Rule is a pretext to bring the domain's troops to Kyōto!
+
+@33
+Satsuma supports the argument too, and waits for the shogunate's reaction with its troops at hand. If the shogunate refuses the Return of Rule and clings to power, both sides can raise their troops at once.
+
+@34
+So it would also serve as the just cause for raising troops.
+
+@35
+And what's more, Tosa, which has fallen behind Satsuma and Chōshū, will regain a great deal of face.
+
+@36
+Yes! Yes!
+
+@37
+Do you understand now?
+
+@38
+Well, I never imagined there was such a hidden side. Good, we'll go with that plan! I'll explain it to Saigō-don myself.
+
+@39
+Oh? Tosa's troops marching on Kyōto...
+
+@40
+If Tosa's military strength joins Satsuma and Chōshū, we will surely beat the shogunate's army! Please hold off for a while.
+
+@41
+No, we cannot wait any longer! For us of Chōshū it is truly a matter of life and death.
+
+@42
+Shinagawa-don!
+
+@43
+Chōshū has poured the wealth of its domain into armaments. We have reached the point where, if we wait any longer, our finances will collapse.
+
+@44
+If we don't bring down the shogunate as soon as possible, Chōshū has no tomorrow!
+
+@45
+Shinagawa-don, this is one gamble we absolutely must win. If we rush it and fail, it's all for nothing. This is a moment to leave nothing to chance.
+
+@47
+Just a little while will do.
+
+@48
+Sakamoto-san's argument does have a point. However, the shogunate is also building up Western-style armaments day by day, so we cannot wait long.
+
+@49
+Oh, you'll agree?! And Shinagawa-don?
+
+@50
+...Chōshū cannot coexist with the shogunate. If you say we will surely crush it by force in the end, we can wait a while.
+
+@52
+Ryōma, there's no time to rest. There is one more man we must persuade.
+
+@53
+Who?
+
+@54
+Lord Iwakura Tomomi. He has been condemned and lives in seclusion in his home village, but though a court noble he is a schemer so formidable they call him a monster. He is Satsuma's trump card.
+
+@55
+I see. So that man's scheming is behind Kyōto's sudden tilt towards overthrowing the shogunate.
+
+@56
+Yes. Ironically, the death of the late Emperor, the most ardent supporter of the shogunate, let Lord Iwakura pull the times towards the anti-shogunate side in one stroke.
+
+@57
+Whoever holds the Emperor wins. If Lord Iwakura has influence over the young Emperor's entourage, the political victory of Satsuma and Chōshū is as good as decided.
+
+@58
+You don't seem to understand. I'll come again, so think it over carefully.
+
+@59
+Ryōma. When the time comes to overthrow the shogunate, we rōnin must join the uprising too.
+
+@60
+Yes.
+
+@61
+You have the Kaientai, so you're fine, but I have nothing. And I can't rely any further on Chōshū, which is hard pressed for money already.
+
+@62
+You want an army of your own?
+
+@63
+I've already chosen the name. The "Rikuentai".
+
+@64
+Ha ha ha, so I'm the sea and you're the land!
+
+@65
+Like the Kaientai, it's an army of rōnin supporting Tosa. I plan to borrow Tosa's Shirakawa residence as its barracks.
+
+@66
+What, you've got that far already?
+
+@67
+And so I have a favour to ask.
+
+@68
+Money?
+
+@69
+The Kaientai has ways to earn money, but the Rikuentai doesn't. Even if Tosa provides funds, we'd have no means to repay them. That's no independent army.
+
+@70
+How much do you want?
+
+@71
+2000 ryō to start with. With that much, we'll manage somehow.
+
+@72
+Give it\nDon't give it
+
+@73
+I'll provide it.
+
+@75
+Sorry, I can't spare it.
+
+@78
+Sister!!
+
+@79
+Aha! Ahahaha! Ryō-ma!
+
+@80
+Hyah!!
+
+@81
+Whoa, careful! I won't fall for that one.
+
+@82
+Tch! I heard you'd been skipping sword practice, so I thought I'd knock a little spirit into you.
+
+@83
+You never change.
+
+@84
+Ryōma... you've finally done it.
+
+@85
+There's still the finishing touch to come.
+
+@86
+You must see it through to the end.
+
+@87
+I will.
+
+@90
+A-aha. Come on, everyone is waiting.
+
+@91
+What, does everybody know? And I meant to surprise them.
+
+@93
+From Tosa, from Kōchi, at the Harimaya Bridge...
+
+@95
+Otome, for shame! Behave yourself!
+
+@96
+Uncle Ryōma's song brings back memories.
+
+@97
+Ha ha, Harui, you're all grown up now.
+
+@98
+Oh yes, Harui, this is for you.
+
+@99
+It's called eau de cologne. Sprinkle it on and you smell wonderful. Use it when you want to bewitch a man.
+
+@100
+Ryōma! Harui already has a husband!
+
+@101
+Oops!
+
+@103
+Now I shall perform a dance for you.
+
+@104
+Otome! Where did you dig out that naginata?!
+
+@105
+Oh! That's our Deva King, gallant as ever!
+
+@106
+Look out!
+
+@107
+Hmm, am I a little drunk?
+
+@108
+Ha ha ha.
+
+@109
+Ha ha ha.
+
+@110
+...It's been ages since I saw Otome laugh like this.
+
+@112
+Ryōma, are you off?
+
+@113
+Yes. The last great task awaits me in Kyōto.
+
+@114
+Give it your all.
+
+@115
+I know.
+
+@116
+Please take care.
+
+@117
+Keep well, all of you.
+
+@118
+When the work is done, come home. Take a good long rest.
+
+@120
+Ryōma, be sure you do.
+
+@121
+Wait for good news.
+
+@122
+What, you tell me to wait before raising troops against the shogunate?!
+
+@124
+Hmm...
+
+@125
+With this plan, we are certain to defeat the shogunate.
+
+@126
+Very well. You may go ahead with the Return of Rule. But I remain uneasy, so I shall prepare the armed overthrow at the same time. Is that all right?
+
+@127
+Understood.
+
+@128
+...(This is a race against time.)
+
+@129
+Meanwhile, Gotō, back in Kōchi...
+
+@130
+What! The Return of Rule to the Emperor!
+
+@131
+With respect, to protect the Tokugawa house, this plan is the only one left.
+
+@132
+That's it... Shōjirō, well spotted! You are indeed the man I took you for!
+
+@133
+Sir...
+
+@134
+Ha ha ha! Now we can put Satsuma and Chōshū in their place! Good, Tosa's policy will be the Return of Rule to the Emperor!
+
+@135
+Ryōma! Lord Yōdō is wholly in favour of the Return of Rule!
+
+@136
+Good, Satsuma and Tosa are now united!
+
+@137
+The true aim of the Return of Rule is to bring Tosa's troops up to Kyōto. Am I not right?
+
+@138
+You are not mistaken. When the time comes to overthrow the shogunate, Tosa will fight alongside Satsuma and Chōshū.
+
+@139
+Thus the Satsuma-Tosa Pact was concluded. The tide of events began to move swiftly towards a conclusion...
+
+@140
+Persuade the war-minded domains to moderation
+
+@159
+Ryōma! Terrible news!
+
+@161
+Lord Yōdō has come up to Kyōto!
+
+@162
+What are you talking about? He's here to submit the Return of Rule. That's only natural, isn't it?
+
+@163
+B-but he hasn't brought any domain troops at all!
+
+@164
+What?!
+
+@165
+He says that threatening with armed force would be disrespectful to His Highness...
+
+@166
+Nonsense! You need strength behind you to negotiate!
+
+@167
+Satsuma is furious. Come with me!
+
+@168
+Nakaoka-san, Sakamoto-san. What is the meaning of this?
+
+@169
+Does Tosa mean to betray us?
+
+@170
+No, certainly not...
+
+@171
+I'll go and persuade him.
+
+@172
+What will you do? There's no way you can meet Lord Yōdō.
+
+@173
+If Yōdō won't listen, I'll have to go to Kōchi and urge the upper samurai to rise.
+
+@174
+How?
+
+@175
+I'll buy the latest weapons in Nagasaki and hand them to Tosa. On the promise, of course, that Tosa joins the overthrow of the shogunate.
+
+@176
+That is a fine plan. We badly want Tosa's strength now. Satsuma will advance the money for the weapons.
+
+@178
+Buy weapons at a foreign trading house in Nagasaki
+
+@189
+I will.
+
+@224
+Oh, Sakamoto-san, did you not say you were going to Nagasaki?
+
+@225
+Oh, that's right.
+
+@226
+First I have to go to Nagasaki.
+
+@227
+I am very sorry. We have just run out of guns in stock.
+
+@228
+How long would I have to wait?
+
+@229
+It should take less than a month, I think...
+
+@230
+I can't wait that long. I'll try elsewhere.
+
+@231
+There should be a foreign trading house at Dejima as well.
+
+@232
+You are lucky! We have the newest model of gun just now. Will you buy?
+
+@233
+Of course.
+
+@234
+A rifle. Breech-loading, seven shots. With this, a Minie rifle is as good as a toy.
+
+@235
+What, the Minie rifle a toy?! How many can you prepare for a 4000 ryō advance?
+
+@236
+Let me see, about 1500.
+
+@237
+Let me see, about 1300.
+
+@238
+Take the advance from Satsuma. The rest of the money will be paid by the new government.
+
+@239
+The new government?
+
+@240
+Don't worry, it'll be formed very soon. Now, load them on at once. I'm leaving for Tosa today.
+
+@241
+Deliver the weapons to Kōchi
+
+@242
+Sakamoto-kun!
+
+@243
+Oh, Katsura-san.
+
+@244
+What do you intend? I hear you are going around preaching a soft plan like the Return of Rule to the Emperor.
+
+@245
+I am.
+
+@246
+Are you in league with the shogunate's council? Without crushing the Tokugawa house by force, Chōshū has no future!
+
+@247
+Do you still worship that paper tiger called the domain?
+
+@249
+The Great Powers are waiting for a civil war in Japan. This is no age for saying Chōshū this and Tokugawa that.
+
+@250
+In any case, hold off raising troops a little longer.
+
+@251
+...Very well. For now, at least, I will trust you.
+
+@252
+I understand what you say in my head, but my heart cannot accept it.
+
+@253
+Let me say just this. If the tide is not turned here, we could never face the late Takasugi-kun.
+
+@255
+Takasugi-san is dead?!
+
+@256
+Yes, in the 4th month this year. It was consumption...
+
+@257
+Takasugi-san...
+
+@258
+If your words prove false, I will never forgive you. Understood?!
+
+@259
+Sakamoto-san, how are things in Tosa?
+
+@260
+Oh no, I forgot.
+
+@261
+Ah, Sakamoto! I heard you were in Kyōto with Gotō-dono.
+
+@262
+I have something important to tell you.
+
+@263
+I now have more than a thousand rifles in hand. These guns are several times better than the ones Chōshū used when it scattered the shogunate's army.
+
+@264
+...(Gulp.)
+
+@265
+I'll give 1000 of these to the Tosa Domain.
+
+@266
+What! Is it really true?!
+
+@267
+But only if Tosa rises to overthrow the shogunate.
+
+@268
+Overthrow the shogunate?!
+
+@269
+Politics in Kyōto has moved far further than you people think.
+
+@270
+At this rate Tosa will be left behind by the times and, worse, be branded a rebel army by Satsuma and Chōshū.
+
+@271
+R-rebel army?!
+
+@272
+This is no time to argue loyalist or pro-shogunate. We have to rise now. Once the new government exists, it will be too late!
+
+@273
+A new government?! Things have come that far?!
+
+@274
+Good heavens...
+
+@275
+With these new guns, a thousand men will do the work of thirty thousand from another domain.
+
+@276
+But if Tosa won't change its stance, I can't hand them over. They'll go to Satsuma and Chōshū.
+
+@277
+Ryōma. I-I understand. Tosa will rise together with Satsuma and Chōshū. I'll make sure of it.
+
+@278
+Good, then I'll present them to you. I'm counting on you.
+
+@281
+You haven't been home in ages, have you? Why not look in?
+
+@283
+We'll make arrangements for you. That's the least we can do to repay your kindness.
+
+@284
+Return to the Tosa residence in Kyōto
+
+@285
+Ryōma, you're back!
+
+@286
+How have things gone since?
+
+@287
+It's proving hard going. I'm on my way to see Nagai-dono of the shogunate's council. Come along.
+
+@288
+Sakamoto-san, how are things in Tosa?
+
+@289
+Excellent.
+
+@290
+I am glad to hear it.
+
+@291
+Gotō-san is also waiting for your return at the Tosa residence. Hurry along.
+
+@292
+Nagai-dono is one of the men Lord Yoshinobu trusts most. He's more of a civil official at heart, but he has an eye for the times.
+
+@293
+The other councillors are too hidebound to talk to. To change Lord Yoshinobu's mind, we have no choice but to win Nagai-dono over.
+
+@294
+Hmm... so you are the Sakamoto-kun who is pushing the Return of Rule plan.
+
+@296
+Sakamoto-kun, is it not? Do you share Gotō-dono's view?
+
+@298
+Then, Sakamoto-kun, let me hear you.
+
+@299
+Hmm... well, I shall consider the matter.
+
+@300
+I beg your kind consideration.
+
+@301
+We can't rest easy yet. All we can do is keep coming back and win Nagai-dono over.
+
+@302
+Hmm... well, I shall consider the matter.
+
+@303
+I beg your kind consideration.
+
+@304
+...We cannot give up here. All we can do is keep coming back and win Nagai-dono over.
+
+@305
+Persuade Nagai Naoyuki at Ōsaka Castle
+

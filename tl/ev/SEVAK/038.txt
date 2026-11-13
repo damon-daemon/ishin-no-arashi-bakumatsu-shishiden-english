@@ -1,0 +1,330 @@
+@3
+There he is, the man who attacked Katsu-dono!
+
+@5
+Ah, it's Sakamoto!
+
+@6
+Damn, the domain's pursuers!
+
+@8
+Oh, Kiyokawa-san!
+
+@9
+Quick! Put on this hat!
+
+@12
+They seem to have gone. It should be safe now.
+
+@14
+You still seem to be on the run, as ever.
+
+@16
+Quick! Put on this hat!
+
+@19
+Who might you be?
+
+@22
+They seem to have gone. It should be safe now.
+
+@23
+Why are you helping me?
+
+@24
+I am Kiyokawa Hachirō. I hold to jōi and travel the provinces.
+
+@25
+A sonnō-jōi shishi, then.
+
+@26
+You should go to the Kaigetsu, a restaurant in Shiba-Mita.
+
+@27
+The Kaigetsu in Shiba-Mita?
+
+@28
+You will meet an interesting man there.
+
+@29
+Visit the Kaigetsu in Shiba-Mita
+
+@33
+Hm? Who are you?
+
+@34
+Sakamoto Ryōma, a Tosa runaway. Kiyokawa-dono sent me.
+
+@35
+Sakamoto Ryōma, a Tosa runaway.
+
+@36
+Oh, a sonnō-jōi shishi then... Well, have a seat.
+
+@37
+I am Takasugi Shinsaku, a retainer of Chōshū. Do you have the spirit to throw away your life and defend Japan from the foreigners?
+
+@38
+I've reckoned myself a dead man since the day I left my domain.
+
+@40
+I make it a rule not to trust men of other domains. Yet somehow I feel a strange charm in you.
+
+@41
+Can you swear not to speak of what I tell you now?
+
+@42
+"Of course"\n"Depends on what it is"
+
+@44
+Good.
+
+@45
+We are about to do something exciting. Will you join us?
+
+@46
+Something exciting?
+
+@49
+The British forced their way onto Gotenyama, and now they are making us build their legation there with Japanese money. Can you stand by and watch that?
+
+@50
+It is a declaration of war. Provoke the foreigners and they will surely retaliate. We will drive the shogunate into having no choice but to expel them!
+
+@51
+"Sounds fun!"\n"Don't do it"
+
+@52
+Sounds fun! Those swaggering foreigners need to be taught that there are Japanese with some backbone too!
+
+@54
+Give it up. Will the shogunate change its ways over a childish stunt like that?
+
+@55
+We won't know until we try. Will you do it or not?
+
+@56
+"Let's do it"\n"I won't"
+
+@57
+You're right. Let's give it a try.
+
+@59
+I won't do it.
+
+@60
+...I see. Never mind, then.
+
+@61
+Depends on what it is.
+
+@62
+I see... Then I'll drop it. Forget you ever heard this.
+
+@63
+Good. Then I shall introduce you to my comrades. Come with me.
+
+@64
+It seems everyone has gathered. Let me introduce you: this is Sakamoto-kun, a Tosa runaway.
+
+@65
+I am Kusaka Genzui.
+
+@66
+Itō Shunsuke of Chōshū, at your service.
+
+@67
+Inoue Monta, likewise.
+
+@68
+Shinagawa Yajirō, at your service.
+
+@69
+A few more will join us.
+
+@70
+Is that all?
+
+@71
+With a large party, word would only leak out.
+
+@72
+Now then, the arson is tonight. Is everyone ready?
+
+@73
+Perfectly.
+
+@74
+Did you bring the saw?
+
+@75
+I brought it, but what is it for?
+
+@76
+The legation is surrounded by a wooden fence. In case the guards spot us, we cut a hole in it beforehand to make an escape route.
+
+@77
+You've thought of everything.
+
+@78
+All right, let's go.
+
+@79
+The hole is made.
+
+@80
+Shinagawa-kun, secure our line of retreat.
+
+@82
+Shunsuke, Monta, come! Sakamoto-kun knows the sword, so I'll leave our guard to him.
+
+@84
+Let's start around here.
+
+@85
+Monta, the fire bombs!
+
+@86
+Here, pile the sawdust on top.
+
+@87
+I'm lighting it!
+
+@88
+Next, over by that pillar!
+
+@89
+Understood!
+
+@90
+Who goes there?!
+
+@91
+Damn, we've been spotted!
+
+@92
+Keep working. Leave this side to me.
+
+@93
+That's enough. Pull back!
+
+@94
+Right.
+
+@95
+Huh? Monta isn't here.
+
+@96
+Surely he hasn't been caught?
+
+@97
+Over here!
+
+@98
+It's hopeless! We'll be surrounded like this!
+
+@99
+I'm sorry!
+
+@100
+Monta! What were you doing?!
+
+@101
+I thought sawdust alone wouldn't burn well, so I broke up a door for kindling.
+
+@102
+You're a shrewd one.
+
+@103
+All right, scatter, everyone! We'll meet again at the Kaigetsu!
+
+@104
+Return to Edo\nStay
+
+@105
+Ah, that was exhilarating!
+
+@106
+I would have liked to see it burning merrily.
+
+@107
+Indeed.
+
+@108
+This should get the shogunate off its backside.
+
+@109
+And if it doesn't?
+
+@110
+Then we have no need of the shogunate. No, it is nothing but an obstacle to Japan. We will simply smash it.
+
+@112
+Foreign Insight rose by 2!
+
+@115
+Oh, Okaken!
+
+@119
+You shouldn't walk about so openly. We junior inspectors have to arrest you, Ryōma-san.
+
+@126
+Do you feel like doing a bit of work for jōi?
+
+@130
+Why not leave the domain altogether and come with me? That's the thing to do. Do it.
+
+@131
+If you say so, Ryōma-san...
+
+@132
+Good, it's settled.
+
+@133
+But do you have any plans from here?
+
+@134
+...None.
+
+@135
+Ha ha, that's just like you, Ryōma-san.
+
+@136
+They say Yoshimura-san has slipped out of Tosa and is up to something in Kyōto again.
+
+@137
+Oh, Yoshimura?
+
+@138
+Let's go to Kyōto. I'll go too.
+
+@139
+I can't do that...
+
+@140
+They say Yoshimura-san has slipped out of Tosa too and is up to something in Kyōto again. Do your best, Sakamoto-san.
+
+@141
+I see. Maybe I should go to Kyōto too and lend him a hand.
+
+@142
+The problem is how to slip past the officials and get out of Edo.
+
+@143
+Escape from Edo
+
+@144
+Hm? What's that crowd?
+
+@166
+Ha ha ha! I can't wait to try my arm, Toshi-san!
+
+@179
+(Joining would be a bother. Still, I could slip out of Edo now by passing for one of the Rōshigumi, then make my own way to Kyōto.)
+
+@180
+Sakamoto Ryōma of Tosa, runaway! You can't escape now!
+
+@197
+I can't stay in Edo any longer... I'll go to Yoshimura in Kyōto.
+

@@ -1,0 +1,342 @@
+@1
+Oh, Tsuji-san. So you've come to Kyōto.
+
+@2
+Ah, are you Sakamoto-dono?
+
+@3
+I am Tsuji Shōsō, a retainer of Geishū.
+
+@5
+The shogunate's power has waned, and it surely lacks the strength to govern the realm.
+
+@6
+Unless we bring about the rule of the Imperial Court as soon as possible, the turmoil will drag on, and Japan will perish before the foreign threat.
+
+@7
+Hm. I think it would be wise for Geishū too to act as a loyalist force. What do you say?
+
+@8
+Naturally I have no objection. What do you say? Would you consent to meet my lord?
+
+@9
+Oh, that's splendid! If Geishū joins us, a grand alliance of the western domains is no mere dream!
+
+@10
+If you would come as far as Hiroshima, I shall arrange the meeting.
+
+@11
+Persuade Asano Nagamichi, lord of Geishū, at Hiroshima Castle
+
+@12
+Ah, Sakamoto-dono! Welcome! Pray wait a moment.
+
+@13
+So you are the Sakamoto-dono I have heard of.
+
+@14
+Sakamoto Ryōma-dono is the man behind the Satsuma-Chōshū Alliance. He has the ear of Saigō-dono of Satsuma and the Chōshū elders as well.
+
+@15
+Hm, I shall hear him.
+
+@16
+This time I will surely persuade the lord of Geishū.
+
+@17
+I leave it to you.
+
+@18
+In the Chōshū Expedition, Geishū saw with its own eyes how useless the shogunate's army was. At this rate the shogunate's days are numbered.
+
+@19
+Quite so.
+
+@20
+But will Satsuma and Chōshū truly accept us?
+
+@21
+They need strong allies for the overthrow of the shogunate right now.
+
+@22
+Hm... Then may I leave the details of concluding the alliance to you?
+
+@23
+Understood. Let us gather representatives of Satsuma, Chōshū and Geishū at the Satsuma residence in Kyōto and sign a pact to overthrow the shogunate.
+
+@24
+Go to the Satsuma residence in Kyōto
+
+@25
+This touches the very survival of the domain. Let me think a little longer.
+
+@26
+We must not give up here. Just one more push.
+
+@27
+Is Saigō-don in?
+
+@28
+Please wait a moment.
+
+@29
+Well! So Geishū has come over to our side!
+
+@30
+I'd like to call Tsuji Shōsō-dono to Kyōto and conclude an alliance of Satsuma, Chōshū and Geishū to overthrow the shogunate. Is that all right?
+
+@31
+I have no objection. Let us ally.
+
+@32
+I trust we will work well together.
+
+@33
+It is we who should be asking that of you.
+
+@34
+I'll return to the domain at once and prepare for our troops to march on Kyōto.
+
+@35
+The Satsuma-Chōshū-Geishū alliance to overthrow the shogunate was concluded.
+
+@36
+With this, the anti-shogunate forces gained a decisive advantage.
+
+@42
+I leave the Yūgekitai in Chōshū to you. With Tosa's money I mean to raise a new rōnin army in Kyōto.
+
+@43
+With Tosa's money?
+
+@44
+Yes. When it comes to overthrowing the shogunate, I'd rather fight in Tosa's name. Even if a new government is formed as things stand, Tosa would only eat the dust of Satsuma and Chōshū.
+
+@45
+You left the domain, yet in your heart you can't cast Tosa off.
+
+@46
+I have already chosen the name: the Rikuentai. I mean to borrow Tosa's Shirakawa residence as the camp.
+
+@48
+I'll be leaving the Yūgekitai. Is that all right?
+
+@49
+Sure, do as you like!
+
+@51
+How goes the imperial sanction for overthrowing the shogunate?
+
+@52
+All is in hand.
+
+@53
+Ah, Ōkubo-don.
+
+@54
+I have already thought out a draft. All that remains is to have Lord Nakayama ask the Emperor to affix his seal, and it becomes the imperial sanction.
+
+@55
+If we raise an army, we will need the Emperor's banner.
+
+@56
+I would like the brocade banner they say existed in the age of the Northern and Southern Courts.
+
+@57
+What does it look like?
+
+@58
+It is written of in books, but I have never seen it.
+
+@59
+Just make it out of the brocade that women wear.
+
+@61
+Nobody has ever seen one. If we make something that looks the part ourselves, it becomes the genuine article.
+
+@62
+...What a frightening court noble.
+
+@63
+Ha ha ha, with this everything should go well. Failure will not be tolerated.
+
+@64
+Is Sakamoto Ryōma-dono at home?
+
+@65
+I am Sakamoto.
+
+@66
+I am Etō Shinpei, a retainer of Saga.
+
+@67
+I hear the uprising against the shogunate is near. My domain too feels it cannot stand idly by here.
+
+@68
+The uprising is only a matter of time. The shogunate can no longer win. If Saga misses the boat now, it will regret it beyond measure.
+
+@69
+However, the retired lord detests his retainers engaging in loyalist activity. My domain devotes itself wholly to buying the latest weapons and building up its military strength.
+
+@70
+Saga... if I remember, is the domain of Lord Nabeshima Kansō, renowned as a wise lord. If your domain joined the overthrow, the shogunate would be no enemy at all.
+
+@72
+Forgive me, but isn't Saga sitting on the fence, meaning to jump to the winning side once the course of the realm is settled?
+
+@74
+Even if the truth is otherwise, the world will see it that way.
+
+@75
+I know... I know it well! But...
+
+@76
+Go myself\nAsk Saigō
+
+@77
+I'll go and persuade Lord Nabeshima.
+
+@78
+Oh, that is more than I hoped for! I shall return to the domain at once and inform His Lordship.
+
+@79
+Persuade Nabeshima Kansō, the retired lord of Saga, at Saga Castle
+
+@80
+Hmm... shall I ask Saigō again?
+
+@81
+Ah! If it comes from Saigō-dono, who holds Kyōto's political world in his hands, His Lordship may perhaps listen!
+
+@82
+Visit Saigō Takamori at the Satsuma residence in Kyōto
+
+@83
+You will want Saigō-don. Please wait a moment.
+
+@85
+If we can win over Saga, with all its newest weapons, it's as good as a victory!
+
+@86
+...Sakamoto-san. I am truly sorry, but with the uprising upon us, I cannot go to Saga.
+
+@88
+Go alone\nGive up
+
+@89
+Then I'll go, even alone.
+
+@90
+Persuade Nabeshima Kansō, the retired lord of Saga, at Saga Castle
+
+@91
+There's no time left. We'll have to rise without Saga.
+
+@94
+Sakamoto-dono, you came!
+
+@95
+I'm sorry. I couldn't bring Saigō.
+
+@96
+I see. No matter.
+
+@97
+Anyway, would you let me meet Lord Nabeshima?
+
+@99
+So you are this Sakamoto Ryōma.
+
+@101
+...If Saigō does not come, then Saga is not expected to count for much, I take it?
+
+@102
+You can hardly blame Saigō-don.
+
+@104
+Your domain has had no dealings with the other domains until now, so it is only now, with the uprising near, that someone like me has come calling.
+
+@105
+(S-Sakamoto-dono!)
+
+@106
+Oh? You say the fault lies with me?
+
+@107
+...Well, no matter. I shall hear you out.
+
+@108
+But will the uprising against the shogunate truly succeed?
+
+@109
+We have already secured a secret pact between Satsuma, Chōshū, Tosa and Geishū.
+
+@110
+If it fails, it is high treason.
+
+@111
+A shogunate that cannot even crush a single domain like Chōshū has no power to break our alliance.
+
+@113
+Very well. Saga Domain too will join the anti-shogunate army.
+
+@114
+Thank you. But we have no time at all.
+
+@115
+I know. We shall make haste to prepare the domain's troops to march on Kyōto.
+
+@116
+I understand what you wish to say...
+
+@117
+Then...?!
+
+@118
+But it is all too sudden; we cannot possibly make it in time for the uprising. Give me a little more time.
+
+@119
+If the uprising is put off any longer, the shogunate will complete its armament.
+
+@120
+...Say what you will, it simply cannot be done.
+
+@122
+Sakamoto-dono, I am sorry to have failed your expectations.
+
+@123
+No, it is my own lack of ability. Please don't dwell on it.
+
+@135
+At last it is war! I am counting on the Yūgekitai's exploits.
+
+@138
+I have thought of it already. Have a look at this.
+
+@139
+Well now!
+
+@150
+But... your name is not here.
+
+@155
+What...?
+
+@172
+...(Sakamoto-han, you've finally done something great.)
+
+@197
+On the very day, thirty-two years after Sakamoto Ryōma, a son of Japan, came into this world...
+
+@200
+Yes. Before anything else, I must see the foreign lands that the Satsuma and Chōshū leaders have seen.
+
+@201
+I see. So Japan is too small a stage for Sakamoto Ryōma now.
+
+@215
+At the Battle of Toba-Fushimi, the allied army of Satsuma, Chōshū, Tosa and Hizen showed an overwhelming difference in firepower and crushed the shogunate army advancing westward.
+
+@234
+...(Sakamoto-han, you've finally done something great.)
+

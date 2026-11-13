@@ -1,0 +1,249 @@
+@0
+Oh, S2-kun. You've come at a good time. You should hear this too.
+
+@3
+What are you going to do?
+
+@5
+Wh... what!?
+
+@7
+...W-what did you say!?
+
+@9
+That's... but...!
+
+@11
+"Stop it"\n"..."
+
+@12
+Whatever you say to me, it can't be stopped now. More than twenty men have already set the plan in motion.
+
+@13
+If you object, come to the Ikedaya on the 5th of the 6th month. A meeting will be held there, so you may put your views to everyone then.
+
+@14
+Come to the Ikedaya on the 5th of the 6th month. I will explain the detailed plan there.
+
+@15
+Go to the Ikedaya on the 5th of the 6th month
+
+@16
+Oh, S2-kun. You came.
+
+@18
+We Tosa men who left our domain are ready to give our lives for the Emperor's cause too!
+
+@27
+Damn! There are more of them!
+
+@28
+Everyone, scatter and flee!
+
+@29
+Ugh!
+
+@31
+S2-kun, are you all right!?
+
+@34
+Surrounded... is this the end?!
+
+@38
+Thus ended the Ikedaya Incident, which stained the dawn over the Imperial City with the blood of loyal patriots.
+
+@39
+The Shinsengumi's struggle, which cut down so many leaders of the sonnō-jōi faction, engraved its name all the more deeply in people's minds.
+
+@41
+Though forced into a hard fight, the Shinsengumi cut down many leaders of the sonnō-jōi faction, and its struggle was more than enough to make its name thunder across the land.
+
+@43
+The sonnō-jōi shishi, who fought like demons and forced the Shinsengumi into a hard battle, were finally wiped out, unable to withstand the reinforcements led by Hijikata.
+
+@45
+The sonnō-jōi rōnin fought like demons and won a miraculous victory over the Shinsengumi, but were afterwards surrounded by the overwhelming forces of Aizu and other domains and wiped out.
+
+@65
+S2-han. The Commander and the Vice-Commander are calling for you.
+
+@67
+Ah, you're all here.
+
+@68
+Chōshū seems to be plotting something. It appears many of their retainers and rōnin have already been sent into Kyōto.
+
+@69
+Commander, I think the area around Kawaramachi, where the Chōshū residence stands, smells fishy.
+
+@71
+I'd like you two inspectors to concentrate on that area.
+
+@72
+I'm counting on you.
+
+@74
+A word...
+
+@75
+(I've been gathering information here at the Ikedaya, and the master of the Masuya smells fishy.)
+
+@76
+(S2-han, I leave the Masuya to you.)
+
+@77
+Keep watch on the Masuya
+
+@78
+Nothing unusual... I'll watch a while longer.
+
+@79
+Begging your pardon, sir...
+
+@80
+I am the head clerk of the Masuya.
+
+@82
+There is something I would like to tell you.
+
+@83
+Listen\nDrive him off
+
+@84
+I have nothing to do with the Masuya. If you have a matter to discuss, go elsewhere.
+
+@85
+I speak because I take you for one of the Shinsengumi.
+
+@86
+Hear him out\nCut him down
+
+@87
+(My identity is known... This is bad!)
+
+@88
+Gaaah!
+
+@89
+This is no place for it.
+
+@90
+In truth, there is something about our master that troubles me.
+
+@92
+He neglects the business and seems to be plotting something with suspicious rōnin.
+
+@93
+When I ask him, he just says it's none of my concern, so I don't know the details.
+
+@94
+Good. You did well to tell me!
+
+@95
+I will deal with the rest.
+
+@96
+Please, I beg you.
+
+@97
+(I must tell Kondō-san and the others at once.)
+
+@98
+S2-kun, it seems you've got hold of something.
+
+@100
+Let's hear the details in the back.
+
+@101
+I see. The Masuya.
+
+@102
+So we've caught him out at last.
+
+@103
+According to S2-kun's report, the Masuya smells fishy. We'll raid it. Toshi-san, come along.
+
+@114
+Keep watch around Kawaramachi
+
+@115
+(S2-han. A moment...)
+
+@116
+(It's tonight at last. The Chōshū rōnin are meeting at the Ikedaya.)
+
+@117
+(Tell Kondō-san at once!)
+
+@118
+Kondō-san. From Yamazaki-san...
+
+@119
+This is it!
+
+@120
+A report from Yamazaki-kun! The meeting is tonight, at the Ikedaya!
+
+@122
+It seems the Chōshū rōnin are plotting something.
+
+@135
+A moment.
+
+@136
+What is it?
+
+@137
+A great round-up is about to begin.
+
+@139
+We split into two parties, the Ikedaya and the Tantora in Kawaramachi, and haul in the Chōshū rōnin.
+
+@140
+Don't fall behind, S2-san.
+
+@141
+(Which party should I join?)
+
+@143
+What are the Aizu troops doing?!
+
+@171
+Renown rose by 50!
+
+@173
+Renown rose by another 100!
+
+@176
+Even the shishi who barely escaped the tiger's jaws of the Ikedaya were caught in the heavy cordon of Aizu and other domains' troops, and fell in battle or killed themselves one after another.
+
+@178
+This incident, which stained the dawn over the Imperial City with the blood of ardent men, grew into a surge in the history of the Bakumatsu that Kondō, Hijikata and the others had never imagined.
+
+@180
+Even the shishi who barely escaped the tiger's jaws of the Ikedaya were caught in the heavy cordon of Aizu and other domains' troops, and fell in battle or killed themselves one after another.
+
+@182
+This incident, which stained the dawn over the Imperial City with the blood of ardent men, grew into a surge in the history of the Bakumatsu that Kondō, Hijikata and the others had never imagined.
+
+@184
+S2-han. I've been looking for you.
+
+@186
+While you were away, S2-han, there was a great round-up at the Ikedaya.
+
+@188
+(And I came so close...)
+
+@189
+Everyone worked very hard.
+
+@190
+I got fired up for the first time in ages.
+
+@203
+Meet many important figures to raise your renown
+
+@205
+Meet many important figures to raise your renown
+

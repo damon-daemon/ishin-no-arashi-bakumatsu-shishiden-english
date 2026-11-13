@@ -1,0 +1,264 @@
+@0
+We've finally reached Honjō post town.
+
+@1
+Right, time for grub!
+
+@2
+I'm starving too. Let's get to the inn quickly.
+
+@3
+Yeah.\nNow, where have they put us up... let's see...
+
+@4
+What?!
+
+@8
+Fine. If there's no lodging, I'll sleep in the open. But don't think I'll take this lying down.
+
+@10
+Ha ha ha! A camp in the open needs a campfire. There's no firewood to hand, so I'll smash this hut and burn it!
+
+@12
+Fire! The post town is burning! Somebody put it out!
+
+@17
+Silence! This is all your fault to begin with!
+
+@18
+Tch...!
+
+@19
+That bastard, making fools of us!
+
+@20
+Stop it, Sanosuke!
+
+@21
+Damn...
+
+@23
+Go up to Kyōto as a member of the Rōshigumi.
+
+@24
+Stroll around Kyōto to prepare for future activities.
+
+@25
+So this is our new roost.
+
+@26
+At last the day has come to make a name for ourselves in the capital!
+
+@27
+Hee hee, you're getting ahead of yourself.
+
+@28
+Everyone!
+
+@30
+Kiyokawa-sensei is about to address us. Please gather at Shintoku-ji.
+
+@32
+Gentlemen! I ask you to listen with care!
+
+@33
+What I have to say is simply this: for what purpose did we assemble here, in the Imperial capital, in the first place?
+
+@34
+We did answer the shogunate's call. Its aim was that we should guard the shōgun on his journey to Kyōto.
+
+@35
+But that was entirely a pretext!
+
+@37
+A pretext?
+
+@38
+With the Imperial land in peril, it is self-evident that a samurai's duty is to give his life for the sake of the Imperial Court, and for nothing else!
+
+@40
+Wh-what?!
+
+@41
+From now on we shall be the Emperor's own guard and the vanguard of sonnō jōi! Gentlemen, I trust there are no objections!
+
+@42
+...What's this? That's not what we were told.
+
+@44
+That Kiyokawa is a downright swindler.
+
+@45
+Toshi-san, what is the meaning of this?
+
+@46
+That Kiyokawa has neatly fooled the shogunate.
+
+@47
+He gathered rōshi with the shogunate's money, meaning to turn the whole lot into troops for the sonnō-jōi faction.
+
+@48
+What! Then we've simply been made to dance to that man's tune?!
+
+@49
+That's about it. And most of the rōshi have been talked round by that forked tongue.
+
+@50
+How can that be allowed?! It's treachery, plain and simple! The man isn't fit to call himself a samurai!
+
+@51
+Yeah... I don't like it.
+
+@52
+We came all the way to Kyōto thinking we'd guard His Highness, and now we'll end up rebels against the shogunate.
+
+@54
+What shall we do? Even the shogunate's supervisors seem unable to act.
+
+@55
+If we're the only ones to object, we'll just be thrown out of the corps and left wandering the streets of Kyōto...
+
+@56
+Uoooo!!
+
+@57
+What was that?
+
+@58
+It's the next room.
+
+@59
+Damn Kiyokawa! Deceiving us is unforgivable!
+
+@60
+That voice is Serizawa's... he lodges here too.
+
+@61
+Is he another who can't stomach Kiyokawa's double-dealing?
+
+@62
+Hmph, he just can't bear that a mere rōshi has seized the lead.
+
+@63
+Hm... he leads a faction of his own. If we could bring it over to our side...
+
+@64
+A disagreeable fellow, but he has guts. And he looks good with a sword.
+
+@65
+Come to think of it, he said his elder brother is at the Mito residence in Kyōto. His post is, I believe, official liaison...
+
+@66
+Heh, that's convenient. We might manage something.
+
+@67
+Serizawa-sensei!
+
+@68
+Serizawa-sensei, may I have a word?
+
+@69
+Ah, Kondō-sensei.
+
+@70
+I committed a grave discourtesy the other day. Allow me to apologise again.
+
+@71
+Hm? Oh, I've forgotten it already. Now, what brings you here at this late hour?
+
+@72
+It concerns that traitor...
+
+@74
+Do you acknowledge that man as a samurai?
+
+@75
+...A charlatan. A worthless wretch.
+
+@76
+Just so.
+
+@77
+...Shall we cut him down?
+
+@78
+However great the cause, if we cut him down on our own authority, it will only look like infighting among the rōshi.
+
+@80
+The shogunate must take a dim view of Kiyokawa's about-face, too. If, for instance, we had the backing of Lord Matsudaira, the Protector of Kyōto and lord of Aizu...
+
+@81
+I see... in that case I will ask my brother, who serves as the domain's official liaison. He should have influence with Aizu's liaison officers as well.
+
+@84
+Hijikata-san, they say the Rōshigumi is being called back to Edo.
+
+@85
+What? Why?
+
+@86
+At Namamugi, a foreigner who crossed the Satsuma procession was cut down. They say it's to be ready in case the British, enraged by it, attack.
+
+@87
+No, that's a pretext too. The shogunate heard of Kiyokawa running wild in Kyōto, and this is a tidy way to call the Rōshigumi back.
+
+@88
+Are we going back too?
+
+@89
+Until we have a line to the lord of Aizu, we can't leave Kyōto on our own.
+
+@90
+Then we'll part from the others?
+
+@91
+Yes, this is a good chance. We can simply form our own corps in Kyōto.
+
+@93
+Hijikata-san, Kondō-san is calling you.
+
+@94
+Gentlemen, rejoice! Toshima-dono, official liaison of the Aizu Domain, has granted our petition! We are to be placed in the service of the Protector of Kyōto!
+
+@95
+Is that true?
+
+@96
+Now we can raise as much hell as we like in Kyōto!
+
+@97
+We have decided the corps' name too!
+
+@99
+Tell us.
+
+@100
+The "Shinsengumi"!
+
+@101
+...Shinsengumi...
+
+@102
+The Shinsengumi!
+
+@103
+What a splendid name!
+
+@104
+Doesn't it?
+
+@105
+So Serizawa will be the commander in chief after all?
+
+@106
+There's nothing else for it. We're only independent thanks to that man's connections.
+
+@107
+Besides, Serizawa Kamo of the Mito Tengu Party is a renowned hero. That will be convenient in many ways.
+
+@108
+Thus the two factions of Serizawa and Kondō, thirteen men in all, broke away from the Rōshigumi and stayed on in Kyōto.
+
+@109
+And here was born the Shinsengumi, the astonishing band of rōnin that would later shake the capital to its foundations.
+

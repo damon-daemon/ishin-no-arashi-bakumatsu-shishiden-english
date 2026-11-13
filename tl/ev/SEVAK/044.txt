@@ -1,0 +1,393 @@
+@1
+Kurata.
+
+@2
+Takasugi-san is raising troops at Shimonoseki! Let's go too!
+
+@5
+So you're finally doing it!
+
+@7
+What are the odds of winning?
+
+@8
+Odds? Right now there is not a single soldier besides ourselves.
+
+@10
+First we must win over the Kiheitai at Mitajiri.
+
+@11
+With a couple of hundred Kiheitai men, you mean to fight thousands of domain troops?
+
+@12
+Don't worry. The conservatives preach protecting the domain, but in truth they are wagging their tails at the shogunate to save their own skins. Once we break through, they will crumble.
+
+@13
+Sakamoto-kun, will you fight with us?
+
+@14
+"Let's do it!"\n"No"
+
+@15
+All right, let's do it!
+
+@16
+No, I...
+
+@18
+Let's go, Ike-kun!
+
+@20
+Yamagata... if things go on like this, the Kiheitai will only sit and wait to be disbanded.
+
+@21
+But... however I look at it, it's reckless.
+
+@22
+Do you all think the same?
+
+@24
+I'm going with you, Takasugi-san.
+
+@25
+Shunsuke...
+
+@26
+I can still be a samurai only because Chōshū is a loyalist domain.
+
+@27
+Good, well said! Come, Shunsuke!
+
+@28
+In the end only the thirty men Itō-kun leads have gathered.
+
+@29
+Even with the fifty of us in the Yūgekitai, we don't reach a hundred.
+
+@30
+Never mind. With eighty men ready to die, we can take on a thousand.
+
+@31
+I'll go report our departure to the Five Nobles. Get ready in the meantime.
+
+@33
+I would like to see the Five Nobles.
+
+@35
+A-an uprising?!
+
+@36
+Takasugi... do you mean to die?
+
+@38
+I would like a cup of sake.
+
+@39
+Oh, yes. Hisamoto, pour him one.
+
+@40
+...Takasugi-san.
+
+@42
+(Gulp)
+
+@43
+B-but... surely that is nothing but reckless courage?
+
+@44
+...I will not shrink from dying at the conservatives' hands!
+
+@45
+Go one ri toward Hagi and you show one ri of loyalty; go two ri and you show two ri of righteousness. That time has come!
+
+@49
+You are going, then?
+
+@51
+Now I will show you the guts of a Chōshū man.
+
+@52
+So what do you plan to do now?
+
+@53
+I'm going to seize the navy at Mitajiri.
+
+@57
+Ha ha ha! Now that's good!
+
+@58
+All right, let's do it!
+
+@59
+Of course, I'll leave the piloting to you, Sakamoto-kun, a pupil of the Navy Commissioner.
+
+@60
+Leave it to me!
+
+@61
+Oh, yes. Leave it to me.
+
+@62
+(Will it be all right?)
+
+@63
+T-Takasugi-dono.
+
+@64
+Three of the domain's sailing ships should be anchored here. Hand them over.
+
+@65
+B-but...
+
+@66
+Those ships may be confiscated by the shogunate anyway. Rather than let them be taken, I'll use them myself.
+
+@67
+...Understood. Please, do as you see fit.
+
+@68
+Ha ha ha! With these we'll sail up to Hagi and chill the blood of those conservative officials!
+
+@69
+Taking part in Takasugi Shinsaku's uprising
+
+@70
+Defeat the Chōshū conservatives
+
+@73
+Shin!
+
+@74
+The Kiheitai beat the Senpōtai in the first clash!
+
+@75
+So you were with the Kiheitai!
+
+@76
+When the domain government saw that, it seems it sent out a proper punitive army. Where is Takasugi-san?
+
+@77
+At Shimonoseki. He's staring down the shogunate army at Kokura.
+
+@78
+Not good. At this rate the Kiheitai will be isolated.
+
+@79
+Understood. The Yūgekitai will join the Kiheitai too!
+
+@80
+I'll go to Shimonoseki and call Takasugi-san! It's an all-out war!
+
+@81
+Oh, they've already started!
+
+@82
+Kurata, let's go!
+
+@83
+Right!!
+
+@84
+Yamagata-kun, are you all right?!
+
+@85
+Yes! Thanks for coming to our aid!
+
+@86
+The Yūgekitai has come to help us! Don't flinch, fire!
+
+@87
+Not good. Can the Kiheitai hold?
+
+@88
+Wow, what astonishing strength! They're pushing back an enemy ten times their number! Yamagata-dono is a great commander indeed!
+
+@89
+But the difference in numbers is hopeless. Sooner or later we'll all be worn out together.
+
+@90
+...Hm? What's that?
+
+@91
+Heeey!
+
+@92
+Sakamoto-kun, are you all right?!
+
+@93
+Nakaoka! Takasugi-san!
+
+@94
+Commander!
+
+@95
+Yamagata-kun, keep advancing!
+
+@96
+Yes! Everyone, Commander Takasugi has come!
+
+@97
+Come now, you're the commander now.
+
+@98
+You are still the founding commander of the Kiheitai, all the same.
+
+@99
+Heh. Then pass the word to all officers and men.
+
+@100
+Chōshū will rise again from this battle!
+
+@101
+Scatter them!
+
+@102
+Ha ha ha! The conservatives are in total rout!
+
+@103
+Yamagata-kun, thank you for rising with us.
+
+@104
+There was no point in sitting and waiting for death.
+
+@105
+Ha ha, exactly!
+
+@107
+You and I, a burnt mountain vine; the leaves may be cut, but never the root.
+
+@108
+The bond between me and you of the Kiheitai cannot be cut. We'll see this through to the end.
+
+@109
+Takasugi-san, let's take Hagi in one push!
+
+@110
+We mustn't rush. We are few, so it would be better to rest the men for now.
+
+@111
+How can you be so slow? A battle is won on momentum!
+
+@112
+The men are tired after so many fights!
+
+@113
+Mediate\nLeave them be
+
+@114
+Both of you, stop it.
+
+@115
+What do you think, Sakamoto-san?
+
+@117
+"We should attack now"\n"We should rest a while"
+
+@118
+Itō-kun is right.
+
+@119
+Reckless! We are outnumbered as it is!
+
+@120
+Yamagata-kun is right.
+
+@121
+What are you saying! If we sit on our hands, the enemy will only recover!
+
+@123
+Come now, stop it.
+
+@125
+Monta!!
+
+@126
+Well, well, I've arrived late for the decisive battle.
+
+@127
+Inoue-dono! I heard you were near death from a mob's attack?
+
+@128
+How can I lie in bed at a moment like this! Look outside. I've brought twelve hundred farmer soldiers!
+
+@129
+Twelve hundred?!
+
+@130
+They stood up when they heard of Takasugi-san's uprising!
+
+@131
+Ha ha, Inoue-kun! Splendid!!
+
+@132
+Now the cast is complete! Let's set out at once.
+
+@133
+Right! We march on Hagi from here!
+
+@134
+The success of the revolution was plain for all to see.
+
+@135
+Farmers and lower samurai rose up all over Chōshū.
+
+@136
+Pushed back by the sonnō faction, riding high like the rising sun, the fence-sitters in the domain government all swung to Takasugi's side at once.
+
+@137
+The leading shogunate supporters fled Hagi Castle. Chōshū would once again press on down the road to overthrowing the shogunate.
+
+@138
+In exile in Chōshū
+
+@142
+Takasugi-san.
+
+@143
+I am thinking of going to the West.
+
+@144
+What? The head of the jōi party, going abroad?
+
+@145
+Jōi is already no more than a means of criticising the shogunate. Surely you noticed long ago that Japan's present strength is no match for the Powers.
+
+@146
+The age of shouting "jōi, jōi" seems to be over.\nUnless we learn advanced weapons and tactics, we cannot stand against other nations.
+
+@147
+I leave the rest to you and Katsura-kun.
+
+@148
+What?! Katsura-san is alive?!
+
+@149
+Apparently he wandered about, sheltered by geisha. He looks stiff, but he is quite the ladies' man.
+
+@151
+Oh, Nakaoka. What is it?
+
+@152
+The council of lords that preach the Union of Court and Shogunate has broken up over differences of opinion. Satsuma may take this chance to keep its distance from the shogunate.
+
+@153
+Let's draw Satsuma back to the imperial cause. The chance is now or never.
+
+@154
+You're right.
+
+@155
+Saigō has gone to the Satsuma residence in Kyōto. I'll follow him. What will you do?
+
+@156
+"Let's go together"\n"I'll go later"
+
+@158
+We had better go separately.
+
+@159
+Understood. When you reach Kyōto, stop by the Satsuma residence in Nakagyō. And take care, whatever you do.
+
+@160
+You too.
+

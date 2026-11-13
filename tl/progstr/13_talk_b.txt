@@ -1,0 +1,257 @@
+# Generic conversation lines 0x80026000-0x80029fff: landmarks, drink, brothels, gifts, ships, sake, swords, hobbies, meals, tricks, bouts, sumo, songs
+PROG:80026030	Do you know of %s, a renowned %s near here?
+PROG:80026064	Now that I think of it, there is %s, a %s, hereabouts.
+PROG:80026098	There is %s around here, a well-known %s.
+PROG:800260c8	K2, why not rest for today, dear?\nTake a little sake and catch your breath.
+PROG:8002611c	K2, why not rest somewhere today?\nHave some sake and catch your breath.
+PROG:80026170	K2, I am rather parched.\nShall we have a drink and be done for today?
+PROG:800261b0	Say, K2.\nShall we drink sake today?\nI'm dying of thirst.
+PROG:800261f0	K2, let us have a drink for a change.\nMy throat is bone dry.
+PROG:8002622c	Say, K2.\nI'm parched...
+PROG:80026258	My, I'm thirsty.\nHow about a drink somewhere?
+PROG:80026298	Hey, K2.\nShall we have a drink today? I've been parched for ages.
+PROG:800262ec	Come, let us drink sake today.\nI'm parched.
+PROG:80026324	My, I am thirsty.\nShall we have a drink somewhere?
+PROG:80026364	My, I am thirsty.\nI would like a drink somewhere.
+PROG:800263a0	My, what a lively place.\nI would love a merry time at a house with women, now and then.
+PROG:800263f8	Oh, this place is lively.\nAh, with a woman now and then...\nOoh! I can't stand it!
+PROG:80026454	My, this is a lively place.\nA merry time with women is a must now and then.
+PROG:800264a8	Oh! Shops that look fun, all in a row.\nI'd like a bit of fun with the women too...
+PROG:80026500	What fun-looking shops.\nI do long for a little break now and then...
+PROG:80026558	What a lively place.\nI'd like to unwind with a pretty lady now and then.
+PROG:800265ac	Hey, there are fun-looking shops here.\nHow about a night on the town?
+PROG:800265fc	Oh, there are fun-looking shops here.\nLet us go out and splurge, K2!
+PROG:8002664c	This place is lively.\nI would like to unwind with a fair lady now and then.
+PROG:800266a0	My, this place is lively.\nOne needs a break now and then, wouldn't you say, K2?
+PROG:800266e8	Oh, I'll give you this, K2.\nTake good care of it.
+PROG:80026710	Oh, K2, please take this.
+PROG:80026738	Oh yes, I shall give this to you, K2.
+PROG:8002675c	Ah, I shall present this to you, K2.
+PROG:8002677c	Oh, I'll give you this, K2.
+PROG:8002679c	Oh, I shall present this to you, K2.
+PROG:800267bc	Ah, K2, I bestow this upon you.
+PROG:800267dc	Oh, please take this.
+PROG:80026800	Oh, let me offer you this, K2.
+PROG:80026824	Oh right, you can have this.
+PROG:80026844	Ah, K2.\nTake this.
+PROG:8002686c	Ah, I shall offer you this, K2.
+PROG:80026890	Ah, allow me to present you with this.
+PROG:800268b4	Do you like ships, K2?\nI'd love to sail on a big one.
+PROG:800268f0	Do you like ships, K2?\nI'd love to sail on one myself.
+PROG:80026928	Do you like ships, K2?\nI would so like to sail on a big one.
+PROG:80026968	Do you like ships, K2?\nI'd like to travel on a huge one.
+PROG:800269ac	You like ships, K2?\nI'd like to sail far away on one.
+PROG:800269e8	You like ships, K2?\nI too wish to see far lands on a great ship.
+PROG:80026a38	Oh, you like ships, K2?\nI should like to sail on a big one someday.
+PROG:80026a7c	You like ships, K2?\nWhy, I'd love to travel far on one.
+PROG:80026abc	You like ships, K2?\nI'd love to sail far on a whopping great one.
+PROG:80026b04	Oh, you like ships too, K2?\nSailing on a huge one is my dream.
+PROG:80026b48	Oh, you like ships?\nI love them too.\nSomeday I'd like to sail on a big one.
+PROG:80026ba0	You like ships, K2?\nWhy, I love ships too.\nI long to go somewhere far.
+PROG:80026bfc	You like ships, K2?\nWhy, I like sailing too.
+PROG:80026c3c	Do you like sake, K2?\nI love it, truly.
+PROG:80026c70	Do you drink sake, K2?\nI love it, truly.
+PROG:80026ca4	You like sake, K2?\nI am ashamed to say I love it.
+PROG:80026cf0	You like sake too, K2.\nI cannot live without it.\nWe should get along.
+PROG:80026d4c	Oh, you like sake too, K2?\nOf course I love it.\nI should have brought some.
+PROG:80026da8	Oh, you like sake, K2?\nI cannot resist it myself.
+PROG:80026de4	You drink quite a lot, K2?\nI've a weakness for sake too.\nNext time, let's talk over a drink.
+PROG:80026e40	You drink quite a lot, K2?\nAh, sake is a fine thing.
+PROG:80026e7c	You drink quite a lot, K2?\nAh, sake is a fine thing.
+PROG:80026eb4	Heard you've a weakness for sake too, K2?\nI can't get by without a drink.\nWe'll get along, you and I.
+PROG:80026f18	You like sake?\nRight, next time we'll have a drinking contest.
+PROG:80026f54	They say you are a great drinker, K2.\nI too have a weakness for sake.
+PROG:80026f9c	You drink a lot, K2?\nIn truth, I cannot resist sake either.
+PROG:80026fe4	Well? It's %s.
+PROG:80026ffc	This is my beloved sword, %s.
+PROG:80027014	Well? This is my %s.
+PROG:80027038	Look. This is what they call %s.
+PROG:8002705c	Well, now? It's %s.
+PROG:80027070	See? It's %s.
+PROG:80027088	Got it recently. What do you think? It's %s.
+PROG:800270b0	Look. This is %s.
+PROG:800270c8	I got it recently. It is %s.
+PROG:800270f4	Well? It is %s.
+PROG:80027108	You know swords, K2.\nI too am keen on them.
+PROG:8002714c	You can judge a blade, K2?\nI am particular about swords too.
+PROG:8002718c	You know swords, K2?\nI am particular about them too.
+PROG:800271cc	Oh, you know swords, K2?\nI am a little particular myself.
+PROG:80027208	They say you know swords, K2.\nI've grown keen on them lately.
+PROG:80027244	They say you know swords, K2.\nI'm a bit keen myself.
+PROG:8002727c	You're a fine judge, they say, K2.\nBut I spare no expense on swords.
+PROG:800272bc	They say you know swords, K2.\nI am keen myself.
+PROG:800272ec	I hear you know swords, K2.\nAs it happens, I am keen on them too.
+PROG:80027320	Oh, you like %s too, K2?\nOh, I love %s.
+PROG:80027358	You like %s, K2?\nI love %s.
+PROG:80027388	You like %s, K2?\nI am ashamed to say I adore %s.
+PROG:800273d0	Oh, you like %s too, K2?\nI love %s more than food itself.
+PROG:80027418	Oh, you like %s too, K2?\nI love %s.
+PROG:80027448	Oh, you like %s, K2?\nI would give up my meals for %s.
+PROG:8002748c	Oh, you like %s, K2?\nI love %s, I tell you.
+PROG:800274bc	You like %s, K2?\nWhy, I like %s too.
+PROG:800274f8	You like %s, K2?\nI'm mad for %s.
+PROG:80027530	Oh, you like %s too, K2?\nI'd skip dinner for %s, I would.
+PROG:80027574	Oh, you like %s?\nI love %s.
+PROG:800275a4	You like %s, K2?\nWhy, I love %s.\nThe mere word %s stirs my blood.
+PROG:800275fc	You like %s, K2?\nIn truth I love %s too.
+PROG:80027638	You are good at %s, K2?\nOh, we share a hobby.
+PROG:8002766c	You like %s, K2?\nI like %s too.
+PROG:8002769c	They say you're good at %s, K2.\nI'm good at %s too.
+PROG:800276c8	You like %s, K2?\nWhy, so do I.\nWe should get along.
+PROG:80027718	Oh, you like %s too, K2?\nI am particular about %s.
+PROG:8002774c	Oh, you are good at %s, K2?\nWe should get along.
+PROG:8002778c	Oh, you're good at %s?\nI like %s too.
+PROG:800277b8	They say you're good at %s, K2.\nI like %s too.
+PROG:800277e8	Oh, you do %s, K2?\nIn truth I like %s too.
+PROG:80027820	Oh, %s is your hobby?\nI am good at %s too.
+PROG:80027854	You are good at %s, K2?\nWhy, I like %s too.\nWe should get along, K2.
+PROG:800278a8	They say you're good at %s, K2.\nIn truth I like it too.
+PROG:800278e0	You do %s, K2?\nOh, we share a hobby.
+PROG:80027914	%s is your hobby, K2?\nI like %s too.
+PROG:80027944	You practise %s, K2?\nI dabble in %s a little myself.
+PROG:80027980	%s is your hobby, K2?\nWhy, mine too.\nWe should get along.
+PROG:800279c8	You do %s, K2?\nI am particular about %s too.
+PROG:800279f8	%s is your hobby, K2?\nWe should get along.
+PROG:80027a30	Oh, %s is your hobby?\nWhat a coincidence, mine is %s too.
+PROG:80027a70	You practise %s, K2?\nI am a little particular about %s myself.
+PROG:80027ab0	You practise %s, K2?\nI am a little particular about %s myself.
+PROG:80027aec	Oh, you do %s, K2?\nI'm quite particular about %s too.
+PROG:80027b24	Oh, %s is your hobby?\nI am particular about %s too.
+PROG:80027b5c	You practise %s, K2?\nSo do I.\nWe should get along.
+PROG:80027ba4	You practise %s, K2?\nI have dabbled a little too.
+PROG:80027bdc	You are a %s, K2?\nOh, you must be strong!
+PROG:80027c08	You are a %s, K2.\nYou must be very strong...
+PROG:80027c3c	You are a %s, K2.\nThat comes of hard training.
+PROG:80027c6c	So you are a %s, K2.\nWhat splendid skill.
+PROG:80027cac	Oh, you are a %s, K2?\nThat is something.
+PROG:80027ce0	You are a %s, K2?\nThat is remarkable skill.
+PROG:80027d10	What! You are a %s, K2?\nThat is something indeed.
+PROG:80027d44	You are a %s, K2?\nThat is remarkable skill...
+PROG:80027d74	You are a %s, K2?\nThat is remarkable skill...
+PROG:80027da8	Oh, you're a %s, K2, I hear.\nThat's something.
+PROG:80027dd8	Oh, you are a %s, K2?\nNot bad at all...
+PROG:80027e08	You are a %s, K2.\nWhat splendid skill!
+PROG:80027e38	You are a %s, K2.\nThat is remarkable skill...
+PROG:80027e68	You seem to know little of %s, K2.\nThen let me tell you about %s.
+PROG:80027eb4	You seem to know little of %s, K2, so I'll teach you a bit.
+PROG:80027ef4	You seem to know little of %s, K2.\nThen I shall explain %s.
+PROG:80027f44	Ah, K2, you seem to know little of %s.\nThen I'll explain a little.
+PROG:80027f94	Now then, you seem not to know %s, K2.\nThen let me explain a little.
+PROG:80027fe0	Now then, you seem not to know %s, K2.\nThen let me explain a little.
+PROG:8002802c	Now then, you seem to know little of %s, K2.\nWell, since we're here, I'll explain a bit.
+PROG:8002808c	You seem to know little of %s.\nVery well, I'll explain it; it will serve you later.
+PROG:800280d8	You seem to know little of %s, K2.\nThen allow me to explain a little.
+PROG:80028128	Now then, you seem to know little of %s, K2.\nThen allow me to explain a little.
+PROG:80028180	K2, thank you for the feast today.\nNext time I'll treat you to my own cooking.
+PROG:800281cc	Thank you for the feast today.\nNext time it is my turn to treat you.
+PROG:8002820c	Thank you for the feast today.\nNext time I shall treat you.
+PROG:80028248	Ah, you have treated me so well, I am abashed.\nNext time it's on me.\nIf I have the money, that is...
+PROG:800282a8	Ah, sorry, K2.\nI've eaten nothing these two or three days...\nSay, may I have another helping?
+PROG:80028314	Ah, thank you for such a feast.\nI am full, and feel alive again.
+PROG:8002836c	Ah, thank you for the meal.\nI cannot eat another bite...
+PROG:800283a0	Thank you for the feast.\nIt was delicious.
+PROG:800283e4	Thank you so much for the feast.
+PROG:80028418	Ah, sorry to let you pay for all that.\nI'm full for the first time in ages.
+PROG:80028460	Ah, thank you for the meal...\nPhew, I'm full...
+PROG:80028494	Ah, you have treated me splendidly today, K2.\nI shall not forget this kindness.
+PROG:800284dc	Ah, thank you for treating me today.\nI hadn't eaten anything decent lately...
+PROG:80028540	Right, here goes S1!\nHyah! (Sizzle...)
+PROG:80028578	Now then... (Rustle...)\nHere I go! (Sizzle...)
+PROG:800285bc	Here I go. (Sizzle...)
+PROG:800285e8	Right, here I go!
+PROG:800285fc	Right, here goes!\nHyah! (Sizzle...)
+PROG:80028630	Right, then... (Rustle...)\nOnce only, so watch closely!
+PROG:80028678	Right, watch closely! (Sizzle...)
+PROG:800286a4	Ah, what a merry day.\nLet me show you my best trick.\nI'll borrow this candle... (Rustle...)
+PROG:80028710	Ah, what a merry day.\nRight, I'll show you my best trick.\nNow, that candle...
+PROG:8002876c	Now then, I shall show you a comic trick.\nI'll just borrow a candle... (Rustle...)
+PROG:800287c8	Right, I shall liven things up with a merry trick.\nK2, fetch me that candle.
+PROG:80028818	Ah, what a merry day.\nI'll make you laugh with a crude trick.\nI'll borrow that candle...
+PROG:80028874	Ah, this is getting lively.\nTime for my special trick.\nHand me that candle, will you?
+PROG:800288dc	Ah, what a merry day.\nRight, I'll show you my best trick.\nBring me that candle.
+PROG:80028938	Right, for your entertainment, I shall perform my wild specialty.\nI'll borrow this candle... (Rustle...)
+PROG:800289a0	Now, I shall show my best trick.\nI'll borrow this candle... (Rustle...)
+PROG:800289f4	Hyah!\nHa ha, I win.\nThat was close.
+PROG:80028a34	Take that!\nGood! I win.\nYou still need training, K2.
+PROG:80028a74	Chesuto!\nHa ha ha, I win.\nCome and challenge me again.
+PROG:80028abc	Hyah!\nWell, had enough, K2?\nWhat fun!
+PROG:80028af8	Hyah!\nHee hee, I win.
+PROG:80028b1c	Hyah!\nHa ha ha, I win, it seems.
+PROG:80028b48	Hyah!\nHa ha, I win.
+PROG:80028b68	Hyah! Well, had enough?
+PROG:80028b88	Hyah!\nHa ha ha, I win.
+PROG:80028bb4	Hyah!!\nPhew, I seem to have won.\nAre you all right, K2?
+PROG:80028bf4	Ugh! Damn!\nI yield. I am utterly beaten.
+PROG:80028c20	Damn!\nI yield! I lose.
+PROG:80028c44	What!\nWell, I yield.\nI lose.
+PROG:80028c78	Eek!\nI yield, you win.
+PROG:80028c9c	Ah, I lost.\nYou are strong.
+PROG:80028cc4	Ah, I yield.\nI lose.
+PROG:80028ce8	Whoa!\nDamn, I lose.
+PROG:80028d08	D-damn!\nI yield, I lose.
+PROG:80028d2c	I y-yield.\nI lose.
+PROG:80028d4c	Ugh! D-damn!\nAh, you are strong.
+PROG:80028d7c	I see. A hopeless contest is a waste, after all.\nThen let us drink at leisure.
+PROG:80028dd0	What, you won't?\nThere are no cowards like that in Tosa.
+PROG:80028e0c	Quite so, I would not want you hurt.\nHa ha ha ha!
+PROG:80028e4c	What, how dull.\nWell, I would have won anyway.\nHo ho ho...
+PROG:80028e9c	I see, I'll not force you.\nBut you'll still keep me company over sake.
+PROG:80028ee8	Then let us not.\nI would not want you hurt.
+PROG:80028f1c	What, you won't?\nWell, I wouldn't want you hurt.\nThen let's have a good drink.
+PROG:80028f7c	What a pitiful fellow.\nWell, you were no match for me.\nHa ha ha!
+PROG:80028fd0	Well, nobody likes losing.\nHa ha ha!
+PROG:80029008	Well, if you lack the confidence, so be it.\nLet us leave it, then.
+PROG:80029040	You hold your drink well, K2.\nBut at sumo I fancy my chances.\nWhat do you say, one bout?
+PROG:800290a0	Oh, you are quite good, K2.\nRight, sumo next!\nWell, will you?
+PROG:800290f4	You hold your drink well, K2.\nI know, let us have a sumo bout.\nWill you take me on?
+PROG:8002915c	Oh, you hold your drink well.\nBut I am confident at sumo.\nWhat say you, will you try?
+PROG:800291b8	You hold your drink well, K2.\nBut I won't lose at sumo.\nWhat do you say, a bout of sumo?
+PROG:80029214	You hold your drink nicely, K2.\nBut I won't lose at sumo, mind.\nWhat do you say, one bout here?
+PROG:80029278	You can drink, K2.\nBut I'm confident at sumo.\nWhat say you, want to try?
+PROG:800292d0	Ha ha ha, what a merry day.\nWell, a sumo bout with me?\nI won't lose to the likes of you, K2.
+PROG:80029324	Ah, what a merry day.\nK2, what say you to a sumo bout with me?
+PROG:8002936c	Ah, what a merry day.\nRight! K2, shall we have a sumo bout?
+PROG:800293ac	Oh, I'll sing you a song.\nOne from my happy childhood...
+PROG:800293f0	Oh, I'll sing you my favourite nursery rhyme.\nK2, no laughing!
+PROG:80029434	Oh, K2, I'll sing you my favourite nursery rhyme.\nPlease don't laugh as you listen!
+PROG:80029484	Ah, what a merry day.\nThen let me sing a nursery rhyme of my home.
+PROG:800294c4	Ah, what a merry day.\nRight, I'll sing a rhyme from home.\nHere I go!
+PROG:80029510	Ha ha ha, what a merry day.\nThen I shall sing a rhyme of my home.
+PROG:80029554	Ho ho... how merry.\nThen I shall sing a temari song.\nListen with care...
+PROG:800295b4	Ah, what a merry day.\nThen I'll sing a Kyōto nursery rhyme.\nHere I go...
+PROG:8002960c	Ah, what a merry day.\nThen let me sing you a nursery rhyme.
+PROG:80029654	Ah, this is getting lively.\nThen I'll sing a nursery rhyme.
+PROG:80029690	Ah, what a merry day.\nRight, I'll sing a rhyme of my home.
+PROG:800296cc	Ah, you are good company, K2.\nThen I'll sing a nursery rhyme for fun.
+PROG:80029710	Let me sing a song from my childhood.\nNow then...
+PROG:8002974c	Oh, I'll play the gekkin for you.\nSit back and listen, now.
+PROG:80029794	Oh, I'll play the gekkin for you.\nK2, listen quietly.\nNow then...
+PROG:800297e4	Oh, K2, I'll play the gekkin for you.\nPlease listen at your ease...
+PROG:80029830	Then let me play the gekkin for you.\nNow then...
+PROG:80029868	Ah, what a merry day.\nRight, I'll play the gekkin.\nListen well...
+PROG:800298b0	Ha ha ha, what a merry day.\nThen I shall play the gekkin.\nQuiet, please...
+PROG:8002990c	Ho ho ho... Then I shall let you hear the gekkin.\nListen with care...
+PROG:8002996c	Ah, what a merry day.\nThen I'll play my gekkin.\nHere I go...
+PROG:800299c8	Ah, what a merry day.\nThen I'll play the gekkin.\nNow then...
+PROG:80029a14	Ah, this is getting lively.\nThen I'll play the gekkin, my specialty.
+PROG:80029a5c	Ah, what a merry day.\nRight, I'll play the gekkin.\nListen well...
+PROG:80029aa8	Ah, you are good company, K2.\nThen I'll play the gekkin for fun.\nNow then...
+PROG:80029afc	Ah, what a merry day.\nThen I shall play my gekkin for you.\nNow then...
+PROG:80029b48	Come, K2, let's sing.\nI'll play the shamisen, so sing nicely!
+PROG:80029b94	How about it? I'll play the shamisen,\nso you sing, K2.\nHere we go...
+PROG:80029be8	Oh, K2, let's sing.\nI'll play the shamisen for you.\nCome on! Twang!
+PROG:80029c40	Then I shall do a dodoitsu ditty.\nNow then... Twang!
+PROG:80029c7c	Right, I'll play the shamisen, so you sing the Yosakoi, K2.\nCome on, twang...
+PROG:80029cc4	Then I shall play the shamisen.\nSing along, K2!
+PROG:80029d00	Then I shall let you hear the shamisen.\nListen with care...
+PROG:80029d48	Then I'll play the shamisen.\nHere I go...
+PROG:80029d8c	Then I'll do a bit of naniwa-bushi.\nHere I go! Twang twang twang!
+PROG:80029dd8	Right, how about some of my famous shamisen?\nHere we go, twang twang...
+PROG:80029e1c	Right, I'll play the shamisen, so you sing.\nCome, what will you sing? Say it!
+PROG:80029e68	Right, I shall play the shamisen for fun.\nHere we go! Twang twang!
+PROG:80029ea8	Then let me favour you with my shamisen.\nNow then! Twang!
+PROG:80029ee4	Then I'll sing a song.\nCome on, K2, sing along!
+PROG:80029f20	Then I'll let you hear a song.\nListen well...
+PROG:80029f60	Then let me sing for fun.\nNow, K2, join me...
+PROG:80029f9c	Then I shall sing a song of my home.\nNow then, here I go...
+PROG:80029fd8	Ah, what a merry day.\nRight, I'll sing the Yosakoi.\nCome, Yosakoi, Yosakoi...

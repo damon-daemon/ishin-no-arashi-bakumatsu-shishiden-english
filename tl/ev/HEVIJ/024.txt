@@ -1,0 +1,396 @@
+@0
+I met Gotō-dono of Tosa today. They say Lord Yōdō of Tosa is pushing a scheme called the Return of Rule to the Emperor. Apparently the idea is to have the shogunate give up its authority of its own accord.
+
+@1
+Give up its authority, you say?
+
+@2
+Toshi-san, it seems the situation is less favourable to the shogunate than I thought. With Satsuma and Chōshū allied and the Chōshū Expedition ending in failure, public opinion is starting to lean towards sonnō.
+
+@4
+If Satsuma and Chōshū draw in the western domains and make war on the shogunate, there seems little hope of winning.
+
+@5
+To protect His Highness, the only way is to act at once. I think siding with Gotō-dono's idea may be best for the shogunate too.
+
+@6
+Kondō-san, get a grip. If you don't show a firm face, the men will waver.
+
+@7
+Y-yes.
+
+@8
+Things being as they are, there's no point clinging to the shape of the shogunate. Even with the Court at the head, the Tokugawa house is still the greatest power among the lords.
+
+@9
+Anyway, we mustn't give Satsuma and Chōshū a pretext for war. We have to buy time to get ready.
+
+@12
+You've gone right back to talking the way you did in your brawling days.
+
+@14
+No, I'm relieved. When you pick a fight, Toshi-san, you never stay beaten.
+
+@15
+I'd like to think so.
+
+@17
+I'm going to see Gotō-dono of Tosa now. Will you come, Toshi-san?
+
+@20
+Nagai-dono. Then I leave it to you.
+
+@21
+Ah, Gotō-dono! Is your business with Nagai-dono done? Hm?
+
+@24
+Sakamoto, from the wanted notice! The arch-villain plotting to overthrow the shogunate, why is he here?!
+
+@27
+He is an important guest. The arrest order is cancelled, so the Shinsengumi is forbidden to lay a hand on Sakamoto-kun.
+
+@32
+Kondō-dono. I am truly sorry, but I am in a hurry, so another time.
+
+@35
+I'll pass. I leave the negotiating to you, Kondō-san.
+
+@36
+I see. Very well.
+
+@37
+The Shinsengumi's morale fell by 5!
+
+@38
+Toshi-san. The shogunate has finally come to an end...
+
+@39
+Nah, this is where the real fight begins.
+
+@40
+It seems Sakamoto Ryōma is at the Ōmiya. The Mimawarigumi has already begun to move, though.
+
+@41
+But if we are to fight Itō and his men, I'd like to save our strength.
+
+@42
+"Sakamoto first."\n"Itō first."
+
+@43
+Sakamoto is the arch-leader of the anti-shogunate faction. Taking him down comes first.
+
+@44
+So it does. Right, let's head for the Ōmiya.
+
+@45
+Head to the Ōmiya in Fushimi.
+
+@46
+First we deal with the traitors in our own ranks. We have to secure our footing.
+
+@47
+Hm... true.
+
+@48
+Toshi-san, let's go!
+
+@54
+Nakaoka Shintarō has died!
+
+@56
+Vice-Commander.
+
+@57
+Saitō-kun, you're back!
+
+@59
+You found something?
+
+@60
+Itō's faction is planning to assassinate Commander Kondō. There is almost no doubt.
+
+@61
+What?! ...Damn them!
+
+@62
+It's come at last... we have to strike before they do.
+
+@63
+Call Ōishi-kun.
+
+@65
+Kondō-san, there is something I need you to do as well...
+
+@66
+Phew. Persuading Kondō took so long I've had a drop too much. Still, even that blockhead has finally begun to see which way the times are going.
+
+@67
+Heh heh... at this rate I might have steered the Shinsengumi as I pleased without splitting off at all, hic.
+
+@68
+Well, that is, if it weren't for that snake of a man...
+
+@70
+Heh heh...
+
+@71
+...Die!
+
+@72
+Y-you traitorous brutes!
+
+@73
+Itō-dono! Forgive me!
+
+@74
+Gaah!!
+
+@75
+Good. Leave the body where it lies. We'll lie in wait for his comrades when they come to collect it.
+
+@76
+Vice-Commander.
+
+@77
+Saitō-kun, you're back!
+
+@79
+You found something?
+
+@80
+Itō's faction is planning to assassinate Commander Kondō. There is almost no doubt.
+
+@81
+What?! ...Damn them!
+
+@82
+It's come at last... we have to strike before they do.
+
+@83
+What?! Saitō Hajime was a spy?!
+
+@84
+Then the plot to kill Kondō was known all along?
+
+@85
+Impossible...
+
+@87
+There's no avoiding a fight.
+
+@88
+Hmph, it was bound to end like this. I've been ready since we left the corps. Now we simply fight with honour!
+
+@91
+All right, let's do this!\nI'd like to take either Kondō or Hijikata down with me!
+
+@92
+Heh, quite right! The more company on the road to hell, the livelier!
+
+@94
+The Shinsengumi's strength fell by 2!
+
+@95
+The Shinsengumi's morale fell by 5!
+
+@96
+It seems some men deserted to Itō's faction.
+
+@97
+The Shinsengumi's strength fell by 3!
+
+@98
+The Shinsengumi's morale fell by 5!
+
+@99
+Vice-Commander!\nShinohara's body is nowhere to be found!
+
+@101
+I was sure I cut him down...\nWhen did he get away?
+
+@102
+What?! Itō-dono is...?!
+
+@103
+Ugh... damn it all!
+
+@104
+We can't let our leader's remains be disgraced! Let's hurry to Aburanokōji at once!
+
+@105
+...Wait, this is a trap. That man always works this way, I'm certain!
+
+@106
+...Wait, this is a trap, isn't it? That man always works this way, I'm certain!
+
+@107
+Hmph, I know that perfectly well. We're already resolved. Now we simply fight with honour, so as not to stain our end!
+
+@110
+All right, time to make up our minds! I'd like to take either Kondō or Hijikata down with me!
+
+@111
+Heh, quite right! The more company on the road to hell, the livelier!
+
+@113
+The Shinsengumi's strength fell by 2!
+
+@114
+The Shinsengumi's morale fell by 5!
+
+@115
+Vice-Commander!\nShinohara's body is nowhere to be found!
+
+@117
+I was sure I cut him down...\nWhen did he get away?
+
+@118
+Hijikata-dono.
+
+@119
+Matsudaira-dono.
+
+@121
+I am Matsudaira Tarō, a shogunate retainer.
+
+@122
+Please read this.
+
+@123
+...A Western book on military science?
+
+@124
+Satsuma and Chōshū have already finished modernising their armies along Western lines. But the shogunate's forces are by no means behind. Before long, battles fought with swords will be a thing of the past.
+
+@125
+Why give this to me?
+
+@126
+Well, why indeed. It just struck me that I'd like to see you command a modern army.
+
+@128
+Miura Kyūtarō of the Kishū Domain is suspected of killing Sakamoto and is said to be targeted by the Kaientai and the Tosa men. He has asked us for a bodyguard, and...
+
+@129
+Go myself\nSend someone
+
+@130
+I'll go. Saitō-kun, come with me.
+
+@131
+I'll go. Someone fetch Saitō-kun.
+
+@132
+Ah, men of the Shinsengumi! I'm counting on you!
+
+@133
+Here they come!
+
+@134
+Miura Kyūtarō! Prepare yourself!
+
+@135
+Y-you saved me...
+
+@139
+Saitō-kun, can you do it?
+
+@140
+Leave it to me.
+
+@141
+Understood, I'll send someone.\nSaitō-kun would be best.
+
+@142
+I've obtained some alarming information from the Kyōto Shoshidai's scouts.
+
+@143
+They say Satsuma is gathering rōshi in Edo and having them commit acts of destruction. The aim seems to be to provoke the shogunate.
+
+@144
+They mean to start a war by any means and bring the Tokugawa house down.
+
+@145
+Yes. They'll make the shogunate strike first so it can be branded an enemy of the Court, then use an imperial edict to punish it to bring the lords over to their side.
+
+@146
+Truly, they are foul to the end!
+
+@147
+...If Saigō and Ōkubo are behind it, eight or nine times out of ten it will go as scripted.
+
+@148
+If the shogunate loses this war, that's the end of the line for us too.
+
+@149
+Can we win?
+
+@150
+As things stand, if Edo's hatamoto, who know nothing of war, are lured all the way to Kyōto, we'll most likely lose.
+
+@153
+Where are Saigō and Ōkubo?
+
+@154
+They seem to be busy working on the Court. Almost certainly the Satsuma residence in Nakagyō...
+
+@155
+How many troops are in the residence?
+
+@156
+Most of the retainers seem to have moved to Fushimi in preparation for the domain troops coming up to Kyōto, but...
+
+@157
+Surely not!
+
+@158
+...It is one way.
+
+@159
+If we can cut down the two of them in good time, we can break the war party's spine. We could wait for Tosa and the other moderates to recover ground before war begins.
+
+@160
+Th-that's reckless. None of us would come back alive!
+
+@161
+Raid the Satsuma residence\nToo reckless, give it up
+
+@162
+There's no use clinging to life now.
+
+@163
+But!
+
+@164
+If we lose here, we'll have to live out our lives as enemies of the Court.
+
+@166
+The difference is dying now or a few months later. This is the one chance to find life in the midst of death. Am I wrong?
+
+@167
+Toshi-san...
+
+@168
+The Shinsengumi came this far only because of you, Toshi-san.
+
+@169
+All right, I leave everything to you. I entrust my life to you, Toshi-san.
+
+@170
+Kondō-san. I can't guarantee the life you've entrusted to me. But this I promise.
+
+@171
+I'll make you the last hero to be remembered in Japan's histories.
+
+@172
+...That is enough. It is all a warrior could wish for!
+
+@173
+...Is it too reckless?
+
+@174
+Yes, the shogunate isn't certain to lose yet.
+
+@179
+I'll buy swords.
+

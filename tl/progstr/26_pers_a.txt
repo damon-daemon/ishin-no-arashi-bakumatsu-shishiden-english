@@ -1,0 +1,392 @@
+# PERS overlay, first half 8015b858-8015f7db: stat labels, introductions, persuasion / debate lines, party tricks and drinking, in dialect variants
+PERS:8015b858	Spirit
+PERS:8015b860	Learning
+PERS:8015b868	Charm
+PERS:8015b870	Eloquence
+PERS:8015b878	Ah, K2, let me introduce you to %s. I'll write a letter now, so do call on them.
+PERS:8015b8d4	Oh, K2, I'll introduce you to someone called %s. I'll write a letter, so go and meet them.
+PERS:8015b930	Right, K2, I'll introduce you to %s. I'm writing a letter now, so do go and see them.
+PERS:8015b980	Ah yes, K2, I shall introduce %s. I'll write you a letter, so go and meet them.
+PERS:8015b9d8	Oh, K2, let me introduce %s. I'll write a letter right now, so do visit them.
+PERS:8015ba28	Say, K2, I'll introduce you to %s. A capable one, too, so go and meet them.
+PERS:8015ba7c	Ah, K2, I shall introduce %s to you. Take this letter, and go and see them.
+PERS:8015badc	K2, wait a moment. Do meet %s. With this letter you should be granted an audience.
+PERS:8015bb48	Ah, K2, I'll introduce you to %s. I'll write the letter now, so please do meet them.
+PERS:8015bba4	Hm, I have been thoroughly beaten today.
+PERS:8015bbd4	Well, I was thoroughly persuaded today.
+PERS:8015bbf8	Well, you have fully convinced me today.
+PERS:8015bc24	Phew, I have been thoroughly beaten today.
+PERS:8015bc50	Well, I have been thoroughly beaten.
+PERS:8015bc74	Well, I got beaten good and proper today.
+PERS:8015bc9c	Hm, I seem to have been beaten.
+PERS:8015bcb8	Let us debate for the country again.
+PERS:8015bce4	Ha, let's debate again.
+PERS:8015bd00	I am still green. Come and see me again.
+PERS:8015bd3c	Hm, do not be discouraged. Come again.
+PERS:8015bd68	Let us both keep striving, you and I.
+PERS:8015bd94	Come on, we both need to keep working at it.
+PERS:8015bdbc	Come now, let us keep working for the country.
+PERS:8015bdf4	Hm, do not let this put you off. Come again.
+PERS:8015be1c	I am still green yet.
+PERS:8015be3c	Let us both keep striving for the country.
+PERS:8015be6c	Hm, I came in high spirits and was beaten. How shameful.
+PERS:8015bebc	I'm full of admiration for you, K2.
+PERS:8015bed8	K2, you have fully convinced me.
+PERS:8015bf08	Phew, I came calling, only to be thoroughly beaten.
+PERS:8015bf44	I have been thoroughly beaten indeed.
+PERS:8015bf70	I must say, K2, I'm impressed.
+PERS:8015bf88	I came in high spirits and was beaten.
+PERS:8015bfbc	I am filled with admiration for you, K2.
+PERS:8015bfd8	I admire you, K2.
+PERS:8015bff4	Thank you for your time today.
+PERS:8015c030	It was good to have such a talk today.
+PERS:8015c054	We had a heated debate today. I'm content.
+PERS:8015c084	Hm, we had a fine debate today.
+PERS:8015c0a4	It was a worthwhile talk today.
+PERS:8015c0c8	We had a worthwhile talk today.
+PERS:8015c0e4	Hm, let us debate again when we can.
+PERS:8015c10c	My thanks for your company.
+PERS:8015c12c	Many thanks for your company today.
+PERS:8015c160	It seems we have run out of topics. Then I shall be going.
+PERS:8015c19c	Nothing more to say? Then I'll be off.
+PERS:8015c1cc	There are no topics left. Then I will go.
+PERS:8015c200	Phew, there seems to be nothing left to say. I shall go.
+PERS:8015c23c	We seem to have run out of things to say. I'll take my leave.
+PERS:8015c280	We seem to have run out of things to say. I'll be off.
+PERS:8015c2b8	Looks like we've nothing left to say. I'll be going.
+PERS:8015c2f8	Nothing left to say, it seems. I shall go.
+PERS:8015c32c	If there is nothing to discuss, I shall excuse myself.
+PERS:8015c364	We seem to be out of topics.
+PERS:8015c388	Ah, I have had too much to drink.
+PERS:8015c3a4	Whoa! I'm drunk.
+PERS:8015c3c4	Ah, I'm drunk.
+PERS:8015c3dc	The drink is taking hold...
+PERS:8015c3f0	I am not drunk yet.
+PERS:8015c40c	Ah, the drink is going to my head.
+PERS:8015c428	The sake goes to my head fast today.
+PERS:8015c444	The drink is taking hold.
+PERS:8015c460	I seem to have got drunk.
+PERS:8015c484	Now, now, don't rush. Please take your seat.
+PERS:8015c4ac	Well, we're not done talking yet.\n
+PERS:8015c4cc	We are not done talking yet.\nPlease sit down.
+PERS:8015c500	Now, do not be hasty.\nTake your seat.
+PERS:8015c524	We're not finished yet.\nDo sit down, please.
+PERS:8015c554	We aren't finished yet.\nPlease sit down.
+PERS:8015c584	Why so impatient?\nCome now, take a seat.
+PERS:8015c5b8	Wait.\nWhy so worked up? Come, be seated.
+PERS:8015c5f0	Please wait.\nHaste will spoil the matter.
+PERS:8015c61c	Our case is not finished.\nPlease take your seat.
+PERS:8015c658	Come, the other side has said as much, so let's keep things friendly.
+PERS:8015c694	Come on, don't be so stiff. Let's enjoy ourselves.
+PERS:8015c6c0	Come now, don't be stiff. Let's keep it pleasant.
+PERS:8015c6ec	Come, do not be so stiff.\nThe other side has said as much.
+PERS:8015c728	Come now, don't be so stiff. Let's keep it pleasant.
+PERS:8015c758	Come now, don't be so stiff. Let's keep it friendly.
+PERS:8015c784	Come now, don't be so stuffy.
+PERS:8015c7a8	Come, do not be so stiff.\nThe other side has said as much, after all.
+PERS:8015c7e4	Come, there is no need to say such things.
+PERS:8015c810	Come, let us not say such things. Let us be calm.
+PERS:8015c844	K2, you are quite wrong.\nThink it over, for your own sake.
+PERS:8015c884	You're quite wrong!\nCool your head and think again.
+PERS:8015c8bc	K2, you are quite wrong.\nCool your head and think again.
+PERS:8015c8fc	Fool! Think again!
+PERS:8015c920	K2, you are mistaken.\nDo think about it a little more.
+PERS:8015c954	K2, you are mistaken.\nBetter think harder, for your own good.
+PERS:8015c998	You're wrong.\nCool your head and think again.
+PERS:8015c9c8	Fool! Go train and come back!
+PERS:8015c9f4	K2, why not study a little more widely?
+PERS:8015ca2c	You are a fraud!
+PERS:8015ca48	K2!\nDo not talk nonsense!
+PERS:8015ca74	Hey!\nHave you gone soft in the head?
+PERS:8015caa4	What are you thinking, K2!
+PERS:8015cac8	Hey! K2!\nDo not say such foolish things!
+PERS:8015cafc	K2!\nWhat are you saying!
+PERS:8015cb18	K2!\nWhat are you thinking!
+PERS:8015cb38	Hey, K2.\nWhat are you thinking!
+PERS:8015cb58	You have been talking nonsense all along!\nI will not stand for that attitude!
+PERS:8015cb90	Are you making a fool of me, K2?
+PERS:8015cbb0	What have you been saying all this time, K2!
+PERS:8015cbd4	Hm? Did you say something?
+PERS:8015cbf0	Huh? Did you say something?
+PERS:8015cc10	...Did I hear something?
+PERS:8015cc28	Eh? Did you say something?!
+PERS:8015cc44	Oh, did you say something?
+PERS:8015cc5c	Hm, did you say something?
+PERS:8015cc70	...Is that so.
+PERS:8015cc84	Oh? Did you say something?
+PERS:8015cca0	Pardon me, but I have not finished speaking.
+PERS:8015ccc8	Whoa! I'm not finished speaking yet!
+PERS:8015ccf4	Hold on, you must hear me out.
+PERS:8015cd18	I have not finished speaking.\nDo not interrupt.
+PERS:8015cd44	No, I have not finished speaking.
+PERS:8015cd68	Hey, I'm not done speaking yet.
+PERS:8015cd8c	I am not done speaking yet.\nDo not cut in.
+PERS:8015cdbc	Hold on, I have not finished my opinion.
+PERS:8015cde8	No, I am not yet done speaking.
+PERS:8015ce0c	...Go ahead.
+PERS:8015ce18	...Ah, go on.
+PERS:8015ce2c	Hmm!\nVery well, go ahead...
+PERS:8015ce50	Hmm!\nVery well, say your piece...
+PERS:8015ce74	Well, go ahead...
+PERS:8015ce88	Ah, go ahead...
+PERS:8015ce9c	Grr...\nState your opinion...
+PERS:8015cebc	Hmm, go ahead...
+PERS:8015ced0	Hm... go ahead.
+PERS:8015cee0	Please hear my opinion for a moment.
+PERS:8015cf08	Let me give my opinion a moment.
+PERS:8015cf2c	Do hear my opinion a moment.
+PERS:8015cf54	Listen to me a while.
+PERS:8015cf74	Do hear me out a moment.
+PERS:8015cf98	Just let me have my say.
+PERS:8015cfc0	Just hear me out a moment.
+PERS:8015cfe4	Listen to my opinion a while.
+PERS:8015d004	Please hear me out a moment.
+PERS:8015d024	Please hear my opinion a moment.
+PERS:8015d048	Yes, you are quite right.
+PERS:8015d06c	Ah, quite right.
+PERS:8015d08c	Indeed, that is so.
+PERS:8015d0ac	Hm, quite right.
+PERS:8015d0c8	Yes, that is so.
+PERS:8015d0dc	Ah, you are right.
+PERS:8015d0f8	Hm, that is so.
+PERS:8015d110	Quite right.
+PERS:8015d12c	Quite so, quite so.
+PERS:8015d144	Now, don't say that. Please sit down.
+PERS:8015d16c	Now, calm down and sit.
+PERS:8015d18c	Now, calm down and sit down.
+PERS:8015d1b0	Come, do not be so hasty.
+PERS:8015d1d0	Now, do not be so hasty. Sit down, will you?
+PERS:8015d1f4	Now, don't be so hasty.
+PERS:8015d210	Come, don't say that. Sit down.
+PERS:8015d22c	Please bear with me a while.
+PERS:8015d254	Come, do not say that. Please sit.
+PERS:8015d278	There is nothing for it...
+PERS:8015d290	Nothing to be done, then...
+PERS:8015d2ac	No help for it, I suppose...
+PERS:8015d2c0	Oh dear, so be it...
+PERS:8015d2d8	Hm, oh well...
+PERS:8015d2f4	Well, so be it...
+PERS:8015d30c	There is no help for it...
+PERS:8015d324	I suppose we have no choice...
+PERS:8015d33c	Talking with you is a waste of time.\nI shall excuse myself.
+PERS:8015d378	Talking with you is a waste of time.\nI'll be leaving.
+PERS:8015d3a8	This is a waste of time.\nI will take my leave.
+PERS:8015d3d8	This is a waste of time.\nI shall take my leave.
+PERS:8015d410	This is a waste of time.\nI beg to take my leave.
+PERS:8015d44c	Talking on is a waste of time.\nI'll be off.
+PERS:8015d48c	Going on like this is a waste of time.\nI'll leave.
+PERS:8015d4c4	Talking with you is a waste of time!
+PERS:8015d4e8	Debating on gets us nowhere.\nI shall excuse myself.
+PERS:8015d520	Talking with you is a waste of time.\nI'll leave.
+PERS:8015d554	I am always serious, you know.
+PERS:8015d574	K2, what are you playing at?
+PERS:8015d590	That is not so.
+PERS:8015d5a8	K2, why so worked up?
+PERS:8015d5cc	Oh, is something the matter?
+PERS:8015d5e8	I am serious.
+PERS:8015d5f8	Don't be impudent with me!
+PERS:8015d614	What is the matter?
+PERS:8015d628	Now, now, calm yourself.
+PERS:8015d644	...No, I apologise.
+PERS:8015d65c	O-oh...
+PERS:8015d66c	I-I'm sorry.
+PERS:8015d688	Hmm!\n...Understood.
+PERS:8015d6a8	S-sorry.
+PERS:8015d6b8	No, sorry...
+PERS:8015d6cc	Hmm!\n...I see.
+PERS:8015d6e8	I-I beg your pardon...
+PERS:8015d700	N-no, I am sorry...
+PERS:8015d718	K2!\nListen a little more seriously.
+PERS:8015d744	Hey!\nListen more seriously, K2.
+PERS:8015d778	Chesuto!\nListen a little more seriously.
+PERS:8015d7ac	Hey! What is that attitude?\nListen seriously!
+PERS:8015d7e4	K2!\nListen a little more seriously, will you?
+PERS:8015d814	K2!\nListen more seriously, please.
+PERS:8015d838	Hey! Listen a bit more seriously, will you?
+PERS:8015d86c	Enough!\nWhat is that attitude, K2!
+PERS:8015d888	I mean to speak seriously of state affairs.\nPlease be serious too.
+PERS:8015d8cc	K2, why not be a little more serious?
+PERS:8015d8f0	...Phew. I am worn out from laughing.\n...Hm? Come to think of it, what were we talking about? Hmm...
+PERS:8015d954	...Phew. I thought I'd laugh myself to death.\n...Hm? What were we talking about?
+PERS:8015d9a0	...Phew. My, I'm worn out from laughing.\n...Hm? What were we talking about?
+PERS:8015d9ec	...Phew. I'm worn out from laughing.\n...Hm? What were we talking about again?
+PERS:8015da38	...Phew. I'm worn out from laughing.\n...Huh? What were we talking about?
+PERS:8015da80	...Phew. My, I'm worn out from laughing.\n...Huh? What were we talking about?
+PERS:8015dacc	...Phew. Worn out from laughing.\n...Come to think of it, what were we talking about? Um...
+PERS:8015db20	...Phew. I'm worn out from laughing.\n...Hm? What were we talking about? Hmm...
+PERS:8015db74	...Phew. I am worn out from laughing.\n...Come to think of it, what were we discussing? Um...
+PERS:8015dbe0	...Phew. I am worn out from laughing.\n...Hm? How far had we got? Um...
+PERS:8015dc40	Wahahahahaha!
+PERS:8015dc5c	Gahahaha!
+PERS:8015dc74	Ohohohohoho...
+PERS:8015dc90	Wahahahaha...
+PERS:8015dcac	Ahahahahaha...
+PERS:8015dcc8	Gahahahaha...
+PERS:8015dce4	Hahahahaha...
+PERS:8015dd00	Well, that is about right.
+PERS:8015dd20	Well, I suppose so.
+PERS:8015dd38	Well, that's how it is.
+PERS:8015dd54	Well, so it goes.
+PERS:8015dd6c	Oh, is that all.
+PERS:8015dd88	Ha, is that all.
+PERS:8015dda4	Hmm. Is that all.
+PERS:8015ddbc	Well, is that all.
+PERS:8015ddd0	Well, that would be about it.
+PERS:8015ddf0	Well, that is about it.
+PERS:8015de0c	...Hmm, what a trick. Its sheer force left me dumbfounded.
+PERS:8015de6c	...Well, you're reckless. It was so amazing I was left dumbfounded.
+PERS:8015debc	...What a remarkable trick I have seen. It left me quite stunned.
+PERS:8015df20	...Ha!\nHmm, what a reckless one. Its sheer force left me dumbfounded.
+PERS:8015df7c	...My, you do outrageous things. I was left dumbfounded.
+PERS:8015dfd0	...My, what a trick. I was left dumbfounded.
+PERS:8015e018	...Ha!\nGood heavens, what a reckless fellow. I was left quite stunned.
+PERS:8015e078	...Hmm, what a trick you have. I was left quite stunned.
+PERS:8015e0d8	...Hmm, what a talent you have. I was left quite stunned, truly.
+PERS:8015e13c	I was a fool to try to talk seriously with a person like you. I shall excuse myself.
+PERS:8015e188	What a fool... I'll hear no more from you. We're done.
+PERS:8015e1dc	Good grief... this is a waste of time. I will take my leave.
+PERS:8015e224	...Any more of this fool and my head will ache. You may withdraw.
+PERS:8015e270	Huh??? How absurd. I'm leaving now, if you will excuse me.
+PERS:8015e2c0	Huh??? How silly. I'm off now, if you'll excuse me.
+PERS:8015e30c	Talking seriously with you is starting to feel foolish... I'll take my leave.
+PERS:8015e350	...I have no time to spare for a fool. Withdraw.
+PERS:8015e384	What do you think you are doing? Absurd... I shall excuse myself.
+PERS:8015e3c8	I've had quite enough of this, really... If you'll excuse me.
+PERS:8015e400	K2! I'm not finished...
+PERS:8015e418	Huh!? I am not done yet...
+PERS:8015e444	What!? I'm not done...
+PERS:8015e460	What!? There's more to say...
+PERS:8015e478	Hey, I'm not done yet...
+PERS:8015e490	K2! I am not done...
+PERS:8015e4b8	Wait, there is more...
+PERS:8015e4d0	W-wait! I'm not done...
+PERS:8015e4ec	Hm?\nIs something the matter?
+PERS:8015e508	Hm?\nWhat's the matter?
+PERS:8015e520	Hm?\nWhat happened?
+PERS:8015e538	Oh?\nWhat is it?
+PERS:8015e550	Well?\nWhat is the matter?
+PERS:8015e570	Hm?\nWhat's wrong?
+PERS:8015e588	Hm?\nSomething wrong?
+PERS:8015e5a0	Hm?\nIs anything wrong?
+PERS:8015e5b8	Hm?\nWhat is troubling you?
+PERS:8015e5d8	Hm?\nHas something happened?
+PERS:8015e5f8	No need to rush... oh my, why, thank you.
+PERS:8015e634	O-oh. Thanks...
+PERS:8015e650	Oh, oh, this is... much obliged...
+PERS:8015e674	Now, no need to hurry... whoa, whoa...
+PERS:8015e6a0	W-well, don't mind if I do...
+PERS:8015e6c0	O-oh, thank you...
+PERS:8015e6e0	Whoa, thanks...
+PERS:8015e6f8	O-oh. My thanks...
+PERS:8015e710	No need to hurry... oh, this is... much obliged...
+PERS:8015e754	No need to hurry... oh, this is... thank you...
+PERS:8015e794	???\nHave you finished, K2? Then...
+PERS:8015e7c4	???\nIs that all from you, K2? Then...
+PERS:8015e7f0	???\nAre you done, K2? Then...
+PERS:8015e820	???\nIf you've nothing to say, I'll begin mine.
+PERS:8015e850	???\nHave you finished, K2?
+PERS:8015e870	???\nHave you finished, K2? Then I'll have my say.
+PERS:8015e8b8	???\nIs that all you have to say?
+PERS:8015e8d8	???\nHave you finished? Then listen to me.
+PERS:8015e918	???\nHave you finished, K2? In that case...
+PERS:8015e94c	???\nHave you said your piece? Then...
+PERS:8015e97c	Well, this is splendid. Quite an accomplishment.
+PERS:8015e9ac	Oh, that is impressive.
+PERS:8015e9c8	Ha, how splendid.
+PERS:8015e9e8	Ohohoho. K2, you are quite good.
+PERS:8015ea14	My, you are skilful. Quite impressive.
+PERS:8015ea40	Well, that was fun. K2, you're quite good.
+PERS:8015ea74	Excellent! Well, that's impressive.
+PERS:8015eaa0	Well, you are quite good. Impressive.
+PERS:8015eacc	Ha, how splendid an accomplishment.
+PERS:8015eaf4	Ha. How splendid. Quite impressive.
+PERS:8015eb24	Oh, you know her too, K2? She is the best maiko in Kyōto.
+PERS:8015eb64	Oh, that sounds nice.
+PERS:8015eb7c	Ah, how lovely.
+PERS:8015eb98	You have your eye on her, K2? You are a sly one.
+PERS:8015ebd0	Well, that is hard to resist.
+PERS:8015ebf8	Hey, nice. I'd like to meet her some time myself.
+PERS:8015ec28	Nice. I'd like to meet her one day too.
+PERS:8015ec50	Oh. I'd like to meet her too.
+PERS:8015ec7c	How nice. I would like to meet her one day.
+PERS:8015ecb0	Oh my. I should like to meet her one day.
+PERS:8015ece0	Oh, nice. I'd like to meet her some time.
+PERS:8015ed0c	Ha, I too would like to meet her some day.
+PERS:8015ed40	Hoho, you like them too, K2.
+PERS:8015ed5c	Ah, how lovely...
+PERS:8015ed78	Ah, lovely. I'd like to meet her myself some time.
+PERS:8015edac	Oh, I know her. We have the same taste, K2.
+PERS:8015ede0	What, is she that good? I must go with you.
+PERS:8015ee14	Ah, how nice.
+PERS:8015ee2c	Oh. I would love to try that some time.
+PERS:8015ee58	Oh, nice. I'd like to try it too.
+PERS:8015ee84	Oh, that one! I tasted it once myself, and it was irresistibly delicious.
+PERS:8015eee4	Ah, how pleasant...
+PERS:8015eefc	Hey, nice. I'd like to see it once myself.
+PERS:8015ef2c	Oh, that is news to me. I am known as a gourmet, and I can never resist such talk.
+PERS:8015ef78	Oh. I must try that one day.
+PERS:8015efa8	Oh. I would love to drink that some time.
+PERS:8015efd4	Oh, nice. I'd like to drink it too.
+PERS:8015f000	Ah, how nice...
+PERS:8015f020	Oh, nice. I'd like a taste of it too.
+PERS:8015f050	Ah, lovely. I'd like to drink that myself some day.
+PERS:8015f08c	Ah, that sounds good...
+PERS:8015f0a8	Hey, nice. I'd like to try a drink of that some time.
+PERS:8015f0d8	Ah, that one. I drank it once, and I can't forget the taste.
+PERS:8015f124	Oh. How nice...
+PERS:8015f140	Oh. I must have a drink of that one day.
+PERS:8015f168	Please wait a moment...
+PERS:8015f184	Wait a bit...
+PERS:8015f1a0	Then allow me to leave my seat.
+PERS:8015f1c4	I'm off to the privy.\nWait here.
+PERS:8015f1e0	Then allow me to go to the privy.
+PERS:8015f200	Then I'll go to the privy.
+PERS:8015f220	Right, I'm off to the privy.
+PERS:8015f23c	To the privy.\nWait a while...
+PERS:8015f258	Might I have a moment?
+PERS:8015f274	Would you wait a while?\nExcuse me...
+PERS:8015f298	Now, let us take a breather.
+PERS:8015f2b0	I'll rest a bit.
+PERS:8015f2c0	I shall rest here.
+PERS:8015f2dc	Now, I am tired.\nLet us rest.
+PERS:8015f2fc	Now, shall we take a breather?
+PERS:8015f318	Now, how about a rest?
+PERS:8015f334	I'll take a short rest.
+PERS:8015f350	A short rest.
+PERS:8015f364	Now, let us rest a while.
+PERS:8015f380	Now, let us rest a moment.
+PERS:8015f398	Ha ha ha, how funny!\nMy sides nearly split.
+PERS:8015f3d4	Ahaha!\nOh, that's funny.
+PERS:8015f3f8	Gahaha!\nMy sides are...
+PERS:8015f418	Wahaha!\nMy sides hurt from laughing...
+PERS:8015f43c	Hahaha...\nMy sides hurt from laughing...
+PERS:8015f464	Then let me tell you a silly story.
+PERS:8015f488	Now I'll tell you my favourite silly story.
+PERS:8015f4b4	Now, do hear my little tale.
+PERS:8015f4d4	Now then, let me tell you a story.
+PERS:8015f4fc	Then let me tell you a little tale I heard.
+PERS:8015f52c	How about some of my comic patter?\nHere goes.
+PERS:8015f558	Time for my rakugo...
+PERS:8015f570	Right, I'll tell you a funny story.\nListen well.
+PERS:8015f5a0	Ha ha ha.\nThen a little tale, if I may...
+PERS:8015f5c8	Now, then, a little tale of mine...
+PERS:8015f5ec	...How dull.
+PERS:8015f604	...Rubbish.
+PERS:8015f614	...Nonsense.
+PERS:8015f628	...Enough of that.
+PERS:8015f644	...How tedious.
+PERS:8015f65c	Ugh! B-brr, it's cold!
+PERS:8015f674	Rubbish...
+PERS:8015f684	...And what of it?
+PERS:8015f6a8	Phew...
+PERS:8015f6b4	Ahahaha.
+PERS:8015f6c4	Wahaha!\nOh, that is funny.
+PERS:8015f6e8	Gahaha!
+PERS:8015f6fc	Hohoho...\nHow amusing.
+PERS:8015f71c	Wahaha, you're funny, K2.
+PERS:8015f740	Wahaha, that's funny.
+PERS:8015f760	Ahaha!
+PERS:8015f770	Wahaha!\nAh, how amusing.
+PERS:8015f794	Wahaha!
+PERS:8015f7a4	Hahaha...
+PERS:8015f7b8	Then I shall show you my party piece.

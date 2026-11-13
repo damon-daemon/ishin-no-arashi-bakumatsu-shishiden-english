@@ -1,0 +1,207 @@
+@0
+There's a reason I brought you to Nagasaki. I figure this town will become our base for foreign trade one day, so I came to look it over.
+
+@1
+A trading base?
+
+@2
+That's right. From here it's easy to get to Shanghai, Korea and the islands of the south. Besides, everything about this town feels new, the buildings and the people alike.
+
+@3
+It's overflowing with goods from the Qing, the Dutch, and lately Britain and America. Stay here and your eyes open to every sea in the world.
+
+@4
+The seas of the world...!
+
+@5
+Well, take your time and look around the town. I'll go and finish my business.
+
+@6
+Away in Kyūshū, accompanying Katsu Kaishū
+
+@7
+Stroll around Nagasaki
+
+@8
+
+
+@9
+Oh, Sakamoto-sama!
+
+@10
+Well now, Omoto! Do you remember me?
+
+@11
+Hee hee, as if I could forget!
+
+@12
+Right, bring the sake!
+
+@13
+Coming!
+
+@14
+Hm? Is nobody here?
+
+@16
+Whoops, are you all right?
+
+@21
+...I've gone and fallen for this man.
+
+@22
+For me?
+
+@23
+I'm Omoto. Pleased to know you.
+
+@25
+Please, do come in. The master will be back soon.
+
+@26
+Visit Yokoi Shōnan in Kumamoto
+
+@27
+Ryō-san, I'm afraid this is going to take a while.
+
+@29
+So, to pass the time, why not pop down to Kumamoto?
+
+@30
+Kumamoto...?
+
+@31
+Yokoi Shōnan-dono lives there.
+
+@32
+So Shōnan-dono has come back to Kumamoto from Echizen.
+
+@34
+Though a Kumamoto man, he was invited by Lord Shungaku of Echizen and rebuilt that domain's finances. A sharp one. Here, my letter of introduction.
+
+@35
+He's back in Kumamoto, is he?
+
+@36
+Yes. He wants to realise what he agreed with Lord Shungaku, a "politics of republican unity for all Japan", now that Echizen's finances are fully restored.
+
+@37
+A politics of republican unity?
+
+@38
+Well, he can tell you the details himself.
+
+@39
+But the conservatives of his domain fiercely opposed him. That plan collapsed with the coup in Kyōto, and now, on trumped-up charges, he's confined to his house, they say.
+
+@40
+...That's complicated.
+
+@41
+He must be bored, so go and hear him out. It should teach you a thing or two.
+
+@42
+A ship home leaves early next month, so be back in Nagasaki before then.
+
+@43
+Wait in Nagasaki
+
+@44
+Oh my, what a rare visitor!
+
+@45
+Are you well?
+
+@46
+I'm dreadfully bored. My body is going soft, and shut up in a place like this, even one's high ambition grows dull.
+
+@47
+To ease your boredom, would you give me a taste of your fine views, sensei?
+
+@48
+Ha ha, fine views, is it? Very well, I'll tell you how this country can be saved from here on.
+
+@50
+I come on Katsu-sensei's introduction. My name is Sakamoto.
+
+@51
+Oh? From Katsu-dono? Come in.
+
+@52
+Sensei, please teach me what I should do to save Japan from now on.
+
+@53
+Well, well. Very well.
+
+@54
+To survive this national crisis, we must first scrap the unequal treaties forced on us by the threats of Perry and Harris, prepared to go to war if need be.
+
+@55
+Up to there I agree with the jōi theorists, but beyond it we part ways. After that, our country must conclude treaties free of inequality and aim for a "true opening of the country".
+
+@56
+To begin with, such wretched treaties were signed because the shogunate runs the government on its own authority.
+
+@57
+I believe we need a place where all the lords of the land, the Tokugawa included, debate as equals and settle every national question by discussion.
+
+@58
+In short, a republic like those seen in the Western nations. For Japan, with its many lords, I think it is the form of government easiest to accept.
+
+@59
+...I see.
+
+@62
+Thank you very much.
+
+@63
+Mm. Do not become a rebel and a traitor.
+
+@64
+Above all, never become the kind of man who plots to overthrow the shogunate for his own lust for power.
+
+@65
+Always think how our country can stand shoulder to shoulder with the Western powers, and work for the good of all under heaven.
+
+@66
+Ryō-san, the ship home is leaving.
+
+@67
+Impressive. The merchant houses of Nagasaki hold their own against Ōsaka and Edo.
+
+@68
+Can I help you with something, sir?
+
+@69
+No, no, I was just admiring your fine house.
+
+@70
+Pardon my asking, but what do the merchants of Nagasaki deal in?
+
+@71
+...Is this an official inquiry? We have never engaged in any suspicious dealings...
+
+@72
+Ha ha, don't worry. I'm only a penniless rōnin. I'm just doing a little research for the day I go into business myself.
+
+@73
+A samurai, going into trade?
+
+@74
+Is that strange?
+
+@75
+N-not at all! But what an amusing gentleman you are... Oh, forgive me.
+
+@76
+Ha ha, no offence taken. More to the point, won't you lecture me on the knack of trade?
+
+@77
+Gladly. But be warned, what I have to say is a bit heavy going.
+
+@78
+Domestic Insight rose by 1!
+
+@79
+Foreign Insight rose by 2!
+

@@ -1,0 +1,216 @@
+@0
+S2-san, everyone's being called together.
+
+@1
+S2-han, everyone's being called together.
+
+@32
+So the shogunate is gone at last.
+
+@33
+I worry about what will become of the Shinsengumi.
+
+@35
+(S2-san, a moment...)
+
+@36
+(Yes.)
+
+@37
+It's going to take more time with Itō.
+
+@38
+Please give me a little longer.
+
+@39
+...\nWhen?
+
+@41
+I am sorry to cause you trouble...
+
+@42
+How often can you report to me?
+
+@43
+Let me see...
+
+@44
+Once a month, show your face at Kiyomizu, where Itō's headquarters is.
+
+@45
+If I have anything to report, I'll speak to you there.
+
+@47
+Well then, let's leave it at that...
+
+@48
+Wait for Saitō's report at Kiyomizu once a month
+
+@49
+A letter has come from someone called Saitō Hajime.
+
+@50
+Ah, thank you.
+
+@51
+I still need time to learn the movements of Itō's faction. Please wait a little longer.
+
+@52
+Also, once a month, please go to Kiyomizu, where Itō's faction has its headquarters, and await contact.
+
+@53
+With my thanks in advance.\n\nSaitō Hajime
+
+@54
+(I'll go to Kiyomizu in a while.)
+
+@55
+(Perhaps I should go to Kiyomizu after a while.)
+
+@56
+Wait for Saitō's report at Kiyomizu once a month
+
+@57
+(S2-san.)
+
+@58
+(Nothing major seems to be happening this month.)
+
+@59
+(Understood.)
+
+@60
+(S2-san.)
+
+@61
+(Nothing major seems to be happening this month either.)
+
+@62
+(Understood.)
+
+@63
+(S2-san.)
+
+@64
+(Nothing major seems to be happening this month either.)
+
+@65
+(Understood.)
+
+@66
+(S2-san.)
+
+@67
+(Nothing major seems to be happening this month either.)
+
+@68
+(Understood.)
+
+@69
+(S2-san.)
+
+@70
+(Nothing major seems to be happening this month either.)
+
+@71
+(Understood.)
+
+@72
+(S2-san.)
+
+@73
+(Nothing major seems to be happening this month either.)
+
+@74
+(Understood.)
+
+@75
+(S2-san.)
+
+@76
+(Nothing major seems to be happening this month either.)
+
+@77
+(Understood.)
+
+@78
+(S2-san.)
+
+@79
+(Nothing major seems to be happening this month either.)
+
+@80
+(Understood.)
+
+@81
+(S2-san.)
+
+@82
+(Nothing major seems to be happening this month either.)
+
+@83
+(Understood.)
+
+@84
+S2-han. They say headquarters is moving.
+
+@86
+The new headquarters is the Fudōdō in Shimogyō, so don't forget.
+
+@87
+S2-han. I've been looking for you.
+
+@88
+Yamazaki-san. What is it?
+
+@89
+Headquarters has moved to Shimogyō.
+
+@91
+Keep that in mind when you're back in Kyōto.
+
+@92
+S2-san. I've uncovered a plot by Itō's faction to assassinate the Commander!
+
+@94
+Tell the Commander and the Vice-Commander as quickly as you can!
+
+@95
+Kondō-san, Hijikata-san.
+
+@96
+According to Saitō-san's report, Itō's faction seems to be plotting to assassinate Kondō-san.
+
+@103
+Well... that is, if only that snake of a man weren't around...
+
+@104
+Ugh!!
+
+@105
+Heh heh. Die!
+
+@109
+Is it done?
+
+@111
+Leave the body where it is. We'll lie in wait for his comrades when they come to collect it.
+
+@112
+S2-san. So you were here!
+
+@113
+I've found out what Itō's faction is planning!
+
+@115
+Let's get back to headquarters! I've found out what Itō's faction is planning!
+
+@162
+Everyone's being called together.
+
+@163
+S2-han! Everyone's being called together.
+
+@164
+Let's hurry back to headquarters.
+

@@ -1,0 +1,159 @@
+@0
+The former shogunate's French-style infantry is reportedly marching toward Nikkō!
+
+@1
+Let's join them.
+
+@2
+...That must be them.\nRight, we'll join them.
+
+@3
+I am Ōtori Keisuke. I command the shogunate's Western-style army, the Denshūtai.
+
+@4
+I am Hijikata.
+
+@5
+Ahead lies Utsunomiya, where Hikone troops who have gone over to the imperial army stand guard as reinforcements.
+
+@6
+Attacking by force would cost us dearly, so I think it best to slip through under cover of night...
+
+@7
+Take it by storm\nPass through
+
+@8
+Utsunomiya is the key to traffic in northern Kantō. Unless we hold it, we will find no chance of victory.
+
+@9
+That is reckless. Taking a castle demands an attacking force several times the size of the defenders.
+
+@10
+War is not a matter of theory.
+
+@11
+If you think so, do as you please. We shall go our own way.
+
+@13
+Understood. We will pass through.
+
+@14
+Take Utsunomiya Castle.
+
+@16
+Fire!
+
+@17
+Charge in!
+
+@18
+S-Shinsengumi!!
+
+@19
+To think they would really take the castle with such a small force...
+
+@20
+The Shinsengumi, unbeaten in small-scale street fighting, could not show its true worth in mass battles with firearms.
+
+@21
+The band of swordsmen who had enjoyed the title of the Bakumatsu's strongest was destroyed without ever seeing the age of the Restoration...
+
+@22
+Hijikata-dono!
+
+@23
+The imperial army looks set to fill the whole castle town of Utsunomiya. Even holing up inside, we could not face such numbers.
+
+@24
+We must be content that the fall of Utsunomiya has shown the shogunate side still has strength left.
+
+@25
+...There is nothing for it. Let us fall back to Aizu.
+
+@26
+Volunteer soldiers have come from the nearby villages.
+
+@27
+The Shinsengumi's strength rose by 25!
+
+@28
+The 25th day of the 4th month, Keiō 4 (1868).
+
+@29
+Kondō Isami is put to death by beheading at Itabashi...
+
+@30
+...That black cat is here again today.
+
+@32
+I'll cut you down...
+
+@33
+Okita-san.
+
+@35
+...Ugh!
+
+@36
+I can't... I can't even cut down that black cat any more.
+
+@37
+Hijika... ta... san...
+
+@38
+On the 3rd day of the 5th month, the alliance of the Ōu-Echigo domains was formed.
+
+@39
+Aiming to set up a northern republican government, they entered all-out war with the imperial army.
+
+@40
+Fire!
+
+@41
+Good, the enemy has broken! Charge in all at once!
+
+@42
+Hijikata had already mastered the essentials of modern warfare and piled up victories with tactics of his own.
+
+@43
+Even so, those victories were merely local. Dark clouds were gradually gathering over the future of the alliance.
+
+@44
+The Shinsengumi, unbeaten in small-scale street fighting, could not show its true worth in mass battles with firearms.
+
+@45
+The band of swordsmen who had enjoyed the title of the Bakumatsu's strongest was destroyed without ever seeing the age of the Restoration...
+
+@46
+Even the Shinsengumi, whose valour had rung through Kyōto, could not bring out its strengths in modern warfare.
+
+@47
+Moreover, dark clouds were gradually gathering over the future of the alliance.
+
+@48
+Uoryaaaah!
+
+@49
+Rifle corps, forward.
+
+@50
+Fire.
+
+@51
+Guooh!
+
+@52
+D-damn you all!
+
+@53
+The Shōgitai left in Edo was wiped out in a single day by the precise command of Chōshū's famed general Ōmura Masujirō.
+
+@54
+The Tōhoku domains, behind in equipment and clumsy in tactics for lack of combat experience, suffered a rare crushing defeat in the opening battle at Shirakawa.
+
+@55
+Defeat followed defeat after that. Only Kawai Tsugunosuke fought hard on the Echigo front, but that resistance did not last long either.
+
+@56
+The powerful domains, Sendai at their head, lost the will to fight and left the alliance one after another.
+

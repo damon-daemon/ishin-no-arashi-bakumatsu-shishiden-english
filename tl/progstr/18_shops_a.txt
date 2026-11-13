@@ -1,0 +1,279 @@
+# Shop lines, system messages, group names, sword ranks, persuasion cards (PROG 80037000-8003bfff)
+PROG:80037000	Do you know where you are? Be gone at once!
+PROG:80037034	Welcome back, Toshi-san.
+PROG:80037048	Welcome back, Vice-Commander.
+PROG:80037060	Welcome back, Hijikata-san.
+PROG:8003707c	This is the Shinsengumi HQ. Begone if you have no business.
+PROG:800370b0	Welcome back, Sakamoto-san.
+PROG:800370cc	This is the Shachū HQ. Outsiders are asked to keep out.
+PROG:80037100	Why, %s's %s-dono. Come to enrol at this dōjō?
+PROG:80037128	Come to enrol at this dōjō?
+PROG:80037140	Welcome back, %s-san.
+PROG:80037158	Ah, %s-dono. The way of the sword is all training!
+PROG:80037180	Toshi-san, fancy some practice?
+PROG:8003719c	Ah, Ryōma. Welcome back.
+PROG:800371b4	The sword is all training. Work hard, Ryōma.
+PROG:800371d8	Ah, Ryōma. Good to see you, come in.
+PROG:800371fc	Why, %s's %s-dono. What brings you here today?
+PROG:80037238	You there, sir. What brings you here today?
+PROG:80037274	The dōjō has closed. Go home!
+PROG:80037298	Enrolling?
+PROG:800372a8	What brings you here today?
+PROG:800372d4	Learning runs deep. Let us study together.
+PROG:800372fc	I gave up my studies, so I don't teach now.
+PROG:8003732c	Good day, %s-san.
+PROG:80037340	Why, the famed swordsman %s-dono. What brings you here?
+PROG:8003737c	No need to stand on ceremony, comrade. Do come in.
+PROG:800373a4	Hello, Sakamoto-san.
+PROG:800373b4	Hello, %s-san.
+PROG:800373c4	Begone if you have no business.
+PROG:800373f4	Polity
+PROG:800373fc	Foreign
+PROG:80037404	%s is now %s %d!\n
+PROG:80037438	%s rose by %d!\n
+PROG:80037454	Confucianism
+PROG:8003745c	Western Studies
+PROG:80037464	Military Science
+PROG:80037484	Sorry, %s, I'm unwell and cannot go out...
+PROG:800374b0	%s, my apologies, but I am unwell...
+PROG:800374e0	%s, I'm a bit unwell, you see.\nAsk someone else.
+PROG:80037518	%s, I'm under the weather.\nCould you ask someone else?
+PROG:8003754c	Sorry, %s, I'm poorly and can't go out...
+PROG:8003757c	%s, I am unwell.\nWould you not assign another...?
+PROG:800375b4	%s, I am ailing.\nPut another man on it, if you please.
+PROG:800375e8	%s, I'm not well. I can't head out.
+PROG:80037614	Sorry, %s, I am unwell and cannot go out.
+PROG:80037640	Vice-Commander
+PROG:8003764c	Ignore the request and order him out?
+PROG:80037670	No excuses. It's an order. Go.
+PROG:80037690	Understood...
+PROG:800376a4	If I must, then...
+PROG:800376bc	Hmph! Very well...
+PROG:800376d4	...Oh well. I'll go, then.
+PROG:800376f4	Yes, understood...
+PROG:8003770c	Nothing for it, then...
+PROG:80037720	I understand...
+PROG:80037734	Aye, got it...
+PROG:8003774c	...Understood. Then let us go.
+PROG:80037774	Oh, all right...
+PROG:8003778c	On Patrol
+PROG:80037794	Gathering News
+PROG:800377a0	Select a district.
+PROG:800377b8	Cancel the current order?
+PROG:8003782c	Rikuentai
+PROG:80037834	Yūgekitai
+PROG:8003783c	Kiheitai
+PROG:80037844	Shinsengumi
+PROG:8003784c	Goryō Guard
+PROG:80037858	Sekihōtai
+PROG:80037860	Mimawarigumi
+PROG:80037868	Kōyō Chinbutai
+PROG:80037874	Shōgitai
+PROG:8003787c	Hakodate Govt.
+PROG:80037888	Tenchūgumi
+PROG:800378c8	Chōshū
+PROG:800378d0	Geishū
+PROG:800378e0	Kishū
+PROG:80037940	Aizu
+PROG:80037958	Court
+PROG:80037960	Shogunate
+PROG:80037968	Indep. Unit
+PROG:80037974	Major Domain
+PROG:8003797c	Kaientai
+PROG:80037984	Group
+PROG:80039f38	Hitotsubashi
+PROG:80039f68	Ordinary People
+PROG:8003a43c	Decline Persuasion
+PROG:8003a448	Accept Persuasion
+PROG:8003a458	Gladly!\nRight, let's begin at once.
+PROG:8003a47c	Very well, I'll take you on.
+PROG:8003a498	The persuasion begins.
+PROG:8003a4b0	You could not refuse.
+PROG:8003a4c8	Run
+PROG:8003a4d0	Persuade
+PROG:8003a4e4	K2, that's a misunderstanding.\nI'd never do anything so wicked!
+PROG:8003a520	Then I will try to explain myself.
+PROG:8003a544	No help for it.\nWe must cross swords.
+PROG:8003a56c	Then I will fight %s.
+PROG:8003a598	You are completely surrounded.
+PROG:8003a5d4	We are of the Shinsengumi.\nForgive us, but we must ask your name.
+PROG:8003a658	Hmph! You are the wanted %s!\nSeize him!
+PROG:8003a6a8	Oh, you won't run? Fine nerve.\nCut this man down!
+PROG:8003a6dc	Sorry to have troubled you.\nTravel safely.
+PROG:8003a6fc	Damn! Cut him down!\nDon't let him escape!
+PROG:8003a71c	Fool, did you think you could flee the Shinsengumi?\nCut this man down!
+PROG:8003a75c	You are completely surrounded.\nThere is nothing for it but to fight.
+PROG:8003a788	Hey, A2,\nbe careful.
+PROG:8003a7a0	Hello, A2,\nbe careful out there.
+PROG:8003a7c0	Mm, thank you for your service.
+PROG:8003a7ec	%s's set waiting period has ended.
+PROG:8003a810	%s has arrived at %s.
+PROG:8003a828	%s has finished gathering news at %s.
+PROG:8003a84c	%s has finished scholarly training.
+PROG:8003a86c	%s has finished martial training.
+PROG:8003a88c	%s succeeded in persuading %s.
+PROG:8003a8ac	%s failed to persuade %s.
+PROG:8003a8d0	%s succeeded in assassinating %s.
+PROG:8003a8f0	%s succeeded in attacking %s.
+PROG:8003a910	%s failed to assassinate %s.
+PROG:8003a930	%s has finished recovering.
+PROG:8003a94c	%s has finished patrolling %s.
+PROG:8003a968	%s's trading is done.\nIt earned %s ryō, a%s profit.
+PROG:8003a99c	 large
+PROG:8003aaec	%s sent word of "%s".
+PROG:8003ab14	%s's Domestic Insight rose by %d!
+PROG:8003ab30	It seems %s was attacked and wounded.
+PROG:8003ab58	It seems %s failed an assassination and was cut down.
+PROG:8003abc8	It seems %s's patrol wiped out a band of rōshi.
+PROG:8003abf4	It seems %s's patrol happened to catch some burglars.
+PROG:8003ac2c	Searching for %s, %s learned that %s.
+PROG:8003acf4	Ittō-ryū Pupil
+PROG:8003ad00	Ittō-ryū Asst. Master
+PROG:8003ad10	Ittō-ryū Mokuroku
+PROG:8003ad1c	Ittō-ryū Menkyo Kaiden
+PROG:8003ad2c	Shingyōtō-ryū Mokuroku
+PROG:8003ad3c	Shingyōtō-ryū Menkyo Kaiden
+PROG:8003ad50	Jikishinkage-ryū Pupil
+PROG:8003ad60	Jikishinkage-ryū Mokuroku
+PROG:8003ad70	Jikishinkage-ryū Asst. Master
+PROG:8003ad80	Jikishinkage-ryū Menkyo Kaiden
+PROG:8003ad94	Hōzōin-ryū Pupil
+PROG:8003ada4	Hōzōin-ryū Mokuroku
+PROG:8003adb4	Oguri-ryū Pupil
+PROG:8003adc0	Oguri-ryū Mokuroku
+PROG:8003adcc	Oguri-ryū Asst. Master
+PROG:8003addc	Oguri-ryū Menkyo Kaiden
+PROG:8003adec	Jigen-ryū Adept
+PROG:8003adf8	Jigen-ryū Master
+PROG:8003ae04	Ryūgō-ryū Mokuroku
+PROG:8003ae10	Ryūgō-ryū Menkyo Kaiden
+PROG:8003ae20	Hōzōin-ryū Asst. Master
+PROG:8003ae30	Hōzōin-ryū Menkyo Kaiden
+PROG:8003ae44	Tennen Rishin-ryū Pupil
+PROG:8003ae54	Tennen Rishin-ryū Mokuroku
+PROG:8003ae64	Tennen Rishin-ryū Asst. Master
+PROG:8003ae78	Tennen Rishin-ryū Menkyo Kaiden
+PROG:8003ae8c	Shintō Munen-ryū Pupil
+PROG:8003ae9c	Shintō Munen-ryū Mokuroku
+PROG:8003aeac	Shintō Munen-ryū Asst. Master
+PROG:8003aec0	Shintō Munen-ryū Menkyo Kaiden
+PROG:8003aed4	Kyōshin Meichi-ryū Pupil
+PROG:8003aee4	Kyōshin Meichi-ryū Mokuroku
+PROG:8003aef4	Kyōshin Meichi-ryū Asst. Master
+PROG:8003af08	Kyōshin Meichi-ryū Menkyo Kaiden
+PROG:8003af1c	Hokushin Ittō-ryū Pupil
+PROG:8003af2c	Hokushin Ittō-ryū Mokuroku
+PROG:8003af3c	Hokushin Ittō-ryū Asst. Master
+PROG:8003af50	Hokushin Ittō-ryū Menkyo Kaiden
+PROG:8003af64	--Invalid--
+PROG:8003af74	Person Data
+PROG:8003af80	Obtained "%s".
+PROG:8003afd4	--
+PROG:8003b01c	By Group
+PROG:8003b024	By Trust
+PROG:8003b030	By Learning
+PROG:8003b038	By Martial Power
+PROG:8003b040	By Rank
+PROG:8003b068	%s's view is now %s%s{C7}
+PROG:8003b0b4	Sadly, it seems %s has passed away.
+PROG:8003b100	An indescribable show-stopper. Needs sake. Persuasion Art 15/15. From Koichi, Shinagawa Dozō Sagami.
+PROG:8003b164	Ultimate Party Trick
+PROG:8003b174	Forces a result on the strength of drink. Needs sake. Persuasion Art 14/15. From Wakatsuru-dayū, Dōtonbori Restaurant.
+PROG:8003b1e0	Naniwa Big Spender
+PROG:8003b1f4	Laugh off the foe's words, but the mood turns against you. Persuasion Art 13/15. From Fujie, Maruyama Awajiya.
+PROG:8003b264	Remembered Laughter
+PROG:8003b274	Sours your mood so the foe's pace cannot sway you. Persuasion Art 12/15. From Shinonome-dayū, Shimabara Kizuya.
+PROG:8003b2e0	Sour Face
+PROG:8003b2ec	Both drink on. Needs sake. Persuasion Art 11/15. From Kosuzu, Fukagawa Shinagawa-rō.
+PROG:8003b348	Stormy Pouring
+PROG:8003b354	Eat a pickled plum to restore your Drive; the foe takes the lead. Persuasion Art 10/15. From Miyuki-dayū, Gion Yamakinuya.
+PROG:8003b3c8	Pocket Pickled Plum
+PROG:8003b3d8	Let the foe's words slide, Kyōto style. Persuasion Art 9/15. From Okimi, Gion Shimamuraya.
+PROG:8003b434	Kyōto Brush-Off
+PROG:8003b440	Rattle off a tirade at the foe. Persuasion Art 8/15. From Osaki, Asakusa Yoshiya.
+PROG:8003b498	Edo Brawl Banter
+PROG:8003b4a8	Saigō Takamori's rowdy party piece. Needs sake. Persuasion Art 7/15. From Otatsu, Shimabara Kikyōya.
+PROG:8003b510	Saigō's Secret Act
+PROG:8003b520	A dodoitsu ballad, a Takasugi favourite. Needs sake. Persuasion Art 6/15. From Ouno, Shimonoseki Sakaiya.
+PROG:8003b58c	Takasugi's Dodoitsu
+PROG:8003b5a0	Discard some cards and draw anew. Persuasion Art 5/15. From Itosato, Shimabara Wachigaiya.
+PROG:8003b600	New Cards
+PROG:8003b610	Catches a woman-lover's ear. If it fails, the foe takes the lead. Art 4/15. From Oyoshi, Gion Yamao.
+PROG:8003b674	Tale of a Gion Maiko
+PROG:8003b684	Catches a woman-lover's ear. If it fails, the foe takes the lead. Art 3/15. From Miura, Asakusa Daimonjiya.
+PROG:8003b6ec	Yoshiwara Tayū Gossip
+PROG:8003b6fc	Interests a gourmet foe. If it fails, the foe takes the lead. Persuasion Art 2/15. From Chiyomatsu, Asakusa Matsubaya.
+PROG:8003b770	Legendary Delicacy
+PROG:8003b784	Interests a sake-lover. If it fails, the foe takes the lead. Persuasion Art 1/15. From Kochō, Shimabara Kameya.
+PROG:8003b7f4	Legendary Sake Rumour
+PROG:8003b804	Step out to advance time. Not usable from round 9.
+PROG:8003b83c	Step Out
+PROG:8003b848	Rest a while to restore your Drive.
+PROG:8003b874	Take a Break
+PROG:8003b880	Tell silly tales to lower the foe's Drive.
+PROG:8003b8b0	Talk Nonsense
+PROG:8003b8c0	When the mood is slack, rouse and tighten it.
+PROG:8003b900	Rouse Them
+PROG:8003b90c	Discard unwanted cards and draw new ones.
+PROG:8003b950	Swap Cards
+PROG:8003b964	With sake served, a party piece lightens the mood.
+PROG:8003b9ac	Show Party Trick
+PROG:8003b9bc	Defence mash card. Abuses the foe, voids their points and deals damage.
+PROG:8003ba1c	Hurl Abuse
+PROG:8003ba28	Defence mash card. Furious anger nearly voids the foe's points.
+PROG:8003ba84	Roar in Anger
+PROG:8003ba94	Defence mash card. Vague nods reduce the foe's points.
+PROG:8003baec	Let It Pass
+PROG:8003baf8	Defence mash card. Ignoring the foe nearly voids their points.
+PROG:8003bb4c	Ignore
+PROG:8003bb58	Win the mash to force attack and defence to swap.\nUsable as an opinion card on defence.
+PROG:8003bbac	Interrupt
+PROG:8003bbbc	Win the mash to end the persuasion and draw the contest.
+PROG:8003bbf8	Leave Table
+PROG:8003bc04	An opinion card if your views are "Moderate".
+PROG:8003bc40	On Moderation
+PROG:8003bc50	An opinion card if your views are "Militant".
+PROG:8003bc8c	On Militancy
+PROG:8003bc9c	An opinion card if your views are "Jōi".
+PROG:8003bcd8	On Jōi
+PROG:8003bce8	An opinion card if your views are "Open".
+PROG:8003bd24	On Opening Up
+PROG:8003bd34	An opinion card if your views are "Sonnō".
+PROG:8003bd70	On Sonnō
+PROG:8003bd80	An opinion card if your views are "Sabaku".
+PROG:8003bdc4	On Sabaku
+PROG:8003bdd4	Starts a party if sake is served. It ends the contest, so beware if the foe plays it.
+PROG:8003be44	Have sake prepared. Careful if you can't hold your drink.
+PROG:8003be80	Eases the mood.
+PROG:8003bea4	Worldly Matters
+PROG:8003beac	Make Small Talk
+PROG:8003bec0	Player
+PROG:8003becc	Adjutant
+PROG:8003bed4	War Inspector
+PROG:8003bedc	Supreme Commander
+PROG:8003bee4	10th Unit Captain
+PROG:8003bef0	9th Unit Captain
+PROG:8003befc	8th Unit Captain
+PROG:8003bf08	7th Unit Captain
+PROG:8003bf14	6th Unit Captain
+PROG:8003bf20	5th Unit Captain
+PROG:8003bf2c	4th Unit Captain
+PROG:8003bf38	3rd Unit Captain
+PROG:8003bf44	2nd Unit Captain
+PROG:8003bf50	1st Unit Captain
+PROG:8003bf5c	Inspector
+PROG:8003bf64	Chief
+PROG:8003bf6c	Vice-Commander
+PROG:8003bf74	Commander
+PROG:8003bf7c	Captain
+PROG:8003bf84	President
+PROG:8003bf8c	Leader
+PROG:8003bf94	Retired Satsuma
+PROG:8003bfa0	Retired Kumamoto
+PROG:8003bfac	Retired Saga
+PROG:8003bfb8	Retired Fukuoka
+PROG:8003bfc4	Retired Kokura
+PROG:8003bfd0	Retired Uwajima
+PROG:8003bfdc	Retired Tosa
+PROG:8003bfe8	Retired Chōshū
+PROG:8003bff4	Retired Geishū

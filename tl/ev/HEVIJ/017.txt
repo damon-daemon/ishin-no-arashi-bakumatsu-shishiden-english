@@ -1,0 +1,303 @@
+@1
+Patrol and gather information.\n(Priority areas: Nakagyō, Shimabara, Gion, Fushimi)
+
+@2
+Toshi-san, I have to go to Hiroshima again. This time I'm to accompany Ogasawara Iki-no-kami, commander of the Kyūshū front of the Chōshū expedition.
+
+@3
+I mean to bring Itō-kun and the others along again, but will you come too, Toshi-san?
+
+@6
+I'll pass.
+
+@7
+I see.\nThen I leave the rest to you.
+
+@8
+Yes, who is it, please?
+
+@11
+Thump, thump, thump...
+
+@12
+What's all the racket?
+
+@15
+Whoa!
+
+@16
+O-Oryō!
+
+@17
+Sakamoto-sama, Miyoshi-sama, it's the Shinsengumi!
+
+@18
+What?! Miyoshi-kun, we'll meet them head on! Clear us some room to move!
+
+@20
+...Oryō, put something on.
+
+@21
+? ...Oh!!
+
+@22
+Here they come!
+
+@23
+Sakamoto! Time for you to die!
+
+@24
+Whoa! He's got a gun!
+
+@25
+Don't fall back! Anyone who falls back, I cut down!
+
+@26
+Huh? Damn, the gun's broken!
+
+@27
+Sakamoto-san, draw your sword!
+
+@28
+Sakamoto Ryōma has died!
+
+@30
+Toshi-san.
+
+@32
+A wanted notice has come from the Kyōto Shoshidai. A rōnin named Sakamoto Ryōma seems to be plotting something wicked.
+
+@33
+Sakamoto!!
+
+@34
+You know him?
+
+@36
+It seems he will enter Kyōto within the next few days. We'll catch him no matter what.
+
+@37
+Hello, Hijikata-san.\nNice and warm today, isn't it?
+
+@38
+Oh, Sōji. How is your health?\nI'll be needing you to work this year as well, so take proper care of yourself.
+
+@39
+Yes, I'll manage somehow.\nBy the way, this year's... you know.
+
+@40
+What thing?
+
+@41
+Hey, you two!
+
+@42
+Hm, that again...
+
+@43
+You two, hurry to the back room.
+
+@44
+...(So it's come after all...)
+
+@45
+What is it, Toshi-san?\nAre you feeling unwell?
+
+@46
+N-no, I'll go at once...
+
+@48
+Looking at it like this, the faces have changed...\nHow much longer will I be able to sit here like this...
+
+@49
+Hm, Nagakura-kun. Did you say something?
+
+@50
+N-no, nothing.
+
+@51
+I see. Then let's begin.
+
+@52
+This year I'll ask Itō-kun to be the reader.
+
+@53
+Very well, I'll do my best.
+
+@54
+Oh yes, this year it's not the Hundred Poems, it's the iroha karuta.\nAnd a special one of my own making, too.
+
+@55
+I-iroha karuta?
+
+@56
+Special?
+
+@57
+Now then, shall we begin?\nItō-kun, if you please.
+
+@58
+Yes...\nThen...
+
+@61
+N-no...\nThen...
+
+@62
+"Every dog that roams runs into a patrol."
+
+@63
+Got it!! (Smack!)
+
+@64
+...(Wh-what on earth is that?)
+
+@65
+Next...\n"Seppuku speaks louder than words."
+
+@66
+Yaaah!! (Smack!)
+
+@68
+N-next...\n"Little slips add up to 'unfit to be a samurai'..."
+
+@69
+Hyaaah!! (Smack!)
+
+@70
+...(H-how silly...)
+
+@71
+Ha ha ha!\nWhat's the matter, everyone? You're feeble!
+
+@72
+...(I can't take this.)
+
+@73
+And so the Commander's special, utterly silly karuta sapped everyone's spirit, and the third karuta tournament closed with an overwhelming victory for Commander Kondō...
+
+@74
+Hijikata-dono. Isn't Kondō-dono with you today?
+
+@75
+No. May I have an audience with Lord Matsudaira?
+
+@77
+Today I have come with a request concerning the Chōshū expedition.
+
+@78
+...Is it an important matter?
+
+@79
+That goes without saying.
+
+@80
+...Very well, I shall inquire.
+
+@81
+I'd be obliged.
+
+@82
+Ah, Kondō-dono.\nWhat brings you?
+
+@83
+Today I have come with a request concerning the Chōshū expedition.
+
+@84
+...Very well, I shall inquire.
+
+@85
+I'd be obliged.
+
+@86
+Ah, so you have come. What is it?
+
+@87
+It is most presumptuous of me, and I beg your pardon, but...
+
+@88
+Will the Aizu Domain also take part in the campaign?
+
+@89
+Ah, so you have come. What is it?
+
+@90
+So you are Hijikata. What do you want?
+
+@91
+It is most presumptuous of me, and I beg your pardon, but...
+
+@92
+Will the Aizu Domain also take part in the campaign?
+
+@93
+Our domain bears the grave duty of guarding Kyōto. We cannot leave our post lightly.
+
+@94
+"The Shinsengumi want to join the expedition"\n"Leave Kyōto to the Shinsengumi"
+
+@95
+Then, though it is little we can do, we of the Shinsengumi wish to go west as part of the expedition army.
+
+@96
+But I hear the expedition army is a great host of over a hundred thousand. There is hardly need for you to go all that way.
+
+@97
+Leave the guarding of Kyōto to the Shinsengumi. We ask that the men of Aizu devote themselves to crushing Chōshū without a care for the city.
+
+@98
+But our domain's finances are stretched to the limit by the cost of the Kyōto garrison.\nWe have no funds to send an expeditionary force.
+
+@99
+Whether the violent anti-shogunate movement is brought to an end depends on the result of this one battle. There can be no such thing as too much preparation.
+
+@100
+With respect, the shogunate troops cannot be called strong and the domains are not cooperative. Whether we can truly win against a Chōshū that has become a cornered rat is very doubtful.
+
+@101
+Moreover, to lighten the burden the expedition places on the domains, the only way is to settle it quickly with overwhelming force.
+
+@102
+If we do not finish off Chōshū this time, we will surely leave a root of trouble for later.
+
+@103
+If we do not finish off Chōshū this time, we will surely leave a root of trouble for later.
+
+@105
+Very well. I permit the Shinsengumi to take part. Serve with all your strength.
+
+@106
+Sir! I am deeply grateful!
+
+@107
+Sir! I am deeply grateful!
+
+@108
+Understood. Our domain too shall send troops to Chōshū.
+
+@109
+M-my lord!
+
+@110
+Our domain is not the only one in hardship. Everything they say is entirely reasonable.
+
+@111
+I leave the peace of Kyōto to you. I rely on you.
+
+@113
+Our domain is not the only one in hardship. Everything he says is entirely reasonable.
+
+@114
+I leave the peace of Kyōto to you. I rely on you.
+
+@117
+Toshi-san.\nI'm on my way to ask Lord Matsudaira about the expedition too. Will you come along?
+
+@119
+No, I'll pass.
+
+@120
+Is that so?\nThen I'll go by myself.
+
+@121
+Right.\nLet's go.
+

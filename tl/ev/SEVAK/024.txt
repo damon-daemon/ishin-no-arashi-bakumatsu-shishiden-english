@@ -1,0 +1,321 @@
+@0
+In naval training at the Kōbe Naval Training Institute
+
+@1
+Train at the Kōbe Naval Training Institute\n(Goal: Navigation 60)
+
+@3
+Ryō-san, it looks like the warship has arrived.
+
+@4
+When did that happen?!
+
+@5
+Heh heh, don't underestimate my handiwork.
+
+@6
+So this is our ship at last, the one we've waited so long for!
+
+@7
+Yes. How we use her is up to us. But remember, she's borrowed.
+
+@8
+Then let's keep borrowing her forever.
+
+@9
+Exactly!
+
+@10
+Is Sakamoto of Tosa here?!
+
+@11
+I'm Sakamoto, but...
+
+@12
+I'll be brief. The men of Chōshū are furious at the utterly brutal way they were treated at the Ikedaya.
+
+@13
+To present their petition of innocence to the throne, they are marching on Kyōto this very moment at the head of the domain's troops!
+
+@14
+What did you say?!
+
+@15
+We rōnin who left our domains and owe Chōshū a debt have formed a force of our own and march with them.
+
+@16
+Ike Kurata and Nakaoka too?
+
+@18
+A petition, you say... but with the domain's troops behind it, it means war!
+
+@19
+If our petition is not heard, we are of course prepared for that!
+
+@20
+Are you serious?!
+
+@21
+If Chōshū dies, the loyalist cause dies with it! Unless we strike down the Satsuma thieves and the Aizu villains and show justice in the capital, the realm will never climb out of the abyss of confusion!
+
+@22
+You mean to strike the Satsuma, Aizu and other domains' garrison troops in Kyōto with nothing but the Chōshū army and a band of rōnin?
+
+@23
+The loyalist cause is in peril this very moment! We want to gather as many loyalist shishi as we can! Please lend your strength too, you and your followers, Sakamoto-sensei!
+
+@25
+When you count on me that much, I can't bring myself to refuse.
+
+@27
+But let me think it over a while. Getting ready will take some time, too.
+
+@28
+We shall wait for you in Kyōto!
+
+@30
+Ryō-san, are you serious?
+
+@31
+Sensei! You were here? ...Did you hear all that?
+
+@32
+I understand how young men like you burn with hot blood, but you mustn't go and die in a place like this.
+
+@33
+What about the navy?
+
+@34
+That's right. You have a role that only you can play.
+
+@35
+If you, the head of the school, side with Chōshū and lose, the naval school will be shut down. Where will everyone else go then?
+
+@36
+Join in\nStay out
+
+@37
+Now that Kitazoe and Mochizuki are gone, as a man I can't just let them die. If I can, I want to stop this rash uprising.
+
+@38
+...If you put it that way, I won't stop you.
+
+@40
+I'm going too!
+
+@41
+Take him along\nLeave him behind
+
+@42
+You know you could die?
+
+@43
+So be it!
+
+@44
+You stay behind.
+
+@45
+Why?!
+
+@46
+Look after those who stay.
+
+@47
+You stay behind.
+
+@48
+Why?!
+
+@49
+Look after those who stay.
+
+@50
+Take me with you, please.
+
+@51
+Take him along\nLeave him behind
+
+@52
+Come on!
+
+@53
+Yes, sir!
+
+@54
+No, you stay!
+
+@56
+No, you stay!
+
+@58
+Ryōma-dono... are you really going?
+
+@59
+...Wait here for me.
+
+@60
+...Please be sure to come back.
+
+@61
+Yes...
+
+@62
+I'd forgotten...
+
+@63
+Calm down and wait for the times to change. No, wait until you yourself can change the times.
+
+@65
+Don't be absurd! It would be throwing your lives away for nothing! You cannot beat a shogunate army with Satsuma on its side!
+
+@66
+We already count our lives as gone! We are ready to die for the Emperor, on the grounds of the Imperial Palace!
+
+@67
+What good is dying? Wait for the times to change!
+
+@68
+It has come to this: the times will not move by ordinary means! To cling to life is a shame for a man!
+
+@69
+No, they will move someday! I'll move them myself!
+
+@70
+...I understand. Further talk is a waste of time. Then, farewell!
+
+@71
+Ryōma-san! It's terrible!!
+
+@73
+Yasuoka of the Loyalist Party!
+
+@74
+What happened?!
+
+@75
+Kameyata-san and Kitazoe-san are dead!!
+
+@78
+They were attacked by the Shinsengumi while meeting with Chōshū men at the Ikedaya in Kyōto!
+
+@79
+Yoshida Toshimaro of Chōshū, Miyabe Teizō of Kumamoto... many giants of the sonnō-jōi faction have lost their lives.
+
+@80
+I don't know what to do any more...
+
+@81
+...Why... why must they go so far as to kill rōnin?!
+
+@82
+Why...
+
+@83
+Hey, Ryō-san.
+
+@85
+You haven't shown your face at the Institute these two or three days. What's up? While you were away, that Yasuoka fellow bolted from the Institute.
+
+@86
+What?!
+
+@87
+Said he'd fight alongside Chōshū. Building a navy must have looked far too leisurely to him.
+
+@88
+That's rash of him...
+
+@89
+...Sakamoto-san, I want to fight alongside Chōshū.
+
+@90
+What did you say?
+
+@91
+I can't sit here practising on Black Ships while everyone else is fighting!
+
+@92
+Persuade him\nLeave him be
+
+@93
+Stop it. You'll achieve nothing by going, you'll just die a dog's death.
+
+@95
+We decided to do our part through the navy. What if Chōshū loses? Then it falls to us.
+
+@96
+...You're right.
+
+@97
+You understand, then.
+
+@98
+Yes... Ugh! We will carry on the loyalist cause and the overthrow of the shogunate!
+
+@99
+I'm going.
+
+@103
+My teacher, Sakuma Shōzan-dono... was cut down.
+
+@105
+Remnants of the sonnō-jōi faction. A grudge over the coup, I suppose...
+
+@106
+They're taking out their grudge on the wrong man!
+
+@107
+Another of Japan's great minds gone... Damned fools who believe cutting men down will change the world!
+
+@110
+What a fearsome face.
+
+@114
+Yes.
+
+@115
+No, I only dropped in for a moment.
+
+@116
+Wait, please!
+
+@118
+We meet after so long, and you're leaving just like that?
+
+@119
+Stay and rest\nLeave
+
+@120
+...What a troublesome woman.
+
+@121
+I said no, and no it is.
+
+@122
+Oh, how infuriating!
+
+@125
+It's no use telling you.
+
+@126
+...I don't like you.
+
+@127
+Ow!
+
+@128
+When you sit there scowling without a word, it makes me sad.
+
+@129
+Sorry... there's so much in this world a man can do nothing about.
+
+@130
+For Sakamoto-sama I would give up my life. Tell me anything I can do.
+
+@131
+Oryō...
+
+@133
+Thank you. Sorry about that, I'm all right.
+

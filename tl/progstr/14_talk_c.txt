@@ -1,0 +1,300 @@
+# Generic conversation lines 0x8002a000-0x8002dfff: songs, duels, drinking, geisha, news, refusals, meetings, patrol reports
+PROG:8002a030	Well then, I'll sing a Satsuma song here.\nJoin in too, K2, hey!
+PROG:8002a074	Now, I shall teach you a song of the courtiers.\nListen well and take heed...
+PROG:8002a0bc	Then allow me to sing a song of Kyōto.\nHere I go...
+PROG:8002a104	Well, I'll sing you something cheerful.\nHere goes!
+PROG:8002a144	Right, I'll sing a song for you.\nNow, lend me a clap...
+PROG:8002a178	Right, I'll show off my fine voice.\nOpen your ears to a song from the heart!
+PROG:8002a1c8	Very well, I'll sing for your entertainment.\nAhem! Now, if you'll join in...
+PROG:8002a214	Then let me share my proud voice.\nNow, lend me your hands!
+PROG:8002a258	Ha ha, your talk is so amusing.\nThen I shall try a poem chant.
+PROG:8002a2a0	Your stories are such fun.\nThen I shall chant a poem, too.
+PROG:8002a2e0	Then allow me to recite a poem as well.\nIf you will excuse me...
+PROG:8002a328	Then allow me to chant a poem.\nAhem! Excuse me...
+PROG:8002a370	Right, I'll chant my best poem.\nSo, listen up...
+PROG:8002a3b4	Ha ha ha... Now, I'll chant a poem here.\nAhem! Excuse me, then...
+PROG:8002a40c	Ho ho... Then I shall chant a poem.\nListen well and take heed...
+PROG:8002a464	Then allow me to chant a poem.\nHere I go...
+PROG:8002a4a8	My, what a merry day.\nThen let me show my act.\nA poem, then...
+PROG:8002a4f8	Say, this is getting lively.\nThen I'll chant a poem.\nAhem! Here goes...
+PROG:8002a55c	Ha, what a merry day.\nVery well, I'll chant my prized poem.\nListen carefully.
+PROG:8002a5a4	Very well, I'll chant a poem for entertainment.\nAhem! Excuse me...
+PROG:8002a5f0	What a merry day.\nThen let me chant a poem.\nAhem! Now then...
+PROG:8002a644	Oh, I won!\nI'm so glad I beat you, K2.
+PROG:8002a670	Hurrah! I won!\nI'm so happy to have beaten you, K2.
+PROG:8002a6a0	I did it! I've won!
+PROG:8002a6c0	Phew...\nI win, then.\nThat was close.
+PROG:8002a6f8	Phew...\nGood! I win.\nYou still need training, K2.
+PROG:8002a738	Chesto!\nHa ha, the win is mine.\nCome and challenge me again.
+PROG:8002a780	Phew!\nI win, it seems.\nWhat fun!
+PROG:8002a7b0	Heh heh, I seem to have won.
+PROG:8002a7c8	Ha ha, looks like I've won, eh.
+PROG:8002a7ec	Phew...\nHa ha, I win.
+PROG:8002a80c	How about that!\nHad enough, K2?
+PROG:8002a828	Phew!\nHa ha, the victory is mine, it seems.
+PROG:8002a850	Phew...\nWell, I somehow won.\nAre you all right, K2?
+PROG:8002a88c	Ugh... I-I can't take any more.
+PROG:8002a8a8	Ugh... I-I've had it...
+PROG:8002a8c4	Ugh...\nI lose...\nExcuse me a moment...
+PROG:8002a8f8	Gulp! Cough, cough...\nI yield! I lose.
+PROG:8002a92c	Ugh...\nI-I yield...
+PROG:8002a94c	Gulp!\nI-I yield, you win.
+PROG:8002a970	Ugh! I-I can't take more...
+PROG:8002a994	Ugh! Cough, cough...\nWell, I yield. I lose.
+PROG:8002a9cc	N-no... ugh!\n...I-I yield.
+PROG:8002a9f4	Ugh! I-I yield!
+PROG:8002aa0c	Ugh!\nI-I can't go on...
+PROG:8002aa2c	Then, a contest.\nUnderestimate me and you'll regret it.
+PROG:8002aa58	Then, a contest.\nI won't lose.
+PROG:8002aa74	Then let us compete.\nNo holding back.
+PROG:8002aaa0	Right, let us compete.\nDon't blame me if you lose.
+PROG:8002aad4	Right, a contest it is.
+PROG:8002aaf0	Then let's compete.\nI won't go easy, mind!
+PROG:8002ab1c	Good, that's the spirit.\nBut I'll show no mercy.
+PROG:8002ab48	Then, let's compete.
+PROG:8002ab5c	Right, a contest.\nNo going easy, mind.
+PROG:8002ab80	That's the spirit!\nAll right, let's go!
+PROG:8002abac	Insolent fool, you think you can beat me?\nCome on, then.
+PROG:8002abe0	Very well, a contest, then.
+PROG:8002abfc	I see. Then let us compete.
+PROG:8002ac20	What, no nerve?\nBut you'll keep me company a while yet.
+PROG:8002ac5c	Quite so, forcing it down is bad for you.\nShall we drink slowly, then?
+PROG:8002aca0	Of course.\nForgive me for saying something so unseemly.
+PROG:8002ace0	Indeed, there is no need to force it.\nThen let us drink at leisure.
+PROG:8002ad2c	What, not doing it?\nWell, forcing it's bad for you.\nLet's start over and drink slowly.
+PROG:8002ad84	Quite so, no need to force it.\nThen let's drink at leisure again.
+PROG:8002add4	What, you won't?\nHow dull, but have it your way.\nStill, there's sake left.
+PROG:8002ae24	Quite, I wouldn't force you.\nBut you'll keep me company yet.
+PROG:8002ae6c	Then let's stop.\nIt'd be a bother if you got sick.
+PROG:8002aea0	What, not up for it?\nWell, knowing how to drink matters.\nThen let's take it slowly.
+PROG:8002af0c	Well, if you lack confidence, stopping is wise.\nBut you'll keep me company yet.\nNow, down it, K2!
+PROG:8002af70	Quite so.\nThen let us drink at leisure again.
+PROG:8002afa4	Well, forcing it is not good.\nThen let us drink slowly.
+PROG:8002afe8	My, you hold your drink well, K2.\nBut I won't lose either.\nShall we have a contest?
+PROG:8002b034	You drink well, K2.\nBut I'm confident too.\nShall we try a drinking match?
+PROG:8002b080	You are a strong drinker, K2.\nBut I am quite strong too.\nShall we compete?
+PROG:8002b0d4	My, you're a strong drinker, K2.\nBut I won't lose.\nShall we have a drinking match?
+PROG:8002b12c	You're quite something, K2.\nBut I can hold a lot more than that.\nHow about a drinking match?
+PROG:8002b190	You drink well, K2.\nBut I won't lose, mind.\nA drinking match, then?
+PROG:8002b1f0	Ho, you're strong too, K2.\nBut I won't lose.\nShall we have a drinking match?
+PROG:8002b24c	My, you drink well, K2.\nBut I won't lose either.\nWhat about a drinking match?
+PROG:8002b2a4	Well now, you can hold your drink, K2.\nBut I won't lose, you know.\nHow about a drinking match?
+PROG:8002b300	You can drink, K2.\nBut I'm no pushover.\nUp for a drinking match?
+PROG:8002b364	You can drink, K2.\nBut I won't lose.\nHow about a speed-drinking match?
+PROG:8002b3b4	You drink well, K2.\nBut I shall not lose.\nShall we have a drinking match?
+PROG:8002b410	You drink well, K2.\nBut I will not lose.\nWould you like a drinking match?
+PROG:8002b468	I... I can't drink any more...\nYou finish it alone, please...
+PROG:8002b4ac	I can't drink any more...\nUnh... sleepy...
+PROG:8002b4e4	Oh my, K2, there are so many of you...\nYou were a ninja all along...\nUnh... I... can't...
+PROG:8002b544	K2, I... I... can't drink... any more...
+PROG:8002b578	Heh, I'm drunk, K2...\nI-I'll leave the rest to you...
+PROG:8002b5b0	I... I'm...\nZzz... zzz...
+PROG:8002b5e0	I've grown sleepy...\nI-I leave the rest to you...
+PROG:8002b618	I-I can't... any more...
+PROG:8002b638	Oh, K2...\nI'm... done for.
+PROG:8002b660	Somehow... I'm getting sleepy...\nHaaah...
+PROG:8002b69c	Oh, K2, there are three of you!\nAnd spinning round, too.\nWhy, this is...
+PROG:8002b6ec	Well... I seem to have drunk a little too much...\n...
+PROG:8002b720	Come, K2, let's call the geisha.\nLet's make a splash today.
+PROG:8002b75c	Right, today we drink and drink!\nLet's call the geisha, K2!
+PROG:8002b790	Come, K2, let's call the geisha.\nWe'll make it a lively one.
+PROG:8002b7c4	Now, K2, have the geisha called.\nYou too may make merry.
+PROG:8002b7fc	Then shall we call the geisha?\nWe must liven things up today.
+PROG:8002b840	Then shall we call the geisha now?\nThis is my one pleasure, you see.
+PROG:8002b88c	Now, time to call the pretty ones and make a splash!
+PROG:8002b8c0	Now, K2, call the geisha.\nLet us make merry today!
+PROG:8002b8f0	Now, let us call the geisha and make merry!
+PROG:8002b924	What a merry day.\nThen let's call the pretty ones and make a splash!
+PROG:8002b970	Do you know this news, K2?
+PROG:8002b990	By the way, have you heard this news?
+PROG:8002b9b8	Let me see... are you aware of this news?
+PROG:8002b9e8	Well now, do you know about this?
+PROG:8002ba10	K2, do you know of this matter?
+PROG:8002ba34	Ah yes, let me tell you this, K2.
+PROG:8002ba5c	Then let me tell you some news.
+PROG:8002ba7c	Oh yes, let me tell you something.
+PROG:8002baa0	Oh, yes.\nLet me tell you something.
+PROG:8002bac8	Let me see. Do you happen to know this?
+PROG:8002baf8	Let me see, do you know this?
+PROG:8002bb20	I think you know more than I do, K2.
+PROG:8002bb44	I know nothing worth telling you.
+PROG:8002bb70	Let me see. I've no news worth sharing. Perhaps you are better informed, K2?
+PROG:8002bbd0	Well now, I've nothing in particular to tell you.
+PROG:8002bc08	I've nothing worth telling you, K2.\nYou probably know more.
+PROG:8002bc48	Let me see... I have nothing worth imparting to you.
+PROG:8002bc84	I've nothing worth telling you just now.
+PROG:8002bcac	Hm, nothing interesting right now.\nYou probably know more, K2?
+PROG:8002bcf0	Well, I've heard nothing worth telling lately.
+PROG:8002bd20	Let me see, I have no information worth sharing at present.
+PROG:8002bd58	I have no information worth sharing in particular.
+PROG:8002bd8c	I've no news worth telling you, K2.
+PROG:8002bdb4	I've nothing to tell you, K2.
+PROG:8002bddc	I've no information to share with you, K2.
+PROG:8002be04	Got no news worth telling you, K2.
+PROG:8002be24	I've nothing worth telling you.
+PROG:8002be48	I have no tale to tell you.
+PROG:8002be6c	I've no tale worth telling you.
+PROG:8002be94	I've no information I can give you.
+PROG:8002beb8	I've no tale to tell you.
+PROG:8002bed8	I have no information for you.
+PROG:8002befc	I've nothing to tell you.
+PROG:8002bf24	W-what do you think you're doing!
+PROG:8002bf38	Hm, how dare you!
+PROG:8002bf4c	Wh-what's the idea!
+PROG:8002bf60	Now this is fun!\nI'll show you what a %s can do!
+PROG:8002bf8c	Eek! Wh-what are you doing!
+PROG:8002bfac	Eek! W-what is it!
+PROG:8002bfc4	W-what is it!
+PROG:8002bfd4	W-what the...!\nDamn you, I'll show you what a %s can do!
+PROG:8002c008	W-what's this about!
+PROG:8002c018	I won't indulge a fool.\nBest to run away.
+PROG:8002c044	Running away is the best way out!
+PROG:8002c060	Running away is the wisest course.
+PROG:8002c07c	Eek! Qu-quick, run for it!
+PROG:8002c0a0	Eek! R-run!
+PROG:8002c0b8	A cutthroat!\nSomeone help!
+PROG:8002c0d4	I won't be dragged into a stupid brawl!\nSo long.
+PROG:8002c100	I'll not humour a fool!\nFlee!
+PROG:8002c130	Ruffian! Remember this!
+PROG:8002c148	Best to run away.
+PROG:8002c160	But there's nowhere around here to talk.\nLet us meet another day.
+PROG:8002c1b8	But there is nowhere here where we can talk.\nLet us meet again another day.
+PROG:8002c20c	However, there is no place to talk around here.\nLet us meet again later.
+PROG:8002c268	But there's nowhere to talk around here.\nOh well, let's talk another time.
+PROG:8002c2c4	But there's nowhere around here to talk.\nLet's talk again another day.
+PROG:8002c318	Yet there seems no place for talk hereabouts.\nCome again another day.
+PROG:8002c36c	But there's no place to talk around here.\nLet us meet another time.
+PROG:8002c3c8	But there's no place to talk around here.\nLet us meet somewhere else another day.
+PROG:8002c424	There's no place to talk around here.\nNothing for it, let's meet another time.
+PROG:8002c47c	Yet there is no suitable place to talk here.\nWell, come again another day, somewhere else.
+PROG:8002c4dc	There is no place to talk around here.\nA pity, but let us meet another day, elsewhere.
+PROG:8002c538	However, there is no place to talk here.\nLet us meet again another day, somewhere else.
+PROG:8002c59c	But I've no time left today.\nPlease come another day.\nGood day to you.
+PROG:8002c5f0	But it's late tonight, so let us meet another time.\nExcuse me, then.
+PROG:8002c63c	But it must be too late to talk now.\nLet us meet again another day.
+PROG:8002c688	But it's too late today, so let's talk another time.
+PROG:8002c6c4	But it's late at night.\nLet's talk again another day.
+PROG:8002c708	I'll not talk at this hour of night.\nCome another day.
+PROG:8002c73c	But it's far too late to talk.\nPlease forgive me for today.\nGood day to you.
+PROG:8002c794	But it's far too late to talk.\nLet's meet again another day.
+PROG:8002c7e0	It's far too late to talk.\nCome back another time.
+PROG:8002c814	Well, if you wish to talk to me, come earlier.\nFarewell.
+PROG:8002c85c	There is no time left to talk.\nLet us meet again another day.
+PROG:8002c8ac	But it is late, so let us meet another day.\nExcuse me, then.
+PROG:8002c8fc	Forgive me, but I've nothing to say to you.\nPlease be on your way.
+PROG:8002c944	Forgive me, but I've nothing to discuss with you.\nPlease leave.
+PROG:8002c984	Forgive me, but I've no wish to talk with you.\nPlease leave.
+PROG:8002c9bc	I've no wish to talk with you.\nGo home.
+PROG:8002c9e0	Forgive me, but I've no wish to talk to you.\nPlease be gone.
+PROG:8002ca1c	I don't receive those I don't know.\nBe off.
+PROG:8002ca4c	Sorry, but I've nothing to say to you.\nPlease go.
+PROG:8002ca88	Got nothing to say to you.\nSorry, but off you go.
+PROG:8002cabc	Nothing to say to you!\nBegone at once!
+PROG:8002cae8	Forgive me, but I have nothing to say to you.\nPray take your leave.
+PROG:8002cb20	Forgive me, but I've nothing to say to you.\nPlease leave.
+PROG:8002cb5c	If we are to talk, let's go somewhere suitable.
+PROG:8002cb90	If you wish to talk, let's find somewhere suitable.
+PROG:8002cbc8	Now, if we're to talk, let's find somewhere suitable.
+PROG:8002cc04	Well, we can't talk standing here.\nLet's go somewhere.
+PROG:8002cc38	Talking on the street won't do.\nLet's find a suitable place.
+PROG:8002cc70	I'll not talk in a place like this.\nFind a place.
+PROG:8002cca4	Then, talking in the street won't do.\nLet's go in somewhere.
+PROG:8002ccd4	Then, standing here won't do.\nLet's go in somewhere.
+PROG:8002cd04	Let's not stand here talking.\nShall we go in somewhere?
+PROG:8002cd3c	Right, let's go somewhere and talk properly.
+PROG:8002cd6c	Standing here talking is pointless.\nLet us go somewhere suitable.
+PROG:8002cdb4	Well, we can't talk standing here.\nLet us go somewhere suitable.
+PROG:8002cdf8	Oh, did you want something with me?
+PROG:8002ce14	May I help you?
+PROG:8002ce2c	Who might you be?\nDo you want something with me?
+PROG:8002ce58	Oh, so you're K2?\nDo you want something with me?
+PROG:8002ce8c	Oh, and who might you be, now?
+PROG:8002ceb0	Oh, who are you?\nWhat business have you here?
+PROG:8002cee0	Oh, is there something you want with me?
+PROG:8002cefc	Oh, and who might you be?\nDid you want something with me?
+PROG:8002cf2c	So you're K2, eh?\nWhat do you want with me, out here?
+PROG:8002cf60	Who are you?\nWhat business have you with me here?
+PROG:8002cf90	How do you do. I am S1 M1.\nNow, what is your business with me?
+PROG:8002cfd4	You are called K2?\nWhat is your business with me?
+PROG:8002cff8	So you are K2.\nI have heard about you.
+PROG:8002d020	So you are K2.\nI've heard about you.
+PROG:8002d044	So you are K2.\nI have heard of you from %s.
+PROG:8002d070	Oh, you're K2, eh?\nI heard about you from %s.
+PROG:8002d09c	So you're K2.\nI've heard about you from %s.
+PROG:8002d0d0	So you are K2.\nI have heard tell of you from %s.
+PROG:8002d0fc	So you are K2?\n%s told me about you.
+PROG:8002d12c	So you're K2, then.\nI've heard of you from %s.
+PROG:8002d150	So you're K2?\nHeard about you from %s.
+PROG:8002d174	Oh, you're K2.\n%s told me about you.
+PROG:8002d19c	So you are K2.\nI have been told of you by %s.
+PROG:8002d1cc	So you are K2.\nI heard about you from %s.
+PROG:8002d1f8	You are K2, I believe?\nWhat is your business with me?
+PROG:8002d224	Oh, you're K2, aren't you?\nDo you want something with me?
+PROG:8002d254	Ah, you are K2, are you not?\nWhat business have you here?
+PROG:8002d28c	You're K2, aren't you?\nDid you want something with me?
+PROG:8002d2b4	It was K2, wasn't it?\nIs there something you want of me?
+PROG:8002d2e0	K2, wasn't it?\nWant something with me?
+PROG:8002d304	Oh, it was K2, was it?\nWhat business have you with me here?
+PROG:8002d33c	You said you were K2?\nWhat is your business with me?
+PROG:8002d368	You're K2, aren't you?\nWhat is your business here?
+PROG:8002d398	You're K2, aren't you?\nWhat do you want with me?
+PROG:8002d3bc	K2, isn't it?\nDid you want something with me?
+PROG:8002d3e4	It was K2, wasn't it?\nWhat is your business?
+PROG:8002d404	It was K2, wasn't it?\nYou came to see me, did you?
+PROG:8002d434	Oh, you're K2, if I remember right?\nDid you want to talk to me?
+PROG:8002d460	It was K2, wasn't it?\nDo you want to talk to me?
+PROG:8002d48c	Ah, you are K2, are you not?\nYou wish to speak with me?
+PROG:8002d4c4	You're K2, I believe?\nDid you want a word with me?
+PROG:8002d4ec	It was K2, wasn't it?\nIs there something you wished to say to me?
+PROG:8002d51c	Oh, you're K2, right?\nCame to see me, did you?
+PROG:8002d54c	Oh, you call yourself K2?\nCame to request an audience with me?
+PROG:8002d57c	You said you were K2?\nIs there something you wish to say to me?
+PROG:8002d5a8	You're K2, aren't you?\nDid you come to see me?
+PROG:8002d5d4	Oh, if it isn't K2.\nI wanted to see you.
+PROG:8002d5fc	Oh, if it isn't K2.\nDid you want something with me?
+PROG:8002d628	Oh, if it isn't K2.\nWhat brings you out here?
+PROG:8002d668	Well, if it isn't K2.\nDid you want something with me?
+PROG:8002d698	Hey, if it isn't K2.\nWhat are you doing in a place like this?
+PROG:8002d6cc	Oh, is it not K2?\nWhat business have you with me here?
+PROG:8002d6fc	Why, K2.\nDid you want something with me?
+PROG:8002d718	Why, K2.\nWhat brings you here?
+PROG:8002d744	Well, if it isn't K2.\nWhat are you doing out here?
+PROG:8002d778	Oh, K2.\nWhat brings you here?
+PROG:8002d7a4	Why, K2.\nDo you want something with me?
+PROG:8002d7c8	Hello, K2.\nWhat brings you here?
+PROG:8002d7f0	Why, K2, good work.\nA suspicious rōnin attacked me earlier, but luckily nobody was hurt.
+PROG:8002d84c	Hey, if it isn't K2.\nI just had a scrap with some rōnin.\nThey were a flimsy lot, though.
+PROG:8002d8b4	Well, K2.\nI've just cut down some suspicious rōnin.\nThis area will be quieter now.
+PROG:8002d900	Oh, K2.\nI've just dealt with some bandits.
+PROG:8002d92c	K2, good work.\nI've just dealt with some rōshi round here.
+PROG:8002d970	Ah, K2, I just fought some suspicious rōshi.\nNo harm done, of course.
+PROG:8002d9bc	Oh, K2.\nI've just had a clash with some rōshi.\nSmall fry, though.
+PROG:8002da00	Oh, K2, you're late.\nI've just fed some rōshi to my blade.\nHa ha ha!
+PROG:8002da60	Oh, K2.\nI just fought some rōshi and cut down a few.
+PROG:8002da9c	Hello, K2, I caught a few rōshi earlier.\nThings should be a bit quieter here now.
+PROG:8002daf4	Hello, K2, we had a report of a suspicious rōnin, so I'm investigating now.
+PROG:8002db38	Hello, K2.\nThere's a rumour of a suspicious rōnin.\nYou take care too.
+PROG:8002db70	Well, K2.\nThere's a rumour of a suspicious rōnin, so go carefully.
+PROG:8002dbb4	Oh, K2.\nThere may be suspicious characters about.\nGo carefully.
+PROG:8002dbf0	K2, good work.\nSomething suspicious happened, so go carefully.
+PROG:8002dc3c	Why, K2, there was a suspicious figure earlier, so please be careful.
+PROG:8002dc78	Oh, K2.\nThey say a suspicious type is around here...\nWell, I'll cut him down if I find him.
+PROG:8002dccc	Oh, K2, there seems to be a suspicious fellow about.\nYou watch yourself too.
+PROG:8002dd10	Why, K2, it is dangerous with suspicious men about, so do take care.
+PROG:8002dd4c	K2, good work.\nThere's a rumour that a suspicious type is lurking, so be careful.
+PROG:8002dd98	Hello, K2, all is quiet here.
+PROG:8002ddc0	Hello, K2.\nNothing has happened today.
+PROG:8002dde8	Well, K2.\nAll's quiet on my side.
+PROG:8002de10	Oh, K2.\nAll is quiet here.
+PROG:8002de30	K2, good work.\nNothing amiss at present.
+PROG:8002de60	Ah, K2, good work.\nLooks like nothing will happen today.
+PROG:8002de9c	Hello, K2, no suspicious types look likely to show up today.
+PROG:8002ded0	Oh, K2, it seems nothing will happen today.
+PROG:8002def8	Why, K2, I've seen no suspicious persons today.
+PROG:8002df2c	K2, good work.\nNothing amiss in this area.
+PROG:8002df58	You don't know when to quit.\nGive up now.
+PROG:8002df7c	You can't run any more!
+PROG:8002df94	It's useless to run, K2.
+PROG:8002dfb0	Trapped like a rat.\nGive in!
+PROG:8002dfd0	Right, don't let him get away!
+PROG:8002dfe4	Right, don't you let him go!

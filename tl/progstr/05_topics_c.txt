@@ -1,0 +1,240 @@
+# debate topics, part C (description string first, then its title)
+PROG:80016060	Acquisition of Hong Kong
+PROG:8001606c	The treaty concluded between Qing China and Britain at the end of the Opium War.
+PROG:800160a8	Treaty of Nanking
+PROG:800160b4	Qing China, thought to be mighty, had been defeated, which led men of insight to preach the need for coastal defence against the powers.
+PROG:80016108	The Powers' Fearsome Strength
+PROG:8001611c	Opium is a terrible drug that turns men into living corpses. The spread of addicts was one reason Qing China lost.
+PROG:80016180	The Fearsome Power of Opium
+PROG:80016194	Britain greedily expanded its markets to develop its national strength, and that policy sparked the war.
+PROG:800161f0	British Market Expansion Policy
+PROG:80016204	Some men of insight were alarmed by the Opium War, but the shogunate merely stood by while its neighbour suffered.
+PROG:80016268	Shogunate Response to the War
+PROG:8001627c	Britain sold opium to Qing China, and the resulting friction grew into war.
+PROG:800162c0	The Opium War
+PROG:800162cc	The Black Ships were fired on, but not one was even scratched.
+PROG:800162fc	Peerless Foreign Ships
+PROG:80016310	The Morrison, carrying Japanese castaways, was fired on at Edo and in Satsuma.
+PROG:8001634c	Morrison Incident
+PROG:8001635c	Through the mediation of Sakamoto Ryōma and others, Satsuma and Chōshū formed an alliance to overthrow the shogunate.
+PROG:800163a4	Satsuma-Chōshū Alliance Formed
+PROG:800163b4	Fighting a carefully prepared fleet showed how reckless blind "small jōi" was.
+PROG:80016410	Learning the Folly of Rash Jōi
+PROG:80016424	The shogunate was handed an exorbitant indemnity; unable to carry out the alternative of opening Shimonoseki, it had to pay.
+PROG:80016490	An Exorbitant Indemnity
+PROG:800164a0	Chōshū's attacks were deemed to have been ordered by the shogunate, so the shogunate was to pay the indemnity.
+PROG:800164fc	Paying the Indemnity
+PROG:8001650c	Chōshū and the four nations agreed to ban attacks on foreign ships and the building or repair of fortifications, and to pay an indemnity.
+PROG:80016574	Peace Talks Concluded
+PROG:80016584	Chōshū had all its main batteries destroyed and lost its fighting power.
+PROG:800165c4	Chōshū's Crushing Defeat
+PROG:800165d0	Inoue Kaoru and others, studying in Britain from Chōshū, heard of the attack and returned home, but their talks to avert war were in vain.
+PROG:80016640	Inoue Kaoru's Truce Talks
+PROG:80016654	The shogunate was not only powerless against the allied fleet; some councillors even saw it as a chance to punish anti-shogunate Chōshū.
+PROG:800166c0	Shogunate's Shabby Response
+PROG:800166d4	Force should be used to punish the rioters and show them the might of the civilised nations.
+PROG:80016724	The British Minister's View
+PROG:80016738	A combined fleet of America, France, Britain and the Netherlands bombarded Shimonoseki in Chōshū, destroying its guns and batteries.
+PROG:80016784	The Four-Nation Fleet
+PROG:80016794	Within Chōshū, the irregular units and the regular army were always at odds. The conservatives tried to bring the units under control.
+PROG:800167f4	Clash with the Conservative Elite
+PROG:80016808	To face growing foreign pressure, Chōshū prepared for battle with its whole population, not only samurai.
+PROG:8001685c	Whole Domain Readies for War
+PROG:80016870	Takasugi Shinsaku formed a new army that ignored feudal class distinctions.
+PROG:800168b8	Formation of the Kiheitai
+PROG:800168c8	The reprisals by America and France exposed the ruling class's laxity, and units of commoners came to be formed.
+PROG:80016928	Chōshū's Battle Preparations
+PROG:8001693c	It became clear that clinging to jōi and acting rashly would only bring losses.
+PROG:80016988	Lesson of the Satsuma War
+PROG:80016998	Satsuma promised to pay an indemnity and arrest the culprit of the Namamugi Incident, and made peace on condition that Britain help buy warships.
+PROG:80016a10	Anglo-Satsuma War Ends
+PROG:80016a24	Heavy damage: the batteries were wrecked and put out of action, and part of the castle town, the Shūseikan included, was burnt.
+PROG:80016a7c	Satsuma's Damage
+PROG:80016a8c	Satsuma's guns hit and damaged nearly every British ship, and over sixty died, including the flagship's captain.
+PROG:80016af0	British Fleet's Damage
+PROG:80016b04	A plan for Satsuma samurai to board British warships disguised as watermelon sellers, cut down the commanders and seize the ships.
+PROG:80016b74	Plan to Seize British Ships
+PROG:80016b84	When talks on compensation for the Namamugi Incident collapsed, the British fleet seized Satsuma's warships, and fighting began.
+PROG:80016be4	Anglo-Satsuma War Breaks Out
+PROG:80016bf4	American and French warships launched reprisal attacks one after another, and Chōshū suffered severe damage.
+PROG:80016c44	America and France Strike Back
+PROG:80016c50	The shogunate, informed of the jōi action, ordered Chōshū not to attack foreign ships recklessly.
+PROG:80016ca4	Shogunate Reprimand
+PROG:80016cb4	Chōshū reported its jōi action to the shogunate and the court, and the court sent a written commendation.
+PROG:80016d00	Reporting the Jōi Action
+PROG:80016d14	Chōshū attacked an American merchant ship at anchor, then French and Dutch warships.
+PROG:80016d64	Attack on US, French, Dutch Ships
+PROG:80016d74	On the date for jōi agreed by the shogunate and the court, Chōshū took jōi action against foreign ships passing Shimonoseki.
+PROG:80016dd8	Chōshū Carries Out Jōi
+PROG:80016dec	Through Shōgun Yoshinobu's persuasion, imperial sanction to open Hyōgo was granted.
+PROG:80016e20	Hyōgo Sanction Granted
+PROG:80016e34	They tried to block sanction to open Hyōgo, aiming to defeat Tokugawa Yoshinobu's policy of strengthening shogunal power.
+PROG:80016e84	The Anti-Shogunate Side's Aim
+PROG:80016e94	When the shogunate won sanction for the treaties, the court made clear it would not allow the opening of Hyōgo.
+PROG:80016edc	The Court's Intent
+PROG:80016ee8	With the date for opening Hyōgo near, the shogunate had to obtain sanction for it at any cost.
+PROG:80016f40	The Hyōgo Question
+PROG:80016f50	France offered aid to the shogunate in return for a raw silk monopoly, but Britain and others blocked it.
+PROG:80016fb4	Demand for a Silk Monopoly
+PROG:80016fc8	To strengthen the shogunate's military, France supplied cannon at a low price.
+PROG:80017008	Buying Cannon
+PROG:80017018	Relations between the shogunate and France have grown closer.
+PROG:80017048	Shogunate Nears France
+PROG:80017058	With French help, a large ironworks was to be built to expand the shogunate's arms.
+PROG:800170b0	Yokosuka Ironworks Built
+PROG:800170c4	Britain announced a policy of aiding the powerful domains, while France chose to aid and strengthen the ruling shogunate.
+PROG:80017130	France's Japan Policy
+PROG:80017144	Opposing Britain's lead in diplomacy with Japan, the French minister Roches pursued his own policy.
+PROG:8001719c	French Minister Roches
+PROG:800171ac	Various domestic problems were discussed, and the views of Satsuma and Britain coincided.
+PROG:800171f4	Talks on the Situation
+PROG:80017208	Parkes toured Satsuma's modern factory and paid tribute to its high technology.
+PROG:80017248	Touring the Shūseikan
+PROG:80017258	The British minister Parkes visited Satsuma, and relations between Satsuma and Britain grew ever closer.
+PROG:800172a4	Parkes Visits Satsuma
+PROG:800172b8	The publication clearly criticised the shogunate, but no suppression or confiscation followed.
+PROG:8001730c	No Response to the English Policy
+PROG:80017320	Oguri's faction, holding the reins of government, plans to subdue Chōshū, then crush Satsuma and the rest and build a Tokugawa autocracy.
+PROG:80017390	Oguri's Plan to Crush Domains
+PROG:800173a4	Satow of the British legation published a book summarising Japan's political problems.
+PROG:800173e8	Satow's English Policy
+PROG:800173fc	Seeing the shogunate's decline, Britain drew close to Satsuma and Chōshū and showed willingness to aid them.
+PROG:80017450	Britain Aids Powerful Domains
+PROG:80017464	A British merchant who deals widely in ships and arms and sells them to the western domains.
+PROG:800174b4	About Glover
+PROG:800174c8	To allow freer trade, the shogunate was made to accept various conditions, such as permitting trade by the daimyō.
+PROG:80017520	Free Trade Advances
+PROG:80017530	This tariff revision has brought the unequal treaties to their final stage.
+PROG:80017574	Unequal Treaties Completed
+PROG:80017588	Tariff revision talks were held, and the new rates, with specific duties introduced, favoured foreigners even more.
+PROG:800175dc	Tariff Revision Talks
+PROG:800175ec	Satsuma tried to shift power from the shogunate to a league of powerful domains, but Yoshinobu saw through it and it failed.
+PROG:80017644	Satsuma's Court Manoeuvres
+PROG:80017658	He was unhappy that Hyōgo was refused, but welcomed the sanction of the treaties for the time being.
+PROG:800176b8	Parkes's Reaction
+PROG:800176c8	Hitotsubashi Yoshinobu urged the court to see Japan's danger and succeeded in obtaining sanction for the treaties.
+PROG:80017710	Treaty Sanction Granted
+PROG:80017720	Hitotsubashi Yoshinobu laboured to dissuade Shōgun Iemochi from resigning.
+PROG:80017760	Urging the Shōgun Not to Resign
+PROG:80017774	After the court ordered the Rōjū to resign, debate flared in the shogunate and Shōgun Iemochi offered to resign.
+PROG:800177d0	Shōgun Iemochi's Resignation
+PROG:800177e4	Hitotsubashi Yoshinobu had the hardline Rōjū who stood in his way dismissed by order of the court.
+PROG:80017838	Purge of the Hardline Rōjū
+PROG:8001784c	Hitotsubashi Yoshinobu got the four nations' ministers to extend the deadline, and meanwhile urged the shōgun to go to Kyōto for sanction.
+PROG:800178b8	Delay and the Shōgun's Journey
+PROG:800178cc	He alone held back the hardline Edo councillors, persuaded the court and settled the Hyōgo question.
+PROG:80017920	Hitotsubashi Yoshinobu's Exploits
+PROG:80017930	The four-nation fleet sent ships to Ōsaka Bay to threaten the shogunate into accepting demands such as opening Hyōgo.
+PROG:8001798c	Fleet Arrives at Ōsaka
+PROG:800179a0	The British government's policy was to make Japan pay the full indemnity and accept three conditions, including opening Ōsaka.
+PROG:800179fc	British Government Policy
+PROG:80017a10	Parkes took up his post as Britain's minister to Japan.
+PROG:80017a3c	Minister Parkes Arrives
+PROG:80017a50	Judging that the envoy had overstepped his authority and that the agreement broke amity with France, the shogunate annulled it with the French minister.
+PROG:80017ac4	Paris Convention Annulled
+PROG:80017ad0	On his return, the envoy to France urged sending ministers abroad, strengthening the army and navy, and promoting industry to enrich the nation.
+PROG:80017b34	The Envoy's Memorial
+PROG:80017b44	The envoy to France signed an agreement on paying the indemnity, safe passage of the Shimonoseki Strait, lower import tariffs and more.
+PROG:80017ba4	Agreement Signed
+PROG:80017bb8	The envoy sent to France could not possibly win approval for demands such as closing Yokohama; it was hopeless.
+PROG:80017c18	Yokohama Closure Talks
+PROG:80017c28	To settle the killing of Frenchmen and the Shimonoseki bombardment, the shogunate sent an envoy to France.
+PROG:80017c78	Indemnity Talks with France
+PROG:80017c8c	Chōshū's civil war between conservatives and reformists ended in a crushing win for Takasugi Shinsaku's reformists, who took over the domain.
+PROG:80017cec	Reformists Take Power
+PROG:80017d00	Takasugi Shinsaku and others led units drawn from the common people in revolt against the conservative domain office.
+PROG:80017d54	Takasugi Shinsaku Rises
+PROG:80017d64	The band was held in herring warehouses, and Takeda Kōunsai and others received harsh punishments such as beheading.
+PROG:80017da8	Harsh Punishment of the Tengu
+PROG:80017dbc	Having marched as far as Echizen, they heard Hitotsubashi Yoshinobu was sending a punitive force and surrendered.
+PROG:80017e04	Yoshinobu's Punitive Force
+PROG:80017e18	Defeated by shogunate troops, the band headed west to rely on Hitotsubashi Yoshinobu in Kyōto.
+PROG:80017e60	Mito Tengu Party Heads West
+PROG:80017e74	Within Mito, sonnō-jōi men, conservatives and others had long been locked in fierce power struggles.
+PROG:80017ed4	Strife Within Mito
+PROG:80017ee8	The Tengu Party rose to make the shogunate withdraw its opening of the country, with no intent to overthrow it.
+PROG:80017f40	Aims of the Tengu Party
+PROG:80017f50	Radical sonnō-jōi men such as Fujita Koshirō rose at Mount Tsukuba to realise their sonnō-jōi ideals.
+PROG:80017fa4	Mito Tengu Party Rises
+PROG:80017fb4	Strife within Mito intensified over how to respond to the shogunate's opening of the country.
+PROG:80017ffc	Great Strife Within Mito
+PROG:80018010	Tokugawa Iemochi, backed by the Nanki faction, became shōgun.
+PROG:80018038	Iemochi Becomes Shōgun
+PROG:8001804c	An edict was issued to the shogunate and Mito to conduct government in consultation with the Three Houses and the daimyō.
+PROG:800180a0	Fruit of the Counter-Offensive
+PROG:800180b4	They worked to have the court order the shogunate to dismiss Tairō Ii Naosuke, revoke the Three Houses' punishments and reopen the succession.
+PROG:80018118	Hitotsubashi Faction Strikes Back
+PROG:8001812c	To strengthen shogunal power, Ii Naosuke retired or confined the daimyō of the rival Hitotsubashi faction.
+PROG:80018184	Hitotsubashi Faction Punished
+PROG:80018198	Ii Naosuke demoted, one after another, the Hitotsubashi faction men who had opposed him over the succession.
+PROG:800181e0	Hitotsubashi Men Demoted
+PROG:800181f4	Through the Nanki faction's manoeuvres, it was announced that Tokugawa Yoshitomi would be the shōgun's heir.
+PROG:80018230	Succession Question Settled
+PROG:80018244	Hashimoto Sanai and others lobbied the court for an edict favouring the Hitotsubashi faction, but the Nanki faction obstructed them and they failed.
+PROG:8001829c	Hitotsubashi Lobbying Fails
+PROG:800182b0	Conservatives such as Ii Naosuke and the fudai daimyō held that the heir should be of the blood closest to the shōgun, and backed Tokugawa Iemochi.
+PROG:80018310	Aim of the Nanki Faction
+PROG:80018320	Matsudaira Yoshinaga and others backed Hitotsubashi Yoshinobu: in unsettled times they wanted an able lord rather than the closest blood.
+PROG:8001837c	Aim of the Hitotsubashi Faction
+PROG:8001838c	Tokugawa Iesada was sickly, could not even sit properly, and there was no prospect of an heir.
+PROG:800183d0	Concern Over Shōgun Iesada
+PROG:800183e4	The present shōgun Iesada is sickly, so the succession question arose while he was still in office.
+PROG:80018430	Crowds dancing through the streets shouting "Ee ja nai ka" spread across the land.
+PROG:80018474	Ee ja nai ka
+PROG:80018484	Tokugawa Yoshinobu showed the foreign ministers that the shōgun held ruling authority over Japan and announced the opening of Hyōgo.
+PROG:800184e0	Meeting the Foreign Ministers
+PROG:800184f4	Yoshinobu's reforms strengthened shogunal power, a great threat to the anti-shogunate faction.
+PROG:80018548	Shogunate Power Strengthened
+PROG:8001855c	Besides the court's existing 130,000 koku, about 200,000 koku in Yamashiro was to be added.
+PROG:800185a8	Mending Ties with the Court
+PROG:800185bc	Yoshinobu's brother was sent to the Paris Exposition and on a tour of Europe to absorb foreign culture eagerly.
+PROG:8001862c	Officials Sent Abroad
+PROG:80018640	To bring domestic commerce and foreign trade under shogunate control, financial bodies and trading companies were set up.
+PROG:8001869c	Shogunate Finance Measures
+PROG:800186b0	A foreign-style bureaucracy was adopted, dividing the Rōjū's duties and creating something like a cabinet.
+PROG:80018710	Reform of Shogunate Structure
+PROG:80018720	The shogunate army was reorganised, French instructors trained it and warships were bought.
+PROG:80018768	Arms Expanded with Aid
+PROG:8001877c	Reforms were announced: promotion of talent, a stronger army and navy and renewed diplomacy.
+PROG:800187bc	Shōgun Yoshinobu's Reforms
+PROG:800187d0	Hitotsubashi Yoshinobu became the 15th Tokugawa shōgun.
+PROG:800187fc	Yoshinobu Becomes Shōgun
+PROG:80018810	Shōgun Iemochi died during the second Chōshū Expedition. His death was kept secret for a time.
+PROG:80018858	Shōgun Iemochi Dies
+PROG:80018864	Soaring prices and other troubles set off large uprisings and riots in one place after another.
+PROG:800188a8	Uprisings Break Out Everywhere
+PROG:800188bc	Rice and other prices soared with the war preparations, and riots broke out around Ōsaka.
+PROG:80018904	Ōsaka Riots
+PROG:80018918	After the commercial treaty with America, treaties followed with the other powers.
+PROG:80018958	Treaties with Other Nations
+PROG:8001896c	Kampaku Kujō, the centre of the pro-shogunate faction at court, was driven to resign by the sonnō-jōi faction's manoeuvres.
+PROG:800189c0	Campaign to Oust Kampaku Kujō
+PROG:800189d4	In answer to the edict, one of the Three Houses or the Tairō was ordered to Kyōto, but citing house arrest and pressing affairs, the shogunate sent a Rōjū.
+PROG:80018a34	Shogunate Ordered to Kyōto
+PROG:80018a48	Emperor Kōmei was furious to learn the treaty had been signed, and issued an edict resolving on jōi.
+PROG:80018aa0	Emperor Furious at Signing
+PROG:80018ab4	Signing a treaty without sanction went against the court's will and was bound to provoke the sonnō-jōi faction.
+PROG:80018b14	Signing Defied the Court
+PROG:80018b28	Compared with the treaties of Qing China, with opium exports and curbs on foreigners' conduct, Japan's treaties are somewhat better.
+PROG:80018b88	Unequal Treaties in China
+PROG:80018b9c	The treaties were unequal: Japan had no tariff autonomy and had to accept consular jurisdiction and foreign settlements.
+PROG:80018bf0	Unequal Treaties
+PROG:80018c00	A treaty was signed allowing free trade, opening Kanagawa, Nagasaki and other ports, Edo and Ōsaka to trade, and setting tariff rates.
+PROG:80018c60	Terms of the Commercial Treaty
+PROG:80018c70	Harris warned the shogunate that Britain and France, victorious over China, would send their proud fleets to force a signing.
+PROG:80018ce8	Harris's Warning
+PROG:80018cf8	In the end, Ii Naosuke decided alone to sign the commercial treaty with America without waiting for sanction.
+PROG:80018d4c	Commercial Treaty Signed
+PROG:80018d60	Despite the shogunate's persuasion, sanction for the treaty was refused: behind it, Tokugawa Nariaki and the jōi faction were at work.
+PROG:80018dc0	Emperor Refuses the Treaty
+PROG:80018dd4	Qing China also saw a jōi movement, the Taiping Rebellion, but its government crushed it easily with the powers' help.
+PROG:80018e40	The Taiping Rebellion
+PROG:80018e50	Tokugawa Nariaki, the Confucian Umeda Unpin, Yanagawa Seigan and others instilled jōi thought in court nobles and won them over.
+PROG:80018ea4	Manoeuvres of Tokugawa Nariaki
+PROG:80018eb8	Most at court were jōi men who said "Accepting foreign demands is a disgrace to the divine land" and "They must be driven off".
+PROG:80018f18	Court Nobles Are Mostly Jōi
+PROG:80018f28	Emperor Kōmei loathed foreigners and could not bear them coming near Japan.
+PROG:80018f70	The Emperor's Hardline Jōi View
+PROG:80018f84	The bribes the shogunate prepared were offered to the Emperor, the regents, the Kampaku and the Buke Tensō, but nobody accepted them.
+PROG:80018fe4	Manoeuvres for Treaty Sanction
+PROG:80018ff8	The shogunate's lobbying for treaty sanction failed, meeting unexpectedly fierce resistance from court nobles stirred up by anti-shogunate forces.

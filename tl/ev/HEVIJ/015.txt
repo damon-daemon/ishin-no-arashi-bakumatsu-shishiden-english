@@ -1,0 +1,591 @@
+@0
+Persuade the sonnō domains to support the shogunate in the second Chōshū Expedition
+
+@1
+Toshi-san. I hear you've been going to the Tachibana?
+
+@2
+Who told you that?
+
+@3
+I'll have you know it wasn't me.
+
+@4
+Come now, it's the talk of the girls of Kyōto. There isn't a man in the corps who doesn't know.
+
+@6
+Honestly, the man himself is always the last to know. You'd better stop going there. They say sonnō-jōi rōnin practically live in the place.
+
+@7
+It's no concern of yours.
+
+@8
+What if that woman is in league with the loyalists?
+
+@9
+Baseless talk.
+
+@10
+That isn't like you, Toshi-san. A girl at a shop being a spy is common enough.
+
+@11
+Is she, though? She didn't seem like that sort to me.
+
+@12
+Sōji, be quiet. Listen, Toshi-san. It never hurts to be careful.
+
+@13
+I know.
+
+@15
+Knowing, I stray; not knowing, I would not stray: the road of love.
+
+@16
+Oh, Vice-Commander Hijikata.
+
+@17
+Matsubara-kun.
+
+@18
+Ha ha ha...\nWell, autumn is nearly here, isn't it.
+
+@20
+...He's gone.\nWhat on earth was he going on about?
+
+@22
+What's got Matsubara so giddy?
+
+@23
+Well, it's quite a story. Matsubara-kun got into a quarrel over something trivial and cut a man down. Then he took condolence money to the man's house to apologise.
+
+@25
+And the widow turned out to be a great beauty. He couldn't bring himself to tell the truth, and said he had come to the man's aid but failed, and a rōnin cut him down.
+
+@26
+Then, as he went on looking after her one way and another, it seems they became lovers. Toshi-san, what do you think?
+
+@27
+"Shameful"\n"I understand how he feels"
+
+@28
+That... is no way for a samurai to behave.
+
+@29
+Well, Matsubara-kun isn't made of wood or stone. She may be the widow of the man he killed, but a man can't help whom he falls for.
+
+@30
+But she doesn't know that.
+
+@31
+Never mind. That is for Matsubara-kun to decide.\nBesides, she is probably happier not knowing the truth.
+
+@32
+Matsubara-kun, Matsubara-kun.
+
+@34
+Suppose there were a man who killed another man's husband, then was kind to the ignorant widow and made her his own. What would you think of him?
+
+@36
+...Who are you talking about?! If you have something to say, say it plainly!
+
+@38
+Excuse me!
+
+@39
+Terrible news! Matsubara-han has committed seppuku!
+
+@41
+It seems he died together with that woman!
+
+@43
+Matsubara-kun showed himself gravely unfit to be a samurai.
+
+@44
+But the spirit with which he settled his own fate was admirable.\nWe have lost a good man, but there was no other way.
+
+@45
+I've come to Kyōto, as promised.
+
+@46
+Oh, Matsumoto-sensei!
+
+@47
+Please gather the men in the dōjō. Since I'm here, I'll examine all of them.
+
+@48
+Thank you. They're all rough fellows, and many have never seen a doctor, even when slightly unwell.
+
+@49
+Now that you mention it, where is Sōji?
+
+@50
+Playing with the children in the temple grounds, I expect. I'll fetch him.
+
+@51
+Girls, have you seen Okita?
+
+@52
+Brother Sōji? We're playing hide and seek, and he's hidden somewhere.
+
+@53
+Are you the seeker?
+
+@54
+Yes.
+
+@55
+Hmm. That's a problem.
+
+@56
+It's all right. I know most of the places he hides.
+
+@57
+Oh? Where, then?
+
+@58
+Behind that hall over there.
+
+@59
+...He's not here.
+
+@60
+Under the veranda over there.
+
+@61
+...It seems not.
+
+@62
+Then behind the bell tower.
+
+@63
+*cough* *cough*
+
+@64
+There! Brother Sōji, found you!
+
+@65
+Sōji... is your cough bad?
+
+@66
+Hijikata-san. *cough* I'm fine.
+
+@67
+A doctor Kondō-san knows from Edo has come. We'll have him look at you now.
+
+@68
+I told you, I'm fine.
+
+@69
+Brother, when your cold is better, let's play again.
+
+@70
+Yes, see you.
+
+@73
+You can say it. I'm prepared.
+
+@75
+It is consumption, without a doubt.
+
+@78
+Rest is best.\nSword fights are out of the question, and training too.
+
+@79
+I'm fine.
+
+@80
+No.\nAt this rate you won't last a year.
+
+@82
+No... with proper care you can live for years. For this illness, that matters above all.
+
+@84
+Sōji...
+
+@86
+Official inspection!
+
+@87
+Yes, sir, one moment.
+
+@88
+I'm coming in.
+
+@90
+They seem to have gone out.
+
+@91
+The tatami is still warm. They fled out the back.
+
+@93
+Dogs of the shogunate!
+
+@95
+Hijikata Toshizō's renown rose by 15!
+
+@96
+Um... I'm very sorry.
+
+@98
+Yes, welcome.
+
+@99
+Kotsuru.
+
+@101
+...I want to buy out your contract.
+
+@103
+What is it? Why so surprised?
+
+@104
+Um, well...
+
+@105
+Don't worry. I have the money.
+
+@106
+No, it isn't that.
+
+@107
+You're thinking of afterwards? I'll rent a house on the outskirts and you can live there. As my wife, not a mistress, of course.
+
+@108
+No. ...I can't.
+
+@109
+...What?
+
+@110
+I'm glad of your feelings. I want to answer your kindness. But I cannot.
+
+@111
+Why?
+
+@113
+I'm asking the reason.
+
+@114
+...I am a widow.
+
+@116
+I had a husband, back home. A year ago... right after the wedding he went to Ōsaka on business...
+
+@117
+...and he was cut down by rōnin and died.
+
+@119
+I am not fit to be your woman. So...
+
+@120
+Please forget about me.
+
+@121
+"...I understand"\n"I can't do that"
+
+@122
+...I understand. I'll forget.
+
+@123
+I'm sorry...
+
+@124
+No need to apologise. Think nothing of it.
+
+@126
+Forget me too. We won't meet again.
+
+@129
+I don't mind.
+
+@131
+Whether you had a husband before is beside the point.\nI want to take you in, that's all.
+
+@135
+What is it? Are you crying?
+
+@136
+N-no, I'm sorry. But...
+
+@137
+I must refuse.
+
+@140
+I'm truly... sorry.
+
+@141
+It seems I was getting ahead of myself. Never mind.
+
+@142
+No, about you, I...
+
+@143
+Don't say it!
+
+@145
+Say nothing. I'm leaving.
+
+@146
+Hijikata-sama...
+
+@148
+Enough.\nI'm being pathetic.
+
+@150
+Yes, I'll come again another time.
+
+@152
+Kotsuru, are you sure?
+
+@154
+I have something to give you today.
+
+@156
+Oh!
+
+@157
+How lovely... may I really have it?
+
+@159
+Is it too showy for me?
+
+@160
+Not at all.
+
+@161
+I'm so happy! Thank you. I'll treasure it.
+
+@164
+No. It's nothing.
+
+@166
+Toshi-san. I'm going to the western provinces with the shogunate's grandees.
+
+@167
+Chōshū?
+
+@168
+Yes. The imperial sanction for the second Chōshū Expedition has come down. We'll inspect conditions in the neighbouring lands.
+
+@169
+I mean to take Itō-kun and Takeda-kun with me. Will you come too, Toshi-san?
+
+@172
+I'll pass.
+
+@173
+All right, then I leave the place to you.
+
+@174
+Toshi-san. About the corps' budget, what should we do?
+
+@182
+Ah, Vice-Commander.\nWhat luck, meeting you here.
+
+@183
+Luck?\nHow so?
+
+@184
+Well, Saitō-han said his shoulders were stiff, so I did acupuncture for the first time in a while.
+
+@185
+I thought that if anyone else was feeling poorly, I'd give them needles too.
+
+@186
+Ah, that's right, Yamazaki-kun practises acupuncture.\nWell then, maybe you could do my lower back. It hasn't been right lately.
+
+@187
+You are popular with the ladies, Vice-Commander.
+
+@188
+...No, my back just hurts.
+
+@189
+No, no, I was joking.\nThen shall I do it right now?
+
+@190
+Right, lie down there.\nThat's it, relax your body.\nIt'll get a little hot.
+
+@191
+Oh, you're good.\nAh, I can feel it deep inside...
+
+@192
+How is it? Are you all right?
+
+@193
+Ah, ugh...\nY-Ya... Yamazaki-san...
+
+@194
+Oh, Saitō-han.\nWhat's the matter?
+
+@195
+M-my shoulder... it h-hurts... a lot.\nW-what is this...
+
+@196
+Odd, that's strange.\nThe after-ache shouldn't come so soon.
+
+@197
+...\nH-hey...
+
+@198
+Strange... did I hit a forbidden pressure point?\nIt's been a while.
+
+@199
+...(P-pressure point?!)
+
+@200
+Saitō-han, just lie down.\nIt should ease soon.
+
+@201
+Ah... ah\nUgh... gah...
+
+@202
+Vice-Commander, what shall we do?\nShall I stop?
+
+@203
+"No, I'm fine"\n"Take them out, quick"
+
+@204
+...No.\nI'm fine...
+
+@205
+That's our Vice-Commander!\nYou trust me, then.
+
+@206
+Yes, naturally...
+
+@207
+Oh, my back is light!\nIt's as if a weight came off.
+
+@208
+Phew, thank goodness.\nI wondered what I'd do if anything happened to you. Even seppuku crossed my mind.
+
+@209
+You really are good, Yamazaki-kun.\nThis will make fighting the rōnin easier.
+
+@210
+Then I'll do the Commander too.
+
+@211
+No, I think you'd better not.
+
+@212
+Ah, y-yes, take them out quickly.\nI can't afford to be laid up.
+
+@213
+Yes, sir.
+
+@214
+That's all done now.
+
+@215
+Phew, that gave me a fright...
+
+@216
+Sorry about that.\nI didn't think I could make a mistake...
+
+@217
+Still, I'm worried about Saitō-kun...
+
+@218
+And an hour later, Saitō Hajime was...
+
+@219
+Yamazaki-san!\nMy shoulder is amazingly light!\nLook, even my thrusts are this nimble.
+
+@220
+Ah, so it was after-ache.\nBut it's good it didn't turn into something serious.
+
+@221
+No, I'm sorry for making such a fuss.\nI'll be counting on you again.
+
+@222
+Oh, by the way, how is Hijikata-san?
+
+@223
+Well, I...
+
+@224
+Ah, you got scared halfway.\nNo guts.
+
+@225
+...\n(Damn...)
+
+@226
+Kyaaah!! Chesuto!!
+
+@227
+Hm, that battle cry... Jigen-ryū?
+
+@228
+Huff, huff...\nOh, it's Vice-Commander Hijikata.\nThat must have been noisy, I apologise.
+
+@229
+Ah, Tomiyama-kun.\nThat's right, you're from Satsuma.
+
+@230
+Say, Toshi-san.\nThat Jigen-ryū school is something.\nNo fancy tricks, but the speed of the stroke is unmatched.
+
+@231
+It's truly a one-blow-kills sword.\nAgainst a strike like that, even if you block it you'd be cut down anyway...
+
+@232
+In Jigen-ryū we are told to stake our life on the first stroke.
+
+@233
+In Satsuma, from boyhood we run through the woods striking and striking, to forge mind and technique.
+
+@234
+I see. Then show me that practice once more. I'd rather not end up in two pieces by the roadside.
+
+@235
+Yes, gladly.\nThen...
+
+@236
+Chesuuuuuto!!
+
+@237
+Tomiyama ran among the posts set up in the garden, striking them again and again...
+
+@238
+Hmm... this is certainly something...
+
+@239
+Huff, huff...\nHow was that? Huff, huff...\nWill you try it, Vice-Commander?
+
+@240
+Why not, I'll try.\nStrike down from above, left and right, like this?
+
+@241
+Yes, simple, isn't it?
+
+@242
+Hm! This wooden sword is heavy...\n(And he swung this around like that...)
+
+@243
+Right, here goes! Haaah!!
+
+@244
+Ah! Wait!\nThe shout goes like this...
+
+@245
+Chesuuuuuto!!
+
+@246
+Um, ah...\nChe, Chesuto...
+
+@247
+No, no, you lack spirit.\nLike this.
+
+@248
+Chesuuuuuuuto!!!
+
+@249
+Ch-Che...\nHmm, I'll stop.\nI can't put any strength into that shout.
+
+@250
+Ah, I suppose so.\nHa ha ha ha!
+
+@251
+Phew, Jigen-ryū...\nI hope I never meet it in town...
+

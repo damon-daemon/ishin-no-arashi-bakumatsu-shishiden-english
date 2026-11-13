@@ -1,0 +1,405 @@
+# PERS overlay, second half 8015f7dc-8016323c, and PERS2: party tricks, drinking, small talk and weather in dialect variants, persuasion topics and rounds, cards, mood lines, menus
+PERS:8015f7dc	Right, let me show you my party piece.
+PERS:8015f804	Now then, behold my party piece.
+PERS:8015f824	Well then, I shall show you my trick.
+PERS:8015f848	Well now, allow me to show you my party piece.
+PERS:8015f870	Now, let us relax with my party piece.\nRight, here we go!
+PERS:8015f8a8	All right, time to show you my party piece.
+PERS:8015f8d4	Very well, I shall perform my favourite trick.\nWatch closely!
+PERS:8015f914	Wahaha!\nNow, behold my party piece.\nHere goes!
+PERS:8015f950	Well then, I shall present my speciality.
+PERS:8015f97c	This is a debate for the nation's sake.\nIs this not rather frivolous, K2?
+PERS:8015f9ac	No, I'll save the fun for another time.
+PERS:8015f9d0	No, I'll pass.
+PERS:8015f9ec	There is no need to call geisha.
+PERS:8015fa08	No, I must decline.
+PERS:8015fa28	No, I'll pass.
+PERS:8015fa40	No, we are in the middle of a debate.
+PERS:8015fa5c	No, we are still debating.
+PERS:8015fa78	Why, that is a fine idea.
+PERS:8015fa98	Oh, nice.
+PERS:8015faa8	Oh, that is good.
+PERS:8015fac4	Indeed. Send for some pretty ones.
+PERS:8015fae8	Yes indeed, do call them quickly.
+PERS:8015fb10	Well, that sounds fine.
+PERS:8015fb24	Oh, nice.
+PERS:8015fb34	Indeed, let us enjoy ourselves.
+PERS:8015fb50	Indeed.\nLet us call them by all means.
+PERS:8015fb74	Oh, that is a good idea.
+PERS:8015fb8c	Now, shall we get down to some serious drinking?
+PERS:8015fbb4	Right, enough debating. Let's drink up!
+PERS:8015fbe0	Right, no more stiff talk. Let us drink and drink!
+PERS:8015fc18	Right, enough stiff talk. Shall we make merry with some sake?
+PERS:8015fc4c	How about it, shall we order more sake?
+PERS:8015fc70	Come, let us order sake after sake.
+PERS:8015fc90	Right, shall we drink our fill?
+PERS:8015fcb0	Now, sake, sake!
+PERS:8015fcc4	Come, let us order plenty of sake.
+PERS:8015fce8	Now, shall we order more sake?
+PERS:8015fd04	This is no time to be drinking sake.
+PERS:8015fd30	No, I want no sake.
+PERS:8015fd48	No, another occasion will do for me.
+PERS:8015fd70	I want no sake.
+PERS:8015fd80	No, I am fine.
+PERS:8015fd90	No, I'll pass.
+PERS:8015fda8	No, I don't want any.
+PERS:8015fdc0	No, I have no time for that.
+PERS:8015fdec	No, I would rather leave the sake for another time.
+PERS:8015fe14	No, let us leave the sake for another time.
+PERS:8015fe40	Oh, indeed.
+PERS:8015fe54	Indeed, if you please.
+PERS:8015fe74	Oh, indeed.
+PERS:8015fe88	Yes indeed, that would be most welcome.
+PERS:8015fea8	Indeed.
+PERS:8015feb4	Right, let's do it over a drink.
+PERS:8015fed8	Indeed.
+PERS:8015fee4	What do you say to discussing state affairs over a drink?
+PERS:8015ff1c	Oh, how about a drink?
+PERS:8015ff38	What say you to doing it over a drink?
+PERS:8015ff64	Hm, it is about time for a drink...
+PERS:8015ff94	How would it be to debate over a drink?
+PERS:8015ffcc	What about it, shall we have a drop of sake?
+PERS:8015fff4	How about it, shall we do it over a drink?
+PERS:80160024	Well, let us debate over a drink.
+PERS:8016004c	What say you to doing it over a drink?
+PERS:80160078	Shall we move to the sake table and talk state affairs there?
+PERS:801600b0	Shall I have some sake prepared?
+PERS:801600d4	Oh, shall we have some sake prepared?
+PERS:801600fc	What say you, shall I have sake prepared?
+PERS:80160124	Hm, shall we have some sake prepared?
+PERS:80160150	Shall I have some sake prepared?
+PERS:8016017c	What about it, shall I have some sake prepared?
+PERS:801601ac	How about it, shall I have some sake prepared?
+PERS:801601d8	Well, let us have sake prepared.
+PERS:801601f8	What say you, shall I have sake prepared?
+PERS:80160224	Shall I have some sake prepared about now?
+PERS:80160258	Yes, thank you for asking.
+PERS:8016026c	Well, not that much.
+PERS:80160290	No, not so much.
+PERS:801602ac	Well, I suppose so.
+PERS:801602c0	Well, not especially.
+PERS:801602e4	Oh, so-so.
+PERS:801602fc	Well, not really.
+PERS:80160318	Not especially.
+PERS:80160334	Not particularly.
+PERS:80160350	You look as hale as ever, K2.
+PERS:8016037c	Well, K2, anything amusing lately?
+PERS:801603ac	How are your spirits, K2?
+PERS:801603cc	You look well, K2, which is good to see.
+PERS:801603ec	How have you been lately, K2?
+PERS:80160404	How have you been lately, K2?
+PERS:80160420	Say, K2, anything amusing lately?
+PERS:8016044c	You look well, K2, which is good to see.
+PERS:80160474	How have you been lately, K2?
+PERS:80160490	No matter when one comes, Kyōto is a fine place.
+PERS:801604b8	"Kyōto, the city of flowers," they say, and rightly.
+PERS:801604e0	Kyōto has such charm.
+PERS:801604fc	Kyōto is a fine place, is it not, K2?
+PERS:80160524	Kyōto is a lovely place, isn't it, K2?
+PERS:80160548	Kyōto has such charm, does it not?
+PERS:8016056c	Kyōto is such a stuffy town.
+PERS:8016058c	Kyōto is full of sham shishi. It will not do.
+PERS:801605bc	Kyōto has a certain charm. A fine town.
+PERS:801605e8	Kyōto has charm and is a fine place.
+PERS:80160608	Ōsaka is a lively, enjoyable town, K2.
+PERS:80160630	Ōsaka is lively and fun, is it not?
+PERS:80160654	Ōsaka is a lively town.
+PERS:80160674	Ōsaka is a lively place.
+PERS:80160690	Ōsaka is such a lively town.
+PERS:801606ac	Ōsaka is a fine place, isn't it, K2?
+PERS:801606cc	Ōsaka is truly a merchants' town.
+PERS:801606ec	Say, K2, Ōsaka is lively, isn't it?
+PERS:80160710	Trade is truly thriving in Ōsaka.
+PERS:80160734	Indeed, Ōsaka is truly the kitchen of the nation.
+PERS:80160758	Edo is a lively, pleasant place.
+PERS:80160774	Edo is lively.
+PERS:8016078c	Edo is a mighty big town.
+PERS:801607b0	Edo is lively and fun.
+PERS:801607cc	Edo is so lively.
+PERS:801607e8	Edo's lively. I like it.
+PERS:80160804	Edo is as lively as ever.
+PERS:80160828	As the very seat of the Tokugawa shogunate, this area is lively indeed.
+PERS:80160864	Indeed, Edo is lively.
+PERS:80160880	K2, let us drop this trivial talk.
+PERS:801608a8	There's no need for idle talk.
+PERS:801608c8	Please spare me idle talk.
+PERS:801608e8	That hardly matters.
+PERS:80160908	Surely that doesn't matter, does it?
+PERS:80160934	That doesn't matter.
+PERS:80160954	There is no need for idle talk.
+PERS:80160974	I did not come to talk about that.
+PERS:8016099c	That is of no importance.
+PERS:801609c4	Yes, indeed.
+PERS:801609d8	Ah, indeed.
+PERS:801609ec	Indeed.
+PERS:801609fc	Just so.
+PERS:80160a08	Yes, indeed.
+PERS:80160a18	Yes, indeed.
+PERS:80160a2c	Ah, right.
+PERS:80160a3c	Ah, just so.
+PERS:80160a50	Indeed.
+PERS:80160a60	Yes, indeed.
+PERS:80160a70	It is cold every day, isn't it?
+PERS:80160a88	Ah, it's cold.\nThis cold is unbearable.
+PERS:80160ab0	The chill is severe, K2.
+PERS:80160ad0	Winter already, K2.
+PERS:80160ae8	How cold it is.
+PERS:80160b04	It's cold every day, eh?
+PERS:80160b1c	The chill has been severe lately.
+PERS:80160b38	How cold it is, truly.
+PERS:80160b50	The cold bites to the bone.
+PERS:80160b6c	How time flies. It is autumn already.
+PERS:80160b88	It is autumn already, K2.
+PERS:80160ba0	Autumn is well and truly here.
+PERS:80160bbc	Ah, autumn.\nThe season for good saury.
+PERS:80160be4	Autumn already, K2.
+PERS:80160bfc	Now that autumn is here, the days are pleasant.
+PERS:80160c24	The days have grown pleasant lately.\nAutumn already.
+PERS:80160c50	It's hot every day. I'm fairly stewing.
+PERS:80160c70	The hot days keep on coming.
+PERS:80160c8c	The hot days go on, eh?
+PERS:80160ca8	The hot days go on, K2.
+PERS:80160cc0	How hot it is.
+PERS:80160cd8	The hot days go on, don't they?
+PERS:80160cf4	It has warmed up. A comfortable season.
+PERS:80160d18	Spring. A lovely season.
+PERS:80160d34	Ah, a fine season has come.
+PERS:80160d54	Spring, K2.
+PERS:80160d68	A fine season is upon us.
+PERS:80160d80	Warm and pleasant, isn't it?
+PERS:80160d98	Spring... a fine season.
+PERS:80160db8	It has turned warm and pleasant.
+PERS:80160ddc	Ah, the weather has turned lovely.
+PERS:80160dfc	I have nothing in particular to say.
+PERS:80160e20	I've nothing in particular to say.
+PERS:80160e3c	I have no opinion.
+PERS:80160e54	I have nothing in particular to say.
+PERS:80160e70	I've nothing in particular to say.
+PERS:80160e8c	Nothing in particular to say.
+PERS:80160ea4	I have no opinion to offer.
+PERS:80160ebc	For now I have no opinion to offer.
+PERS:80160ee0	I have no opinion in particular.
+PERS:80160f00	If you will excuse me...
+PERS:80160f18	Well then...
+PERS:80160f28	Well then...
+PERS:80160f34	Well then...
+PERS:80160f40	Right, listen closely.
+PERS:80160f58	If I may, then...
+PERS:80160f6c	In that case...
+PERS:80160f7c	Then let us hear what you have to say, K2.
+PERS:80160f98	Right, I'll hear what you have to say.
+PERS:80160fbc	Well then, let us hear your opinion, K2.
+PERS:80160fdc	Right, state your opinion.
+PERS:80160ffc	Well then, let me hear what you have to say.
+PERS:80161018	Well then, let me hear your opinion.
+PERS:80161038	Right, then state your opinion.
+PERS:80161060	Then I shall hear what you have to say.
+PERS:80161080	Then I shall be glad to hear what you have to say.
+PERS:801610a4	Do you say you have nothing to talk about, K2?
+PERS:801610c8	What, nothing to talk about?
+PERS:801610e8	Have you nothing to talk about, K2?
+PERS:80161108	What? Have you nothing to talk about?
+PERS:80161130	Have you nothing to say, K2?
+PERS:80161150	Nothing to talk about, then?
+PERS:8016116c	What? Nothing to talk about? What do you mean!
+PERS:8016118c	Have you nothing to say, K2?
+PERS:801611ac	Do you have nothing to talk about?
+PERS:801611cc	You keep repeating the same talk, K2.
+PERS:801611ec	You've told me the same thing several times, K2.\nLet's talk about something else.
+PERS:80161228	You keep telling me the same thing, K2.
+PERS:8016124c	Really, saying the same thing over and over...\nI am bored.
+PERS:80161284	You have been saying the same thing for some time, K2.\nHave you nothing else to say?
+PERS:801612d0	Don't keep going on about the same thing.\nI'm bored stiff.
+PERS:80161310	Saying the same thing again and again! What a dull fellow!
+PERS:8016133c	You have said nothing but the same thing for some time. Is there truly nothing else?
+PERS:80161388	You keep saying the same thing, K2.
+PERS:801613a8	Then I shall change the topic to %s.
+PERS:801613c8	Right, I'll change the topic to %s.
+PERS:801613e8	Well then, the topic shall be %s.
+PERS:8016140c	Well then, allow me to make the topic %s.
+PERS:80161430	Well then, the topic's %s.
+PERS:8016144c	Right then, we'll make it %s.
+PERS:8016146c	Right, I'll change the topic to %s.
+PERS:80161488	Then I shall make the topic %s.
+PERS:801614a4	Allow me to change the topic to %s.
+PERS:801614c4	Then let us discuss %s this time.
+PERS:801614ec	Right, let's take up %s.
+PERS:8016150c	Well then, let us take %s as the topic.
+PERS:8016152c	I would much prefer %s.
+PERS:80161548	Well then, this time let us take %s as the topic.
+PERS:8016156c	Right, let's have %s as the topic.
+PERS:80161594	Right, let us discuss %s this time.
+PERS:801615bc	Then the topic this time shall be %s.
+PERS:801615e0	Then let us make the topic %s this time.
+PERS:80161694	Topic 
+PERS:801616c0	{C7}Round %2d
+PERS:801616d0	Attack
+PERS:801616d8	Defence
+PERS:801616e0	You have no usable opinion cards.
+PERS:80161700	First, we need a topic.
+PERS:80161718	First we'd best pick a topic.
+PERS:80161734	What shall the topic be?
+PERS:8016174c	Change the topic?
+PERS:80161760	No opinion card can be played on this topic.\nChange the topic?
+PERS:8016179c	Shedding more blood will not mend the world.
+PERS:801617c0	Without fighting, nothing new is born.
+PERS:801617e0	Open the country, profit by trade, and build a rich country and strong army.
+PERS:80161818	By jōi, drive the barbarians from our divine land.
+PERS:80161848	From now on, we should build the nation as an imperial state.
+PERS:80161870	The shogunate is a fine government that represents Japan.
+PERS:80161898	Is it all right to discard %d cards?
+PERS:801618bc	{C7}"%s" was played.\nMash to decide the contest.\nPress {M0} and {M3} alternately and fast.
+PERS:80161914	Now, what were we talking about...
+PERS:80161934	Now, what were we talking about, I wonder...
+PERS:80161954	Now, what were we talking about...
+PERS:80161974	(Grr!\nWhat is this reaction, as if nothing had happened!?)
+PERS:801619ac	(Grr!\nWhat is this reaction, as if nothing had happened!)
+PERS:801619e4	(Grr!\nWhat a cold reaction this is!)
+PERS:80161a14	Hm... It seems I have no choice but to show my trump card. Watch closely.
+PERS:80161a68	No help for it, then. I'll show you my final secret art. Sear it into your memory!
+PERS:80161ac0	Nothing for it, then. I'll hit you with my very last trick. Watch closely!
+PERS:80161b08	Now, whoever picks up this money may keep it!\nHere!
+PERS:80161b38	Right, whoever picks up this money can have it!\nThere!
+PERS:80161b68	...Heh heh\n(Th-thinking of that time... heh heh...)
+PERS:80161ba0	...Heh heh...\n(Th-thinking of that time... heh heh...)
+PERS:80161bdc	...Pfft!\n(That was a masterpiece...)
+PERS:80161c08	(I must not be taken in here. Stay calm...)
+PERS:80161c38	(I must not be taken in here. Calm down... calm down...)
+PERS:80161c74	(Can't be taken in here. Calm down... stay calm...)
+PERS:80161cb4	Oh, I did not notice. Your cup is empty. Come, drink up, drink up.
+PERS:80161cfc	What, you've hardly touched it. Come on, no need to hold back. Go on, go on.
+PERS:80161d4c	What, you've barely touched it. No need to hold back, let's drink our fill. Here.
+PERS:80161d98	(Munch munch... s-sour...)
+PERS:80161dbc	(Munch munch...)
+PERS:80161dd0	(Munch munch... ugh, sour...)
+PERS:80161e00	Allow me to present a dodoitsu.
+PERS:80161e28	Right, I'll let you hear my dodoitsu.
+PERS:80161e4c	How about a little dodoitsu?
+PERS:80161e68	There's a lovely maiko in Gion, you see...
+PERS:80161e88	There's a lovely maiko in Gion, you know...
+PERS:80161ea8	There was a lovely maiko in Gion, you see...
+PERS:80161ec8	There's a lovely oiran in Yoshiwara, you see...
+PERS:80161ee8	There's a lovely oiran in Yoshiwara, you know...
+PERS:80161f08	There was a lovely oiran in Yoshiwara, you see...
+PERS:80161f28	...and they say there is a delicacy that melts the tongue.
+PERS:80161f5c	...and they say there is a frightfully tasty dish.
+PERS:80161f88	...and they say there is food that is simply irresistible.
+PERS:80161fb8	...and they say there is a rare and wonderful sake.
+PERS:80161fe4	...and they say there is a most delicious sake.
+PERS:80162010	...and they say there is a marvellous sake.
+PERS:80162038	Oh, you also do dodoitsu?\nI dabble a little myself, but you are quite good.
+PERS:80162084	Well, you practise that art too, K2. I shall not be outdone.
+PERS:801620e0	Hmph...
+PERS:801620ec	Blast it all! I've been listening quietly, and you just spout one tedious thing after another!
+PERS:80162150	Oh my, yes. There may be such a way of putting it...
+PERS:80162198	(Hm. This is the first I have heard of it!)\n"%s"
+PERS:801621c4	Hm...
+PERS:801621d0	Well, that may be so, but... %s
+PERS:801621ec	Even so... %s
+PERS:80162208	Indeed, there's no other way.
+PERS:80162228	Ah, well, so be it.
+PERS:80162240	Indeed, we have no choice.
+PERS:80162260	Those who differ must exchange views...
+PERS:80162290	(Blast! My opinion lost.\nThe initiative has passed to the other side.)
+PERS:801622d4	(My opinion lost.\nDamn it!)
+PERS:80162300	(My opinion has lost.\nThe initiative has passed to the other side.)
+PERS:80162344	(My opinion has lost.\nThe initiative goes to the other...)
+PERS:80162378	(Hurrah! My opinion won.\nThe initiative is mine now.)
+PERS:801623b4	(My opinion won.\nThe initiative is mine.)
+PERS:801623dc	(My opinion has won.\nThe initiative has passed to me.)
+PERS:80162410	(My opinion has won.\nThe real contest begins now!)
+PERS:80162644	You cannot meet anyone of the Goryō Guard.
+PERS:80162668	%s refused to meet you.\nIt seems they will not meet a mere gōshi.
+PERS:801626a0	It seems you cannot ask to meet %s.
+PERS:801626c8	%s refused to meet you.\nYour reputation seems too poor.
+PERS:80162700	%s refused to meet you.\nYou seem to need more renown.
+PERS:80162734	%s's trust in you rose by %s.
+PERS:8016275c	You can now give orders to %s.
+PERS:80162788	%s can now accompany you.
+PERS:801627a8	Then I'll gratefully accept.
+PERS:801627c4	Then I shall gratefully accept.
+PERS:801627e4	Then I will gratefully accept.
+PERS:80162860	Renown rose by %s!\n
+PERS:80162878	%s improved by %s!\n
+PERS:8016288c	Moderate
+PERS:80162894	Militant
+PERS:8016289c	Open
+PERS:801628a4	Jōi
+PERS:801628ac	Sonnō
+PERS:801628b4	Sabaku
+PERS:801628bc	%s's %s changed to {B}%s{B}!\n
+PERS:801628d8	%s is now %s %s.\n
+PERS:801628ec	Pass
+PERS:801628f4	Cards in Hand
+PERS:80162904	Person Info
+PERS:80162910	Special Card
+PERS:8016291c	Give Opinion
+PERS:80162928	Set the Mood
+PERS:80162938	The mood here is far too tense...\nWith everyone this strained, there may be no debate at all. Perhaps I should ease the mood.
+PERS:801629c0	The mood is far too tense.\nAt this rate it will turn into a brawl, so let's ease it...
+PERS:80162a24	.
+PERS:80162a28	!
+PERS:80162a30	The mood is far too tense%s\nIf I do not ease it a little, we may part in a quarrel...
+PERS:80162a90	My opponent seems in a bad mood...\nI'd better lighten the mood first.
+PERS:80162ad4	Hm, my opponent is out of sorts...\nFirst, let's lighten the mood.
+PERS:80162b14	.
+PERS:80162b1c	.
+PERS:80162b24	.
+PERS:80162b2c	My opponent seems cross%s\nI should calm the mood here%s
+PERS:80162b6c	My opponent is all smiles.\nNow's my chance to win them over.
+PERS:80162b9c	My opponent seems in a good mood.\nShall I win them over in one go?
+PERS:80162bcc	.\nNow for a strong opinion.
+PERS:80162bec	!\nNow for a strong opinion!
+PERS:80162c0c	My opponent seems in a good mood%s
+PERS:80162c24	The mood here is far too slack...\nUnless I tighten it, they will not hear my opinion.
+PERS:80162c84	The mood is far too loose.\nUnless we tighten it up, we'll get nowhere.
+PERS:80162cd8	Attention is wandering.\nUnless I tighten the mood a little, they will not listen to my opinion%s
+PERS:80162d2c	The mood here is far too tense...\nUnless I ease it a little, my opinion will not get through.
+PERS:80162d80	The mood is far too tense.\nUnless we ease it a bit more, we'll get nowhere.
+PERS:80162de0	The mood is far too tense%s\nUnless I ease it a little, my opinion will not be heard%s
+PERS:80162e38	You have no card you can play.\nYou pass this round.
+PERS:80162e74	Topic %s
+PERS:80162e7c	You have no mood-setting card you can play.
+PERS:80162eb4	You have no opinion card you can play.
+PERS:80162ee4	You have no opinion card you can play.
+PERS:80162f14	You have no special card you can play.
+PERS:80162f44	Passing.
+PERS:80162f84	Answer Opinion
+PERS:80162f94	{C7}Your opponent played "%s".\nDo you accept this card?
+PERS:80162fd0	You have no card you can play.\nYou pass this round.
+PERS:8016303c	Something Happens
+PERS:8016304c	Worsens Condition
+PERS:80163060	Gets Foe Drunk
+PERS:80163070	Voids Foe's Opinion
+PERS:80163084	Cards Swap Themselves
+PERS:8016309c	Advances Time
+PERS:801630ac	Restores Drive
+PERS:801630c0	Reduces Drive
+PERS:801630d0	Firms Attitude
+PERS:801630e4	Swaps Cards
+PERS:801630f8	Counterattack
+PERS:80163108	Weakens Foe's Opinion
+PERS:8016311c	Reverses Roles
+PERS:80163130	Ends in a Draw
+PERS:80163148	End the Persuasion
+PERS:8016315c	Lighten the Mood
+PERS:80163170	Softens Expression
+PERS:80163190	%2d Opinion Cards
+PERS:801631b0	Mash
+PERS:801631b8	     {M0} Select
+PERS:801631cc	     {M3} Back
+PERS:801631e0	{M0} Select  {M3} Back
+PERS:801631f8	Card Name
+PERS:80163204	Attached Opinions
+PERS:80163218	Details
+PERS:80163220	Ideology
+PERS:8016322c	Eff
+PERS:80163234	Fresh
+PERS:8016323c	P
+PERS2:801e00dc	{C6}View whose info?{C7}
+PERS2:801e0134	{M0} Select\n
+PERS2:801e0140	{M3} Back\n
+PERS2:801e0154	{M2} Confirm\n
+PERS2:801e0160	Up: Trash\n
+PERS2:801e0170	Down: List\n
+PERS2:801e017c	Trash

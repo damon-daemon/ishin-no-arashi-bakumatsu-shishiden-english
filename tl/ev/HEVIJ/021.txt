@@ -1,0 +1,138 @@
+@0
+The Sekishū front is thinly held. The Shinsengumi is to go to its support.
+
+@1
+Toshi-san, you lead the Second Army.
+
+@2
+Good.
+
+@3
+But I hear the enemy's main force is riflemen. Will you be all right?
+
+@4
+The Shinsengumi needs nothing but swords.
+
+@5
+Right!
+
+@6
+Shinsengumi, advance!
+
+@7
+We'll open the breach! Don't fall behind the troops of the other domains!
+
+@9
+The Shinsengumi's exploits were the only success to be seen in the shogunate army's campaign.
+
+@10
+Even the Shinsengumi's defeat was nothing next to the sorry state of the whole shogunate army.
+
+@11
+The Chōshū army showed its extraordinary morale, the tremendous power of its new rifles, and the genius of Ōmura Masujirō's generalship...
+
+@12
+The shogunate army, for all its overwhelming numbers, lost battle after battle.
+
+@13
+The shogunate army, for all its overwhelming numbers, was simply pushed back.
+
+@15
+The shogunate army, once heartened by the Shinsengumi's victory, soon saw the situation reversed.
+
+@16
+The Shinsengumi's defeat had no small effect on the rest of the shogunate army.
+
+@17
+The armies of the pro-shogunate domains, who had come with equipment unchanged since Sekigahara, also exposed their low morale from long peace and their clumsy tactics.
+
+@19
+The shogunate army, suddenly full of vigour after the Shinsengumi's victory, launched a surging attack, and Chōshū could only defend.
+
+@20
+Although the Shinsengumi's defeat had taken the edge off their start, Chōshū could only defend against the surging attack of the shogunate army with its overwhelming numbers.
+
+@21
+The shogunate army, suddenly full of vigour after the Shinsengumi's victory, launched a surging attack, and Chōshū could only defend.
+
+@22
+Inspired by the Shinsengumi's desperate fight, the shogunate army launched a surging attack, and Chōshū could only defend.
+
+@24
+Commander. Lord Ogasawara Nagamichi, commander of the Kyūshū front, has arrived.
+
+@25
+Kondō! Where is Kondō?! Something terrible has happened!
+
+@26
+For my lord to come to such a place himself... What has happened?
+
+@27
+His Highness has... passed away suddenly.
+
+@28
+!! W-what did you say!?
+
+@29
+Regrettably, there is nothing for it but to withdraw the army.
+
+@30
+Th-that's...
+
+@31
+"Nothing to be done"\n"We keep fighting"
+
+@32
+Kondō-san, there is nothing to be done about this. Let's wait for the next chance.
+
+@33
+And so the shogunate's expeditionary army was forced to withdraw without achieving its original aim.
+
+@34
+What are you saying? We are winning.\nOne more push and we can finish Chōshū off.\nIf we retreat here, you will surely regret it.
+
+@35
+B-but... once word of His Highness's death spreads, our side's morale will collapse and the enemy will surge. We could not possibly fight.
+
+@36
+The soldiers do not yet know of this, do they?
+
+@38
+Very well, so be it!
+
+@39
+Ogasawara-dono!
+
+@40
+Hide the shōgun's death from the whole army! And of course the enemy must not learn of it!
+
+@41
+From here we advance on Hagi Castle!
+
+@42
+Charge!
+
+@43
+Okita, can you fight?
+
+@44
+I'm in splendid form today.
+
+@45
+The Shinsengumi's influence rose by 10!
+
+@46
+Damn.
+
+@47
+Toshi-san, are you all right!?
+
+@48
+Let's regroup and go again.
+
+@49
+No, we're pressing them. The outcome of the battle seems all but decided.
+
+@50
+However high Chōshū's morale, the tide of war, once turned, could not be reversed.
+

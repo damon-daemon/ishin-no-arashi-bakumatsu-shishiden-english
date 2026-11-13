@@ -1,0 +1,657 @@
+@0
+Training as a disciple of the Shieikan in Edo.
+
+@1
+Train in swordsmanship.
+
+@3
+Men!
+
+@4
+Ugh...\nI-I yield!
+
+@6
+Hey, Toshi-san.\nYou look in good form.
+
+@7
+Nah, same as always.
+
+@8
+No, no. Lately you've been improving fast, Toshi-san.
+
+@9
+Then, Hijikata-san, I'd like the next bout with you.
+
+@10
+Hm, a bout with Sōji...
+
+@11
+Accept\nDecline
+
+@12
+All right.
+
+@13
+Ready?\nThen... here I come!
+
+@14
+Ouch... oh dear, you got me.
+
+@15
+Oh! Well done, Toshi-san.\nTo take a point off Sōji, that's no small thing.
+
+@16
+Don't let it go to your head, though.\nKeep training just like this.
+
+@17
+Tch... what a strike.\nGive that boy a sword and he becomes another person.
+
+@18
+Phew, that was close.
+
+@19
+Close? Hardly...\nYou brushed me off without even trying.
+
+@20
+Oh, really, Hijikata-san. You always pull such a scary face.
+
+@21
+Toshi-san still needs more effort, that's all. From now on you must train with more spirit.
+
+@22
+No...\nI'll rest a while.
+
+@23
+Oh, honestly, talking like an old man.
+
+@24
+What, worn out already?\nThat's no way to be.
+
+@25
+Toshi-san still needs more effort. From now on you must train with more spirit.
+
+@26
+Yes. I'll do it without being told.
+
+@28
+(Right. I still have to sharpen my skill.)
+
+@29
+(For the time being, I'll throw myself into training at the dōjō...)
+
+@30
+Hey, Toshi-san.\nAny good news going around?
+
+@31
+I was about to ask you. Strange sicknesses, shortages... it's grim everywhere you look.
+
+@32
+Is that so? That's a worry.\nBut times like these are just when a samurai should train hard.
+
+@33
+Well, never mind that. Have you been anywhere lately, Toshi-san?
+
+@35
+I see. Training is fine, but go out now and then to clear your head.
+
+@36
+You know Edo well, Toshi-san, but it is quite large. Why not find a good school and try some study?
+
+@37
+I don't think I'm suited to study, but maybe something good will turn up. I'll wander about now and then.
+
+@38
+Yes, do. The dōjō is having a hard time, too.\nBring back some way to make money.
+
+@39
+Right. Understood, Kondō-san.
+
+@40
+I see. Toshi-san, you might find a good school to study at, and meet people too. A samurai needs learning as well.
+
+@41
+Study isn't for me.\nBut I'll stroll around a bit, to clear my head too.
+
+@46
+Ah, Hijikata-san.\nHow are your spirits?
+
+@47
+Oh, Yamanami-san.\nYou seem in fine spirits yourself.
+
+@48
+Well, I just met an old comrade from the Hokushin school. We discussed the state of the times at length.
+
+@49
+Do you ever debate such things, Hijikata-san?
+
+@50
+"No, I'm not interested."\n"A little."
+
+@51
+That won't do...\nMen like us, shishi, must debate vigorously for the sake of the nation.
+
+@52
+For that you must gather information for debate at inns, taverns, and, if you have acquaintances, at the domain residences.
+
+@53
+Me, a shishi?\nI'll take your advice with thanks, but talk of sonnō and sabaku doesn't interest me much.
+
+@54
+I see. Perhaps it is of no use to one who cannot grasp the loyalist spirit. Then, excuse me.
+
+@55
+Honestly, putting on airs as a loyalist patriot.\nWhat does debate ever change in this country?
+
+@56
+Oh, how unexpected.\nI had thought you had no interest in such things.
+
+@57
+Well, only as much as any man talks.
+
+@58
+I see. But now is a time of peril for the nation.\nIt is important to talk with shishi from all over.
+
+@59
+For that you must gather information at inns, taverns, and, if you have acquaintances, at the domain residences.
+
+@60
+Yes, I will.\nThank you for the advice.
+
+@65
+Hello, Hijikata-san.\nHow are your spirits?
+
+@66
+Oh, Sōji.\nWhat's the point of asking after my spirits?
+
+@67
+Oh, Hijikata-san, you're always so sharp-tongued.\nSomeday your mouth will stay crooked.
+
+@68
+Anyway, do you meet people outside the dōjō, Hijikata-san?
+
+@69
+"No, not much."\n"I've met a few."
+
+@70
+Yamanami-san goes out quite a lot looking for people. Shouldn't you go out and not lose to him, Hijikata-san?
+
+@71
+What are you saying?\nHe's him and I'm me. It's nothing to do with me.
+
+@72
+But people gather in Edo from all over. I think you should meet all sorts of people while you can.
+
+@73
+I heard that if you gather information at places like eating houses, you can hear rumours about people nearby.
+
+@74
+And if you visit their house and they won't let you in, you keep searching in front of it. They'll come out sooner or later.
+
+@75
+Well, I'll take your advice, Sōji, with thanks.\nBut don't bring up that man.
+
+@76
+Yes, yes, I'll be careful.\nYou fret over such trifles, Hijikata-san.\nWell then.
+
+@77
+Is that so?\nHow surprising. You never seemed interested in other people.
+
+@78
+It isn't a woman, is it?
+
+@79
+What are you saying?\nEven I have a debate or two.
+
+@80
+Hee hee, is that so? Well, if you say so, I'll believe you.
+
+@81
+By the way, I heard that if you gather information at places like eating houses, you can hear rumours about people nearby.
+
+@82
+And if you visit their house and they won't let you in, you keep searching in front of it. They'll come out sooner or later.
+
+@83
+You stopped me just to say that?\nWell, I'll take your advice, Sōji, with thanks.
+
+@84
+Not at all. Do your best, Hijikata-san.
+
+@89
+Hey, Toshi-san!
+
+@91
+I'd like you to go with Okita to Hino for outside training. Will you?
+
+@94
+I won't.
+
+@95
+Hm? What's wrong, is it inconvenient?
+
+@96
+There you go being wilful again. You just don't feel like it, do you? Come on, Hijikata-san, let's go.
+
+@98
+All right, let's go.
+
+@99
+I'm not going.
+
+@100
+I see... With Okita alone the students will be begging for mercy again, so I'll ask Heisuke.
+
+@101
+Do that.
+
+@102
+The place is the usual one, the Satō family's dōjō in Hino Village.
+
+@103
+I know, I know. Then we'll be off.
+
+@104
+Visit the Satō house in Hino.
+
+@105
+Hijikata-san, how long are you going to sit around?\nLet's hurry to Hino.
+
+@106
+Ah...\nThat's right.\nLet's go.
+
+@107
+Hijikata-san, how long are you going to wander about?\nLet's get going.
+
+@108
+Right.\nTime we went.
+
+@109
+Toshi and Okita-kun. Good of you to come.
+
+@110
+Well, you two again.
+
+@111
+Gen-san, you're here too.
+
+@112
+I'll take Gen-san on...
+
+@113
+Hey, hey, spare me that. My body wouldn't hold out.
+
+@114
+Is that so? Then I'll take on the students...
+
+@115
+Eeek!
+
+@116
+Gen-san, want to go a round with me?
+
+@117
+I hear even Kondō-san is amazed at how much you've improved lately, Toshi-san. Come, let me see the results.
+
+@118
+Gen-san, don't overdo it.
+
+@119
+No, I yield! I'm no match for you!
+
+@120
+If you lose to me, you've a long way to go yet.
+
+@123
+Opening!
+
+@124
+Gwaah!!
+
+@126
+Eek! H-help!
+
+@127
+Okita-kun, let them off now.
+
+@128
+What? We've only just started.
+
+@129
+You've only just started, and the students are already beaten to pieces?
+
+@130
+Ugh, ow, ow...
+
+@131
+And I went so easy on them.
+
+@132
+Let's leave it there for today.
+
+@133
+Give my regards to Kondō-san.
+
+@134
+Say, Toshi-san. Won't you take me to Edo too? I want to train in earnest at Kondō-san's place.
+
+@135
+Gen-san? Are you sure?
+
+@136
+Why not? The more training partners, the more fun.
+
+@137
+Oh, all right.
+
+@138
+Then let's go back to the Shieikan.
+
+@139
+Return to the Shieikan.
+
+@141
+...Okita.
+
+@144
+We're being followed.
+
+@145
+...Oh, so we are.
+
+@146
+Men from the Suzaku-kan. Out for revenge for the other day.
+
+@147
+Persistent lot. What shall we do?
+
+@148
+Face them\nWithdraw for now
+
+@149
+If they want a fight, we'll meet them.
+
+@150
+Hey... they seem set on it.
+
+@151
+Run!
+
+@152
+They're chasing us.
+
+@153
+Don't look back, run to the stable over there!
+
+@154
+What a mess!
+
+@155
+Two nimble ones...
+
+@156
+They've taken the bait. We'll meet them behind the stable.
+
+@158
+The next ones are coming!
+
+@159
+We managed to beat them.
+
+@160
+Yes. But this won't be the end of it.
+
+@161
+Damn! Run for it!
+
+@162
+No choice.
+
+@163
+Gen-san, are you all right?
+
+@164
+Yes, just about.
+
+@165
+(They'll pay for this.)
+
+@167
+A fight, a fight!
+
+@168
+That's...!
+
+@169
+Hah, this is a public road! Your turf, my foot!
+
+@170
+What, you bastard... you want to fight?!
+
+@171
+Heh, my old belly wound's been aching and I was spoiling for a fight!
+
+@172
+...That idiot.
+
+@173
+Yaaaah!
+
+@174
+Break it up\nJoin in\nWatch
+
+@175
+Sanosuke!
+
+@176
+Who's that?!
+
+@178
+Stop it.
+
+@179
+Hey! This is our fight, don't interfere!
+
+@180
+I'm telling you for your own good.
+
+@181
+You bastard!
+
+@182
+...Now you've only fanned the flames.
+
+@184
+Hijikata-san?!
+
+@185
+What, a friend of his?
+
+@186
+No need to worry. I'm enough on my own.
+
+@187
+I'm not joining in out of worry for you.
+
+@188
+Heh! So we both love a brawl.
+
+@189
+Wait, damn you!
+
+@190
+Die!
+
+@191
+Raaaaah!
+
+@193
+Ha ha ha! Haaah!
+
+@195
+Eek! I-I can't touch him!
+
+@196
+Hah! Pathetic!
+
+@197
+...Sanosuke.
+
+@198
+Oh! Hijikata-san!
+
+@199
+Still hot-blooded as ever.
+
+@200
+Heh heh.
+
+@201
+Wait, damn you!
+
+@203
+Over here! Take care of them!
+
+@204
+These two?
+
+@205
+Heh heh, prepare yourselves!
+
+@206
+Oh, they've got friends.
+
+@207
+(Five... what now?)
+
+@208
+Gutless rōnin? Bring as many as you like, they're not worth a fart.
+
+@209
+Oh, that's brave talk.
+
+@210
+I'll kill you! Draw!
+
+@211
+Pardon me!
+
+@213
+...!?
+
+@214
+I'll lend a hand!
+
+@215
+...Who's that?
+
+@216
+No idea.
+
+@217
+If the constables come, it'll be trouble. Scatter.
+
+@218
+Tch, scatter!
+
+@219
+Huh? Where's that man from just now?
+
+@221
+Vanished. Who on earth was he?
+
+@222
+Oh... what a magnificent view!
+
+@224
+..."The falling dew"
+
+@225
+(Hmm, next...)
+
+@226
+"Rising first"\n"By the hedge"
+
+@227
+"The spring moon"\n"Rice blossoms"
+
+@229
+...Not quite right.
+
+@230
+The falling dew,\nrising first:\nrice blossoms.
+
+@231
+...Yes, a masterpiece.
+
+@232
+Style rose by 1!
+
+@233
+Pardon me.
+
+@234
+Hm, you are...
+
+@235
+Oh, we meet again.
+
+@236
+Why are you here?
+
+@237
+I should ask you that. I have business with the master of this dōjō, Kondō-dono.
+
+@238
+I'm a disciple here.
+
+@239
+Oh, is that so.
+
+@240
+Why, if it isn't Saitō-kun! When did you come to Edo?
+
+@241
+I arrived only a few days ago. And as it happens, I ran into this gentleman just now.
+
+@242
+Then you two already know each other.
+
+@243
+Only by sight.
+
+@244
+This is Saitō Hajime-kun of Akashi; he's been travelling the provinces. We hit it off when I went to Ueno, and he promised to join our school.
+
+@248
+Is Kondō-dono in?
+
+@250
+I am Saitō of Akashi.
+
+@251
+(Akashi... a guest from afar.)
+
+@252
+Why, if it isn't Saitō-kun! When did you come to Edo?
+
+@253
+Only a few days ago. And so I came to call here first.
+
+@255
+Thank you for having me.
+
+@257
+Let me introduce Saitō Hajime-kun. He has been travelling the provinces; we hit it off when I went to Ueno, and I got him to promise to join our school.
+
+@260
+He wields a mighty blade. A man to count on.
+
+@265
+Say, Toshi-san.\nI'm going on to the Shieikan now.
+
+@266
+Oh, wait for me.\nI'm coming too.
+
+@267
+Hijikata-san, don't roam about too much either; come back to the Shieikan early.
+

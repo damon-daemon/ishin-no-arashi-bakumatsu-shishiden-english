@@ -1,0 +1,498 @@
+@0
+Active as captain of the Kaientai
+
+@1
+Trade to earn funds
+
+@4
+Godai-san, is it?
+
+@5
+A man from the Uwajima Domain wants to ask you to operate a ship for him.
+
+@6
+We would like you to sail our domain's ship, the Iroha-maru, loaded with weapons and goods, to Ōsaka.
+
+@7
+Accept\nDecline
+
+@8
+Gladly.
+
+@9
+We are grateful.
+
+@10
+"Today I set out, a ship at her first lessons: the Iroha-maru."
+
+@11
+Godai-don, other domains that have woken up to trade may send me requests like this one.
+
+@12
+While we're at it, why not found a trading company funded jointly by the domains, to bring the western domains closer together?
+
+@13
+That is a fine idea. I was talking about just that with Hirosawa-san of Chōshū.
+
+@14
+Things are getting busy. Well then, I'll hop over to Ōsaka for a bit.
+
+@15
+Sorry, but I have no men to spare.
+
+@17
+BOOOOOM!!
+
+@18
+!! W-what's happening?!
+
+@19
+We've collided with a Kishū ship! The ship is sinking! Please evacuate!
+
+@20
+What?!
+
+@21
+That day, the Iroha-maru, with Ryōma aboard, collided head-on with a Kishū ship and sank, wrecked beyond repair.
+
+@22
+The Kishū ship Meikō-maru, several times the size of the Iroha-maru, had only a few scratches on her hull and could sail on almost unhindered.
+
+@23
+The fault clearly lay with the Kishū side, but Kishū, trading on its prestige, ignored Ryōma and his men and sailed on to its destination, Nagasaki.
+
+@24
+...They take me for a mere rōnin and look down on me! I won't take this lying down!
+
+@25
+In the world to come, everything has to be judged equally by law. I'll make them see that, so brace yourselves.
+
+@26
+I'm going to the magistrate's office in Nagasaki! We'll settle it there! Call Nagaoka and Nakajima!
+
+@27
+Head for the magistrate's office in Nagasaki
+
+@29
+Enough talk!
+
+@30
+So, assassins from Kishū!
+
+@31
+They mean to bury the fact of the collision! If we don't settle this quickly, our own necks are in danger.
+
+@32
+Sakamoto-san, you've been through a terrible time.
+
+@33
+What a troublemaker the man is. We'll squeeze plenty out of Kishū, so rest easy! Right, Yatarō?
+
+@34
+Leave it to me.
+
+@35
+Nagaoka, Nakajima, I'm leaving the petition to the magistrate's office to you. I'm counting on you.
+
+@37
+Understood.
+
+@38
+Good, our side is ready. The law is on our side too. All that's left is public opinion.
+
+@39
+Ryōma wrote a song of his own and had the Kaientai men sing it at the top of their voices in the entertainment quarters all over town.
+
+@40
+"For sinking our ship, the reparation: we'll take no money, we'll take your domain."
+
+@41
+The effect was enormous. The song became all the rage in Nagasaki in no time, and the whole town sided with Ryōma and his men.
+
+@42
+The sight of a mere rōnin refusing to give an inch to Kishū, one of the Three Houses of the Tokugawa, gave the townspeople an indescribable thrill.
+
+@43
+It was also a scene that symbolised the decline of the shogunate's authority.
+
+@44
+In the end Kishū gave in and agreed to pay almost the whole of the compensation proposed by the mediator, Godai Tomoatsu.
+
+@45
+The Kaientai obtained 15000 in funds!
+
+@46
+Trade to earn funds
+
+@47
+Ryōma, help me.
+
+@48
+Gotō.
+
+@49
+In Kyōto, the Four Wise Lords are holding a council of lords right now. Lord Shimazu, the lord of Uwajima, Lord Shungaku of Echizen, and Lord Yōdō...
+
+@51
+They say Satsuma wants to join with Chōshū, fight the shogunate and destroy the Tokugawa house.
+
+@52
+Of course it does. Both the Shimazu and the Mōri carry a grudge from losing at Sekigahara, handed down through the generations.
+
+@53
+The times are leaning towards overthrowing the shogunate. But Lord Yōdō is dead set against overthrowing it by force. As things stand, Satsuma and Chōshū will keep the initiative and Tosa will have no standing left.
+
+@54
+That's what you get for being loyalist yesterday and pro-shogunate tomorrow.
+
+@55
+I know full well how selfish it sounds. I'm asking you anyway. Isn't there a plan that saves Lord Yōdō's face and still puts Tosa on a par with Satsuma and Chōshū?
+
+@56
+Don't ask the impossible.
+
+@57
+You of all people are sure to think up something extraordinary. I'm not asking for Tosa's sake. It's to save this country. Please, I beg you.
+
+@58
+...True, if the shogunate is overthrown by force, Japan will fall into terrible civil strife. (Edo, where the Chiba Dōjō folk and Katsu-sensei live, may become a sea of fire.)
+
+@59
+As things are, the country will belong to Satsuma and Chōshū. We'd only get Shimazu and Mōri shōguns in place of the Tokugawa shōgun. What would the overthrow be for then?!
+
+@61
+"I'll think of something"\n"Give it up"
+
+@62
+But there's nothing to be done.
+
+@63
+Ryōma! Don't say that, think it through with me!
+
+@64
+If it comes to all-out war between the shogunate and Satsuma-Chōshū, Kyōto and Edo will be a sea of fire!
+
+@65
+If the war drags on, Japan's strength will be drained. That is exactly what the Great Powers want!
+
+@66
+"Wait a moment"\n"Don't be ridiculous"
+
+@67
+Gotō, enough of this nonsense. I can't go along with you any further.
+
+@69
+It has come to this: there is no way but to fight.
+
+@72
+Wait! I'm thinking about it right now!
+
+@73
+"Make the shogunate return power"\n"Armed force is the only way"
+
+@74
+Gotō, in times like these there's no choice but to rely on force.
+
+@76
+If Tosa doesn't show the spirit to overthrow the shogunate by force here, it will be left behind by Satsuma and Chōshū.
+
+@77
+Grrr...
+
+@78
+Domestic Insight rose by 5!
+
+@79
+Foreign Insight rose by 5!
+
+@80
+Gotō, precisely because times are like this, there is a way.
+
+@81
+R-really? What is it?!
+
+@82
+Get Yōdō moving. Make the shogunate hand back its power.
+
+@84
+If the shogunate itself offers to return rule to the Court, what cause would Satsuma and Chōshū have to strike down the Tokugawa? They'd have nowhere to bring down the sword they've raised, would they?
+
+@85
+...Oh!
+
+@86
+Why didn't I think of that!! If Lord Yōdō advises Lord Yoshinobu and achieves the Return of Rule to the Emperor, we can outwit Satsuma and Chōshū!
+
+@87
+Yes. Tosa takes the initiative, the Tokugawa house survives, and only the shogunate is abolished. For you lot, it's a masterstroke that snatches victory from defeat.
+
+@88
+That's it, it's the only way!! Ryōma! You're no ordinary man after all!
+
+@89
+"Of course"\n"Never mind that"
+
+@90
+Only just noticed, have you?
+
+@91
+Ha ha ha! Right, I'm off to Kyōto at once! I'll take you on the domain's ship, so you come too!
+
+@92
+Spare me the flattery. If that's settled, let's hurry up to Kyōto.
+
+@93
+All right! I'll take you on the domain's ship!
+
+@94
+Sakamoto-san, what on earth is going on?
+
+@96
+You're making enemies of Satsuma and Chōshū. Do you mean to help Tosa, which you gave up on once? And on top of that, to save the Tokugawa house...
+
+@97
+I'm nobody's watchdog, not Satsuma's or Chōshū's. And I certainly haven't sunk to being a lackey of Tosa or the Tokugawa.
+
+@98
+Then whose side are you on?
+
+@99
+Japan's.
+
+@100
+J-Japan?
+
+@101
+Listen. If Satsuma and Chōshū bring down the shogunate by force, who gets the most credit for it?
+
+@102
+Hmm. Saigō of Satsuma... or Katsura of Chōshū.
+
+@103
+Britain.
+
+@105
+Britain, which has kept supplying weapons to Satsuma and Chōshū in opposition to France, who backs the shogunate, will hold the strongest voice over them.
+
+@106
+Ah!!
+
+@107
+Then it's no different from the shogunate crushing Satsuma and Chōshū. The only difference is whether it's France or Britain that takes Japan over.
+
+@109
+This revolution has to be achieved by Japanese hands alone. The Return of Rule to the Emperor is the only means that can do that and also spare us the weakening of the nation by civil war.
+
+@110
+S-Sakamoto-san! What a man you are... how magnificent! I'm ashamed of my own narrow mind!
+
+@111
+Stop it, you're giving me the creeps.
+
+@112
+Return to the Kameyama Shachū in Nagasaki
+
+@113
+Ryōma, what is that?
+
+@114
+The outline of the new government.
+
+@115
+What, a new government?!
+
+@116
+Satsuma and Chōshū have told me nothing of their plans for after the shogunate falls. Even if the shogunate hands power back to the Court, what can court nobles who have never done any politics accomplish?
+
+@117
+I see... so you've thought even about what comes after? Let me see.
+
+@118
+There are eight points in all, but the one that matters now is the first.
+
+@119
+"Point one. The power to govern the realm shall be returned to the Imperial Court, and all decrees shall issue from the Court."
+
+@120
+The rest covers how the country should be run once the new government is in place.
+
+@121
+"Point two. Upper and lower assemblies shall be set up with members, and every pending matter shall be decided by public discussion."
+
+@122
+"Point three. Capable men from all over the land shall be employed regardless of rank, and offices that exist in name only and serve no purpose shall be abolished."
+
+@123
+"Point four. Relations with foreign countries shall be conducted with the broad consent of public discussion, and new, fair treaties shall be concluded."
+
+@124
+"Point five. Drawing on the good points of the ancient codes, a new and enduring great code shall be drawn up."
+
+@125
+"Point six. The navy shall be expanded."
+
+@126
+"Point seven. An Imperial Guard shall be established to protect the capital."
+
+@127
+"Point eight. Gold, silver and prices shall be brought into line with those of other nations."
+
+@129
+This is what they call "democracy" in the West.
+
+@130
+I'm amazed. Where did you pick up such a trick?
+
+@131
+Never mind that, listen.
+
+@132
+We can only put this to Satsuma and Chōshū if we moderates hold the initiative in overthrowing the shogunate. What we must prevent, at all costs, is a coalition shogunate of Satsuma and Chōshū.
+
+@133
+I know. The Return of Rule to the Emperor: we have no choice but to make it happen.
+
+@134
+Mr Sakamoto, would you like to have the Taikyoku-maru converted into a steamship?
+
+@135
+Mr Sakamoto, would you not like to have the Taikyoku-maru made into a steamship?
+
+@136
+Can that be done? How much would it cost?
+
+@137
+10000 ryō.
+
+@138
+Hmm.
+
+@139
+If you are in the middle of trading, we can always do it another time.
+
+@140
+(10000 ryō... I could just about manage that.)
+
+@141
+"Convert it"\n"Don't convert it"
+
+@142
+All right, do it.
+
+@143
+It will be done shortly. Please wait a little.
+
+@144
+It is finished.
+
+@145
+I have added cannon free of charge.
+
+@146
+Much obliged!
+
+@147
+Since we're at it, let's change her name too. From today this ship is the Ōteki-maru!
+
+@148
+(I don't have the funds...)
+
+@149
+It's a bit tight. Forget it.
+
+@150
+Mr Sakamoto, I hear you went through a terrible ordeal.
+
+@152
+What do you say? Shall we try to raise that Iroha-maru?
+
+@153
+What?! Can that really be done?!
+
+@154
+From the state of the accident, it should not be impossible. Expenses and repairs would come to about 20000 ryō, though.
+
+@155
+"Please do"\n"Forget it"
+
+@156
+Oh! By all means, please do!
+
+@157
+Understood. I will send a salvage fleet at once. I will have the raised ship brought round for you.
+
+@158
+Much obliged!
+
+@159
+I'm short of cash, so I'll give up.
+
+@160
+I see.
+
+@161
+Sakamoto-sama, please do stay a while today.
+
+@162
+Hm... I can't just sit around.
+
+@163
+No, no. We are husband and wife. It's strange for us not to be together.
+
+@164
+Oh, very well.
+
+@165
+...You're right. All right, I'll stay with you today.
+
+@166
+Really? I'm so happy!
+
+@167
+Ryōma-dono.
+
+@168
+Hmm... Isn't "Ryōma-dono" odd for a wife calling her husband?
+
+@169
+Oh? ...Is it?
+
+@170
+I... I'm embarrassed.
+
+@171
+Then... um...
+
+@173
+M-my husband...
+
+@176
+Pfft.
+
+@177
+Hee hee.
+
+@178
+Ha, I'm the one who's embarrassed! Let's keep it the way it was!
+
+@179
+Ryōma-dono, you haven't practised for a while. Aren't your skills getting rusty?
+
+@180
+What's with that outfit? Hm? Don't tell me...
+
+@182
+You're too good for me, Ryōma-dono. I'm no match at all.
+
+@183
+It's been a while since I worked up a good sweat.
+
+@184
+Ow, ow, ow.
+
+@185
+You held back, didn't you?
+
+@186
+No, no, Sana-san. You've grown very strong.
+

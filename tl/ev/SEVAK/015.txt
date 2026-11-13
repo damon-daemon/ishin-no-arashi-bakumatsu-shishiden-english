@@ -1,0 +1,489 @@
+@0
+Studying naval skills in Edo as Katsu's disciple
+
+@1
+Train at the Tsukiji Naval Drill School\n(Goal: Navigation 20)
+
+@3
+The next morning...
+
+@4
+Ryō-san! Ryō-san, wake up!
+
+@5
+Huh?
+
+@6
+You have a visitor!
+
+@8
+It's Katsu Kaishū! A proper hatamoto, and he came without even an attendant!
+
+@10
+Oh, here you are!
+
+@11
+Ah!
+
+@12
+How long are you going to sleep? Let's go.
+
+@13
+Where to?
+
+@14
+You've signed on as disciple to me, the Navy Commissioner. Where else would we go but where the warships are?
+
+@15
+Will you show me the ships?!
+
+@16
+Of course! Now, hurry up and get ready!
+
+@17
+Go\nDon't go
+
+@18
+Today I'm a bit...
+
+@19
+What are you grumbling about? A disciple should obey his master without fuss. Come on, let's go.
+
+@20
+What a pushy man.
+
+@21
+A Black Ship...
+
+@22
+I'll introduce you to your teacher. Hey, you there!
+
+@23
+Hm?
+
+@24
+This is Nakahama Manjirō. He was shipwrecked while fishing, rescued by an American ship, and lived over there for ten years.
+
+@25
+What? What is it?
+
+@26
+A new student, Sakamoto Ryōma-kun of Tosa.
+
+@27
+Really? Tosa?! You're a Tosa man?!
+
+@28
+Ah, of course! You're from Tosa too, Nakahama-kun!
+
+@29
+Oh! From the Saitaniya!
+
+@30
+You know me?!
+
+@31
+Yeah! Ryōma the bedwetter!!
+
+@32
+Idiot! Shh!!
+
+@33
+Bedwetter?
+
+@34
+No, it's nothing at all... Who shouts that out loud?!
+
+@35
+Sorry, sorry. You were famous, you know. You had that big sister, right?\nHow is she? Well?
+
+@36
+A-ah, yes.
+
+@37
+Haha! I see, I see. So you're that Ryōma! OK! I'll drill navigation and English into you thoroughly!
+
+@38
+(I don't remember this fellow at all...)
+
+@39
+Nakahama-kun, then I leave him to you.
+
+@40
+Western Learning rose by 1!\nNavigation rose by 3!\nLanguages rose by 2!
+
+@41
+Hey, Ryōma, you've got real talent!
+
+@42
+Do I?
+
+@43
+Sure! The shogunate retainers can't understand a word I say.
+
+@44
+Well, that's because you speak only Tosa dialect and English...
+
+@47
+I hear you've been going to the shogunate's naval drill school?
+
+@48
+That's right.
+
+@49
+Sakamoto-sama, are you a supporter of the shogunate?
+
+@50
+I dislike the shogunate, though.
+
+@51
+Isn't it strange for a loyalist like you, Sakamoto-sama, to become the disciple of the shogunate retainer Katsu-dono?
+
+@52
+The world can't be split so easily into this faction or that.
+
+@53
+I'll use anyone who can be used. And I'll become a disciple of any teacher I can respect, even an enemy.
+
+@54
+Then why do you keep company with that man who came back from abroad?
+
+@55
+You mean Nakahama Manjirō?
+
+@56
+Right. We left the domain for the loyalist cause, so why are you studying foreign matters in a place like this?
+
+@57
+Knowing the enemy well is the basis of strategy.
+
+@58
+I don't want to meddle, but the way you are now, Ryō-san, you can't be called a sonnō jōi shishi.
+
+@59
+Even to carry out jōi, there are steps to take. Take the long view. Soon I'll own a good many Black Ships like those, and take the shogunate and the foreigners alike by surprise.
+
+@60
+You always dodge the point with tall tales like that.
+
+@61
+Oh, Sakamoto-kun, is that you! You've come to Edo too!
+
+@62
+Takasugi-san!
+
+@63
+Perfect timing. Do you have a moment? I have something to tell you.
+
+@64
+Sure.
+
+@65
+Not here. Let's change places.
+
+@66
+Heh heh, we're about to do something interesting. Will you join us?
+
+@67
+Something interesting?
+
+@68
+We burn down the foreign legation and cut down the minister!
+
+@69
+What?!
+
+@70
+A declaration of war. Provoke the foreigners and they will surely retaliate. We'll force the shogunate to carry out jōi!
+
+@71
+"Sounds fun!"\n"Stop!"
+
+@72
+Sounds fun! Those swaggering foreigners need to be taught that some Japanese have backbone!
+
+@73
+Ha ha ha! Exactly!
+
+@74
+But I won't do it.
+
+@75
+Hm? What do you mean?
+
+@76
+I'm the disciple of the shogunate retainer Katsu-sensei. If I did that, it would cause him trouble.
+
+@77
+Even if you did that, the shogunate would never seriously think of jōi.
+
+@78
+How do you know?
+
+@79
+I'm a disciple of Katsu-sensei, the Navy Commissioner. As long as he's there, the shogunate will push on with its policy of opening the country.
+
+@80
+What?! Are you a sabaku man?!
+
+@81
+Hmph, a Tosa man is a Tosa man after all, same as Yōdō! He shouts "loyalist, loyalist" with his mouth, but in truth he is a zealous supporter of the shogunate!
+
+@82
+I'm not for the shogunate. I'm just learning from Katsu-sensei how to build a navy.
+
+@83
+You became a disciple of a shogunate retainer and still say you aren't for the shogunate? Don't talk nonsense!
+
+@84
+Jōi needs a navy. The only people to learn it from are shogunate retainers, so what else can I do?
+
+@85
+...Hmm. True, the Black Ships are overwhelmingly powerful. I saw their power for myself in Qing China.
+
+@86
+...Hmm. True, the Black Ships are overwhelmingly powerful.
+
+@87
+To change Japan, we need many of those Black Ships.
+
+@88
+Mm... I follow the logic, but I cannot understand your feelings about becoming a shogunate retainer's disciple. Do you have any intention of overthrowing the shogunate at all?
+
+@89
+"I do"\n"Not yet"
+
+@90
+Of course we must bring down the shogunate! And for that too we need a navy!
+
+@91
+We can't overthrow the shogunate for the time being.
+
+@92
+What!
+
+@93
+The time isn't right. A half-hearted effort will never topple the shogunate.
+
+@94
+You...!
+
+@95
+Calm down. That's why we need a navy. For jōi, and for toppling the shogunate, what we need is a power that leaves no room for argument.
+
+@96
+...You mean to topple the shogunate with Black Ships?
+
+@97
+That's why I'm learning naval skills.
+
+@98
+...Mm. I'll take you at your word.
+
+@99
+You'll believe me?
+
+@100
+Truth is, I once tried to learn about ships myself.
+
+@102
+But I got so seasick that I gave it up altogether.
+
+@103
+Ha, ha ha ha!
+
+@104
+Don't laugh. I'm suited to dry land. Indeed, as long as my feet are on the ground, I'll lose to no one.
+
+@106
+I intend to create an army of the common people.
+
+@108
+The upper samurai who have gorged on high stipends for three hundred years are rotten to the core and useless as soldiers.
+
+@109
+And yet they are proud, saying that guns are for foot soldiers, and they won't let go of their swords and spears.
+
+@111
+So I will teach farmers, craftsmen and merchants to use guns. I shall call it the "Kiheitai".
+
+@112
+The "Kiheitai"...
+
+@113
+If samurai are the orthodox way of soldiering, then common soldiers are the unorthodox way. Combine the two, and every man of Chōshū becomes a soldier. Ha ha ha!
+
+@114
+Ryōma-san, Ryōma-san.
+
+@116
+My name is Okamoto Kenzaburō, of Tosa.
+
+@117
+What do you want?
+
+@118
+Please don't walk around so openly. We junior inspectors have to arrest you, Ryōma-san.
+
+@119
+You'd arrest me?
+
+@120
+I respect you, Ryōma-san, so I don't want to catch you. But if my superiors are around, I'll have no choice.
+
+@121
+You're worried about me? I'm glad.
+
+@122
+Heh heh.
+
+@123
+Thank him\nInvite him to join
+
+@124
+Thanks for going to the trouble. I'll be careful from now on.
+
+@125
+Why don't you come aboard a Black Ship with me?
+
+@126
+Eh? A Black Ship?!
+
+@127
+It's dull being a junior inspector forever, isn't it? Ordered about by the upper samurai, resented by the gōshi...
+
+@129
+Why not leave the domain altogether and become a disciple of Katsu-sensei? That'd be best. Do it.
+
+@130
+A d-disciple?! But I'm...
+
+@131
+Well, listen to what sensei has to say first. Whether you join or not can wait till after that.
+
+@132
+Sensei, sensei!
+
+@133
+Oh, what is it?
+
+@134
+I've brought someone who wants to enter Katsu's school!
+
+@135
+Oh! Is that so!
+
+@136
+I haven't decided to join yet...
+
+@137
+Please let him hear your talk, sensei.
+
+@138
+Sure, come on up.
+
+@139
+Y-yes! Pardon the intrusion!
+
+@140
+Here, how about some tea?
+
+@141
+No, I am but a lowly gōshi. To be entertained personally by a hatamoto...
+
+@142
+Sensei doesn't mind such things. Accept it.
+
+@143
+Y-yes, sir!
+
+@144
+I hear you Tosa gōshi suffer terrible discrimination... To hell with a world like that!
+
+@146
+When the very life or death of the nation called Japan is at stake, this is no time to fuss over rank among ourselves.
+
+@147
+If samurai run politics only for the sake of their own houses, Japan will certainly perish.
+
+@149
+Listen! Only when all the people are of one heart can we defend Japan!
+
+@150
+(Gulp)
+
+@151
+No, not only this country. The nations of the East must unite as one and protect themselves from the aggression of the Westerners.
+
+@152
+Someday I mean to build a combined fleet of three nations, Japan, Qing China and Korea, and scare the wits out of those fellows.
+
+@153
+A c-combined fleet... of three nations!!
+
+@154
+How about it? Want to take on this great undertaking with Ryōma here?
+
+@155
+S-sensei!! I... I...!
+
+@156
+Let's do it!
+
+@157
+Is it all right for me to follow you, Ryōma-san?
+
+@159
+H-heh heh... Count me in! No more of those idiot upper samurai for me!
+
+@160
+(...Hm. Masterfully done, Sensei!)
+
+@161
+Well, Sakamoto-kun.
+
+@162
+Katsura-san!!
+
+@163
+I came to Edo on business, and heard you were at the Chiba Dōjō. They say you're being pursued.
+
+@164
+I'm managing somehow.
+
+@165
+Rejoice. Kyōto has finally come into the hands of us sonnō-jōi men.
+
+@167
+Your friend Takechi is also working like a whirlwind. The efforts of Chōshū and Tosa at the Court have borne fruit, and the situation is gradually tilting toward sonnō jōi.
+
+@168
+So Takechi is doing his best!
+
+@169
+There is just one thing that worries me.
+
+@170
+Worries you?
+
+@171
+In Kyōto now, scoundrels assassinate pro-shogunate, open-country men in the name of "Tenchū", and it's almost anarchy.
+
+@172
+Okada Izō of Tosa and Tanaka Shinbei of Satsuma in particular have earned the title "Hitokiri", and rumour has it that the mastermind pulling the strings behind them is Takechi.
+
+@174
+I don't like that way of doing things. It's true the shogunate's attitude changed completely after the Sakuradamon Incident, but I believe the time for such extreme measures is over.
+
+@175
+"I agree"\n"No"
+
+@176
+I agree. Needless killing only earns resentment.
+
+@177
+...Takechi must have his own reasons.
+
+@178
+Some starving rōnin even use the chaos to break into merchants' houses and rob them, calling it a "jōi levy". The shogunate won't stay silent if this goes on.
+

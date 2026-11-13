@@ -1,0 +1,46 @@
+# Texts built on the stack by instructions (tools/stackstr.py): table.index<TAB>English
+hana_rounds.0	3 Rounds
+hana_rounds.1	6 Rounds
+hana_rounds.2	9 Rounds
+hana_rounds.3	12 Rounds
+hana_menu.0	Start Hanafuda
+hana_menu.1	Card Help
+hana_menu.2	Yaku Help
+hana_menu.3	Tips for Winning
+hana_menu.4	Change Settings
+hana_menu.5	End Hanafuda
+hana_koikoi.0	 Koi-koi
+hana_koikoi.1	 Stop
+hana_koikoi.2	 View Cards
+hana_set.0	Rounds
+hana_set.1	Opponent Skill
+hana_set.2	Opponent Temper
+hana_set.3	First Dealer
+hana_set.4	Hand & Deck
+hana_set.5	Your Look
+hana_set.6	End Settings
+hana_val.0	 1 Round
+hana_val.1	 3 Rounds
+hana_val.2	 6 Rounds
+hana_val.3	 9 Rounds
+hana_val.4	 12 Rounds
+hana_val.5	 Weak 
+hana_val.6	 Normal
+hana_val.7	 Strong
+hana_val.10	 Timid
+hana_val.11	 Normal
+hana_val.12	 Bold 
+hana_val.15	 You  
+hana_val.16	 Opponent
+hana_val.17	 Decide by Draw
+hana_val.20	 Normal
+hana_val.21	 All Face Up
+hana_val.25	 Sakamoto Ryōma
+hana_val.26	 Hijikata Toshizō
+hana_val.27	 Free Character
+scom_menu.0	1 Player
+scom_menu.1	2 Players
+scom_menu.2	Striking Practice
+scom_menu.3	End Fencing
+prog_dash.0	---
+prog_funds.0	Funds

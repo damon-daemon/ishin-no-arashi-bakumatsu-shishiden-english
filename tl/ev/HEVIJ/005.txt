@@ -1,0 +1,975 @@
+@0
+As a member of the Shinsengumi, keeping the peace in Kyōto.
+
+@1
+Patrol Kyōto.
+
+@4
+I haven't been back to the Yagi residence lately. I'd better look in there.
+
+@5
+Ah, gentlemen.
+
+@6
+Commander Serizawa.
+
+@7
+Well, I was thinking of heading out to Shimabara. Will you join us?
+
+@8
+No... we must decline.
+
+@9
+Hm? Is Kondō-kun a teetotaller?
+
+@10
+It is Hijikata-kun who cannot drink, I believe.
+
+@12
+Is that so? Still, a little won't hurt, surely?
+
+@13
+We have been charged by the lord of Aizu with guarding Kyōto.
+
+@14
+Oho, how dutiful.
+
+@15
+Still, with so few men we can do little. As we begin our work in Kyōto, it is the way of the capital to make oneself known to the right people.
+
+@16
+Quite right! Ha ha ha!
+
+@18
+"That's true."\n"I have other things to do."
+
+@19
+That's true enough.
+
+@20
+Oh, Hijikata-kun understands. Will you come along?
+
+@21
+Toshi-san!
+
+@22
+...I was joking.
+
+@23
+If we are short of men, we must recruit members.
+
+@24
+...Hm. Kondō-kun is right.
+
+@25
+If we are short of men, we ought to recruit members.
+
+@27
+...Hm. Hijikata-kun is right.
+
+@28
+Very well, we shall leave the recruiting to you. We'll take care of Shimabara.
+
+@29
+A fine plan! Commander, a masterly stroke!
+
+@30
+Indeed, quite so!
+
+@31
+Ha ha! Kondō-dono, every task is an important duty, you know.
+
+@32
+Then I await your good news. Gah ha ha!
+
+@34
+Carousing at this hour. What does he think the corps' funds are for?
+
+@35
+Leave them be. Meanwhile we'll run the real business ourselves. By the time they notice, we'll have made sure they can't touch it.
+
+@37
+Gentlemen, it has been a long time!
+
+@38
+Oh, Saitō-kun! You're late!
+
+@39
+I was alarmed to hear the Rōshigumi had gone back to Edo. I never imagined you had stayed in Kyōto in the service of Aizu.
+
+@40
+Good, Saitō-kun shall help us recruit too. Go round the neighbouring dōjō and gather men of valour.
+
+@41
+Over several days they took on a few officer candidates and several dozen rank-and-file men.
+
+@42
+Let me introduce them to you all. These are our new recruits.
+
+@43
+Matsubara Chūji of Harima.\nI specialise in jūjutsu, but I also know the sword and the naginata.
+
+@44
+Tani Sanjūrō of Bitchū, Hōzōin-ryū spear. I heard Harada-kun was enrolled here and applied.
+
+@45
+Sanosuke, do you know him?
+
+@46
+Well, yes. He taught me the spear...
+
+@47
+Ha ha ha!
+
+@49
+Shimada Kai, from the Ōgaki Domain of Mino.
+
+@50
+I was born in Ōmi. My name is Arakida Samanosuke.
+
+@51
+Yamazaki Susumu, at your service. I was at a town dōjō in Ōsaka, so I know the situation of the merchants around here.
+
+@52
+My name is Kusunoki Kojūrō.
+
+@53
+Takeda Kanryūsai of Izumo. Leave military science to me.
+
+@54
+Sasaki Aijirō. I am young, but I ask for your guidance.
+
+@55
+Kawai Kisaburō. I was a townsman, so my swordsmanship is poor, but leave the accounts to me.
+
+@56
+The Shinsengumi's strength rose by 10!
+
+@57
+With this many men, the Yagi residence alone is too cramped. Let's set up headquarters at the Maekawa residence.
+
+@58
+First we need to patrol the ravaged city of Kyōto.
+
+@59
+Shall we divide the men into several units and assign them duties?
+
+@60
+Yes. I'll leave the choice of captains to you, Toshi-san.
+
+@61
+Decide the Shinsengumi's appointments.
+
+@63
+Time to head back to headquarters, I suppose...
+
+@64
+Kondō-kun, that's enough recruiting. Let's go drinking at Shimabara.
+
+@66
+Come now. Think of it as a founding ceremony for our party. Hijikata-kun will join us as well.
+
+@68
+(Toshi-san, there's nothing for it. Put up with it for now.)
+
+@69
+Gah ha ha! Ah, what fun!
+
+@70
+Hey, the sake is gone! Sake, sake!
+
+@73
+The peace of the capital depends entirely on our efforts!
+
+@74
+With the Commander's fame and our strength, the Shinsengumi's name will ring through the realm before many days are out.
+
+@75
+Now, Kondō-kun, Hijikata-kun, do your utmost.
+
+@76
+Hijikata-kun, if you can't take sake, how about some sweets?
+
+@77
+Niimi-san, he isn't a child. Sweets, really?
+
+@78
+True enough! Ha ha ha!!
+
+@80
+(Toshi-san, be patient.)
+
+@81
+Hey, the sake is gone! Sake, sake!
+
+@82
+Y-yes sir! Right away!
+
+@83
+Honestly, hopeless!
+
+@84
+But now that the men have gathered, we must think about organising the corps.
+
+@85
+I am the supreme commander, with Niimi-kun and Kondō-kun as my assistants. That will do, won't it?
+
+@86
+And below that?
+
+@87
+As Commander, I don't concern myself with such trifles. You work it out.
+
+@89
+There is one more thing. We must establish regulations within the corps.
+
+@90
+Later will do.
+
+@91
+How can you say that!
+
+@92
+There's no need to discuss such a thing at this celebration.
+
+@93
+I leave that to you as well. Kondō-kun is too fussy about details.
+
+@94
+If it is left to us... I have already thought of it.
+
+@98
+Let's see... "One: never stray from the way of the samurai." Hm, hm.
+
+@99
+"One: no man may leave the corps"...!!
+
+@100
+"One: no raising funds without leave. One: no taking up lawsuits without leave."
+
+@101
+"One: no private fights." Whoever breaks these articles...
+
+@102
+...is ordered to commit seppuku, all of them?!
+
+@103
+...This is absurd. Hijikata-kun, are you in your right mind?
+
+@104
+A band of rōshi with no ties to one another is nothing but a rabble. To weld it into an organisation, an iron code is indispensable.
+
+@105
+Hmm. But isn't this a bit too severe?
+
+@106
+...The Commander said he would leave everything to us.
+
+@107
+A samurai does not go back on his word.
+
+@108
+!! Do you mean to make fools of us?
+
+@109
+Well, Hijikata-kun has a point. For the Shinsengumi to make its name in Kyōto, a code that strict may be necessary.
+
+@112
+Pah! What is this sake?!
+
+@113
+...Cheap stuff, I'd say...
+
+@114
+Hey! Fetch the owner!
+
+@115
+Yes sir, what is it?
+
+@116
+What is it, he says?
+
+@117
+Er... was it not to your liking?
+
+@118
+Enough! Fetch the owner, I said!
+
+@119
+I'm afraid he's out just now...
+
+@120
+Oho, you think we're too drunk to tell good sake from bad, so you spin us lies?
+
+@121
+L-lies? That's too cruel...
+
+@122
+Or do you mean he won't see some rōshi of unknown origin?!
+
+@123
+No, not at all!
+
+@124
+We are in the service of the Aizu Domain!
+
+@125
+And this is the sake you serve us? Thought this swill was good enough for rōnin, did you?!
+
+@126
+Eeek!
+
+@127
+Stand by\nStop him
+
+@128
+(This is bad. What do we do, Toshi-san?)
+
+@129
+(Let him have his way.)
+
+@130
+Serizawa-san, that's enough...
+
+@131
+You keep out of this!
+
+@132
+(It's no use. We can only let him have his fill.)
+
+@133
+(...Hm.)
+
+@135
+Crash!! Smash!!
+
+@136
+Wh-what are you doing?!
+
+@137
+If the owner won't come out, I'll make him come out whether he likes it or not! Take that!!
+
+@138
+Crash!! Smash!!
+
+@139
+Please stop, please sto-- gah!
+
+@140
+Ha ha ha ha!!
+
+@141
+(That Serizawa... at this rate he'll bring about his own ruin.)
+
+@142
+(Yes...)
+
+@144
+Hijikata-kun.
+
+@146
+Sasaki-kun, the new recruit, deserted, so I cut him down.
+
+@147
+What? Why did he desert?
+
+@148
+I know nothing of that. I merely punished him according to the corps code.
+
+@150
+Well then, I leave the rest to you.
+
+@152
+Toshi-san, a word...
+
+@153
+Kondō-san, what does this mean?
+
+@154
+...Sasaki-kun was murdered by Serizawa.
+
+@155
+Why?
+
+@156
+It seems Serizawa set his eye on Sasaki-kun's woman and pressed him to give her up.
+
+@157
+A woman...
+
+@158
+Sasaki-kun was apparently deeply in love with her. They tried to elope, and walked straight into Serizawa and his men, who lay in wait for them.
+
+@159
+The woman is said to have bitten her tongue and killed herself on the spot. A pity, but it was her misfortune to catch that man's eye.
+
+@161
+Serizawa-han, Serizawa-han!
+
+@162
+Who is that woman?
+
+@163
+The mistress of the Hishiya's master. These days she's Serizawa-san's woman.
+
+@165
+Serizawa-san has run up a bill at the Hishiya, and apparently never paid a thing however much they dunned him.
+
+@166
+The master himself kept getting sent packing, so he sent his own mistress, thinking a woman might have better luck...
+
+@167
+But instead Serizawa-san sweet-talked her, and she fell for him completely.
+
+@168
+...The Hishiya's master is hopeless. Cheated of his money, and robbed of his woman too.
+
+@169
+Hm? What's that?
+
+@170
+A jōi levy! Hand it over, and be quick!
+
+@171
+Please, accept this and let us be.
+
+@172
+What? Can we expel the foreigners with this pittance? You must have hoarded plenty of ill-gotten wealth!
+
+@173
+So those are the levy-takers everyone talks about... It's plain armed robbery.
+
+@174
+Four of them...
+
+@175
+(So those are the levy-takers they talk about...)
+
+@176
+(Four of them... shall I do it?)
+
+@177
+Toshi-san.
+
+@179
+Kondō-san, you came at the right time. Over there, levy-takers.
+
+@180
+What!
+
+@181
+Good, our first job. Let's go!
+
+@182
+Thank you kindly. We've been having a terrible time with that sort. You've saved me, truly.
+
+@183
+You must be the famous Shinsengumi gentlemen. I'll call at your quarters later to thank you properly, and I hope we can count on you from now on.
+
+@184
+The Shinsengumi's wealth rose by 3!
+
+@185
+The Shinsengumi's influence rose by 2!
+
+@186
+Hijikata Toshizō's renown rose by 150!
+
+@187
+Lord Matsudaira, the Protector of Kyōto, has at last agreed to grant us an audience! Come with me, Toshi-san!
+
+@189
+Please, go through.
+
+@190
+Your resolve to give your lives in service of the realm is truly admirable. You give me confidence.
+
+@191
+Y-yes, my lord!
+
+@192
+His Highness is coming to Kyōto, yet radical rōshi hold sway, order has collapsed, and the beautiful capital is a shadow of itself. I want you to restore peace to this city.
+
+@193
+Your gracious words overwhelm me. I, Kondō Isami, will serve with my very life so as to meet Your Excellency's expectations.
+
+@194
+The Shinsengumi's wealth rose by 2!
+
+@196
+No, I'll pass.
+
+@197
+What are you saying? A chance like this is rare.
+
+@198
+Once the Shinsengumi makes its name, we'll be able to meet him any time.
+
+@199
+True enough... then I'll go alone.
+
+@200
+Hm, what's that!
+
+@201
+You are Lord Anegakōji Kintomo, I presume.
+
+@202
+W-who are you!
+
+@203
+I shall have your life!
+
+@204
+Satsuma speech?! A-an assassin! Bring me my sword!
+
+@205
+E-eek!
+
+@206
+H-hey, don't run away!
+
+@207
+Stand back.
+
+@209
+Oho...\nSo you'd be the Shinsengumi I've heard about?
+
+@211
+Kieeeee!!
+
+@212
+Aaaah!
+
+@213
+Anegakōji Kintomo has died!
+
+@214
+I am saved...\nMy thanks to you.
+
+@215
+No, this is my duty.
+
+@216
+Tanaka Shinbei has died!
+
+@217
+Damn!
+
+@218
+Wait!
+
+@219
+...He got away!
+
+@220
+The Shinsengumi's influence rose by 5!
+
+@221
+Hijikata Toshizō's renown rose by 70!
+
+@222
+Aaaah!
+
+@223
+Anegakōji Kintomo has died!
+
+@224
+Toshi-san, how should we spend the corps' funds?
+
+@225
+Recruit members\nBuy swords\nShare it among the members
+
+@226
+Let's gather men in preparation for an emergency.
+
+@227
+The Shinsengumi's strength rose by 5!
+
+@228
+The sword is the Shinsengumi's life. Let's stock up on arms.
+
+@229
+The Shinsengumi's armament rose by 2!
+
+@230
+Winning the men's hearts matters too. Let's hand it out to everyone.
+
+@231
+The Shinsengumi's morale rose by 2!
+
+@232
+Everyone, gather round!
+
+@233
+Toshi-san, come to the Yagi residence. Everyone is gathered.
+
+@234
+A special order from Lord Matsudaira, the Protector of Kyōto!
+
+@235
+The Shinsengumi will now go to guard His Highness, who is coming down to Ōsaka!
+
+@236
+Patrol Ōsaka.
+
+@237
+Oh, Toshi-san!
+
+@238
+You came at just the right time.
+
+@240
+Gentlemen of the Shinsengumi, thank you again for the trouble you took on that occasion.
+
+@241
+Ah, the merchant who was being shaken down in Kyōto that time.
+
+@242
+Yes. I was just about to hand Kondō-sama a token of thanks.
+
+@243
+This is...!
+
+@244
+A superb old blade, sir.
+
+@245
+Kotetsu! ...Are you sure?
+
+@246
+Please, take it.
+
+@247
+This is magnificent. I gratefully accept.
+
+@248
+Toshi-san, it seems Serizawa is looking for us. Let's go back to headquarters.
+
+@249
+Kondō-kun, I've hired a whole house for tonight. Bring everyone along for a drink, eh?
+
+@251
+Good, that's settled. Let's go, let's go.
+
+@252
+(Honestly, that Serizawa...)
+
+@253
+(...)
+
+@255
+Whoa there.
+
+@256
+What is it?
+
+@257
+Heh heh, road's closed.
+
+@259
+Gwaaah!!
+
+@261
+You're in the way.
+
+@263
+Wh-what...
+
+@264
+(He cut him down before I even saw him draw...)
+
+@265
+So many such fools lately, it's tiresome. Come, let's liven things up to cheer ourselves!
+
+@266
+Ha ha ha!
+
+@267
+? ...What is that?
+
+@268
+What is it, Okita?
+
+@269
+There's an uproar outside... ah, lots of wrestlers...
+
+@270
+This is bad.
+
+@271
+This won't end quietly.
+
+@272
+Come out, Shinsengumi! This is for our comrade!
+
+@273
+Ah? Haven't they learned their lesson?
+
+@274
+What shall we do?
+
+@275
+To them we're the enemy too. It's kill or be killed.
+
+@277
+Raaaah!!
+
+@278
+Gyah!
+
+@280
+Yaaah!
+
+@281
+What on earth is going on?
+
+@282
+A wrestler was insolent to the Commander, so we cut him down. That is all.
+
+@283
+And what insolence did this wrestler commit?
+
+@284
+He blocked the Commander's path and insulted him.
+
+@285
+There was no need to cut him down, was there?
+
+@286
+He insulted the Commander of the Shinsengumi, who is entrusted with the peace of Kyōto! Cutting him down was perfectly natural! No further inquiry is needed!
+
+@287
+Nonsense! Hey, you, wait!
+
+@288
+Wiping up after Serizawa... A thankless job for you, Kondō-san.
+
+@289
+I can't stand any more of this.
+
+@290
+Be patient for now. You saw his skill, didn't you? To get rid of that man we need proper preparation and resolve.
+
+@292
+But that yoriki. He took us for mere rōshi and looked down on us.
+
+@294
+I hear that, shogunate official or not, he has bought up all the oil, driven up the price and grown fat on the profit. A villain of the worst kind.
+
+@295
+"Let's cut him down."\n"Leave him be."
+
+@296
+Shall we cut him down?
+
+@297
+Yes, I'll fetch Harada-kun.
+
+@298
+Here he comes.
+
+@300
+Hm? You are of the Rōshigumi?
+
+@301
+Villain Uchiyama Hikojirō! For buying up the oil, raising prices and making the common people suffer, I shall execute you!
+
+@302
+Wh-what are you saying?!
+
+@303
+Enough, no arguments!
+
+@304
+Prepare yourself!
+
+@305
+Gwaaah!
+
+@306
+The Shinsengumi's influence rose by 1!
+
+@307
+The Shinsengumi's influence fell by 2!
+
+@308
+We've failed!
+
+@309
+He's small fry. Let's leave him be.
+
+@310
+Mm... true.
+
+@312
+Hijikata-san, they say we're going back to Mibu now. Let's return to headquarters.
+
+@313
+Our duty in Ōsaka is finished. We now return to headquarters at Mibu!
+
+@315
+The Shinsengumi's influence rose by 3!
+
+@316
+That's... Serizawa! What is he doing...?
+
+@317
+Bring out the owner, the owner!
+
+@318
+Eek, p-please forgive me!
+
+@319
+I hear that you asked the Shinsengumi to suppress the levy-takers, and then paid money to the robbers to beg for your life? It's because of that sort of thing that robbers grow bold.
+
+@320
+If you have money to give robbers, then our share is only proper. Bring ten thousand ryō this instant!
+
+@321
+T-ten thousand! That's outrageous!
+
+@322
+What? You can't? Oho...
+
+@323
+Then there is nothing for it. If that money reached the levy-takers, it would be our failing as keepers of Kyōto's peace. We must make sure it never happens again.
+
+@324
+Fire!
+
+@325
+Please stop!
+
+@326
+More, more! Burn all the ill-gotten wealth to ashes!
+
+@327
+Wh-what are you doing!
+
+@328
+On official business, we are punishing a villainous merchant. Interfere, and we will cut you down as a rebel against the authorities!
+
+@329
+Gah ha ha!
+
+@331
+An urgent order.\nWe have been commanded to guard the Imperial Palace. We deploy at once.
+
+@332
+Who goes there!
+
+@333
+We are the Shinsengumi! We have been commanded to guard the Imperial Palace!
+
+@334
+We have heard nothing. Begone.
+
+@335
+What!
+
+@336
+Now, now, wait.
+
+@337
+Commander.
+
+@338
+I am Serizawa Kamo, Commander of the Shinsengumi.
+
+@339
+You! Refuse passage to us, Aizu's own men, at so grave an hour, and forced seppuku afterwards will be the least of it. Hmm?
+
+@341
+P-please, go through.
+
+@342
+My, that's our Commander for you. What presence.
+
+@344
+On this day there unfolded a coup that greatly changed the course of the history of the Bakumatsu and the Restoration.
+
+@345
+Satsuma, alarmed by Chōshū's reckless course, sharply reversed its earlier sonnō-jōi policy.
+
+@346
+In cooperation with Aizu, it succeeded in sweeping the radical sonnō-jōi forces, Chōshū at their head, out of Kyōto.
+
+@347
+Now the sonnō-jōi men who strutted through Kyōto as if they owned it will go into hiding. What a relief.
+
+@348
+Kondō-san, don't let your guard down. From here on it's our turn.
+
+@349
+So now we can fight the rōshi without holding back.
+
+@350
+Yes. With Chōshū now barred from Kyōto, any rōshi loitering about the city must be a radical threatening the peace. The order is to cut them down on sight.
+
+@351
+Still, having the inspectors search Kyōto blindly gets us nowhere.
+
+@352
+Hm... true.
+
+@353
+We should narrow down the areas to search intensively.
+
+@354
+Meaning?
+
+@355
+For places where rōshi gather, Kawaramachi, where the Chōshū residence stands, and Nakagyō, which the levy-takers might target...
+
+@356
+And then Shimabara and Gion, with their many restaurants, I suppose.
+
+@359
+Toshi-san, have you heard about Serizawa and the Yamatoya affair?
+
+@360
+Yes, I saw it with my own eyes.
+
+@362
+He took his party, demanded ten thousand ryō, and when refused, burned down the Yamatoya's storehouse with a cannon out of spite...
+
+@363
+...Worse than any jōi rōnin.
+
+@364
+Because of it, Toshima-dono of Aizu's liaison office has summoned us. Come along, Toshi-san.
+
+@365
+...This affair is truly regrettable.
+
+@367
+My lord has long been deeply pained by Serizawa-sensei's conduct.
+
+@368
+Lord Matsudaira Katamori himself?! ...That is... I hardly know how to apologise.
+
+@369
+Kondō-dono.
+
+@370
+Sir!
+
+@371
+I leave the settling of this to you.
+
+@372
+!! ...Which means, that is...
+
+@373
+...You understand?
+
+@374
+...Yes. Understood.
+
+@375
+Toshi-san, it's finally time.
+
+@377
+Patrol and gather intelligence.\n(Priority areas: Kawaramachi, Nakagyō, Shimabara, Gion)
+

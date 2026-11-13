@@ -1,0 +1,477 @@
+@10
+But with so few men we can do little. If we are to work in Kyōto, it is the way of the capital to make our faces known in the proper quarters first.
+
+@13
+If we are short of men, we should simply recruit members.
+
+@20
+Then I shall await the good news. Ha ha ha!
+
+@21
+S2-kun, Nagakura-kun, you come along too.
+
+@24
+What masterly command today! That's Serizawa-sensei for you!
+
+@25
+Ha ha ha. It was nothing much.
+
+@26
+Still, Kondō-kun is far too stiff.
+
+@27
+Nagakura-kun. Was Kondō-kun like that back in Edo, too?
+
+@29
+...Well, never mind. Let's enjoy ourselves again today.
+
+@46
+Hm. The Yagi residence alone is too cramped! We shall put our headquarters in the Maekawa residence.
+
+@48
+S2-san, Hijikata-san is calling for you.
+
+@50
+Sorry to trouble you when you are busy.
+
+@51
+Today there is something I must tell Yamazaki-kun and S2-kun.
+
+@53
+As you know, the Shinsengumi has great expectations placed on it by the lord of Aizu.
+
+@54
+To raise the Shinsengumi's name, we must also round up many of the lawless rōnin who disturb the peace of Kyōto.
+
+@55
+For that reason, I want the two of you to take charge of searching the city as inspectors.
+
+@57
+Work knowing that the results you two bring in are the very life of the Shinsengumi.
+
+@59
+Let's both do our best.
+
+@60
+Search the city
+
+@62
+Are you S2-han?
+
+@63
+Yes, I am.
+
+@64
+There you are.
+
+@65
+I have been looking for you, S2-han.
+
+@66
+And you are?
+
+@67
+I'm Yamazaki, new to the Shinsengumi. Pleased to meet you.
+
+@68
+Pleased to meet you.
+
+@69
+You and I are to be inspectors, S2-han.
+
+@70
+Inspectors?
+
+@71
+Our job is to search the city and find lawless rōnin.
+
+@72
+You might say we are the eyes of the Shinsengumi.
+
+@74
+Let's both do our best!
+
+@75
+Oh, I nearly forgot the other thing I came to say.
+
+@76
+Headquarters has moved to the Maekawa residence. No use going to the Yagi residence.
+
+@78
+Search the city
+
+@82
+It seems Serizawa-sensei has something to tell us.
+
+@83
+Hm. Everyone's here.
+
+@84
+Then, Kondō-sensei. If you please.
+
+@86
+I have just come from my audience with Lord Matsudaira, Protector of Kyōto!
+
+@88
+He is pleased with our work, and told us to devote ourselves still more to keeping the peace of Kyōto.
+
+@90
+Each of you, serve with your lives to live up to Lord Matsudaira's hopes.
+
+@92
+Serizawa-sensei is calling for you.
+
+@93
+Hm. Everyone's here.
+
+@94
+We are going now to cut down the new recruit, Sasaki-kun!
+
+@95
+Why is that?
+
+@98
+Because he has lost himself in a woman and neglects his duties.
+
+@99
+He is to be punished according to the corps code!
+
+@100
+So we would like you to go, S2-kun.
+
+@102
+If Kondō's men are not to notice, you are the right one for it.
+
+@103
+Keep it from them?!
+
+@105
+What is wrong with cutting down one who broke the corps code?!
+
+@106
+Quite right! Will you do it?
+
+@107
+"I'll do it"\n"I cannot"
+
+@108
+Only you can carry out this task.
+
+@109
+I beg you, take it on.
+
+@110
+"I'll do it"\nDecline
+
+@112
+We shall pick someone else.
+
+@113
+Good of you to take it on.
+
+@114
+Lie in wait at Hongoku-ji in Shimabara!
+
+@116
+Come, let's go quickly!
+
+@117
+Sasaki-sama. Please wait.
+
+@118
+Sasaki-dono. What are you doing?
+
+@119
+Tch! I will cause you no trouble, S2-dono. Please look the other way.
+
+@120
+I beg you as well.
+
+@121
+"Let him go"\n"Cut him down"
+
+@122
+Be off with you at once...
+
+@124
+Thank you very much.
+
+@125
+I saw it all clearly.
+
+@127
+Well, I shall keep this to myself.
+
+@128
+If you do the same again, it will not be settled quietly.
+
+@129
+And by the way, I cut Sasaki down myself.
+
+@131
+Leaving the corps is forbidden!
+
+@132
+Kondō-kun.
+
+@135
+What? Why did he desert?
+
+@142
+What? Is this all? Do you think this will accomplish jōi?! You must have stashed away ill-gotten wealth all this time!
+
+@145
+S2-kun.
+
+@147
+You came at just the right moment, everyone. Levy-takers, over there!
+
+@148
+Well now!
+
+@154
+Renown rose by 150!
+
+@155
+We are preparing for battle. Be off!
+
+@156
+Oh. S2-kun, is that you!
+
+@157
+We're about to go to war with the foreigners.
+
+@158
+S2-kun, lend us a hand.
+
+@161
+Oh well...
+
+@162
+I will back you up, too.
+
+@163
+That is reassuring!
+
+@164
+Ah, you came.
+
+@165
+My comrade S2-kun has come to fight at our side.
+
+@166
+That is reassuring!
+
+@167
+Sorry about this.
+
+@168
+How goes the battle?
+
+@169
+The cannon are almost all knocked out!
+
+@170
+Aaagh!
+
+@171
+Swords alone are no use against this!
+
+@172
+And how is it on your side?
+
+@173
+Nearly wiped out...
+
+@175
+Chōshū answered the shogunate's jōi deadline and drove off the foreign ships passing through Shimonoseki, but the counterattack by America and France cost it dearly.
+
+@176
+That war made Chōshū feel how reckless jōi was, and its thinking turned toward opening the country.
+
+@179
+Oh, S2-kun.
+
+@180
+What are you doing here?
+
+@181
+I have built an army centred on farmers.
+
+@182
+Farmers can't fight a war\nWell, well!
+
+@183
+Can farmers really fight a war?
+
+@184
+From now on, the strength of the common people is what matters.
+
+@186
+Well, come on up.
+
+@187
+You know the power of the peasant uprisings. I mean to make use of that power.
+
+@188
+Besides, a farmer with some spirit is more reliable than a thoroughly rotten samurai.
+
+@190
+I have named it the "Kiheitai". What do you think?
+
+@191
+Kiheitai?
+
+@192
+If the domain's regular troops are the "orthodox" force, then the farmers' army is the "unorthodox" one.
+
+@193
+The Kiheitai will take in the good points of foreign armies and become the strongest army there is.
+
+@195
+Takasugi-kun, what is it?
+
+@196
+Ah, S2-kun.
+
+@197
+An acquaintance of yours?
+
+@198
+A friend has come to visit. Let me introduce you: this is S2 M2.
+
+@199
+How do you do.
+
+@200
+How do you do. My name is Irie.
+
+@201
+Irie-kun is helping me too.
+
+@202
+What about it, S2-kun, will you join us?
+
+@203
+I would very much like to\nNo, thank you
+
+@204
+Yes, please let me join!
+
+@205
+You'd be most welcome! ...Or so I'd like to say, but in fact our numbers are full.
+
+@206
+I did not mean to tease you. I am sorry.
+
+@207
+I'll gratefully take the thought, at least.
+
+@208
+If I joined, I would only cause all of you trouble.
+
+@210
+We are busy right now. Come back later.
+
+@214
+Serizawa-han is calling for you.
+
+@215
+A special order from Lord Matsudaira, Protector of Kyōto!
+
+@217
+Oh, Ōsaka! It has been a long time.
+
+@218
+I hear you are from Ōsaka, Yamazaki-san.
+
+@219
+That's right. I'm looking forward to it.
+
+@220
+Sorry to interrupt. May I borrow S2-san for a moment?
+
+@222
+What is it, Hijikata-san?
+
+@223
+It is about guarding His Highness. I want you to stay here, S2-san.
+
+@224
+Why is that?
+
+@225
+I want you to keep up your work searching the city.
+
+@226
+I plan to ask Yamazaki-kun to act as guide in Ōsaka.
+
+@227
+In the meantime, I don't want to take my eyes off Kyōto for a moment.
+
+@228
+I hope you understand.
+
+@229
+"Understood"\n"I'm going to Ōsaka!"
+
+@230
+I am counting on you, S2-san. Please, accept.
+
+@231
+"Understood"\n"I'm going to Ōsaka!"
+
+@232
+Very well... I'll ask another man...
+
+@233
+You'll be the only one left here, S2-san, but I'm counting on you.
+
+@235
+S2-san.
+
+@236
+It seems Serizawa-san is looking for us. Let's go back to headquarters.
+
+@239
+Good, it is settled. Let's go.
+
+@240
+With this heat day after day, who can think of corps duties, eh, Kondō-dono?
+
+@253
+That's our Commander! What lightning speed!
+
+@270
+Ha ha ha. Make light of the Shinsengumi and you will suffer for it.
+
+@271
+Clatter... clatter clatter.
+
+@272
+Hm? What is that?
+
+@273
+Tenchū!!!
+
+@274
+Curse it...
+
+@275
+To strike while the Commander is away...
+
+@276
+S2-san.
+
+@277
+They say we are returning to Mibu now. Let's go back to headquarters.
+
+@280
+S2-san. Thank you for your work while we were away.
+
+@281
+Are you just back?
+
+@282
+Yes. I'm counting on you to carry on as an inspector.
+

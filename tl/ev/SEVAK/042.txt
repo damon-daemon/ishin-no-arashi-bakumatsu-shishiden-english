@@ -1,0 +1,192 @@
+@0
+Hey.
+
+@2
+Over here.
+
+@3
+...Just a beggar.
+
+@4
+Hey, Sakamoto-kun!
+
+@5
+Hm? K-Katsura-san?!
+
+@6
+Shh!!
+
+@8
+Well, well...
+
+@9
+That's a splendid disguise.
+
+@10
+You're careless. Walking about so boldly is dangerous.
+
+@12
+It seems the Chōshū army is marching on Kyōto. After the Ikedaya, they could no longer hold back the hotheads.
+
+@13
+So it will be war.
+
+@14
+I will do all I can to settle things peacefully until the last moment.
+
+@15
+That'll be hard.
+
+@16
+Kusaka-san, where are you off to?
+
+@17
+Need you ask? To stop Kijima-dono.
+
+@19
+Kijima-dono!
+
+@20
+Oh, Kusaka! Have you come as well?!
+
+@21
+Let me petition the Court to pardon Chōshū. Until then, I beg you to hold off the march!
+
+@22
+Still spouting such soft nonsense! Are those court lackeys men who listen to reason?!
+
+@23
+Kijima-dono, that is exactly what they want!
+
+@25
+Kusaka, since when did you become such a coward?!\nNow, to remove the traitors around the throne, Satsuma and Aizu, and set His Majesty's seat at ease, what is there to hesitate over?!
+
+@26
+If we cause a disturbance at the Imperial Palace, we will be branded enemies of the Court!
+
+@27
+Enough, enough! I'll go even if I go alone! Destroy the Satsuma thieves and Aizu villains!
+
+@28
+Kijima-dono! Maki-sensei, please stop Kijima-dono!
+
+@29
+...I will march as well.
+
+@30
+Maki-dono?!
+
+@31
+Sitting on our hands like this, we only wither away.\nTo break this deadlock, whatever the outcome, we have no choice but to act.
+
+@32
+It's reckless! And to turn troops against the Imperial Court...
+
+@33
+Even if the form is that of Ashikaga Takauji, what matters is that the heart is that of Kusunoki Masashige.
+
+@34
+!! ...
+
+@35
+(No good... nothing I say is any use now.)
+
+@36
+It's hopeless... no one can stop them now.
+
+@37
+If the Chōshū army fights, all we can do is charge in.
+
+@38
+Fight together\nDon't fight
+
+@39
+I'll fight too! Let me join your Yūgekitai!
+
+@40
+Oh, of course!
+
+@41
+Nakaoka... don't die!
+
+@42
+...Right!
+
+@51
+Ryōma, this is bad! Kijima-dono has fallen in battle!
+
+@53
+We've lost! Let's retreat!
+
+@54
+Chōshū was defeated.
+
+@55
+They attacked with terrifying fury and for a time closed in on the Imperial Palace, but in the end the hopeless difference in numbers decided the day.
+
+@57
+The fierce commander Kijima Matabei fell in battle.
+
+@58
+How bitter...!
+
+@59
+Kusaka, Irie and the other leading pupils of Shōin took their own lives.
+
+@60
+Maki Izumi, who led the rōshi Yūgekitai, killed himself on Mt. Tennō.
+
+@61
+After this battle, a complete victory for the shogunate, still harsher trials would fall upon Chōshū.
+
+@62
+...It was Kijima-dono and I who urged the march. The blame for throwing away so many fine men, Kusaka-dono, Irie-dono and the rest, lies heavy on me.
+
+@63
+Maki-dono!
+
+@64
+Kijima-dono met a magnificent death in battle. I too will make this my place to die.
+
+@65
+Maki-dono! It's the pursuit force... S-Shinsengumi!
+
+@66
+Oh?! That place looks just like the terrain in the military books! Right, I'll lure them in there and scatter the pursuers.
+
+@67
+That should have scattered them a little. Let's go!
+
+@68
+Sakamoto-kun, you must live! I leave the rest to you!
+
+@69
+Maki-dono?!
+
+@70
+Guh...!!
+
+@71
+Maki-dono!!
+
+@72
+Chōshū was defeated.
+
+@73
+They attacked with terrifying fury and for a time closed in on the Imperial Palace, but in the end the hopeless difference in numbers decided the day.
+
+@75
+The fierce commander Kijima Matabei fell in battle.
+
+@76
+How bitter...!
+
+@77
+Kusaka, Irie and the other leading pupils of Shōin took their own lives.
+
+@78
+Maki Izumi, who led the rōshi Yūgekitai, killed himself on Mt. Tennō.
+
+@79
+After this battle, a complete victory for the shogunate, still harsher trials would fall upon Chōshū.
+

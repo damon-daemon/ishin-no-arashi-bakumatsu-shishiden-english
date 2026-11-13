@@ -1,0 +1,72 @@
+@0
+Shinohara-kun and I have something we'd like to look into, so we'd like to act separately.
+
+@2
+Hm... very well.
+
+@5
+Chōshū! They brushed aside our demand for a reduction of their fief without a second thought.
+
+@6
+It seems they feign submission on the surface while steadily preparing their forces behind our backs.
+
+@7
+Outrageous!\nSo a settlement by negotiation was impossible after all!
+
+@8
+Yet Satsuma, the main force of the last expedition, and Owari, which supplied its commander, refuse to join the fight.\nThis will not be an easy war.
+
+@9
+"Chōshū must be abolished"\n"Keep the fighting to a minimum"
+
+@10
+But there is nothing for it but to abolish Chōshū.
+
+@11
+Yes. We must have Geishū, who know Chōshū's circumstances well, work for us.
+
+@12
+A battle cannot be avoided. But the Chōshū army is strong. We should muster overwhelming numbers and hold the damage to a minimum.
+
+@13
+Yes. For that too, I very much want Geishū's cooperation.
+
+@16
+We're about to confer with the lord of Geishū on the expedition. Will you come along?
+
+@19
+Ah, Kondō-sama. Please, go in.
+
+@21
+For this Chōshū expedition, Geishū's strength is indispensable after all.
+
+@22
+With overwhelming superiority in numbers, we mean to end the Chōshū war quickly. We ask Geishū's cooperation too.
+
+@23
+We particularly ask Geishū to guide our advance into Chōshū.
+
+@24
+Hmmm...
+
+@26
+We are most obliged!
+
+@27
+To let you use Hiroshima as headquarters, we must spend a vast sum on preparations. This time we can do no more than mobilise a part of the domain's troops.
+
+@28
+We will join the war. But I would not have you expect too much of us.
+
+@29
+To let you use Hiroshima as headquarters, we must spend a vast sum on preparations. Given Geishū's finances, that is all we can manage.
+
+@30
+I am sorry, but this time we would like to hold back the domain's troops.
+
+@33
+I see.\nThen wait for us here.
+
+@35
+Right, back to Kyōto.
+

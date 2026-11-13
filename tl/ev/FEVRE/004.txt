@@ -1,0 +1,585 @@
+@0
+This is the Shinsengumi headquarters. If you have no business here, leave before you get hurt.
+
+@1
+Ask to join\nHurl abuse and run\nWalk away
+
+@2
+Hmph, how high and mighty!
+
+@3
+What?! Hey! Stop right there!
+
+@4
+What? You say you wish to join? Then wait a moment.
+
+@5
+Good day. Are you the one who wishes to join?
+
+@7
+Make fun of me and you'll be sorry... Please leave.
+
+@8
+I see. The Commander is away at present, so... Hm?
+
+@9
+Looking closely, you have a rather pretty face. Are you perhaps a woman?
+
+@11
+Ahaha! Then you can't join the Shinsengumi. You'd better go home before Hijikata-san and the others get here.
+
+@12
+I see. But I don't think you can join the Shinsengumi. After all, you're really a woman, aren't you?
+
+@13
+It's a pity, for my part, but you'd better go home before Hijikata-san and the others get here.
+
+@14
+Well then, excuse me... Ah, wait...
+
+@15
+...No, I was going to ask your name, but I think I won't after all.
+
+@16
+It's not my place to say, but Kyōto is dangerous, so take care. I hope you never become our enemy.
+
+@17
+None of the officers is free at the moment. Come back another time.
+
+@18
+What is that army?
+
+@19
+At last the time has come for us to rise! We shall clear the way for the Emperor's progress to Yamato!
+
+@20
+The Tenchūgumi?
+
+@21
+Join them\nWalk away
+
+@24
+May I join you as well?
+
+@25
+Oh, a sonnō-jōi shishi like us! You are most welcome!
+
+@27
+May I join you as well?
+
+@28
+Oh, a sonnō-jōi shishi like us! You are most welcome!
+
+@31
+Right, let's go!
+
+@32
+Two days later --
+
+@38
+What?!
+
+@51
+Then we must see Lord Nakayama safe to Chōshū, whatever it takes. We shall be the sacrificial stones.
+
+@64
+Ike-kun, S2-kun! Protect Lord Nakayama and make for Chōshū!
+
+@73
+Oh, S2-dono! So you came too!
+
+@74
+Hm? Who might you be?
+
+@75
+I am S1 M1.
+
+@76
+A shishi of the Emperor's cause, then. I am Nakaoka Shintarō.
+
+@77
+Many of the rōshi who were in Kyōto have gathered here in Mitajiri.
+
+@80
+We rōnin have decided to form a sonnō-jōi army to help Chōshū, the Yūgekitai. Join us.
+
+@84
+Oh, S2-han.
+
+@85
+It seems a Chōshū rōnin is hiding somewhere near here.
+
+@86
+A Chōshū rōnin?
+
+@87
+That's right.
+
+@88
+It's our duty, so let's find him.
+
+@89
+Oh. Pardon me.
+
+@91
+Hey, shopkeeper. Who was that samurai just now?
+
+@92
+I could not say, sir.
+
+@94
+(Shall I hide and watch...)
+
+@95
+Ah, I'm back.
+
+@96
+Someone has been asking about you, sir. Please be careful.
+
+@97
+Hm. Our identities have not been discovered, I trust?
+
+@98
+Yes. You have nothing to worry about.
+
+@99
+The crackdown on Chōshū is getting stricter, so let us take care.
+
+@100
+Chōshū?! I must tell Hijikata-san!
+
+@101
+A Chōshū rōnin is hiding in the Shinoya inn in Nakagyō!
+
+@102
+What! Sōji, Takeda-kun, we move out.
+
+@103
+Right away!
+
+@107
+Renown rose by 25!
+
+@109
+S2-han, we've been called to assemble!
+
+@130
+Everyone, devote yourselves to your duties.
+
+@134
+S2-san. Hijikata-san was looking for you.
+
+@135
+I see. I'll go at once, then...
+
+@136
+It is probably about Serizawa-sensei.
+
+@138
+It seems to be an order from the lord of Aizu.
+
+@140
+S2-san, could you come here for a moment?
+
+@141
+I will be off, then.
+
+@142
+Ah, S2-kun. Have you heard about the business with Serizawa at the Yamatoya?
+
+@143
+No.
+
+@146
+Because of it, Toshima-dono, Aizu's liaison officer, summoned me, and I went with Toshi-san.
+
+@147
+It seems Lord Matsudaira is deeply distressed by Serizawa's conduct.
+
+@148
+So Toshima-dono tacitly left Serizawa's fate to us. We may take it as an order to dispose of him.
+
+@150
+We will cut Serizawa down with our own hands!
+
+@151
+So I want you to keep watch on Serizawa's movements, S2-san.
+
+@152
+You are an inspector, so I expect you to do it without a slip.
+
+@153
+Will you do it for me?
+
+@154
+"Yes"\n"..."
+
+@155
+Serizawa uses the Yagi residence. Look in on him every so often.
+
+@156
+...I will ask Yamazaki-kun instead.
+
+@159
+What, Gion? Then let us go too.
+
+@160
+(It seems Niimi is alone.)
+
+@161
+(It seems Niimi is alone.)
+
+@162
+Do nothing\nReport to Kondō and the others
+
+@163
+(It has nothing to do with me...)
+
+@164
+(It has nothing to do with me...)
+
+@166
+Have you found out anything?
+
+@167
+Yes. I will tell you in the back room...
+
+@168
+It seems Niimi is alone at the Ichiriki in Gion.
+
+@169
+That's a stroke of luck!
+
+@170
+Let us start with Niimi, then!
+
+@171
+I'll keep Serizawa busy. Toshi-san and S2-kun, finish off Niimi.
+
+@172
+Understood!
+
+@177
+First fill in the outer moat... is that it?
+
+@179
+To put it plainly, we just cut them down one by one, right?
+
+@201
+It's too late for that. By Lord Matsudaira's grace, you have already been granted a samurai's end.
+
+@205
+Help him, so that nothing of that sort happens to Niimi-sensei.
+
+@208
+Sensei, this is how it's done... Forgive me!
+
+@224
+That is not necessary. The corps code is absolute. Even the Commander cannot bend this iron rule!
+
+@228
+It was from this time that the unprecedented corps code devised by Hijikata, with seppuku for every violator, began to be enforced.
+
+@230
+The code was born from pursuing to the very limit the spirit of the warrior, forgotten during the long peace.
+
+@231
+S2-san. Do you have a moment?
+
+@232
+"Yes"\n"Not just now..."
+
+@233
+Oh, I see.
+
+@234
+Then let me give you just one piece of advice.
+
+@236
+You'd better not stay too close to Serizawa-sensei.
+
+@237
+Depending on how things go...
+
+@238
+Oops. I mustn't keep you too long.
+
+@239
+Well, I'll be off.
+
+@241
+I expect you know that a ruling has come down on Serizawa-sensei.
+
+@242
+Depending on how things go, S2-san, you might be dragged down with him.
+
+@244
+It seems Hijikata-san and the others want to get rid of every man in Serizawa-sensei's circle.
+
+@245
+The plan is said to start very soon, so take great care.
+
+@246
+Thank you for the warning.
+
+@247
+Good luck with your work as an inspector.
+
+@248
+S2-han. I hear Niimi-sensei has committed seppuku.
+
+@250
+The story is that he was ordered to commit seppuku for neglecting his duties, because of all the reckless things he did under Serizawa-sensei.
+
+@251
+We had better do our best too, so that we are not made to commit seppuku.
+
+@252
+S2-kun. I've been looking for you!
+
+@253
+You came all the way out here...?
+
+@254
+Niimi-sensei has committed seppuku...
+
+@256
+This must surely be a plot by Kondō and Hijikata.
+
+@257
+Be very careful of those men!
+
+@258
+S2-san. Do you have a moment?
+
+@259
+"Yes"\n"Not just now..."
+
+@260
+Oh, I see.
+
+@261
+Then let me give you just one piece of advice.
+
+@263
+You'd better not stay too close to Serizawa-sensei.
+
+@264
+Depending on how things go...
+
+@265
+Oops. I mustn't keep you too long.
+
+@266
+Well, I'll be off.
+
+@268
+I expect you know that a ruling has come down on Serizawa-sensei.
+
+@269
+Depending on how things go, S2-san, you might be dragged down with him.
+
+@271
+It seems Hijikata-san and the others want to get rid of every man in Serizawa-sensei's circle.
+
+@272
+The plan is said to start very soon.
+
+@273
+Thank you for the warning.
+
+@274
+Good luck with your work as an inspector.
+
+@275
+Hey, S2-san.
+
+@276
+I've been looking for you!
+
+@277
+What is it?
+
+@278
+Kondō has invited us to a banquet.
+
+@280
+We're to gather at the Sumiya in Shimabara.
+
+@282
+Go to the Sumiya\nDon't go
+
+@283
+(I'll skip it today.)
+
+@284
+(I don't feel like it...)
+
+@285
+Hijikata-san is waiting for you in the back.
+
+@287
+What is it?
+
+@288
+Last night at the Yagi residence, Serizawa-sensei and the others were attacked by assassins in their sleep and met untimely deaths...
+
+@289
+Take great care yourself, S2-san.
+
+@291
+Okita-kun. S2's not here.
+
+@292
+Nowhere to be seen...
+
+@293
+If only S2 weren't one of Serizawa's men. Such a waste of a good inspector...
+
+@294
+Let's give up for today. We'll just cut them down on sight.
+
+@295
+This far out, I should be safe...
+
+@296
+I can no longer go near Kyōto...
+
+@297
+I can no longer go near Kyōto...
+
+@298
+Active as a shishi on the shogunate's side
+
+@299
+Train in swordsmanship and study to improve your abilities
+
+@300
+Meet many important figures to raise your renown
+
+@301
+S2-san, come here a moment.
+
+@302
+I heard there is a banquet at the Sumiya...
+
+@303
+There is some suspicious activity at the Chōshū residence. I want you to find out what is going on.
+
+@304
+Go to the Chōshū residence\nGo to the banquet
+
+@305
+The Chōshū residence, understood. I will go at once.
+
+@306
+I am counting on you!
+
+@307
+(Nothing out of the ordinary, it seems...)
+
+@308
+(Nothing out of the ordinary, it seems...)
+
+@309
+Hijikata-san is waiting for you in the back.
+
+@311
+There was nothing in particular at the Chōshū residence.
+
+@313
+That report was a false alarm.
+
+@314
+By the way, last night at the Yagi residence, Serizawa-sensei and the others were attacked by assassins in their sleep and met untimely deaths...
+
+@315
+Take great care yourself, S2-san.
+
+@331
+Niimi, drink too!
+
+@332
+I can't drink any more either...
+
+@349
+Gyaah!
+
+@352
+What's going on?!
+
+@353
+Kondō's men have cut Sensei down!
+
+@354
+What!
+
+@355
+A purge.
+
+@356
+You must disappear too, S2-san! We've been told to cut down everyone under Serizawa's sway!
+
+@357
+Damn! Got away!
+
+@358
+They're nothing without Serizawa anyway.
+
+@359
+True. When I find them, I'll cut them to pieces!
+
+@360
+This far out, I should be safe...
+
+@361
+Active as a shishi on the shogunate's side
+
+@362
+Train in swordsmanship and study to improve your abilities
+
+@363
+Meet many important figures to raise your renown
+
+@364
+Found you! Time for the purge!
+
+@365
+Tch... This time you won't get away.
+
+@366
+Found you! Time for the purge!
+
+@367
+Tch... This time you won't escape.
+
+@368
+Found you! Time for the purge!
+
+@369
+Tch... This time you won't escape.
+
+@370
+Found you! Time for the purge!
+
+@371
+Tch... This time you won't escape.
+
+@372
+Found you! Time for the purge!
+
+@373
+Tch... This time you won't escape.
+
+@374
+S2-han, it looks like new members have joined.
+
+@377
+S2-han, the Shinsengumi's real work starts now, eh?
+
+@378
+Yes, it does.
+
+@382
+Ōishi-kun goes straight to the front line. Abe-kun, I want you to study gunnery.
+

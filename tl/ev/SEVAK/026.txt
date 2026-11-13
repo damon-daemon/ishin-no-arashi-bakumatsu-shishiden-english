@@ -1,0 +1,537 @@
+@0
+Moving to Ōsaka, where the Satsuma residence stands.
+
+@1
+With a warrant out on me, I suppose I can't leave Ōsaka for a while.
+
+@2
+This is dull. What am I supposed to do with myself?
+
+@3
+Under Satsuma's protection in Ōsaka
+
+@4
+Lying low in Ōsaka
+
+@6
+Sakamoto-san, the domain office has given its permission. We would like to invite you all to Kagoshima.
+
+@7
+But there is no cabin on the ship for your wife.
+
+@8
+W-wife?!
+
+@10
+...I see.
+
+@11
+We will look after her with great care here at the residence.
+
+@12
+I am obliged to you.
+
+@13
+Please don't worry about me. Go on ahead.
+
+@14
+But there is no cabin on the ship for your wife.
+
+@15
+W-wife?!
+
+@16
+...I see.
+
+@17
+We will look after her with great care here at the residence.
+
+@18
+I am obliged to you.
+
+@20
+Sakamoto-san, please stay at my house tonight.
+
+@21
+I'm much obliged.
+
+@22
+I'm sorry it is such a cramped house.
+
+@23
+? I heard you had a lot of brothers, though.
+
+@24
+Ha ha, they have all gone out to play in the neighbourhood.
+
+@25
+...(He's gone out of his way to be considerate.)
+
+@26
+Visiting Kagoshima
+
+@27
+Stroll around Kagoshima
+
+@28
+Meet people of Satsuma
+
+@29
+Sakamoto-san, allow me to introduce you. This is Komatsu Tatewaki, a house elder of our domain.
+
+@30
+Komatsu, at your service.
+
+@32
+I hear you mean to build a navy.
+
+@33
+"Leave it to me"\n"We'll trade as well"
+
+@34
+Yes, leave it to me.
+
+@35
+I'm counting on you.
+
+@36
+A navy is not all, sir. I mean to go into business too.
+
+@37
+Business?
+
+@38
+Trade, that is. With ships, we can make a great profit.
+
+@39
+Just so. Trade is a golden goose.
+
+@40
+But the shogunate does not allow the domains to trade. It opens only its own territory's ports, so trade will become a shogunate monopoly. And then what happens?
+
+@41
+...Money will keep rolling into the shogunate.
+
+@42
+The shogunate's might faded for one reason only: it had no money. With money coming in and weapons in hand, it will no longer need to defer to the domains.
+
+@43
+Any domain that goes against its wishes will be beaten down like Chōshū and swept away one after another.
+
+@46
+By the way, Sakamoto-san.
+
+@47
+Ryōma-dono, a letter has come for you.
+
+@48
+Sakamoto-sama, a letter has come for you.
+
+@49
+Oh? A letter...
+
+@50
+To Saitani Umetarō\n\nChōshū is truly something.
+
+@51
+Takasugi, who had fled to Kyūshū, came back and brilliantly overthrew the conservative government of Chōshū. The domain's rule is once more in the hands of the loyalists.
+
+@52
+First, with Ike Kurata of our own domain, he seized the Chōshū fleet at Mitajiri, brought it off Hagi and menaced the conservative government.
+
+@53
+The Kiheitai under Yamagata Aritomo answered the call, and after fierce fighting they scattered the pro-shogunate upper-samurai army. Their skill was dazzling, and I was truly amazed.
+
+@54
+The loyalists' position remains as harsh as ever. But as long as Chōshū lives, there is still hope.
+
+@55
+The key to changing the times lies in Satsuma, where you are.\nIshikawa Seinosuke
+
+@56
+Nakaoka! So Kurata is doing his part too!
+
+@57
+Do you know Ōkubo Ichiō, the shogunate's Magistrate of Finance?
+
+@58
+He was Katsu-sensei's mentor.
+
+@59
+Ah, so that is how he knows you, Sakamoto-san.
+
+@60
+What? Ōkubo-san is in Ōsaka?
+
+@61
+I met him at the Castle Warden's lower residence.
+
+@62
+No.
+
+@63
+I met him at the Castle Warden's lower residence. They say he was Katsu Kaishū's mentor, a most admirable man.
+
+@64
+Visit Ōkubo Ichiō at the Ōsaka Castle Warden's lower residence
+
+@66
+Ryō-! ...
+
+@67
+Ah, Ōkubo-san.
+
+@68
+(Come over here!)
+
+@69
+Who are you? What is your business?
+
+@70
+I am Sakamoto Ryōma, Katsu-sensei's foremost pupil.
+
+@71
+What, Katsu-dono's? Then you are from the naval school!
+
+@72
+What are you doing in a place like this?! You are taken for the leader of the Tosa radicals. If the shogunate inspectors find you, you are a dead man.
+
+@74
+What have you been doing?
+
+@75
+I am being looked after by Satsuma.
+
+@76
+Satsuma, is it? Then you are safe for the moment, at least...
+
+@77
+Is Katsu-sensei all right?
+
+@78
+Yes, it seems he got off with confinement to his house. But as long as Oguri is there, he may never return to the centre of politics.
+
+@79
+This Oguri...
+
+@80
+Oguri Tadamasa, a man of the first rank. Character and ideas aside, no one in the shogunate's council today surpasses him in wit and nerve.
+
+@81
+That good?
+
+@82
+Yes, and that is the danger. No one is more loyal to the shogunate than he. He would sell Japan for the sake of the Tokugawa.
+
+@84
+What Oguri and the hardliners aim for is a Tokugawa dictatorship, with the domains themselves abolished.
+
+@85
+What?!
+
+@86
+A shogunate with no money cannot possibly manage that. To bring it about, Oguri means to borrow an enormous sum from France and buy ships and weapons.
+
+@87
+Most likely Ezo or thereabouts is pledged as security.
+
+@89
+What happened in Qing China is about to happen here in Japan.
+
+@90
+(If we don't hurry and bring down the shogunate, Chōshū and Satsuma will both be wiped out.)
+
+@91
+Whoa!
+
+@93
+Ow! Where d'you think you're looking?!
+
+@94
+Sorry, sorry.
+
+@95
+...A busy town.
+
+@97
+I've been had! Someone's picked my pocket!
+
+@98
+Heh, easy pickings.
+
+@99
+What's this?! What a pittance!
+
+@100
+Taking from a poor man like this goes against my nature.
+
+@101
+Sakamoto-san, someone has brought in something you dropped.
+
+@102
+Something I dropped? Ah, my purse!
+
+@103
+Huh, there's more in it than before...??
+
+@104
+Oh, this is something! So this is where weapons get made.
+
+@105
+Domestic Insight rose by 1!
+
+@106
+Foreign Insight rose by 2!
+
+@107
+Foreign Insight rose by 1!
+
+@108
+Ah, Sakamoto-san. Please come in.
+
+@109
+...I'm thinking of starting a company.
+
+@110
+A "company"?
+
+@111
+A group that makes money from other people's investment. If Satsuma becomes the investor, we will return the profit made from trade.
+
+@112
+In effect, we could trade far more than now, behind the shogunate's back?
+
+@113
+Yes. It looks like a band of rōnin, so even if the shogunate finds us, the investors will not be troubled.
+
+@115
+What is more, we can buy weapons from abroad.
+
+@116
+Oh!
+
+@117
+And when war comes, we can fight as a navy.
+
+@118
+Hmm, interesting! Understood. I will ask Lord Hisamitsu to have Satsuma invest in this company.
+
+@119
+Ah, Kichinosuke-don!
+
+@120
+Ichizō-don, what is the matter?
+
+@121
+The shogunate is going to attack Chōshū again.
+
+@123
+...And who might this be?
+
+@124
+This is Sakamoto of Tosa.
+
+@125
+If Chōshū is crushed by the shogunate, Satsuma will not rest easy either.
+
+@127
+The shogunate has borrowed an enormous sum from France and is buying weapons.
+
+@128
+France?!
+
+@129
+In a few years it will be a mighty power that nobody can stand against. And the next target will be the strongest tozama of all, Satsuma...
+
+@130
+How do you know that?
+
+@131
+Sakamoto-san is a pupil of the shogunate retainer Katsu Kaishū.
+
+@132
+It's what I heard from Ōkubo Ichiō-dono, Katsu-sensei's mentor.
+
+@134
+Strike Satsuma, and the country is the shogunate's. Behind it, France will feast on Japan. That, I think, is how it would go.
+
+@136
+That is serious. Satsuma will oppose the second expedition.
+
+@137
+Ah, Sakamoto-san.
+
+@138
+I understand what you have told me. Our domain wants to mend relations with Chōshū and prepare for the shogunate's offensive.
+
+@139
+Truly?!
+
+@140
+Now that the Sanyo Council has broken down in Kyōto, the Court-and-Shogunate lords are not to be relied on.
+
+@141
+But... the men of Chōshū will not agree.
+
+@142
+Then we must persuade them!
+
+@143
+May I ask you to take that on, Sakamoto-san?
+
+@144
+"Of course"\n"No"
+
+@146
+...I'm not sure I can do it.
+
+@147
+I beg you, find a way somehow.
+
+@148
+I owe Satsuma a great debt... I'll try.
+
+@149
+We are grateful.
+
+@150
+...I'm thinking of starting a company.
+
+@151
+A "company"?
+
+@152
+A group that makes money from other people's investment. If Satsuma becomes the investor, we will return the profit made from trade.
+
+@153
+In effect, we could trade far more than now, behind the shogunate's back?
+
+@154
+Yes. It looks like a band of rōnin, so even if the shogunate finds us, the investors will not be troubled.
+
+@156
+What is more, we can buy weapons from abroad.
+
+@157
+Oh!
+
+@158
+And when war comes, we can fight as a navy.
+
+@159
+Hmm, interesting! Understood. I will ask Lord Hisamitsu to have Satsuma invest in this company.
+
+@160
+Domestic Insight rose by 4!
+
+@161
+Foreign Insight rose by 4!
+
+@162
+We will send you to Nagasaki on a Satsuma ship. Komatsu-don will make the arrangements for the company in Kameyama.
+
+@163
+You are a samurai who left his domain, aren't you?
+
+@165
+I'm a townsman, but I want to be a samurai.
+
+@166
+Oh? A samurai?
+
+@167
+If I leave my domain, can I become a samurai?
+
+@168
+Why do you want to be a samurai, boy?
+
+@169
+They're dashing.
+
+@170
+Dashing? Why?
+
+@171
+Because they put their lives on the line.
+
+@172
+Hm. But you can't just stake your life on anything. What would you stake yours for?
+
+@173
+For my lord, of course!
+
+@174
+Don't. There's no sense dying for something so petty.
+
+@175
+Are you making fun of Lord Hisamitsu?!
+
+@176
+No. By the time you're grown, domains will be gone and Japan will be one.
+
+@177
+Japan... will be one?
+
+@178
+A strong Japan that foreigners can't look down on. Saigō-don and I are working for that.
+
+@180
+If you're a man and you stake your life, do it with the resolve to save a whole country.
+
+@181
+...Uwaaaah, Chesuto!!
+
+@183
+I'll do it! I'll be a fine samurai who saves Japan too!
+
+@184
+Ha ha, now that is encouraging.
+
+@185
+Sakamoto-san, thank you!
+
+@186
+I came all the way to Satsuma to raise money for the company, but things aren't going as I hoped...
+
+@187
+Hmm... Komatsu-san, the house elder, might be easier to talk to...
+
+@188
+I understand what you have told me. Our domain wants to mend relations with Chōshū and prepare for the shogunate's offensive.
+
+@189
+Truly?!
+
+@190
+Now that the Sanyo Council has broken down in Kyōto, the Court-and-Shogunate lords are not to be relied on.
+
+@191
+But... the men of Chōshū will not agree.
+
+@192
+Then we must persuade them!
+
+@193
+May I ask you to take that on, Sakamoto-san?
+
+@194
+"Of course"\n"No"
+
+@196
+...I'm not sure I can do it.
+
+@197
+I beg you, find a way somehow.
+
+@198
+I owe Satsuma a great debt... I'll try.
+
+@199
+Domestic Insight rose by 4!
+
+@200
+Foreign Insight rose by 4!
+
+@201
+We will send you to Nagasaki on a Satsuma ship. Komatsu-don will make the arrangements for the company in Kameyama.
+

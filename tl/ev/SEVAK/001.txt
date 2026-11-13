@@ -1,0 +1,1005 @@
+@0
+Training in swordsmanship in Edo by domain order\n(Deadline: the 30th of the 10th month, 1858)
+
+@1
+Train for the mokuroku exam on the 10th of the 8th month, 1857\n(Goal: sword skill 110)
+
+@2
+Edo sure is lively, isn't it.
+
+@3
+Sakamoto-sama!!
+
+@4
+Oh...?
+
+@5
+Oh, thank goodness you arrived safely!
+
+@6
+Sana-san, is that you?!
+
+@7
+Pay her a compliment\nSay something nasty
+
+@8
+You've grown even lovelier since I last saw you.
+
+@9
+Sorry, but flattery won't work on me.
+
+@10
+You're of age now, Sana-san. Why not dress a little more like a lady?
+
+@11
+What's that? Are you saying you mistook me for a man? How rude!
+
+@12
+How is everyone doing?
+
+@13
+Nothing has changed. More importantly, Sakamoto-sama...
+
+@14
+Hm?
+
+@15
+You should have told us you were coming today. Nothing is ready!
+
+@16
+No, no, there's no need to fuss over me.
+
+@17
+That won't do. I'll go on ahead. I must get things ready at once.
+
+@18
+Oh, Ryōma. You're back.
+
+@19
+It's been a while. I'll be imposing on you again.
+
+@20
+Ha ha, you look well. From tomorrow until the deadline, a year and a half, I'll drive you hard.
+
+@21
+Ha ha ha, I'm glad to see you well too, Master.
+
+@22
+Right. Well, I'll let you off today. Have a good rest.
+
+@23
+Sakamoto-sama. The bath is ready, please go ahead.
+
+@24
+"Thank you"\n"No, I'm fine"
+
+@25
+Thanks. My clothes stink something awful.
+
+@26
+Oh, how dreadful. I'll wash them for you, so take them off.
+
+@27
+Ah, no, tomorrow will do.
+
+@28
+Absolutely not! I won't have you wandering the dōjō looking so filthy!
+
+@29
+Ah, Ryō-san!! It's been ages! So, how was the countryside? Anything new?
+
+@30
+Ah, Jū-san. Everyone was well.
+
+@31
+Good, good. All right, let's drink tonight! Sana, get the sake ready at once.
+
+@32
+No, the bath comes first!
+
+@33
+Still as strict as ever.
+
+@34
+Don't say that. Sana has been looking forward to your coming every single day.
+
+@35
+Brother!! D-don't say strange things!
+
+@36
+Ha ha ha! Don't be shy, don't be shy!
+
+@37
+Oh, right. Yesterday an official of the Tosa domain came by. He said you aren't allowed outside Edo until you get your mokuroku.
+
+@38
+What?
+
+@39
+Just throw yourself into training. Drinking deep tonight won't earn you any mercy tomorrow.
+
+@40
+Ryō-san, how about going to the Sanja Festival?
+
+@41
+The Sanja Festival?
+
+@42
+Oh, you haven't been yet? Sana, how about you?
+
+@43
+May I come along?
+
+@44
+Good, it's settled! Let's go, let's go!
+
+@45
+"Let's go"\n"I won't go"
+
+@46
+Yes, let's go.
+
+@47
+I'll pass. I'm tired.
+
+@48
+Aw, that's no fun.
+
+@49
+You two go and enjoy yourselves.
+
+@50
+Oh well. We'll do that, then.
+
+@51
+No, I'll pass as well...
+
+@53
+It's fine, it's fine, I'll go alone.
+
+@54
+What a crowd...
+
+@55
+Eh?! What did you say?!
+
+@56
+What a crowd!!
+
+@57
+Ha ha ha! Isn't it!
+
+@58
+The stalls are doing a roaring trade too.
+
+@59
+Oh, a pinwheel. How pretty...
+
+@60
+Buy it for her\nIgnore it
+
+@61
+I'll buy it for you.
+
+@62
+What?! Really?
+
+@63
+Mister, give me one, will you?
+
+@64
+Yes sir, thank you!
+
+@65
+...Th-thank you very much.
+
+@67
+Hm?
+
+@68
+N-no. It's nothing.
+
+@69
+(Damn, I don't have any money on me...)
+
+@70
+...?
+
+@71
+What, a pinwheel? You're not a child. Do you want one?
+
+@72
+No... it's all right.
+
+@73
+Ryō-san. Since coming to Edo you've only stayed at our place. Shouldn't you show your face at the Tosa residence in the castle quarter too?
+
+@74
+Sakamoto-sama, how is your training going?
+
+@75
+Ah, Sana-san. It doesn't go as well as I'd like.
+
+@76
+Oh my, if you don't put your heart into it, you won't get your Hokushin licence.
+
+@77
+Well, never mind that. Have you been anywhere since coming to Edo?
+
+@78
+"I haven't been anywhere"\n"I've been around a bit"
+
+@79
+How diligent of you. But why not go out now and then to refresh yourself?
+
+@80
+Edo is big, so there must be all kinds of academies and shops.
+
+@81
+Besides, when you go back to Kōchi, wouldn't it be awkward to have no stories to tell about Edo?
+
+@82
+That's true. From now on I'll wander around a bit.
+
+@83
+Good. Since you are here in Edo, you should find an academy to study at, or meet people.
+
+@84
+But you mustn't go out carousing either. Visiting places with pretty women, for instance.
+
+@85
+Hm? And why is that?
+
+@86
+Why? Because... that is... Oh, you're so mean!
+
+@87
+Ah, she's gone... I'll never understand women.
+
+@88
+Hey, Ryō-san. How's it going?
+
+@89
+Well, so-so, I'd say.
+
+@90
+What's this, what's this? At that rate you'll never get strong. Pull yourself together, Ryō-san.
+
+@91
+By the way, have you been to any taverns or eating houses since you came here?
+
+@92
+"No, I haven't"\n"I have"
+
+@93
+I see. I thought Tosa folk would die if they didn't drink every day, but I guess not.
+
+@94
+I like my sake, but even Tosa men aren't like that. That's just what Edo folk get wrong about us.
+
+@95
+Ha ha ha! Sorry, sorry.
+
+@96
+Is that so? Drink your way around town if you like, but I won't go easy on you in training.
+
+@97
+Anyway, wherever you go, it pays to gather information.
+
+@98
+There are plenty of people out there who say that a man who can't discuss affairs of state is no man at all.
+
+@99
+If you keep collecting information, you'll never run short of topics when a debate comes up.
+
+@100
+I see, that's true. Thanks, Jū-san. I'll keep it in mind from now on.
+
+@101
+Still, Ryō-san, you don't strike me as the debating type. You're more of a storyteller.
+
+@102
+Edo folk sure have sharp tongues...
+
+@103
+Hm? The man over there is...
+
+@104
+Oh! I wondered who it was, and it's Ryōma!
+
+@105
+I knew it, it's "Jaw"!
+
+@106
+I told you to stop calling me that.
+
+@107
+Jaw is Jaw! Ha ha, so you came to Edo too!
+
+@108
+Yes, Lord Yōdō gave special permission. I attend the Shigakukan in Tsukiji.
+
+@109
+The Shigakukan, that's Momoi-sensei's dōjō. So, how's your swordsmanship? Any better?
+
+@110
+I've a long way to go yet. But I won't lose to you.
+
+@111
+Big talk, big talk.
+
+@112
+But Ryōma, in this age the sword alone is not enough. Only a man who has mastered learning can be called a first-rate shishi.
+
+@113
+"Is that so?"\n"No"\n"What's a 'shishi'?"
+
+@114
+Learning, hm... Is learning really necessary?
+
+@115
+The sword builds the body, learning builds the spirit. Enrol at an academy, or buy books and study alone, either is good.
+
+@116
+For me it's the sword after all. I'm not cut out for study.
+
+@117
+That's a feeble thing to say. Well, it's your decision. Mastering the way of the sword is fine too.
+
+@118
+What's a "shishi" anyway?
+
+@119
+A man who holds to the cause of jōi and gives himself up entirely to working for it.
+
+@120
+Does the resolve have to be jōi?
+
+@121
+What a strange thing to say. What other path is there for this country but jōi?
+
+@122
+...You're as deadly serious as ever, Hanpeita.
+
+@123
+Serious? Why?
+
+@124
+Never mind. Anyway, I'll do things my own way.
+
+@125
+I see... Yes, I suppose so.
+
+@126
+I'm either here or at the Tsukiji dōjō, so come by when the mood takes you.
+
+@127
+Sakamoto-sama, a letter has come for you. From your elder sister at home.
+
+@128
+Oh, it's the Deva King! I wonder if she's well.
+
+@129
+Dear Ryōma,
+
+@130
+How is life in Edo? Are you eating proper meals every day? Are you working hard at your training every day?
+
+@131
+As for me, since I came here as a bride, my sword arm has gone terribly rusty.
+
+@132
+If I had been born a man, I would have left Tosa to train with the sword like you. When I wonder why I had to be born a woman, I am so vexed I cannot sleep at night.
+
+@133
+Do not give in to the temptations of drink, women and gambling. Press on, and temper your spirit so that you never shame yourself as a samurai. Above all, take care of your health.
+
+@134
+Otome
+
+@135
+She hasn't changed a bit.
+
+@136
+So she is called Otome. What kind of person is she?
+
+@137
+A giant of a woman, as tall as I am. In all of Kōchi in Tosa, there are maybe ten men who can beat my sister Otome at sumo. A true heroine.
+
+@138
+Goodness!!
+
+@139
+She was my first teacher of swordsmanship, too. Had she been born a man, she'd surely have become a great man of renown. Poor woman.
+
+@140
+It's absurd to pity her for not being a man! I am a woman, and I train with the sword.
+
+@141
+That's a bit different. You're allowed because you're a fencing master's daughter.
+
+@142
+And in the Tosa countryside, people are firmly convinced of how a woman of marriageable age ought to behave. It isn't easy.
+
+@143
+Is that how it is? I... would hate that.
+
+@144
+My sister must hate it too, I'm sure. That's what makes it so sad.
+
+@146
+Ah, Ryōma, just in time. I have a favour to ask of you.
+
+@147
+What is it?
+
+@148
+I want you to deliver a letter to the Genbukan dōjō in Nihonbashi.
+
+@149
+Accept\nRefuse
+
+@150
+Understood.
+
+@151
+Good, I'm counting on you. Get it there by the 8th of the 8th month.
+
+@152
+Deliver a letter to the Genbukan in Nihonbashi by the 8th of the 8th month, 1857
+
+@153
+Sorry, today isn't convenient.
+
+@154
+I see. Can't be helped.
+
+@155
+Is Shūsaku-sensei in?
+
+@156
+Ah, Sakamoto-dono. What brings you here?
+
+@157
+Sadakichi-sensei asked me to bring you a letter.
+
+@159
+Oh, thank you. Let me see...
+
+@160
+Well then, I'll be on my way.
+
+@161
+...Wait a moment.
+
+@162
+What is it?
+
+@163
+Train here for a while before you go.
+
+@164
+Train? Is that all right?
+
+@165
+Your dōjō and this Genbukan belong to the same school, Hokushin Ittō-ryū. There is no need to hold back.
+
+@166
+Sadakichi's letter also asks me to give you some training.
+
+@167
+It says that? Oh dear.
+
+@168
+I hear your mokuroku exam is coming soon. Train hard.
+
+@169
+It does you good to take lessons elsewhere now and then.
+
+@170
+Understood. I'd be grateful.
+
+@171
+First to take two points wins. Agreed?
+
+@172
+Hm, splendid.
+
+@173
+Swordsmanship rose by 2!
+
+@174
+Hmm, you still lack training.
+
+@175
+By the way, Sakamoto-dono. Sadakichi's letter had one more message for you.
+
+@176
+What is it?
+
+@177
+It seems your mokuroku exam will be held on the 10th of the 8th month.
+
+@178
+An exam, you say...
+
+@179
+There isn't much time, but train hard.
+
+@180
+Yes, thank you.
+
+@181
+Ryōma, so this is where you were.
+
+@182
+Ah, Sensei.
+
+@183
+What about the letter? I hear it still hasn't reached the Genbukan.
+
+@184
+Ah... I'm sorry.
+
+@185
+What am I to do with you. Don't forget your mokuroku exam tomorrow.
+
+@186
+What am I to do with you.
+
+@187
+...By the way, Ryōma, this is sudden, but tomorrow you take your mokuroku exam.
+
+@188
+Tomorrow?
+
+@189
+That's right. Don't forget to come to the dōjō.
+
+@190
+What am I to do with you. Pull yourself together.
+
+@192
+Ryōma.
+
+@193
+Yes?
+
+@194
+I'll hold your exam on the 10th of next month. If you pass, you get your mokuroku. Train properly.
+
+@195
+Hey, Ryōma. Fine weather again today. Not a cloud in the sky.
+
+@196
+On a day like this I'd like to nap outdoors.
+
+@197
+Fool! On a day like this you train, obviously. Stop dreaming.
+
+@198
+You're strict, Sensei.
+
+@199
+Ha ha ha, just joking, Ryōma.
+
+@200
+By the way, have you made more acquaintances since coming to Edo?
+
+@201
+"No, not really"\n"A few more"
+
+@202
+Is that so? That's no good. People gather in Edo from all over, so you'd better meet a variety of people while you can.
+
+@203
+I'm sure you'll become a remarkable man. Not a mere swordsman like me, but a great figure who does something far grander.
+
+@204
+Whoa, whoa, whoa! Sensei, you're giving me far too much credit.
+
+@205
+Is that so? At least my eye for people hasn't gone old yet.
+
+@206
+Anyway, meeting people will come in handy later in all sorts of ways, so keep looking diligently.
+
+@207
+At eating houses and the like you can hear rumours about the folk living nearby. Then go and visit the place where that person is.
+
+@208
+If they won't let you into their house or castle, wait outside and they will come out sooner or later, so ask for an audience.
+
+@209
+Is that so? Admirable. All sorts of people come to Edo, so make as many acquaintances as you can while you're at it.
+
+@210
+By the way, you do know how to look for people, don't you?
+
+@211
+"Yes, more or less"\n"Sort of yes, sort of no"
+
+@212
+Good, that's all right then. But if you only make female acquaintances, I won't stand for it.
+
+@213
+No, you needn't worry about that. I'm no good at that sort of thing.
+
+@214
+Is that so? Then keep to Sana as your only female acquaintance. Oops, if I say that she'll get angry with me again.
+
+@215
+What kind of answer is that? All right, I'll explain.
+
+@216
+You can pick up rumours about people by gathering information at eating houses and such. You generally hear about the people living near the shop, so you visit them afterwards.
+
+@217
+Of course, a daimyō or a house elder won't give you the time of day, but listening to all kinds of people is worthwhile.
+
+@218
+Wait in front of their house and they will come out sooner or later, so ask for an audience.
+
+@219
+I see. I'll try all sorts of things. Thank you very much.
+
+@220
+Right, do your best, Ryōma.
+
+@221
+But train even harder than that! The mokuroku exam is on the 10th.
+
+@222
+Right, do your best, Ryōma. But train even harder than that!
+
+@223
+Dear me, this is going to be hard.
+
+@224
+Tennen Rishin-ryū... the Shieikan... I don't hear those names much.
+
+@225
+Yaaah!
+
+@226
+A training session. Mind if I watch for a bit?
+
+@227
+Yaaah!!
+
+@228
+What a thrust! He thrust three times, but it was so fast it looked like one.
+
+@229
+...Do you want something?
+
+@231
+(He has a sharp look about him. This man is no ordinary fellow either.)
+
+@232
+"Nothing"\n"You've a strong-looking lot here"
+
+@233
+No, nothing. The sound of training caught my attention, that's all.
+
+@234
+This is not a spectacle. If you have no business here, please leave.
+
+@235
+I see, sorry about that.
+
+@236
+I hardly ever hear of Tennen Rishin-ryū, but it has some formidable people.
+
+@237
+We favour real combat. Our style does not suit bamboo-sword bouts, so our name is little known.
+
+@238
+Is that so. Well, I learned something.
+
+@239
+We're training now. If you have no other business, please leave.
+
+@240
+Right, sorry to have bothered you.
+
+@241
+(Even an unknown school has men like this. The world is bigger than I thought.)
+
+@242
+Today is your exam.
+
+@243
+If you beat a mokuroku student, you pass. Are you ready?
+
+@244
+So suddenly?
+
+@245
+Yes. Both of you, step forward.
+
+@246
+Hm, very good! I confer the mokuroku on you!
+
+@247
+You may leave Edo, but don't go too far. Don't neglect your training, understood?
+
+@248
+If your training shows results, I'll give you a higher rank early next year.
+
+@249
+Train for the assistant instructor's exam on the 10th of the 2nd month, 1858\n(Goal: sword skill 135)
+
+@250
+Hmm, you still lack discipline. I'll hold one more exam on the 10th of next month. Until then, the mokuroku will have to wait.
+
+@251
+Train for the mokuroku re-examination
+
+@252
+Hey, Ryōma! Where have you been wandering all this time?! I told you I'd hold your promotion exam on the 10th!
+
+@253
+!! I'm very sorry!
+
+@254
+I'll let it pass this time. I'll give you one more exam on the 10th of next month, so be sure to come.
+
+@255
+Train for the mokuroku re-examination
+
+@256
+You cannot enter the town of Kōchi during your training period.
+
+@257
+We cannot let a man of another domain into our land.
+
+@258
+What secretive folk.
+
+@259
+Entry of men from other domains is forbidden.
+
+@260
+Stingy, aren't they.
+
+@261
+Train for the mokuroku re-examination
+
+@262
+Sakamoto-sama.
+
+@263
+Ah, Sana-san.
+
+@264
+Is Takechi-san of the Shigakukan a friend of yours?
+
+@265
+He is. Has he done something?
+
+@266
+Yes. When a friend of mine was pestered by a ruffian, Takechi-san helped her. The two of us have just been to thank him.
+
+@267
+Well, well, Jaw doing such a good deed.
+
+@268
+Jaw?
+
+@269
+"Agi" is Tosa dialect for the chin. He has a big jaw, so "Agi"...
+
+@270
+How awful. Unlike you, Sakamoto-sama, he was a dashing man.
+
+@271
+That's harsh.
+
+@272
+At his age he is already assistant instructor at the Shigakukan, one of the Three Great Dōjō of Edo, and I hear he has a lovely wife back home. He is so admirable I can hardly believe he is your friend.
+
+@273
+Spare me. It's cruel to compare me with Hanpeita.
+
+@276
+Sakamoto-sama, don't you intend to marry?
+
+@277
+"I want to marry"\n"Not yet"
+
+@278
+I'd be happy if there were an odd soul who would take me as I am.
+
+@279
+Hee hee, that's a tall order.
+
+@280
+Think so?
+
+@281
+But there may be such a person closer than you think.
+
+@282
+I'm still in training.
+
+@283
+Then what about after the training is over?
+
+@284
+"I want to marry"\n"Not for a while"
+
+@288
+But there may be such a person closer than you think.
+
+@289
+I don't know. I have... something I must do.
+
+@290
+? What is that?
+
+@291
+That's just it... I don't know.
+
+@292
+I haven't the faintest idea what you are saying, Sakamoto-sama.
+
+@293
+I don't know yet, but it should become clear before long. I can't explain it well, but until then I can't think of taking a wife.
+
+@294
+Oh my. You look as if you never think about anything, but you do think after all.
+
+@295
+You're awfully hard on me today.
+
+@296
+Am I? Sorry to have disturbed you. Good day.
+
+@297
+Ah, Ryōma.
+
+@298
+I hear you've done a good deed.
+
+@299
+What? Oh, it's hardly a good deed.
+
+@300
+Thanks to that, I got thoroughly needled.
+
+@301
+Ha. Is that young lady from your dōjō?
+
+@302
+She's the tomboy of the house. She's quite good with a sword, too.
+
+@303
+Oho.
+
+@304
+If you show yourself in too good a light, she compares me with you and scolds me.
+
+@305
+Hm? What, are you fond of her?
+
+@306
+"No"\n"Eh?"
+
+@307
+It's not that, but...
+
+@308
+She's been rough on me lately.
+
+@309
+Eh? I never thought about it, but...
+
+@310
+Maybe so.
+
+@311
+Ha ha ha, sorry about that. I'll be careful from now on.
+
+@312
+Edo has grown rather unsettled lately.
+
+@313
+Every domain has been ordered to defend the coast against foreign ships. Retainers of the domains keep arriving in Edo one after another.
+
+@314
+Could swords and spears stand up to iron-clad Black Ships?
+
+@315
+Not against ships. But if the enemy wants to take all of Japan, they have to come ashore.
+
+@316
+I see.
+
+@317
+With the Yamato spirit and the cutting edge of the Japanese sword, driving them off is nothing at all.
+
+@318
+"That's right"\n"No"
+
+@319
+So America is nothing to fear.
+
+@320
+Exactly. I can't bear the shogunate's weakness. The only thing left is jōi.
+
+@321
+The enemy will use guns, won't they?
+
+@322
+Even so, the shogunate's weakness is unbearable. Jōi is the only way.
+
+@323
+"What is jōi?"\n"Exactly"
+
+@324
+What is this "jōi" you speak of?
+
+@325
+Ryō-san, the age of peace is ending. If you're out of touch with the times, you'll be left behind.
+
+@326
+I'm not good with difficult words.
+
+@327
+Jōi means "sweeping away the barbarians", in plain words "driving out the foreigners".
+
+@328
+Driving off the Black Ships... is it.
+
+@329
+Quite so. Being that timid is why the foreigners look down on us.
+
+@330
+Yes. In fact I hear many lords of the powerful domains support jōi. The lord of Tosa, Lord Yamauchi Yōdō, is one of them.
+
+@331
+A master of iaijutsu, superb horseman, deeply learned, gifted at poetry. A hard drinker and handsome to boot. A true hero of our age.
+
+@333
+What a lukewarm answer. He's the lord of your own domain.
+
+@334
+A lord is a lord. It has nothing to do with us gōshi.
+
+@335
+Tosa is a strange domain. Upper samurai and gōshi are like samurai of two different countries.
+
+@336
+The upper samurai aren't Tosa natives to begin with.
+
+@337
+I don't know your domain's circumstances. For now all we can do is devote ourselves to the way of the sword.
+
+@338
+And when the whole country decides on jōi, we'll rush to the front at once.
+
+@339
+"Right"\n"Is that so?"
+
+@341
+You're a remarkable man. I don't know what I should do.
+
+@342
+Ryō-san, that won't do. Get a grip.
+
+@343
+Today is your promotion exam.
+
+@345
+Please, go ahead.
+
+@346
+Right, both of you, step forward.
+
+@348
+You may leave Edo, but don't go too far. Don't neglect your training, understood?
+
+@351
+Hmm, your discipline is lacking. The mokuroku will have to wait.
+

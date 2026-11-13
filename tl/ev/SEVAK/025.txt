@@ -1,0 +1,570 @@
+@0
+Is Sakamoto Ryōma here?
+
+@1
+I'm Ryōma, but... Kaho-san!!
+
+@4
+Chōshū's troops have finally gone to war in Kyōto.
+
+@7
+Fire!!
+
+@8
+All troops, charge!!
+
+@9
+The enemy is wavering! Now! Advance, advance!
+
+@10
+Hm? What's that...?
+
+@11
+That's Kijima-don, so strong in battle. He's truly like a demon god.
+
+@12
+Oh! That must be the commander of the Satsuma thieves!
+
+@13
+Satsuma will back you. Men of Aizu, pull yourselves together, hey!
+
+@14
+Kill every one of the Satsuma thieves! Charge!
+
+@15
+It ended in a crushing defeat by Satsuma and Aizu... Kusaka Genzui-sama, Kijima Matabei-sama, Maki Izumi-sama and countless others fell in battle...
+
+@16
+...Why do they rush to their deaths like that?!
+
+@17
+Chōshū has been branded an enemy of the Court, and some say it is only a matter of time before the domain is abolished.
+
+@18
+What about Nakaoka and Kurata...?
+
+@19
+I don't know...
+
+@20
+...What a terrible thing...
+
+@21
+The shishi thought of nothing but Japan... and so many young lives were taken.
+
+@23
+I can no longer stay in Chōshū.
+
+@24
+Why?
+
+@25
+Takasugi-sama said...
+
+@26
+Takasugi-san did?
+
+@27
+Now that we have been branded enemies of the Court, he can no longer guarantee the safety of the Five Nobles. He told me it was dangerous and that I should go home.
+
+@32
+Hm.
+
+@33
+Please take me with you.
+
+@34
+What? ...Kaho-san?
+
+@35
+From now on, always... I want to be at your side, Sakamoto-sama.
+
+@36
+"I feel the same"\n"I can't"
+
+@37
+Kaho-san... that makes me happy.
+
+@39
+I want to be with you too, Kaho-san.
+
+@40
+Sakamoto-sama...!!
+
+@41
+But I still don't know what tomorrow holds for me, so it will be hard on you.
+
+@42
+I don't mind that in the least!
+
+@43
+That... I can't do.
+
+@45
+I don't know about tomorrow either. It may even be more dangerous than staying with the Five Nobles. Beside a man like me, you'd need more lives than you have.
+
+@46
+I don't mind!
+
+@47
+You may not mind, Kaho-san, but I do.
+
+@49
+I have work I must do. I believe it is a great task that the realm, that Japan, needs.
+
+@50
+If I had to weigh reforming the world against you, Kaho-san, I'm not sure I could give you up. Even if it made me fail in the great cause, I wouldn't regret it.
+
+@51
+But I cannot allow myself to be that man now. For the sake of my comrades who died full of regret too... do you understand?
+
+@53
+...Yes.
+
+@55
+I understand. Then... take care of yourself...
+
+@57
+Ryō-san.
+
+@58
+What is it?
+
+@59
+Do you know Saigō of Satsuma?
+
+@60
+"Yes"\n"No"
+
+@61
+I do know him.
+
+@62
+Then this will be quick. Take this and go meet him.
+
+@63
+No.
+
+@64
+He's practically the commander in chief of the Satsuma warriors.
+
+@66
+Well, I want you to go and meet this Saigō.
+
+@67
+"Understood"\n"I'd rather not"
+
+@69
+I don't much feel like it.
+
+@70
+I understand you can't forgive Satsuma for betraying the loyalists and driving them out, but you simply must meet him.
+
+@72
+The shogunate has given the order for the Chōshū Expedition. Its main force is the Satsuma army under Saigō.
+
+@73
+The Chōshū Expedition!
+
+@74
+I want you to persuade him to settle it peacefully somehow.
+
+@75
+I've asked him myself, but Saigō seems set on crushing Chōshū so it never rises again.
+
+@76
+If Chōshū dies... the shogunate rules the realm.
+
+@77
+I never imagined the rift between Satsuma and Chōshū ran so deep.
+
+@78
+Understood. I'll meet Saigō.
+
+@79
+Saigō should be at the Satsuma residence in Kyōto. I'm counting on you.
+
+@80
+Visit Saigō Takamori at the Satsuma residence in Kyōto
+
+@82
+Who goes there?
+
+@83
+I'm Sakamoto. I'd like to see Saigō-san, on Katsu-sensei's introduction.
+
+@84
+Oh, Sakamoto-san! Please, come in, come in.
+
+@85
+Oh, so you are Sakamoto-san. Understood, please come in.
+
+@89
+...Does Satsuma mean to destroy Chōshū?
+
+@90
+Chōshū fired on the Imperial Palace. They are enemies of the Court.
+
+@91
+I'm asking what you really think.
+
+@93
+This is what people say.
+
+@94
+Seeing Chōshū about to take the lead of the sonnō-jōi movement in Kyōto, Satsuma, long at odds with it, thought this would never do. Left alone, a Mōri shogunate would replace the Tokugawa one.
+
+@95
+Well, this is awkward. You say the same thing as Nakaoka-san.
+
+@96
+Nakaoka did?!
+
+@97
+He asked when Satsuma had turned to the shogunate's side. Whether we had joined hands with the shogunate, Chōshū's enemy, because the enemy of an enemy is a friend...
+
+@98
+Am I wrong?
+
+@100
+...I will hear you out. ...Kōsuke-don.
+
+@101
+Understood.
+
+@102
+Won't you understand?
+
+@104
+I'll leave it there for today. Think this over a little more.
+
+@105
+...That coup was decided by some of the house elders and Lord Hisamitsu while I was away.
+
+@106
+But Chōshū's recklessness was more than anyone could overlook.
+
+@107
+Saigō-san, once the common enemy Chōshū is destroyed, will Satsuma do the shogunate's bidding?
+
+@108
+Satsuma will remain as it has been. We will not do the shogunate's bidding.
+
+@109
+But if Chōshū, the standard-bearer of sonnō-jōi, dies, the other domains will fall in behind the shogunate. To a shogunate sure of itself, Satsuma, the one that never bends, would be a real thorn.
+
+@110
+Hm.
+
+@111
+However great Satsuma is, it cannot make enemies of all the lords of the land, so it can no longer throw its weight around as it has.
+
+@113
+How would the foreigners look upon a Japan like that?
+
+@115
+If a timid shogunate speaks for Japan, they could ask for no easier mark to deceive. Before long this country will be eaten alive by foreigners and become like the Qing.
+
+@116
+Chōshū is a strong domain. That spirit, reckless courage even, will be a powerful ally when we face the shogunate and the foreigners.
+
+@117
+Japan has three hundred lords, but only Satsuma and Chōshū have such nerve. Don't you agree?
+
+@118
+...True, Chōshū is strong. Kijima Matabei-don was a truly strong man too.
+
+@119
+Keeping that Chōshū alive is for Satsuma's sake, and in the end for Japan's.
+
+@120
+...Hmm.
+
+@121
+That is all I came for today. Forgive the intrusion.
+
+@122
+Who goes there?
+
+@123
+I'm Sakamoto. I'd like to see Saigō-san, on Katsu-sensei's introduction.
+
+@124
+Saigō-don is at the Satsuma residence in Nakagyō.
+
+@125
+Ryōma-dono, you have a visitor.
+
+@126
+Sakamoto-sama, you have a visitor.
+
+@128
+Nakaoka! You're alive!
+
+@129
+Shh! I'm using an alias now: Ishikawa Seinosuke.
+
+@130
+Ishikawa, then.
+
+@131
+The shogunate has at last ordered the Chōshū Expedition. The lords of Chūgoku and Kyūshū have marched against it. On top of that, the four-nation fleet shelled Shimonoseki, and Chōshū was truly on the brink of ruin.
+
+@133
+But open war with the shogunate's army was narrowly avoided. A Satsuma staff officer named Saigō is said to have argued strongly for lenient treatment of Chōshū.
+
+@134
+Is that true?
+
+@135
+Of course the shogunate meant to crush Chōshū completely. But it couldn't ignore the wishes of Satsuma, the strongest tozama domain, which had finally come over to its side.
+
+@136
+They accepted the heads of the three sonnō-jōi house elders of Chōshū as proof that Chōshū had submitted.
+
+@138
+I suppose even Satsuma realised that if Chōshū were completely dead, the shogunate's spear would turn on itself.
+
+@139
+It seems Saigō-san understood too.
+
+@140
+But Chōshū's government is now entirely in the hands of small-minded, pro-shogunate men.
+
+@142
+Conservative fools who can't stand commoners bearing arms. They even ordered Takasugi-san's Kiheitai disbanded.
+
+@143
+...Are the Chōshū loyalists all safe?
+
+@144
+Takasugi-san is said to have fled to Kyūshū. No one has known where Katsura-san is since the Ikedaya Incident.
+
+@146
+I'm going back to Chōshū. With Maki-dono dead, someone has to hold together the runaway rōnin sheltering in Chōshū.
+
+@148
+Katsu-sensei!
+
+@149
+Ryō-san...
+
+@151
+It's the worst possible turn...
+
+@152
+What happened?
+
+@153
+...What did you say?!
+
+@154
+Yes... the Kōbe Naval Training Institute is to be closed.
+
+@155
+Wh-why...?
+
+@156
+It came out that Tosa rōnin who had deserted the Naval Training Institute took part in the Ikedaya meeting and the Kinmon Incident.
+
+@157
+The shogunate council is furious, asking whether the naval school in Kōbe is training soldiers to overthrow the shogunate...
+
+@159
+I've been dismissed as Navy Commissioner too and have to go back to Edo. This time I can't take you and the others along.
+
+@161
+Don't worry about me, the worst they'll do is confine me to my house.
+
+@163
+It's you and the others I worry about. Rely on Saigō of Satsuma. Apart from Satsuma, there's nowhere you can shelter from the shogunate.
+
+@165
+The man who succeeds me as commissioner, Oguri, is a tricky customer.
+
+@166
+Once he has crushed Chōshū, he'll come for Satsuma. Make sure Saigō understands that.
+
+@167
+We may not meet again.
+
+@169
+Don't give up on the navy. You're the only one I can entrust my dream to. Don't you die on me.
+
+@171
+Visit Saigō Takamori at the Satsuma residence in Kyōto
+
+@172
+Then I'll go to Satsuma, as Sensei advised.
+
+@173
+True, at this point Satsuma is the only one we can rely on, but...
+
+@174
+I don't want to go to treacherous Satsuma! If we go anywhere, it's Chōshū!
+
+@175
+If we survived by clinging to Satsuma, we could never face the Chōshū shishi who died in the Kinmon Incident!
+
+@176
+In Satsuma we could act while escaping the shogunate's eyes.
+
+@177
+I'll follow Ryōma-san.
+
+@178
+I will follow Ryōma-dono's judgement.
+
+@179
+Satsuma... can't be trusted...
+
+@180
+This is no time to say you dislike Satsuma. In Chōshū we can't get a ship. We couldn't carry on with the navy.
+
+@181
+Rely on Satsuma\nGo to Chōshū
+
+@182
+Let's rely on Satsuma.
+
+@183
+...All right.
+
+@184
+No objection from me.
+
+@185
+All that remains is whether Saigō will take us in.
+
+@186
+He should be at the Satsuma residence in Kyōto. I'll go and settle it.
+
+@187
+Let's go to Chōshū.
+
+@188
+Sakamoto-san, are you set on dying?
+
+@189
+What are we to do...
+
+@191
+Everyone...
+
+@192
+"Let's rely on Satsuma after all"\n"Die with me"
+
+@193
+I can't let you all die... Let's rely on Satsuma.
+
+@194
+...All right.
+
+@195
+No objection from me.
+
+@196
+All that remains is whether Saigō will take us in.
+
+@197
+He should be at the Satsuma residence in Kyōto. I'll go and settle it.
+
+@198
+Die with me.
+
+@200
+Let's do it!
+
+@201
+Hey, hey, you can't be serious...
+
+@202
+Visit Saigō Takamori at the Satsuma residence in Kyōto
+
+@204
+What is it? You look so fierce.
+
+@208
+Hm? Oryō.
+
+@209
+Come on, let's go.
+
+@210
+Right.
+
+@211
+That is... the captain of the Shinsengumi's First Unit, famous all over town.
+
+@213
+Okita-han, they call him... Usually he's an innocent sort who plays with children and stray dogs, though.
+
+@214
+Hm. The girl with him is rather pretty too. She looks kind-hearted... Ow, ow!
+
+@215
+Honestly!
+
+@216
+But once he draws his sword, they say his skill is that of a genius and he cuts down rōnin without mercy. I was terrified to think what might happen.
+
+@217
+He's apparently not so tactless as to draw his sword with a woman on his arm.
+
+@218
+Still, a pity about the man... what good does cutting down rōnin do now?
+
+@219
+Is Saigō-san in?
+
+@220
+Please wait.
+
+@221
+The naval school in Kōbe is to be closed.
+
+@222
+Yes. I heard from Katsu-san.
+
+@223
+The students will return to their domains, but we runaways, who cannot, will be left on the road.
+
+@224
+Having fought the British, our domain keenly felt the need for Western warships. Satsuma wants your navigation skills, Sakamoto-san.
+
+@225
+Of course, I will teach you.
+
+@226
+(I'm not too confident, though...)
+
+@227
+Of course, I will teach you.
+
+@228
+Sakamoto-san, you are welcome.
+
+@229
+I'm in your hands.
+
+@230
+Kyōto is dangerous. For a while, please use the domain's residence in Ōsaka.
+
+@231
+Is Saigō-san in?
+
+@232
+Saigō-don is at the Satsuma residence in Nakagyō.
+
+@236
+Yes.
+
+@237
+Oryō, lend me your lap.
+
+@240
+...How dull.
+
+@241
+The Kōbe Naval Training Institute has been closed.
+

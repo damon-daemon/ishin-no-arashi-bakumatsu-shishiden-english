@@ -1,0 +1,403 @@
+# town spot names (inns, shops, shrines, temples, residences, schools), PROG 80021000-80021fff
+PROG:80021008	Mito Inn
+PROG:80021014	Kawai Residence
+PROG:8002101c	Ojiya Jin'ya
+PROG:80021028	Nagaoka Castle
+PROG:80021030	Jigen-ji
+PROG:80021038	Nagaoka Tavern
+PROG:80021044	Ōsakiya
+PROG:8002104c	Utsunomiya Castle
+PROG:80021058	Utsunomiya Inn
+PROG:80021064	Yonezawa Castle
+PROG:8002106c	Yonezawa Eatery
+PROG:80021078	Yonezawa Inn
+PROG:80021084	Nisshinkan
+PROG:8002108c	Tanaka Residence
+PROG:80021094	Jinbo Residence
+PROG:8002109c	Kayano Residence
+PROG:800210a4	Iinuma Residence
+PROG:800210ac	Tsuruga Castle
+PROG:800210b4	Yūzū-ji
+PROG:800210bc	Wakamatsu Sundries
+PROG:800210c8	Bandaiya
+PROG:800210d0	Aizu Eatery
+PROG:800210dc	Kanazawaya
+PROG:800210e4	Samurai House
+PROG:800210ec	Sendai Castle
+PROG:800210f4	Ōmachi Swords
+PROG:80021100	Aoba Teahouse
+PROG:8002110c	Sendai Inn
+PROG:80021118	Toyama Clinic
+PROG:80021124	Daikoku-dō
+PROG:8002112c	Etchūya
+PROG:80021134	Daien-ji
+PROG:8002113c	Hirosaki Sundries
+PROG:80021148	Kotobukichō Inn
+PROG:80021154	Tentoku-ji
+PROG:8002115c	Nyoshi-tei
+PROG:80021164	Sakanamachi Tavern
+PROG:80021170	Kubota Eatery
+PROG:80021180	Senbokuya
+PROG:80021188	Miyako Inn
+PROG:80021194	Shirahama Spa
+PROG:800211a0	Totsukawa Magistrate
+PROG:800211b0	Maeda Residence
+PROG:800211b8	Nakai Residence
+PROG:800211c0	Kōyasan
+PROG:800211c8	Totsukawa Tavern
+PROG:800211d8	Totsukawa Inn
+PROG:800211e4	Yamato Magistrate
+PROG:800211f0	Tomobayashi Residence
+PROG:800211f8	Gojō Inn
+PROG:80021204	Iwakura Villa
+PROG:80021210	Iwakura Village Inn
+PROG:8002121c	Atami Spa
+PROG:80021228	Gyokusen-ji
+PROG:80021230	Shimoda Spa Inn
+PROG:8002123c	Suwa Shrine
+PROG:80021248	Shiojiri Teahouse
+PROG:80021254	Shiojiri Tavern
+PROG:80021260	Ichōya
+PROG:8002126c	Tsurugaoka Hachiman
+PROG:8002127c	Kamakura Buddha
+PROG:80021288	Wakamiya Teahouse
+PROG:80021298	Kanagawa Magistrate
+PROG:800212a8	French Trading House
+PROG:800212b8	Dutch Trading House
+PROG:800212c8	Yokohama Sundries
+PROG:800212d4	Harbour Tavern
+PROG:800212dc	Shimodaya
+PROG:800212e4	Satō Residence
+PROG:800212ec	Yasaka Shrine
+PROG:800212f8	Hino Sundries
+PROG:80021304	Hino Post Town
+PROG:8002130c	Gotenyama
+PROG:80021314	Tōzen-ji
+PROG:8002131c	Shinagawa Wharf
+PROG:80021328	Gate Teahouse
+PROG:80021334	Dozō Sagami
+PROG:80021340	Shinagawa Restaurant
+PROG:8002134c	Kusatsu Spa Inn
+PROG:80021358	Kusatsu Teahouse
+PROG:80021364	Matsuda Residence
+PROG:8002136c	Niigata Wharf
+PROG:80021378	Niigata Tavern
+PROG:80021384	Niigata Inn
+PROG:80021390	Tōshō-gū
+PROG:80021398	Gate Teahouse
+PROG:800213a4	Minmaya Eatery
+PROG:800213b0	Minmaya Inn
+PROG:800213bc	Spear Dōjō
+PROG:800213c8	Hōzen-ji
+PROG:800213d0	Zenzai Shop
+PROG:800213dc	Dōtonbori Restaurant
+PROG:800213e8	Torakichi
+PROG:800213f0	Ōyo
+PROG:800213f8	Torigeya
+PROG:80021400	Sōshōkō School
+PROG:8002140c	Matsubara Residence
+PROG:80021414	Hayashi Residence
+PROG:8002141c	Kashimaya
+PROG:80021424	Take-no-Yu
+PROG:8002142c	Sumiyoshiya
+PROG:80021434	Oriya
+PROG:8002143c	Kyōya
+PROG:80021444	Honkakusha
+PROG:8002144c	Tekijuku
+PROG:80021454	Ogata Residence
+PROG:8002145c	Shinsaibashi Sundries
+PROG:8002146c	Kōnoike Main House
+PROG:80021478	Hakkenya
+PROG:80021480	Satsuman
+PROG:80021488	Barracks
+PROG:80021490	Jōdai Lower Residence
+PROG:8002149c	Ōsaka Castle
+PROG:800214a4	Fushimi Magistrate
+PROG:800214b0	Fujimoto Residence
+PROG:800214b8	Fushimi Satsuma Residence
+PROG:800214c8	Fushimi Tavern
+PROG:800214d4	Teradaya
+PROG:800214dc	Sanjūsangen-dō
+PROG:800214e8	Kiyomizu-dera
+PROG:800214f0	Kōdai-ji
+PROG:800214f8	Kiyomizu Teahouse
+PROG:80021508	Akebono-tei
+PROG:80021514	Seikan-ji Village Inn
+PROG:80021520	Gion Shrine
+PROG:80021528	Yoshikō
+PROG:80021530	Yamakinuya
+PROG:80021538	Shimamuraya
+PROG:80021540	Yamao
+PROG:80021548	Yamamayu
+PROG:80021550	Tachibana
+PROG:80021558	Ichiriki
+PROG:80021560	Togano-o
+PROG:80021568	Ogawa-tei
+PROG:80021570	Chinryū School
+PROG:80021578	Aizu Residence
+PROG:80021580	Shirakawa Tosa Residence
+PROG:80021590	Heian Shrine
+PROG:8002159c	Ginkaku-ji
+PROG:800215a4	Hyakumanben
+PROG:800215ac	Ginkaku-ji Teahouse
+PROG:800215bc	Kurodaniya
+PROG:800215c4	Shinsengumi HQ
+PROG:800215d0	Kondō's Villa
+PROG:800215dc	Tō-ji
+PROG:800215e4	Honkoku-ji
+PROG:800215ec	Kaisen-ji
+PROG:800215f4	Kameya
+PROG:800215fc	Wachigaiya
+PROG:80021604	Kikyōya
+PROG:8002160c	Kizuya
+PROG:80021614	Sumiya
+PROG:8002161c	Maekawa House
+PROG:80021628	Yagi House
+PROG:80021634	Kumamoto Residence
+PROG:80021640	Kōen-ji
+PROG:80021648	Shintoku-ji
+PROG:80021650	Mibu-dera
+PROG:80021658	Daimaru
+PROG:80021660	Yamatoya
+PROG:8002166c	Mibu Eatery
+PROG:80021678	Town Magistrate
+PROG:80021684	Shoshidai Office
+PROG:80021690	Nijō Jin'ya
+PROG:8002169c	Rokkaku Gaol
+PROG:800216ac	Ōgakiya
+PROG:800216b4	Mimawarigumi Post
+PROG:800216c0	Sendai Residence
+PROG:800216cc	Kitano Shrine
+PROG:800216d8	Senbon Shaka-dō
+PROG:800216e4	Kinkaku-ji
+PROG:800216ec	Yamatoya
+PROG:800216f4	Kinkaku-ji Teahouse
+PROG:80021704	Chōjamachi Tavern
+PROG:80021714	Shōbai-an
+PROG:8002171c	Restaurant Horikawa
+PROG:80021728	Shijō Riverbank
+PROG:80021734	Sanjō Riverbank
+PROG:80021740	Rai Residence
+PROG:80021748	Kawaramachi Tenement
+PROG:80021754	Hikone Residence
+PROG:80021764	Honnō-ji
+PROG:8002176c	Kikuya
+PROG:80021774	Ōmiya
+PROG:8002177c	Masuya
+PROG:80021784	Suya
+PROG:8002178c	Sanjō Riverside Tavern
+PROG:8002179c	Shijō Eatery
+PROG:800217a8	Beniya
+PROG:800217b0	Tantora
+PROG:800217b8	Hyōtei
+PROG:800217c0	Ibukiya
+PROG:800217c8	Ikedaya
+PROG:800217d0	Aburanokōji
+PROG:800217d8	Fudōdō HQ
+PROG:800217e4	Bukkō-ji
+PROG:800217ec	Kitakōji Armourer
+PROG:800217f8	Yawataya
+PROG:80021800	Juzuyamachi Teahouse
+PROG:80021810	Bōmon Tavern
+PROG:8002181c	Shimogyō Eatery
+PROG:80021828	Yoshiji
+PROG:80021830	Tenmaya
+PROG:80021838	Satomo
+PROG:80021840	Bōnankan
+PROG:80021848	Ryūshinkan
+PROG:80021850	Narasaki Residence
+PROG:80021858	Takeda Residence
+PROG:80021860	Geishū Residence
+PROG:8002186c	Yonezawa Residence
+PROG:80021878	Kokura Residence
+PROG:80021884	Nakarai Clinic
+PROG:80021890	Nijō Clinic
+PROG:8002189c	Hishiya Kimono Shop
+PROG:800218a8	Izutsuya
+PROG:800218b0	Kōnoike Villa
+PROG:800218bc	Fukami Residence
+PROG:800218c4	Fukudaya
+PROG:800218cc	Horikawa Teahouse
+PROG:800218d8	Shijō Taproom
+PROG:800218e4	Teramachi Eatery
+PROG:800218f4	Yoshidaya
+PROG:800218fc	Restaurant Koiyama
+PROG:80021908	Shinoya Inn
+PROG:80021914	Tokudaiji Residence
+PROG:80021920	Reizei Residence
+PROG:80021928	Ikeuchi Residence
+PROG:80021930	Protector's Residence
+PROG:80021940	Daishō-ji
+PROG:80021948	Akitaya
+PROG:80021950	Kamigyō Eatery
+PROG:8002195c	Hamaguri Gate
+PROG:80021964	Ōki Shōin
+PROG:80021970	Sawa Residence
+PROG:80021978	Iwakura Residence
+PROG:80021980	Sanjō Residence
+PROG:80021988	Nakamikado Residence
+PROG:80021994	Takatsukasa Residence
+PROG:8002199c	Kujō Residence
+PROG:800219a4	Ōhara Residence
+PROG:800219ac	Saionji Residence
+PROG:800219b8	Nijō Residence
+PROG:800219c0	Nakayama Residence
+PROG:800219c8	Nakagawa Residence
+PROG:800219d0	Konoe Residence
+PROG:800219d8	Anegakōji Residence
+PROG:800219e4	Koga Residence
+PROG:800219ec	Ichijō Residence
+PROG:800219fc	Gyoen Teahouse
+PROG:80021a08	Kimura Residence
+PROG:80021a10	Kojima Residence
+PROG:80021a18	Satsuma Residence
+PROG:80021a24	Zōjō-ji
+PROG:80021a2c	Saikai-ji
+PROG:80021a34	Harimaya
+PROG:80021a3c	Sagamiya
+PROG:80021a44	Kaigetsu
+PROG:80021a4c	Etchūjima Drill Ground
+PROG:80021a5c	Warship Depot
+PROG:80021a68	Suzuki Residence
+PROG:80021a70	Sakuma School
+PROG:80021a7c	Itō Dōjō
+PROG:80021a88	Ogasawara Residence
+PROG:80021a94	Rōshigumi HQ
+PROG:80021aa0	Kuze Residence
+PROG:80021aa8	Tomioka Hachiman
+PROG:80021ab4	Shinagawa-rō
+PROG:80021abc	Sushi-Gen
+PROG:80021ac4	Suigetsu
+PROG:80021acc	Kozukappara Grounds
+PROG:80021ad8	Igakukan
+PROG:80021ae0	Egawa Residence
+PROG:80021ae8	Odani Residence
+PROG:80021af0	Enomoto Residence
+PROG:80021af8	Kameido Shrine
+PROG:80021b04	Myōken Shrine
+PROG:80021b0c	Sensō-ji
+PROG:80021b14	Higashi Hongan-ji
+PROG:80021b20	Asakusa Teahouse
+PROG:80021b2c	Daimonjiya
+PROG:80021b38	Matsubaya
+PROG:80021b40	Yoshiya
+PROG:80021b48	Kurumaya
+PROG:80021b50	Yoshiwara Restaurant
+PROG:80021b5c	Asakusa Inn
+PROG:80021b68	Shinobazu Pond
+PROG:80021b70	Shōheizaka Academy
+PROG:80021b80	Medical Institute
+PROG:80021b8c	Amano Residence
+PROG:80021b94	Sakai Ryōsa House
+PROG:80021ba0	Kurimoto Residence
+PROG:80021ba8	Takahashi Residence
+PROG:80021bb0	Yamaoka Residence
+PROG:80021bb8	Kanazawa Residence
+PROG:80021bc4	Tsu Residence
+PROG:80021bcc	Kan'ei-ji
+PROG:80021bd4	Denzū-in
+PROG:80021bdc	Gannabe
+PROG:80021be4	Soba-Kichi
+PROG:80021bec	Unasei
+PROG:80021bf4	Matsubara-rō
+PROG:80021bfc	Koishikawa Inn
+PROG:80021c08	Koishikawa Lodging
+PROG:80021c14	Takadanobaba
+PROG:80021c20	Shisei School
+PROG:80021c28	Shieikan
+PROG:80021c30	Uekin
+PROG:80021c38	Ōishi Residence
+PROG:80021c40	Kawaji Residence
+PROG:80021c48	Andō Residence
+PROG:80021c50	Mito Residence
+PROG:80021c5c	Takada Fuji
+PROG:80021c68	Akagi Myōjin
+PROG:80021c74	Kishimojin
+PROG:80021c80	Gokoku-ji
+PROG:80021c88	Nanzō-in
+PROG:80021c90	Ushigome Clinic
+PROG:80021c9c	Ushigome Teahouse
+PROG:80021ca8	Midoriya
+PROG:80021cb4	Aoyama Confucian School
+PROG:80021cc0	Uwajima Residence
+PROG:80021ccc	Konpira Gongen
+PROG:80021cdc	Kōya-ji
+PROG:80021ce4	Meguro Fudō
+PROG:80021cf0	Daian-ji
+PROG:80021cf8	Zenkō-ji
+PROG:80021d00	Kumano Gongen
+PROG:80021d0c	Foreigners' House
+PROG:80021d18	Aoyama Clinic
+PROG:80021d24	Iseya
+PROG:80021d2c	Kiriya
+PROG:80021d34	Rashōmon
+PROG:80021d3c	Kadoebi
+PROG:80021d44	Uchidaya
+PROG:80021d4c	Akasaka Dutch School
+PROG:80021d58	Katsu Residence
+PROG:80021d60	Chōshū Residence
+PROG:80021d6c	Ōgaki Residence
+PROG:80021d78	Fukuoka Residence
+PROG:80021d84	Hikawa Myōjin
+PROG:80021d90	Jōdo-ji
+PROG:80021d98	Tanukiya
+PROG:80021da4	Kawachō
+PROG:80021dac	Naval Training School
+PROG:80021dbc	Fukuzawa School
+PROG:80021dc4	Tsukiji School
+PROG:80021dcc	Tsukiji Western School
+PROG:80021dd8	Shigakukan
+PROG:80021de0	Hori Residence
+PROG:80021de8	Iwase Residence
+PROG:80021df0	Nishi-Hongan-ji
+PROG:80021dfc	Tsukiji Clinic
+PROG:80021e08	Dock Labour Office
+PROG:80021e14	Tsukiji Swords
+PROG:80021e20	Tsukiji Sundries
+PROG:80021e2c	Kame-no-Yu
+PROG:80021e34	Tsukiji Taproom
+PROG:80021e40	Matsuda
+PROG:80021e48	Chōyō-tei
+PROG:80021e50	Tsukiji Inn
+PROG:80021e5c	Kajibashi
+PROG:80021e64	Eitaibashi
+PROG:80021e6c	Chiba Dōjō
+PROG:80021e78	Maejima Residence
+PROG:80021e80	Kuwana Residence
+PROG:80021e8c	Teppōzu Inari
+PROG:80021e98	Hie Shrine
+PROG:80021ea4	Shirokiya
+PROG:80021eac	Uoya Eatery
+PROG:80021eb8	Kinza
+PROG:80021ec0	Denmachō Gaol
+PROG:80021ed0	Nihonbashi Confucian School
+PROG:80021edc	Bunbu Academy
+PROG:80021ee8	Genbukan
+PROG:80021ef0	Yatabori Residence
+PROG:80021efc	Nagai Residence
+PROG:80021f04	Sakura Residence
+PROG:80021f10	Kanda Myōjin
+PROG:80021f1c	Hayashi Clinic
+PROG:80021f24	Nihonbashi Sundries
+PROG:80021f34	Kinokuniya
+PROG:80021f40	Echigoya
+PROG:80021f48	Archery Ground
+PROG:80021f54	Infantry Barracks
+PROG:80021f60	Bansho Shirabesho
+PROG:80021f6c	Kōbusho
+PROG:80021f74	Takashima Gunnery
+PROG:80021f80	Renpeikan
+PROG:80021f88	Ōmura Residence
+PROG:80021f90	Hanawa Residence
+PROG:80021f98	Inoue Residence
+PROG:80021fa0	Kayama Residence
+PROG:80021fa8	Sasaki Residence
+PROG:80021fb4	Oguri Residence
+PROG:80021fbc	Nakajima Residence
+PROG:80021fc4	Okabe Residence
+PROG:80021fcc	Ōkubo Residence
+PROG:80021fd8	Sakai Residence
+PROG:80021fe0	Inaba Residence
+PROG:80021fe8	Mizuno Residence
+PROG:80021ff0	Abe Residence
+PROG:80021ff8	Iba Residence

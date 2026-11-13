@@ -1,0 +1,203 @@
+# GATE (checkpoints) and HANA (hanafuda, Koi-Koi) overlay strings
+GATE:8015b858	Checkpoint at %s. It is %s dangerous. Try passing anyway?
+GATE:8015b894	rather
+GATE:8015b89c	a bit
+GATE:8015b8a4	very
+GATE:8015b8b8	Sneak by the Back Road
+GATE:8015b8d0	Go Back the Way You Came
+GATE:8015b8e4	You slipped past the checkpoint.
+GATE:8015b900	Hm? A rustling in the grass...
+GATE:8015b920	...They seem to have noticed.\nOh well, we'll go through the checkpoint.
+GATE:8015b950	Then we shall pass the checkpoint.
+GATE:8015b968	Next! Come through.
+GATE:8015b97c	W-why, %s-dono!\nThank you for your service.
+GATE:8015b9a4	Hm? That face, if I recall...\nWell, no matter. Go on.
+GATE:8015b9d4	Very well. You may pass.
+GATE:8015b9f0	Hold! Sir, wait a moment!\nGive your name...
+GATE:8015ba24	We seem to be suspected.\nI shall give an alias.
+GATE:8015ba4c	I am %s, this man's wife.
+GATE:8015ba9c	...\nI see. I was mistaken.\nPlease, go through.
+GATE:8015bad4	Excuse me...
+GATE:8015bb18	Outrageous thief
+GATE:8015bb2c	Vile foe of the shogunate
+GATE:8015bb44	Checkpoint breaker
+GATE:8015bb58	Murderous villain
+GATE:8015bb6c	Slayer of elders
+GATE:8015bb84	Heinous domain deserter
+GATE:8015bbb4	Roar
+GATE:8015bbc0	Break Through
+GATE:8015bbcc	...Hah!
+GATE:8015bbdc	the notorious 
+GATE:8015bbec	You are %s%s!\n%s%sSurrender quietly!
+GATE:8015bc14	!\n
+GATE:8015bc1c	Yaaah! Out of my way!%s
+GATE:8015bc40	\nEveryone! Run!
+GATE:8015bc54	Hey! Stop right there!
+GATE:8015bc6c	.
+GATE:8015bc74	Phew, that was close.\nI'm safe now%s
+GATE:8015bca0	Fool, you're a rat in a trap!\nCome quietly!
+GATE:8015bcd0	No help for it...\nWe must fight%s
+GATE:8015bcf0	Begone!!!\nI'm in a hurry...\nMove, unless you want to die.
+GATE:8015bd2c	Begone!!!\nI'm a strong one.\nStand aside or you'll get hurt.
+GATE:8015bd6c	Begone!!!\nMove, or die...
+GATE:8015bd94	Begone!!!\nI don't wish to kill needlessly...\nForgive me, but stand aside...
+GATE:8015bdd0	Ugh...
+GATE:8015bddc	How impudent!\nThe thief grows bold, indeed!\nSurrender quietly!
+GATE:8015be24	Big talk for a petty official.\nLooks like it's a fight, then.
+GATE:8015be64	Whoops, that failed.\nNothing for it, we must fight.
+GATE:8015be98	No help for it, we must fight...
+GATE:8015bebc	If caught, it will go badly. Is that all right?
+GATE:8015bef0	Hm, a commendable attitude.\nBut I show no mercy!\nSeize the culprit%s!
+GATE:8015bf38	s
+HANA:8015b88c	 The opponent's luck always seems better than one's own.\n Some tactless guests cry "Cheat!", but we never stoop to such sly tricks, you know.
+HANA:8015b924	 It is hard to remember which cards need no hurry to take. Then you can hold them in separate hands, right and left.\n  {C6}Note: this trick cannot be used in this game.{C7}
+HANA:8015b9d8	 When the opponent discards a card, remember which flower cards remain.\n Cards of that flower are {C6}safe to take without hurry{C7}, you see.
+HANA:8015ba6c	 When you can win with cards {C5}certain to be taken{C7}, do not win at once; keep them.\n When no other cards can be taken, {C6}keep them even if you must discard other cards{C7} and press for a bigger hand. That marks a master.
+HANA:8015bb2c	 When the opponent needs just one more card for a yaku, avoid putting out cards of that flower.\n For instance, if they hold the boar and deer and a Peony card appears, snatch it up quickly.
+HANA:8015bbcc	 When four cards of one flower gather between the field and your hand, all of that flower is {C5}certainly{C7} yours.\n Then there is no need to take them in a hurry.
+HANA:8015bc7c	 If the opponent could not take a card last turn, {C6}pick up the card they discarded{C7}.\n With nothing to take, one is tempted to discard from a flower with two cards.
+HANA:8015bd14	 It is important to remember which flower holds which yaku card.\n If you forget a yaku, press {M3} during the game, and I will tell you.
+HANA:8015be64	Three cards of one flower, so I'll gather them.\n
+HANA:8015be9c	Dealer: 6 mon\n
+HANA:8015beb8	Gokō: 15 mon\n
+HANA:8015becc	Shikō: 10 mon\n
+HANA:8015bedc	Ame-Shikō: 8 mon\n
+HANA:8015bef0	Sankō: 6 mon\n
+HANA:8015bf00	Inoshikachō: 6 mon\n
+HANA:8015bf14	Akatan: 6 mon\n
+HANA:8015bf24	Aotan: 6 mon\n
+HANA:8015bf34	Hanami-zake: 3 mon\n
+HANA:8015bf48	Tsukimi-zake: 3 mon\n
+HANA:8015bf5c	Tane: %s mon\n
+HANA:8015bf6c	Tan: %s mon\n
+HANA:8015bf7c	Kasu: %s mon\n
+HANA:8015bf8c	Total: %s mon\n
+HANA:8015bf9c	Hehehe... pardon me.\n
+HANA:8015bfb4	Oh, I give up.\n
+HANA:8015bfc8	Master, luck is not with you.\nLet us stop here.\n
+HANA:8015c004	How cruel. I surrender.\n
+HANA:8015c024	Master, you're strong.\n
+HANA:8015c03c	Oh my, a draw.\n
+HANA:8015c058	Hehehe... You let me win? How happy I am.\n
+HANA:8015c0a4	Changing the settings.
+HANA:8015c0b8	Now, the finer points.
+HANA:8015c0d0	Shall we play with\nTsukimi-zake and\nHanami-zake "on"?
+HANA:8015c0fc	Shall we leave out\nsuch cheap yaku as\nmoon and blossom\nviewing?
+HANA:8015c13c	Let us not allow a\nwin by moon viewing\nor blossom viewing alone.
+HANA:8015c174	What of moon and\nblossom viewing?
+HANA:8015c190	I'm not very good at hanafuda.\nGo easy on me, please.
+HANA:8015c1d0	Then let's begin.
+HANA:8015c1e4	Even if my opponent is a guest,\nI won't go easy on you.
+HANA:8015c218	Oh, do look at this!\nI'm so happy!
+HANA:8015c24c	Oh, how cruel!
+HANA:8015c260	Hehe, I have the\nAkatan now!
+HANA:8015c280	Oh, I was beaten!
+HANA:8015c294	Hehe, I made the\nAotan!
+HANA:8015c2b0	Hehehe
+HANA:8015c2bc	Hehe, I took a\nlovely card.
+HANA:8015c2d8	Oh no, you took\nan important one!
+HANA:8015c2f8	Hehe, pardon me.
+HANA:8015c310	You had it? How\nsly of you!
+HANA:8015c330	Yes! What\nluck!
+HANA:8015c348	Oh, you'll take\nthat one?
+HANA:8015c36c	I can't let you\ntake this one.
+HANA:8015c390	To be safe, I'll\ntake this one.
+HANA:8015c3b4	Oh, really...\nYou are so careful.
+HANA:8015c3d8	Oh, really, this\nis too much...
+HANA:8015c3f8	Oh dear,\nno luck at all.
+HANA:8015c414	Hehe,\nhow unfortunate.
+HANA:8015c42c	Yay, I knew\nit would come!
+HANA:8015c444	My, you pick well.
+HANA:8015c458	Hehe, pardon me.
+HANA:8015c46c	Now I can't take\nanything.
+HANA:8015c48c	Oh no, I drew a\nbad card.
+HANA:8015c4a8	You gave me a\nlovely card.
+HANA:8015c4c8	Master, surely,
+HANA:8015c4d8	\nYou couldn't\ntake that one.
+HANA:8015c4f8	Which one will you play?
+HANA:8015c50c	That is not the card.
+HANA:8015c520	Three cards of one\nflower, so I'll\ngather them.
+HANA:8015c558	Four cards of one\nflower, so I'll\ndeal again.
+HANA:8015c58c	It's your turn, Master.
+HANA:8015c5a0	What are you doing?
+HANA:8015c5b4	Do hurry, please.
+HANA:8015c5c8	I'll take that\ncard, if I may.
+HANA:8015c5e8	About time to\ntake one, I think.
+HANA:8015c608	Hmm... this\none, maybe...?
+HANA:8015c62c	Hmm, I'll throw\nthis away.
+HANA:8015c64c	No good cards...
+HANA:8015c660	That was close,\ndear me.
+HANA:8015c678	Hehe, I win first.
+HANA:8015c688	Of course, I'll\nkoi-koi, if I may.
+HANA:8015c6b0	Oh, mercy,\nplease.
+HANA:8015c6cc	What to do...\nVery well, I'll\nkoi-koi.
+HANA:8015c6f4	All or nothing.\nI'll koi-koi.
+HANA:8015c714	Oh, how manly!\nBut who knows how\nit will go.
+HANA:8015c748	How bold...\nLet me see what\nyou can do.
+HANA:8015c77c	At this rate I\nlose... Nothing\nfor it but to\nkoi-koi.
+HANA:8015c7b8	Koi-koi...\nHmm...\nI'll skip it.
+HANA:8015c7e0	Oh, is it over\nalready?
+HANA:8015c7fc	I'll quit while\nI'm ahead.
+HANA:8015c818	Hehe...
+HANA:8015c824	I give up...
+HANA:8015c838	Beating my koi-koi...\nMaster, you're a\ntrue gambler.
+HANA:8015c874	Thank you.\nYou let me win?\nI'm so happy.
+HANA:8015c8ac	Master, luck is\nnot with you.\nLet us stop here.
+HANA:8015c8e0	Master, you\nare strong.
+HANA:8015c8f8	I give up.\nI surrender.
+HANA:8015c918	Whoever draws the\nlater month's card\ndeals. Please pick\none.
+HANA:8015c950	I'll take this...
+HANA:8015c960	I drew
+HANA:8015c968	)\n\n\nYou deal, Master.
+HANA:8015c984	)\n\n\nI deal.
+HANA:8015c99c	I also drew
+HANA:8015c9a4	)\n\n\nSame month, so\nwe draw again.
+HANA:8015c9d0	Studying my play,\nare you?
+HANA:8015c9f8	Let's just play\nnormally.
+HANA:8015ca14	Time to end\nthis, I think.
+HANA:8015ca30	What?!
+HANA:8015ca40	What luck!
+HANA:8015ca50	Oh, that's\ntoo much.
+HANA:8015ca74	I lost. But I\ncan't hand it\nover yet...
+HANA:8015caa8	Hehe...\nYou've a way to go.
+HANA:8015cac4	Hehe...\nI was waiting\nfor that card.
+HANA:8015caec	...?\nYou wish to\ncontinue?
+HANA:8015cc94	Koi-koi?
+HANA:8015cca4	All or nothing. I'll koi-koi.\n
+HANA:8015ccc4	No koi-koi for me.\n
+HANA:8015cd08	Month %s\n
+HANA:8015cd10	Rounds: %s\n
+HANA:8015cd1c	 Whoever draws the later month's card deals.\n Please pick one.\n
+HANA:8015cd58	%s (month %s)?\n
+HANA:8015cd64	 I drew %s (month %s).\n
+HANA:8015cd7c	 I deal.\n
+HANA:8015cd90	 You deal, Master.\n
+HANA:8015cdc0	{M0}: Back to Menu
+HANA:8015cdd4	Yaku Help
+HANA:8015cde0	Card Help
+HANA:8015cdec	Month %s
+HANA:8016fdcc	-
+HANA:8016d5b0	Iris
+HANA:8016da48	Iris
+HANA:8016e208	Iris
+HANA:8016e6a0	Iris
+HANA:8016eb78	Iris
+HANA:8016f018	Iris
+HANA:8016f4b0	Iris
+HANA:8016f948	Iris
+HANA:8016fde0	-
+HANA:80170188	-
+HANA:801702f0	-
+HANA:8017032c	-
+HANA:801703a4	Gokō: 15
+HANA:801703b4	Shikō: 10
+HANA:801703c4	Ame-Shikō: 8
+HANA:801703d4	Sankō: 6
+HANA:801703e4	Inoshikachō: 6
+HANA:801703f4	Akatan: 6
+HANA:80170404	Aotan: 6
+HANA:80170414	Hanami-zake: 3
+HANA:80170424	Tsukimi-zake: 3
+HANA:80170434	Tane: 1
+HANA:80170444	Tan: 1
+HANA:80170454	Kasu: 1

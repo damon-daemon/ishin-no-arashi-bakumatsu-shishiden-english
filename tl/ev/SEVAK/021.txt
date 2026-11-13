@@ -1,0 +1,633 @@
+@0
+Naval training at the Kōbe Naval Training Institute
+
+@1
+Heading to the Kōbe Naval Training Institute
+
+@3
+It's been a long time!
+
+@4
+Oh, Umanosuke!
+
+@5
+Let me join the naval school too!
+
+@6
+You're more than welcome!
+
+@9
+Halt!
+
+@11
+...Whoa, that was close.
+
+@12
+Out of the way!
+
+@13
+Step aside\nDon't step aside
+
+@15
+You dare interfere?!
+
+@17
+Heh heh heh, you can't run any more.
+
+@18
+Ugh...
+
+@19
+Help him\nDon't help him
+
+@20
+That's enough!
+
+@21
+Don't get in our way! Do you want to be cut down too?!
+
+@23
+Hm? You're Chiya, aren't you?!
+
+@24
+Hm? How do you know my name?
+
+@25
+I'm Chiya Toranosuke of Tosa.
+
+@26
+Are you of the Loyalist Party?
+
+@27
+Y-yes!
+
+@28
+Oh, he has a friend. I'll cut you both down together!
+
+@29
+Cut me down? I'm a student at the shogunate's naval school!
+
+@31
+This man is joining us from today. And you would cut him down?
+
+@33
+Hmph.
+
+@35
+T-thank goodness...
+
+@36
+Did you leave your domain too?
+
+@37
+Yes... well...
+
+@39
+Will you truly let me into the naval school?
+
+@40
+Of course, come on in.
+
+@41
+Th-thank you! Thank you so much!
+
+@44
+Oryō, what's wrong?
+
+@45
+Will you be going to bed?
+
+@47
+Yes.
+
+@48
+Oryō, play the gekkin for me.
+
+@49
+Yes.
+
+@51
+No, I'm in a hurry.
+
+@52
+...That's no fun.
+
+@53
+Ryō-san, we're going to Edo.
+
+@55
+It looks bad if the Naval Training Institute has no warships, doesn't it? I'm going to get some from those shogunate fellows.
+
+@57
+Of course I'll go!
+
+@58
+When you're so openly delighted, it makes me glad too. No wonder the women like you, Ryō-san.
+
+@60
+Don't play dumb, I've heard all sorts of things.
+
+@61
+All sorts of things...
+
+@62
+No...
+
+@63
+What, aren't you happy? Isn't there someone waiting for you in Edo?
+
+@65
+...I'll go.
+
+@66
+Heh, you're an honest one.
+
+@67
+I'll pass.
+
+@68
+Hmm, is that so? Well, if that's what you say, Ryō-san, it's fine with me.
+
+@69
+Then mind the place while I'm away.
+
+@70
+I have a bit of business at Edo Castle. Ryō-san, why not show your face at the Chiba Dōjō? I'll send for you when it's time to return.
+
+@71
+Ryō-san, it looks like the warship business will work out somehow.
+
+@72
+That's good news!
+
+@73
+And next, I'm off to Nagasaki.
+
+@74
+You are busy, sir.
+
+@75
+It seems the combined fleet of four nations, Britain, France, America and the Netherlands, which Chōshū bombarded, is gathering at Nagasaki and planning to bombard Shimonoseki.
+
+@76
+That's terrible!
+
+@77
+And what do you think the shogunate men said when they heard this?
+
+@78
+"How convenient. Let them thrash Chōshū so thoroughly that it loses all will to defy the shogunate. We'll even supply fuel and ammunition from the shogunate's ports." That's what they said.
+
+@80
+Fellow Japanese about to be attacked by foreign powers, and they want to help the attackers. Truly a narrow-minded pack of fools.
+
+@81
+So there's nothing for it: I'll ask the combined fleet myself and talk them out of it somehow.
+
+@83
+I'll go with you.
+
+@84
+Not that I'm taking you along to negotiate, Ryō-san.
+
+@86
+Well, we'll talk about that once we get there.
+
+@87
+No, I don't mean to have you sit at the negotiating table, Ryō-san. I have another matter in mind.
+
+@89
+Understood. Let's go.
+
+@90
+I'll stay behind.
+
+@91
+I see... all right. I leave the rest to you.
+
+@93
+You!
+
+@94
+It's your nephew, Takamatsu Tarō!
+
+@96
+I left my domain too.
+
+@97
+You're reckless. You're still a child, aren't you?
+
+@98
+I'm a man now. I've made up my mind to follow you, Ryōma-san!
+
+@99
+Ha ha ha, I'm joking. You've come at the right time. Katsu-sensei's naval school has been set up, so join it as well.
+
+@100
+Can I really join too?!
+
+@101
+Even if I told you to go home, you wouldn't listen, would you?
+
+@102
+Then I'll go ahead to Kōbe!
+
+@104
+Hey, you there.
+
+@106
+Which domain are you from? State your name.
+
+@107
+(The man-slaying band of the Shinsengumi I keep hearing about... this is bad.)
+
+@108
+Dodge the question\nGive your name honestly
+
+@109
+Oh!
+
+@111
+Why not give up cutting men down and join the naval school?
+
+@112
+I'm asking who you are.
+
+@113
+Never mind me. This sort of work can't be much fun, can it?
+
+@114
+You won't give your name? Then you're a rōnin who fled his domain.
+
+@115
+Sakamoto of Tosa.
+
+@116
+Tosa has many who flee the domain. We'll question you, so come with me to our headquarters.
+
+@118
+You are a suspicious lot.
+
+@119
+You've no grounds to question me.
+
+@121
+Please wait!
+
+@122
+Heisuke.
+
+@123
+So it was Sakamoto-san. Please forgive our rudeness.
+
+@124
+You know me?
+
+@125
+I am Tōdō Heisuke. I come from the Chiba school, and I have heard of you, Sakamoto-san.
+
+@126
+So there are Chiba men in the Shinsengumi too.
+
+@127
+Hijikata-san, this man belongs to the shogunate's newly founded Naval Training Institute. He is no suspicious character.
+
+@130
+(Sakamoto-san, a word...)
+
+@132
+(I would rather you did not walk so boldly through the streets of Kyōto. Rōnin who have fled their domains are prime targets for us in the Shinsengumi.)
+
+@133
+...Hmm.
+
+@134
+You'd do better to give up the manslaying trade.
+
+@135
+Many from the Chiba school are sonnō-jōi patriots. Don't harm any more of your fellow students.
+
+@137
+Is Sakamoto-san here?
+
+@139
+It's me! Mutsu Munemitsu!
+
+@140
+Oh, what brings you here?!
+
+@141
+Well, I heard you were up to something interesting: a navy, of all things.
+
+@142
+Are you Sakamoto Ryōma?
+
+@144
+I'm a man who fled Kishū. I heard there was a rōnin up to something interesting: a navy, of all things.
+
+@145
+Do you want to join the naval school?
+
+@146
+Well, sort of. I thought I might do you the favour of joining.
+
+@147
+Make him a comrade\nDon't make him a comrade
+
+@148
+What's with that arrogant attitude?!
+
+@149
+Do as you like.
+
+@150
+Do as you like. What's your name?
+
+@151
+...You can go home.
+
+@152
+What? Hey, I went out of my way to visit you because of what I'd heard. There's no need to be so curt about it.
+
+@153
+Make him a comrade\nDon't make him a comrade
+
+@154
+What's with that arrogant attitude?!
+
+@155
+All right, I'll let you in.
+
+@156
+All right, I'll let you in. What's your name?
+
+@157
+I don't want you if you're going to act as if you're doing me a favour.
+
+@158
+Wait! Oh, for heaven's sake. I come with an introduction from Hirai Shūjirō. Please let me in.
+
+@159
+From Shūjirō?!
+
+@160
+He looked after me in Edo. He's my benefactor, you might say.
+
+@161
+I see... from Shūjirō...
+
+@162
+...It was truly a pity. I told him so many times not to go back to Tosa, but he said a samurai cannot defy his lord's command...
+
+@164
+I won't be so presumptuous as to say I'll carry on Shūjirō-san's cause. But won't you give me a chance?
+
+@165
+If Shūjirō introduced you, why didn't you say so first?
+
+@166
+My pride as a man wouldn't allow me to borrow help from the dead.
+
+@167
+You're a roundabout fellow. You're borrowing it after all, aren't you?
+
+@168
+Well, that's true, but...
+
+@169
+Your name?
+
+@170
+Mutsu Munemitsu.
+
+@171
+Well then, I look forward to working under you, head of the school.
+
+@172
+Ryōma, you and I have both been ordered back to the domain.
+
+@173
+So it's come.
+
+@174
+I'm not going back. It would be as good as going to my death.
+
+@175
+Return\nDon't return
+
+@176
+I'll go back.
+
+@177
+Are you out of your mind?!
+
+@178
+Otherwise I'll be a runaway from the domain all over again.
+
+@179
+Don't, Ryōma! You'll only be tortured and killed!
+
+@180
+...You're right. There's no need to hand them my life for nothing.
+
+@181
+Yes. There's no need to hand them my life for nothing.
+
+@182
+Kyōto is now in the hands of the shogunate faction too. A band of pro-shogunate rōshi called the Shinsengumi is said to be cutting down loyalist rōnin right and left.
+
+@183
+I'm going to Chōshū. I mean to serve the Seven Nobles who fled the capital.
+
+@184
+...Don't die.
+
+@185
+Same to you.
+
+@186
+Ryōma, so this is where you were!
+
+@187
+The naval school is finally built.
+
+@188
+This is no time for that! Takechi-sensei has been thrown in prison!
+
+@189
+Hanpeita?!
+
+@190
+Lord Yōdō saw that the Kyōto coup turned the tide to the shogunate side, and now he has started cracking down on the Loyalist Party in earnest!
+
+@191
+...Damn it all!!
+
+@192
+Sensei's life hangs by a thread. The retired lord seems to bear a terrible grudge over the murder of Tōyō, his favourite.
+
+@193
+The gōshi of the Loyalist Party are said to be savagely tortured day after day. If anyone talks and says Sensei is behind it all, it's the end.
+
+@194
+We can never return to Tosa again. If we go back, we'll be thrown in prison without question. But we must save Sensei somehow!
+
+@195
+Go to Chōshū\nBuild a navy
+
+@196
+Let's go to Chōshū!
+
+@197
+I was just thinking the same thing!
+
+@198
+(No, wait. What about the naval school we finally built?)
+
+@199
+Abandon it\nThe navy is needed
+
+@200
+(The loyalist cause is in danger. I can't say such things now.)
+
+@201
+Huh? Sakamoto-san, are you going out?
+
+@202
+I feel bad for Katsu-sensei, but I'll be away from the naval school for a while.
+
+@203
+What?! Wait, Sakamoto-san!
+
+@204
+What am I supposed to do?
+
+@205
+Come with me\nStay here
+
+@206
+Come with me!
+
+@207
+Stay here and learn seamanship!
+
+@208
+Sakamoto-san, I'm coming with you!
+
+@209
+Come with me\nStay here
+
+@210
+Come!
+
+@211
+Stay here!
+
+@212
+I won't!
+
+@214
+Do as you please!
+
+@215
+Let's go, Ryōma!
+
+@216
+Hm? That's...!
+
+@217
+...I can't go. I'm sorry, but I leave Chōshū to you.
+
+@218
+W-what?!
+
+@219
+To stand against the shogunate forces that have regained their strength, we need a navy. I'll hurry to build one here.
+
+@220
+How can you take things so easy?!
+
+@221
+It may look like a detour, but it's the quickest way.
+
+@222
+Enough! I'll do it alone!
+
+@223
+...I must hurry and build a navy!
+
+@224
+How can you talk of taking your time?! If we don't turn the times back to the loyalist side, Sensei will be cut down!
+
+@225
+I'm no good at political manoeuvring.
+
+@226
+You can't? It's not "can't", it's "must"!
+
+@227
+To push back a current that has already gone the other way, clever tricks won't do. Unless we show a great power that everyone can see, the times will not move.
+
+@228
+We have no time for that! Enough, I'll do it alone!
+
+@229
+What will you do?
+
+@230
+To Chōshū, for now! With Tosa broken and Satsuma turned traitor, Chōshū is the loyalists' last fortress!
+
+@231
+Oh, you've come!
+
+@232
+It's done!
+
+@233
+Thanks to you, Ryō-san, for squeezing the money out of Lord Shungaku.
+
+@234
+Raising that money was quite a trial, I tell you.
+
+@235
+We can't do much for a while with no ships, but somehow it has taken shape.
+
+@236
+So from now on, this is our lair.
+
+@238
+You're... Kameyata!
+
+@239
+You remembered me! It's Mochizuki!
+
+@240
+Will you join the naval school?
+
+@241
+Yes. When Takechi-sensei heard of Chōshū's defeat at Shimonoseki, he said, "Just as Ryōma said, we will need black ships of our own to strike the foreigners"...
+
+@242
+...So he understood...
+
+@243
+They say Satsuma fought the British fleet too, and was beaten despite a good fight.
+
+@244
+Satsuma too?!
+
+@245
+I realised that expelling the foreigners can't be done with swords any more.
+
+@246
+Now that the political situation in Kyōto has changed completely, rōnin of unknown background are apparently being hunted by the Shinsengumi and the Mimawarigumi.
+
+@247
+We can't let them die like dogs. You are to find them and bring them into this Training Institute.
+
+@249
+Training at the Kōbe Naval Training Institute\n(Goal: navigation 40)
+
+@250
+Find rōnin in Kyōto
+

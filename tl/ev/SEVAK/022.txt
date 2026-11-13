@@ -1,0 +1,558 @@
+@0
+In Edo on business, following Katsu Kaishū
+
+@1
+Waiting in Edo
+
+@3
+Well! Ryō-san, is that you?! When did you get to Edo? Oh, that's right! There's a visitor from Tosa here right now.
+
+@4
+From Tosa?
+
+@5
+Wait here. Sana, Ryō-san is here! Show our guest in!
+
+@6
+What! Sakamoto-sama?!
+
+@7
+Sana-san.
+
+@9
+...Sana? The guest, please.
+
+@10
+...Oh? Y-yes!
+
+@11
+Ryōma-san! It's me, Kitazoe Kitsuma of the Loyalist Party!
+
+@12
+Know him\nDon't know him
+
+@13
+Shibaten Kitsuma! Why are you in Edo?
+
+@14
+Ah... (I feel I've seen him somewhere... but I can't quite remember.)
+
+@15
+...Why are you in Edo?
+
+@16
+I've been to Ezo (Hokkaidō).
+
+@17
+Ezo?!
+
+@18
+I mean to move rōnin who fled their domains to Ezo: men who live in fear of the Shinsengumi in Kyōto and have nowhere to go back to.
+
+@19
+In Ezo there's land as far as the eye can see. If we open it up, we could found a whole new domain!
+
+@20
+That's wonderful!\nThat's impossible
+
+@21
+That's wonderful! You think up some tremendous things, don't you?
+
+@22
+Yes. Well, that's what I thought, but...
+
+@23
+Impossible. Even when invited to join the navy, those hot-blooded fellows bristle and call it a slow-going plan. I can't imagine them going off to plough fields at the end of the earth.
+
+@24
+Yes, true enough. And besides...
+
+@25
+But now that I've been there, the climate is far too harsh. Nearly half the year it's buried under snow.
+
+@26
+But if it worked, we could save the lives of the shishi in Kyōto. And when it comes time to overthrow the shogunate, it would be a precious army marching south on Edo from the north.
+
+@27
+For that we need funds.
+
+@28
+...If our fleet could trade, we could raise funds...
+
+@29
+Ha ha ha, and when would that be? If it takes three or four years, the shishi in Kyōto will be wiped out.
+
+@30
+Ryō-san, time to get moving at once. This is where my famous tongue earns its keep. Back me up, will you?
+
+@31
+Ōkubo-dono! Is Ōkubo-dono at home?!
+
+@32
+Who is it? What a racket.
+
+@33
+It's me, Katsu!
+
+@34
+Oh, Awa-dono. You've brought a fierce-looking fellow along.
+
+@35
+Heh heh, this is my best pupil. Please look kindly on him.
+
+@36
+A pupil? Ah, a student of that naval school of yours.
+
+@37
+This is my benefactor, Ōkubo Ichiō, the Magistrate of Finance.
+
+@38
+I'm Sakamoto.
+
+@39
+Well, no use talking on the doorstep. Come in.
+
+@40
+Pardon the intrusion.
+
+@41
+Today I have a favour to ask.
+
+@42
+It's about warships, I suppose?
+
+@43
+Oh, how did you know?
+
+@44
+Those who came back from Kyōto have been grumbling lately that Katsu talks of nothing else.
+
+@45
+Can't something be done? Even one worn-out ship would do.
+
+@46
+Hmm...
+
+@47
+Please!\n...
+
+@48
+I beg you too!
+
+@49
+Hmm... very well. I'll see what I can do.
+
+@50
+Truly?
+
+@51
+Oh! Much obliged!
+
+@53
+Still, persuading the shogunate council, which regards giving warships to rōnin as dangerous, will be quite a struggle.
+
+@54
+Leave that to Ōkubo-dono's wit and virtue, and it'll be done in a trice.
+
+@55
+Don't say it so lightly.
+
+@56
+Hmm, I see what you mean, but... I have no confidence I can persuade a council that regards giving warships to rōnin as dangerous.
+
+@57
+Rōnin or not, this is a time when Japan needs every bit of strength to defend itself.
+
+@58
+Quite so, but...
+
+@59
+Besides, a navy shows its strength only when the fleets of the whole country fight in close contact with each other.
+
+@60
+If we keep suspecting one another at home, what will we do when the foreigners truly attack?
+
+@64
+The shogunate has no strength to get through this crisis by itself. The best course is for the Tokugawa to return rule to the Imperial Court.
+
+@65
+Wh-what did you say?!
+
+@66
+To protect the Tokugawa house, there is nothing else left. Building a strong modern state is impossible under the shogunate-and-domain system.
+
+@67
+The shogunate... returning rule...!
+
+@68
+Ōkubo-dono has been thinking about that plan for quite some time.
+
+@69
+But... it's impossible. I have proposed it to the shōgun several times, but now that Chōshū has been beaten in Kyōto, no one on the council supports such a moderate policy. Especially that Oguri Tadamasa...
+
+@70
+"It's not impossible"\n"That's impossible"
+
+@71
+It's not impossible! If we negotiate with several times as many Black Ships as the shogunate has...
+
+@72
+There you go again, talking big!
+
+@73
+Then we could overthrow the shogunate without shedding blood!
+
+@74
+Ha ha ha, Awa-dono, you have a splendid pupil. It is young men full of passion like him who will save Japan.
+
+@75
+(W-well, I never! Amazing, it's amazing! If that could be done, this country would be reborn!!)
+
+@76
+Indeed... that would be impossible, I suppose.
+
+@77
+The best we shogunate retainers may be able to do is struggle to keep the shogunate from walking the wrong path.
+
+@78
+Ōkubo-dono, while I'm asking favours, I have one more.
+
+@79
+Come now, spare me.
+
+@80
+There are too many rōnin in Kyōto for the naval school to take. I'd like to move them to Ezo.
+
+@81
+What? They're anti-shogunate, aren't they? The council would never allow such people to emigrate.
+
+@82
+It would clear the anti-shogunate faction out of Kyōto, and give you troops to defend Ezo, which Russia has its eye on.
+
+@83
+Hm!
+
+@84
+Can the northeastern domains and the shogunate's retainers alone defend Ezo?
+
+@85
+...No, they cannot.
+
+@86
+You see?
+
+@87
+Hmm. Well, I will give the matter some thought.
+
+@88
+I'm counting on you.
+
+@89
+...Your pupil is quite something.
+
+@90
+Yes, he's my pride and joy.
+
+@91
+The warships look like they'll work out, but I'm still worried. I'll try a little harder on my side.
+
+@92
+Sadly, procuring warships looks difficult. I'll try a little harder on my side.
+
+@93
+Take it seriously\nPlay the fool
+
+@94
+Sana-san...
+
+@95
+I, Sana, am in love with you, Ryōma-dono! Pl-please take me as your wife!!
+
+@97
+...A fool like me... No, I am happy to hear it.
+
+@98
+Huh? ...Sana-san wants to ride the Black Ships too?
+
+@99
+...No.
+
+@100
+Ha ha ha, the naval school trains Black Ship sailors, you know? Not that I could make a woman sailor of you, Sana-san. I couldn't face Sadakichi-sensei.
+
+@101
+N-no, that's not it! That's not what I... um...
+
+@102
+Not what?
+
+@103
+...Oh, honestly!!
+
+@104
+Pretend not to understand\nReally don't understand
+
+@106
+You won't understand, Sakamoto-sama, unless I put it plainly, so I'll say it outright!
+
+@107
+(Here it comes.)
+
+@108
+(What could it be?)
+
+@109
+I, Sana...
+
+@111
+Sana-san?
+
+@112
+I, Sana, am in love with you, Ryōma-dono! Pl-please take me as your wife!!
+
+@113
+Wh-whaaat?!!
+
+@114
+Oh, don't pretend!
+
+@115
+Huh? ...Whaaat?!!
+
+@117
+Truly?
+
+@118
+...Did you really never notice until now?
+
+@119
+I never imagined it went that far. A fool like me... No, I am happy to hear it.
+
+@120
+Oh? Then... you will?!
+
+@121
+Of course\nNo
+
+@123
+!! ...
+
+@124
+I like you too, Sana-san.
+
+@125
+...Ah, ah!
+
+@126
+Sana-san?
+
+@127
+I'm so glad... I'm so happy!!
+
+@128
+But Sana-san, I'm working for the sake of Japan. Work for the realm is not something a man can do while sparing his own life.
+
+@130
+No, that's...
+
+@132
+That... I can't!
+
+@135
+...Why...?
+
+@137
+I told you what is truly in my heart. Please tell me honestly what is in yours, Ryōma-dono.
+
+@139
+Sana-san, I'm working for the sake of Japan. Work for the realm is not something a man can do while sparing his own life.
+
+@141
+Becoming my wife means you may become a widow at any moment.
+
+@142
+I! ...I do not want to lose you, Sakamoto-sama. But if I am to be a samurai's wife, I am prepared!
+
+@143
+I don't want to make you a widow either. I fear that, out of that wish to spare my own life, my resolve at the crucial moment would weaken.
+
+@144
+I will not get in your way! I, Sana, will be all right. If I would only hinder you, Ryōma-dono, I would rather die!
+
+@145
+Sana-san...
+
+@146
+Take her along\nLeave her behind
+
+@147
+I can't take you after all.
+
+@149
+Come with me. Don't blame me if you regret it.
+
+@151
+Um...
+
+@153
+...Do you think it improper, a woman visiting a gentleman's room at such a late hour?
+
+@154
+Huh? Ah... no, not at all!
+
+@155
+Truly?
+
+@157
+That's a relief. I've been agonising all this time over whether you'd think me a shameless girl.
+
+@158
+Ha ha...
+
+@159
+...Well then, g-good night.
+
+@160
+"Good night"\n"Wait"
+
+@161
+Good night.
+
+@162
+Sana-san, wait a moment.
+
+@164
+It's all right if the man does the visiting, isn't it?
+
+@166
+I'm fond of you, Sana-san.
+
+@168
+Please stay with me always.
+
+@169
+I'm so happy...
+
+@171
+Training at the Kōbe Naval Training Institute
+
+@173
+Sorry, Ryō-san, it's all so rushed.
+
+@174
+Not at all.
+
+@175
+I never thought we'd get a warship this smoothly.
+
+@180
+The ship to Ōsaka is leaving earlier than planned.
+
+@181
+I wish this were our own ship.
+
+@182
+Don't worry. It will take a while, but the warships will work out somehow.
+
+@183
+Truly?
+
+@184
+Yes. Polish your skills until then.
+
+@185
+Hm? Is that her, the one you mentioned?
+
+@186
+Yes, the daughter of my teacher's house...
+
+@187
+I'm Chiba Sana.
+
+@188
+Did you pay your respects properly before leaving?
+
+@189
+Y-yes, in fact...
+
+@190
+Last night, her family...
+
+@191
+Ryōma. I hear you're about to do some big work in Kōbe.
+
+@193
+How about it? At your age, it's about time you took a wife.
+
+@194
+A wife... sir?
+
+@196
+If you're willing...
+
+@197
+Father!
+
+@198
+...What?
+
+@199
+Nothing, n-nothing. ...Excuse me!
+
+@201
+Ryōma... what about you?
+
+@202
+You have a lot to do yourself, I know. I'm not asking for it right now. Even a verbal promise will do.
+
+@203
+...Do you mean...
+
+@204
+Won't you take my girl?
+
+@205
+...Would someone like me really do?
+
+@206
+She's of age, and she seems fond of you. I'd rest easy if you took her.
+
+@207
+I'm all for it. I'd get to be Ryō-san's brother-in-law.
+
+@208
+...Then I gratefully accept.
+
+@209
+Eh? I-I see! Well, ha ha ha! Splendid, splendid, a joyous day!
+
+@210
+Oh! Right, we drink tonight! Sana, did you hear that! Get the sake ready! Sana!
+
+@212
+!! ...Sana?
+
+@213
+Never mind, leave her be. She must be overjoyed.
+
+@214
+Ha ha, I see! Well, this is wonderful!
+
+@215
+...So that's how it stands...
+
+@216
+Well, congratulations!
+
+@218
+Mind you, the wedding may be a good while off.
+
+@219
+I know.
+
+@220
+Ryō-san, next we're going to Nagasaki.
+
+@227
+Fellow Japanese about to come under foreign attack, and that's what they say! A narrow-minded pack of fools.
+

@@ -1,0 +1,387 @@
+# COM overlay 80000000-8fffffff: command screens, magistrate, orders, person search, group / ideology / status / item / town screens
+COM:8015b88c	I hear you are a petty rogue who eats without paying...\nGive him a hundred lashes and throw him out!
+COM:8015b8e8	You are said to be a petty thief...\nGive him a hundred lashes and throw him out!
+COM:8015b93c	You are said to have turned traitor to the shogunate...\nThe crime merits death!\nPunish him at once!
+COM:8015b990	You are said to be a grave offender who broke through a checkpoint...\nPunish him severely and throw him out!
+COM:8015b9d0	You are said to be a grave offender who broke through a checkpoint...\nThe crime merits death.\nPunish him at once, as an example!
+COM:8015ba2c	You seem to have cut a man down, but the proof is thin. Still, I cannot let it pass.\nPunish him severely and throw him out!
+COM:8015baa0	You cut a man down, did you not...\nThe crime merits death.\nPunish him at once!
+COM:8015bae4	You are said to be a grave offender who fled his domain...\nPunish him severely and throw him out!
+COM:8015bb20	You are said to be a grave offender who fled his domain...\nThe crime merits death!\nNo need to send him home! Punish him at once!
+COM:8015bb8c	So you are %s.\nRaise your head!
+COM:8015bce0	Have %s do: %s\nIs that OK?
+COM:8015bd7c	Send %s to assassinate %s.\n%sAre you sure?
+COM:8015bdac	Risky, but 
+COM:8015bdc0	Very risky, but 
+COM:8015bdd4	No one can be given orders at present.
+COM:8015be04	Train
+COM:8015be28	Retire
+COM:8015be30	House Arrest
+COM:8015be38	Jailed
+COM:8015be40	%s's status: %s.\nYou cannot give orders.
+COM:8015be68	%s seems to be on important business now.\nYou cannot give orders.
+COM:8015beac	%s seems to be acting with someone.\nYou cannot give orders.
+COM:8015bfb0	Wait here until tomorrow.\nIs that all right?
+COM:8015bfdc	Cancel
+COM:8015bfe8	Sound: Stereo / Mono
+COM:8015c008	Sound: ON / OFF
+COM:8015c020	Sound is now "{C5}%s{C7}".\nChange it?
+COM:8015c050	OFF
+COM:8015c058	ON
+COM:8015c060	Changed to "{C5}%s{C7}".
+COM:8015c07c	Stereo
+COM:8015c088	Mono
+COM:8015c094	Sound
+COM:8015c0a0	Leave Menu
+COM:8015c0b4	Set Options
+COM:8015c0c4	Suspend Game
+COM:8015c0d4	Save Game
+COM:8015c0e4	Suspend the game.\nIs that all right?
+COM:8015c108	Leave %s.\nIs that all right?
+COM:8015c128	%s is inside %s, but cannot be met.
+COM:8015c150	 seems to be inside %s.
+COM:8015c168	 You may not get in.
+COM:8015c188	 was found at %s.
+COM:8015c19c	%s%s%s\nGo and meet them?
+COM:8015c1b8	Then I will go to %s.
+COM:8015c244	That is impossible...
+COM:8015c258	It does not look like we can talk here. Try anyway?
+COM:8015c290	%s walked past.
+COM:8015c2ac	The mood is not right to speak to them.
+COM:8015c2d0	This is a person of high rank.\nThey may refuse you. Speak to them anyway?
+COM:8015c30c	You lack the stamina to attack.
+COM:8015c344	Your Drive is too low to attack.
+COM:8015c378	You hold the same views as %s.\nThere is no reason to cut them down.
+COM:8015c3d4	Wife
+COM:8015c3dc	Childhood Friend
+COM:8015c3e8	You cannot cut down your %s.
+COM:8015c40c	%s trusts you.\nYou cannot cut them down.
+COM:8015c43c	That would be unthinkable...
+COM:8015c458	You cannot attack a woman.
+COM:8015c47c	Your opponent is %s.\nYou cannot attack.
+COM:8015c4a4	Your opponent is an upper samurai.\nYou cannot attack...
+COM:8015c4d4	This is a comrade from your own group.\nYou cannot attack.
+COM:8015c504	%s belongs to a group above %s.\nIt could cause trouble, so you cannot attack.
+COM:8015c554	Private fights within the corps are strictly forbidden.\nYou cannot attack.
+COM:8015c588	%s is of the shogunate.\nIt could cause trouble, so you cannot attack.
+COM:8015c5d0	%s is from Satsuma.\nYou cannot lay a hand on them.
+COM:8015c5fc	%s is a comrade from the Shieikan.\nYou cannot attack.
+COM:8015c630	Doing so means certain death. Are you prepared?
+COM:8015c66c	%s is a leading figure of %s.\nAttacking will not go unpunished. Are you prepared?
+COM:8015c6b4	Attack %s.\nIs that all right?
+COM:8015c6d8	K2!\nI will have your life!
+COM:8015c6f0	Sorry, but I need you gone.
+COM:8015c710	K2!\nHijikata will have your life!
+COM:8015c734	I bear you no grudge, but you must die!
+COM:8015c760	%s ran away.
+COM:8015c7b8	Let Them Pass
+COM:8015c7c8	Attack at Once
+COM:8015c7dc	Ask to Meet
+COM:8015c7ec	You find %s on the road.\nWhat will you do?
+COM:8015c828	village
+COM:8015c82c	area
+COM:8015c834	You know of no one whose base is in this %s.
+COM:8015c890	%s is under house arrest and cannot be met.
+COM:8015c8b8	%s is in prison and cannot be met.
+COM:8015c8e0	Search for %s around here.\nIs that all right?
+COM:8015c908	%s seems to have passed away.
+COM:8015c928	No one seems to know where %s is.
+COM:8015c948	%s seems to have been exiled to a remote island.
+COM:8015c964	%s no longer seems to be here.
+COM:8015c988	%s is in prison, so a meeting seems impossible.
+COM:8015c9b8	K2? I think they're at %s.
+COM:8015c9d4	K2? They seem to be at %s.
+COM:8015c9f8	K2? Try going to %s.
+COM:8015ca24	K2? Pray try %s.
+COM:8015ca4c	K2? You would do well to try %s.
+COM:8015ca70	K2? At %s, I hear.
+COM:8015ca90	K2? Said to be at %s.
+COM:8015caac	K2? I heard they went to %s.
+COM:8015cacc	K2? They seem to have gone to %s.
+COM:8015caf0	%s seems to be out in another district.\nIt would be best to search again later.
+COM:8015cb40	%s does not seem to be in %s.\nIt would be best to search again another day.
+COM:8015cb84	You can ask about %s's whereabouts at %s.\nGo to %s?
+COM:8015cbbc	%s: %s
+COM:8015cbc8	As for %s-sama, they seem to have gone to %s.
+COM:8015cbf0	%s seems to be around here, but could not be found.
+COM:8015cc44	Rest here until tomorrow.\nIs that all right?
+COM:8015ccb0	{C8}Groups
+COM:8015ccd0	Group Name
+COM:8015ccdc	Type
+COM:8015cce8	Parent Group
+COM:8015cd24	%s 
+COM:8015cd2c	is strongly conservative, and 
+COM:8015cd40	has a strong drive for reform, and 
+COM:8015cd5c	is progressive and bound by no system, and 
+COM:8015cd7c	sometimes takes a fence-sitting stance, and 
+COM:8015cd9c	the shogunate's policy 
+COM:8015cda8	Court policy is decided by imperial conference.
+COM:8015cdcc	the domain's policy 
+COM:8015cdd8	%s's policy 
+COM:8015cdec	Shōgun
+COM:8015cdf4	strongly reflects the autocratic rule of the %s, %s.
+COM:8015ce20	is held in the hands of Tairō %s.
+COM:8015ce3c	tends to be set by a council of %s rank.
+COM:8015ce6c	Elder
+COM:8015ce74	Member
+COM:8015ce7c	Rōjū
+COM:8015ce84	reflects the views of capable people, whatever their rank.
+COM:8015cec0	hears views from above and below, but the top seems to decide in the end.
+COM:8015cf08	seems to give weight to the views of key figures in the group.
+COM:8015cf50	Tairō
+COM:8015cf58	Shōgun's Guardian
+COM:8015cf64	Chief Political Councillor
+COM:8015cf70	Magistrate
+COM:8015cf78	Emperor
+COM:8015cf80	Minister
+COM:8015cf88	Gisō
+COM:8015cf98	Domain Lord
+COM:8015cfa0	Retired Lord
+COM:8015cfa8	Sr. Retainer
+COM:8015cfb0	Retainer
+COM:8015cfb8	----
+COM:8015cfe4	Member
+COM:8015d020	Govt. Figure
+COM:8015d0ac	 
+COM:8015d0b0	Military
+COM:8015d0bc	Troops
+COM:8015d0c8	Morale
+COM:8015d0d4	Navy
+COM:8015d0d8	Arms
+COM:8015d0e4	Old Guns
+COM:8015d0ec	New Guns
+COM:8015d0f4	Blades
+COM:8015d0fc	medium
+COM:8015d100	large
+COM:8015d108	An army centred on %s, of %s scale.\n
+COM:8015d128	Morale is low; the army is in poor shape.\n
+COM:8015d148	Morale is middling; the army is not in good shape.\n
+COM:8015d178	The troops' morale is fair.\n
+COM:8015d19c	The troops' morale is high.\n
+COM:8015d1bc	The troops' morale is high, and they are in fine shape.\n
+COM:8015d1dc	It also has the matchless Gatling gun.
+COM:8015d20c	It also has the latest Armstrong guns.
+COM:8015d23c	Military
+COM:8015d244	Group Makeup
+COM:8015d250	Basic Info
+COM:8015d2a0	Type
+COM:8015d2b0	Power
+COM:8015d2b8	Group Details
+COM:8015d2c8	Local Status
+COM:8015d2d4	Trend Status
+COM:8015d2f8	Shachū
+COM:8015d320	Women
+COM:8015d3a0	Current Trend
+COM:8015d3b4	Target:
+COM:8015d3d4	{C8}You
+COM:8015d3e4	Final Goal
+COM:8015d3f0	To reach the target argument, your Foreign Policy must become Open.\nWatch the trend, and aim to convert to open-country views by studying at a school that teaches Western learning.
+COM:8015d488	To reach the target argument, you must raise your Domestic and Foreign Insight.\nDomestic Insight rises at schools; Foreign Insight through Western and Dutch learning.
+COM:8015d510	To reach the target argument, you must raise your Domestic Insight.\nIt rises by roaming the provinces to gather news from many people, or by studying at a school.
+COM:8015d5b0	To reach the target argument, you must raise your Foreign Insight.\nIt rises by studying at a school that teaches Western or Dutch learning, or by learning of foreign affairs.
+COM:8015d644	You already hold the target argument. Watch the trend and mediate across the provinces.
+COM:8015d698	To achieve %s, the trend position must reach 20 or more in %s, %s and %s. Persuade groups of differing views to change, and move the trend.
+COM:8015d72c	To achieve %s, the trend position must be set to %s, %s and %s.\nPersuade groups of differing views to change, and move the trend.
+COM:8015d7a4	Preparations to achieve %s are complete.\nWatch how the trend moves, and act so that the goal is reached safely.
+COM:8015d848	Current Situation
+COM:8015d854	Current Goals
+COM:8015d868	A topic card.
+COM:8015d878	An opinion card for %s.\n
+COM:8015d8bc	, 
+COM:8015d8c0	 views are advocated.
+COM:8015d8dc	A special card that can be used in persuasion.
+COM:8015d904	An argument card whose Polity is %s.\nArgument level is %d.
+COM:8015d930	Information the Shinsengumi has obtained.\nIt can be used to dispatch members.
+COM:8015d97c	Can be used as a topic card in persuasion under certain conditions.
+COM:8015d9d4	Arg. Lv.%d
+COM:8015d9e0	Dom. Ins. %3d+
+COM:8015d9f0	For. Ins. %3d+
+COM:8015da04	Level 1
+COM:8015da10	Level 2
+COM:8015da34	Level 3
+COM:8015da40	Level 4
+COM:8015da64	Argument List
+COM:8015da70	Current Aim
+COM:8015da7c	You lag far behind the times.\n
+COM:8015da98	You lag behind the times.\n
+COM:8015dab0	You are in step with the times.\n
+COM:8015dad0	You are ahead of the times.\n
+COM:8015daf0	You are not yet known to many people.\nSeek out key figures and meet them to raise your Renown.
+COM:8015db50	People are starting to know you a little.\nMeet still more people to raise your Renown.
+COM:8015dba8	Your Renown has risen considerably.\nYou can now enter places that once turned you away, and meet people of high rank.
+COM:8015dc20	Your Renown has risen greatly, and many people know you.\nIt would be good to build ties with still more people.
+COM:8015dc88	You are now famous across the country, and ready to move the world.\nPersuade actively to change the trend.
+COM:8015dcf4	Oguri-ryū
+COM:8015dcfc	Jigen-ryū
+COM:8015dd04	Ryūgō-ryū
+COM:8015dd0c	Ittō-ryū
+COM:8015dd14	Shingyōtō-ryū
+COM:8015dd20	Jikishinkage-ryū
+COM:8015dd2c	Hōzōin-ryū
+COM:8015dd38	Tennen Rishin-ryū
+COM:8015dd44	Shintō Munen-ryū
+COM:8015dd50	Kyōshin Meichi-ryū
+COM:8015dd5c	Hokushin Ittō-ryū
+COM:8015dd78	\nYou have conquered the Three Great Dōjō of Edo.
+COM:8015dd94	 dōjō challenge: succeeded.
+COM:8015ddb0	Fencing is now %d
+COM:8015ddc4	You already hold %s.\n
+COM:8015dddc	However, your swordsmanship still has room to grow.\nTo become a first-rate swordsman, you need more training.
+COM:8015de38	Your swordsmanship has improved wonderfully.\nIt would be good to also work hard at your studies.
+COM:8015de7c	Your swordsmanship is supreme.\nFor your future, turn your eyes to scholarship.
+COM:8015dec4	No training results yet.\nStrive to earn a swordsmanship title.
+COM:8015df14	You are on your way home to Kōchi, your domain-ordered training done.\nYou have until the 12th month of 1859, so use the chance to roam Japan and broaden your experience.
+COM:8015dfa4	You are in Kōchi, bound by Tosa's class system.\nYour path in life is not yet clear, but 
+COM:8015e00c	for now it is enough to go with the flow of the times.
+COM:8015e03c	Meanwhile, hone yourself by study and persuasion.
+COM:8015e070	You are training at the Shieikan.\nHijikata's aim in life is not yet clear, but for now use the Shieikan as a base and devote yourself to swordsmanship and study.
+COM:8015e0f8	Joining the shogunate's Rōshigumi has opened a new path.\nFirst, why not walk around Kyōto, the stage ahead?
+COM:8015e174	The Shinsengumi has been formed to keep the peace in Kyōto.\nIn place of Serizawa's pleasure-seeking clique, direct corps duties such as personnel, gathering news and patrols.
+COM:8015e1f8	As Shinsengumi Vice-Commander, your work centres on arresting rōnin who threaten Kyōto and growing the corps.\nPersuading key figures of other groups will also be needed.
+COM:8015e284	You are fighting on from place to place, to die with the collapsed shogunate.\nFight to the end, for the comrades who have fallen.
+COM:8015e2e0	Relations
+COM:8015e2ec	Belongings
+COM:8015e2f4	Action Guide
+COM:8015e300	Cancel
+COM:8015e338	%s was absorbed in reading...\n%s
+COM:8015e354	...but before long, sleep took over.
+COM:8015e378	Books can only be read at your base.
+COM:8015e398	Already equipped.
+COM:8015e3b0	Equipped %s.
+COM:8015e3c4	eat
+COM:8015e3cc	devour
+COM:8015e3d4	%s: %s it?\nIs that all right?
+COM:8015e3f0	%s - %s: done.
+COM:8015e400	drink
+COM:8015e46c	It is equipped, so it cannot be discarded!
+COM:8015e48c	A rare item. 
+COM:8015e4a0	Discard %s.\n%sAre you sure?
+COM:8015e4c0	Discarded %s.
+COM:8015e4d0	Key Item
+COM:8015e4d8	Rare Item
+COM:8015e4e0	Fairly Rare
+COM:8015e4ec	Common Item
+COM:8015e4f8	Junk
+COM:8015e504	Kyūshū
+COM:8015e510	Chūgoku
+COM:8015e51c	Shikoku
+COM:8015e528	Kyōto-Ōsaka
+COM:8015e534	Kantō
+COM:8015e540	Tōhoku
+COM:8015e554	Item
+COM:8015e55c	Type
+COM:8015e564	Price
+COM:8015e56c	Rarity
+COM:8015e574	Source
+COM:8015e57c	Equip
+COM:8015e588	Eat
+COM:8015e590	Drink
+COM:8015e598	Look
+COM:8015e5a0	Read
+COM:8015e5a8	Discard
+COM:8015e5e4	Status
+COM:8015e5f4	Introduced
+COM:8015e600	Group
+COM:8015e60c	Status
+COM:8015e614	Base
+COM:8015e620	%s, etc.
+COM:8015e628	Introducer
+COM:8015e648	Festival
+COM:8015e654	Hot Spring
+COM:8015e660	Kusatsu
+COM:8015e6a0	Sights
+COM:8015e6ac	Specialties
+COM:8015e6b8	Matsushima
+COM:8015e6c4	Mt. Fuji
+COM:8015e6dc	Tōjinbō
+COM:8015e6e8	Amanohashidate
+COM:8015e718	Akiyoshidai
+COM:8015e820	Items
+COM:8015e828	Sights 2
+COM:8015e830	Sights 1
+COM:8015e838	Letters
+COM:8015e840	Cards
+COM:8015e860	Info Cards
+COM:8015e86c	Special Cards
+COM:8015e880	Argument Cards
+COM:8015e88c	Shinsengumi Search
+COM:8015e8a0	Satsuma-Chōshū Alliance
+COM:8015e8b8	Worldly Cards
+COM:8015e8c4	Lighten the Mood
+COM:8015e8d8	End the Persuasion
+COM:8015e8fc	Topic
+COM:8015e910	Action Cards
+COM:8015e924	Alliance Only
+COM:8015e934	Shinsengumi Only
+COM:8015e970	Card Name
+COM:8015e97c	Ideology
+COM:8015e988	Fresh
+COM:8015e990	P
+COM:8015e994	Building
+COM:8015e9a0	Status
+COM:8015e9cc	 
+COM:8015e9d0	Buildings in District
+COM:8015e9e0	Sanja
+COM:8015e9e8	Gion Festival
+COM:8015e9f4	A bad cold seems to be going around.\n
+COM:8015ea18	A terrible illness seems to be spreading.\n
+COM:8015ea3c	Crowds shouting "Ee ja nai ka" fill the town.\n
+COM:8015ea6c	The town is booming and full of life.\n
+COM:8015ea8c	The town is quiet, with few people about.\n
+COM:8015eab0	The townsfolk seem to be in turmoil.\n
+COM:8015ead4	The town is under strict guard amid an uneasy air.\n
+COM:8015eafc	This town is now at war.\n
+COM:8015eb1c	Crowds shouting "Ee ja nai ka" fill the village.\n
+COM:8015eb4c	The village is booming and full of life.\n
+COM:8015eb6c	The village is quiet, with few people about.\n
+COM:8015eb90	The villagers seem to be in turmoil.\n
+COM:8015ebb4	The village is under strict guard amid an uneasy air.\n
+COM:8015ebdc	This village is now at war.\n
+COM:8015ec00	 
+COM:8015ec04	Ruled by
+COM:8015ec10	Districts
+COM:8015ec1c	Town Status
+COM:8015ec28	Public order is terrible.
+COM:8015ec3c	Public order is bad.
+COM:8015ec50	Public order is normal.
+COM:8015ec64	Public order is good.
+COM:8015ec78	Village
+COM:8015ec7c	Village Status
+COM:8015ecb8	War
+COM:8015ecc0	Martial Law
+COM:8015ecc8	Chaos
+COM:8015ecd0	Quiet
+COM:8015ecd8	Thriving
+COM:8015ece0	- Epidemic
+COM:8015ecec	Epidemic
+COM:8015ecf4	Cholera
+COM:8015ecfc	Cold
+COM:8015ed04	-------
+COM:8015edb4	Name
+COM:8015edbc	Region
+COM:8015edc8	 Info
+COM:8015edd0	District Info
+COM:8015eddc	Building Info
+COM:8015ede8	Other Towns, Villages
+COM:8015ee18	Hero's Aim
+COM:8015ee28	Group Info
+COM:8015ee34	Hero Info
+COM:8015ee40	Other People
+COM:8015ee50	Area Info
+COM:8015ee7c	Movement on the area map is not made yet.
+COM:8015eedc	Choose Destination
+COM:8015ef0c	Choose the building to move to.
+COM:8015ef2c	%s's base is undefined.
+COM:8015ef44	village
+COM:8015ef48	area
+COM:8015ef54	You seem to know no one in this %s.
+COM:8015ef74	Move to "%s".\nIs that all right?
+COM:8015ef98	Cancel
+COM:8015efa4	Go to Another District
+COM:8015efb4	Go to an Acquaintance
+COM:8015efc8	Go to Base
+COM:8015efd8	Go to Building
+COM:8015efe4	Go to District
+COM:8015e9c8	District
+# review: own English for strings that shared another string's line
+COM:8015bc10	Move to %s's base.\nIs that all right?

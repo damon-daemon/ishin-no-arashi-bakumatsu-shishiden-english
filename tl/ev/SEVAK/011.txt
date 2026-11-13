@@ -1,0 +1,720 @@
+@0
+Left Tosa and wandering the provinces
+
+@2
+Welcome, welcome.
+
+@3
+Ask about Yoshimura Toratarō\nAsk for help
+
+@4
+Is there a man here called Yoshimura Toratarō?
+
+@5
+Yes. He was here until just recently, but he left for the Chōshū residence in Kyōto.
+
+@6
+We missed each other!
+
+@7
+Visit Yoshimura Toratarō at the Chōshū residence in Kyōto
+
+@8
+I've spent all my travel money and I'm in a fix.
+
+@9
+You're a loyalist, then. Very well, take this.
+
+@11
+I'm obliged to you!
+
+@12
+Is Yoshimura Toratarō here?
+
+@13
+Yoshimura-san left for the Chōshū residence in Kyōto just recently.
+
+@14
+We missed each other!
+
+@15
+Visit Yoshimura Toratarō at the Chōshū residence in Kyōto
+
+@16
+Oh, a Black Ship's whistle!
+
+@17
+Ah, it's gone...
+
+@18
+What's the matter? Did you miss the boat?
+
+@19
+Eh? No... I only wanted to see the Black Ships.
+
+@20
+Ha ha, if you want to see Black Ships, go to Ōura at the end of the 6th month. A shogunate ship is supposed to call at the port.
+
+@21
+Oh, a shogunate ship?\nWhere would it be going?
+
+@22
+Who knows? That much I couldn't tell you.
+
+@23
+Go to the Ōura district of Nagasaki at the end of the 6th month
+
+@24
+Come to think of it, Kaho-san is in Kyōto, isn't she?\nWith some court noble called Sanjō, if I remember right.
+
+@25
+Hm, who is it? One of those loyalists, is it? What business have you here?
+
+@26
+Ask for an audience\nVisit Kaho
+
+@27
+I should like an audience.
+
+@28
+I am busy now. I shall be done soon, so come back later.
+
+@30
+There is a lady-in-waiting called Hirai Kaho who serves the Tosa princess, is there not?
+
+@31
+Oh? Could you be Ryōma?
+
+@32
+You know of me?
+
+@33
+Kaho is forever talking about you.
+
+@34
+I am honoured.
+
+@35
+Wait a little while.
+
+@36
+Sawamura, wait here a while.
+
+@37
+Eh? ...
+
+@38
+Sakamoto-sama! So you have finally left Tosa!
+
+@40
+You will take me with you, won't you?
+
+@41
+What?! ...That's impossible.
+
+@42
+What? Why...?
+
+@43
+(So she took that letter that way...)
+
+@44
+I left my domain without leave, and now I'm suspected of killing a senior official of the domain.
+
+@45
+I don't mind whatever happens! ...Would I be a burden to you?
+
+@46
+"Yes"\n"No"
+
+@47
+...At times, yes.
+
+@49
+Understand, please! In this world, there is far too much a man can't do with a woman in tow!
+
+@51
+Forgive me.
+
+@52
+Please... take this.
+
+@54
+...You set this aside for your own journey, didn't you?\nI can't take it.
+
+@55
+If I am not going with you, I have no reason to travel at all. You could indulge me this much, couldn't you? And this too...
+
+@56
+Think of this as me. If you lose it, I won't forgive you.
+
+@57
+...Kaho-san.
+
+@58
+Then go, quickly. If I keep looking at your face any longer, I don't know what I might say.
+
+@60
+Embrace Kaho\nLeave without looking back
+
+@63
+Stop...
+
+@64
+...Forgive me!
+
+@65
+Please... it only makes it harder.
+
+@67
+Sakamoto-sama... please go now.
+
+@69
+Kaho-san... forgive me!
+
+@71
+It's not that, but...
+
+@72
+Then what is it?! Do you hate having me along?!
+
+@73
+I never said that! I'm worried about you, Kaho-san!
+
+@74
+...Enough. Go quickly! If I keep looking at your face any longer, I don't know what I might say!
+
+@75
+Embrace Kaho\nLeave without looking back
+
+@78
+W-what are you doing?! Stop it, please! Sto...
+
+@80
+Sakamoto-sama...?
+
+@81
+Please understand... I can't take you with me.
+
+@82
+Sakamoto-sama... you fool!
+
+@83
+...Forgive me!
+
+@85
+...Well then...
+
+@86
+Wait. Please take this.
+
+@87
+Think of this as me. If you lose it, I won't forgive you.
+
+@88
+...Kaho-san.
+
+@89
+Kaho-san... forgive me!
+
+@92
+...I forgot to tell you something important. The Tosa rōnin who left the domain are being sheltered at the Chōshū residence.
+
+@94
+...Then... take care.
+
+@95
+You too, Kaho-san.
+
+@96
+Sakamoto-sama! So you have finally left Tosa?
+
+@97
+I left the domain.
+
+@98
+Oh my! Then you are a hunted man?
+
+@99
+Something like that.
+
+@100
+That is terrible. ...Oh, wait here a moment.
+
+@101
+...What's this?!
+
+@102
+A parting gift from me. You will need all sorts of things, won't you?
+
+@103
+Accept\nDecline
+
+@104
+I'm in your debt!
+
+@105
+Please, don't be so formal with me.
+
+@106
+...I can't accept it.
+
+@107
+Hee hee, you and your scruples. It's all right; think of it as pleasing me.
+
+@109
+And please take this as well.
+
+@110
+Are you sure?
+
+@111
+Yes, treasure it as if it were me. If you lose it, I won't forgive you.
+
+@112
+Yes.
+
+@113
+I forgot to tell you something important. The Tosa rōnin who left the domain are being sheltered at the Chōshū residence.
+
+@115
+Well then, take care of yourself, and give your all to the nation's cause. Let us meet again someday.
+
+@116
+What's that fearsome crowd?
+
+@117
+Look well, this is the face of Sakamoto Ryōma, the man who killed Tōyō. If you find him, seize him whatever it takes.
+
+@118
+(Damn!)
+
+@119
+Well, I can't go near Kyōto for a while...
+
+@120
+Hey, you there!
+
+@122
+Ah, it's him! That's Sakamoto!
+
+@123
+Yatarō!
+
+@124
+You are Sakamoto Ryōma, who left the domain?
+
+@126
+Found you, Tōyō-dono's assassin! Come quietly and be bound!
+
+@127
+I can't let myself be caught!
+
+@128
+Hey, wait!
+
+@129
+Don't try it! You'll get hurt!
+
+@130
+Seize him!
+
+@131
+It's a misunderstanding, it wasn't me.
+
+@132
+Silence, silence! You are a swordsman of the Chiba school, a gōshi, and a member of the Tosa Loyalist Party!
+
+@133
+And you left the domain far too close to the day of the assassination!\nWith all this evidence, will you still play innocent?!
+
+@134
+I didn't do it.
+
+@135
+We'll hear your excuses later. Seize him!
+
+@136
+Cut them down\nThreaten them\nRun away
+
+@137
+Words don't seem to get through to you.
+
+@138
+He resists! Get him!
+
+@139
+Are you sure? Even if you catch me, two or three of you will end up dead.
+
+@140
+Y-you scoundrel! You dare threaten us?! If we feared for our lives, how could we carry out our lord's command? Get him!
+
+@141
+Running!
+
+@142
+He's running! After him, after him!
+
+@143
+Grr... where did he go?
+
+@144
+Heh heh, now there's no way out.
+
+@145
+Everyone, at him!
+
+@146
+Count me out.
+
+@147
+Ah! Hey, Yatarō, are you running away too?! Wait!
+
+@148
+Damn it. What a pair of heels that Yatarō has. Huh?!
+
+@149
+Hey, I've dealt with everyone but you.
+
+@150
+Gah! You... do you think you'll get away with this...
+
+@151
+What'll it be? If you want to fight, I'll take you on.
+
+@152
+Ugh... r-remember this!
+
+@153
+Damn, he's running!
+
+@154
+Blast, no help for it! We'll chase Sakamoto after we catch Yatarō!
+
+@155
+This should be far enough. I can't go near Kyōto for a while.
+
+@157
+I believe a Tosa rōnin who left the domain has been staying here?
+
+@158
+Ah, Yoshimura-san...
+
+@160
+I hear he was caught by the domain's officials and sent back to Tosa under escort.
+
+@161
+Yoshimura was caught?!
+
+@162
+Ah, Sakamoto-san!
+
+@163
+Sawamura, you were here?
+
+@164
+I have nowhere left to go. I'm following you, Sakamoto-san.
+
+@165
+"Very well"\n"No"
+
+@166
+Yes.
+
+@168
+No, whatever you say, I'm coming along.
+
+@169
+...Do as you like.
+
+@170
+Ah, Sakamoto-sama!
+
+@171
+Tose-dono... it must have been terrible.
+
+@173
+That incident happened here...?
+
+@174
+Ah, I'm sorry. The inn is closed for a while now.
+
+@175
+I see. It must have been terrible.
+
+@176
+...Thank you. Are you a shishi?
+
+@177
+A rōnin from Tosa, Sakamoto.
+
+@178
+I am Tose, the landlady here.
+
+@179
+I hear that the men who struck, and the men who were struck, were comrades... It is a pitiful thing.
+
+@180
+Ah, Sakamoto-sama!
+
+@181
+Tose-dono! ...What's wrong?
+
+@183
+There are no guests. What happened?
+
+@185
+An inn with no guests, eh?
+
+@186
+Until just recently it was bustling with loyalist shishi...
+
+@187
+...Did something happen?
+
+@188
+...Yes.
+
+@189
+News of Shimazu Hisamitsu's march to Kyōto spread among loyalist shishi across the land. Believing this was the uprising to overthrow the shogunate, shishi gathered in Kyōto one after another.
+
+@190
+But...
+
+@191
+What! Men of my domain are plotting rash violence?!
+
+@192
+Hisamitsu himself had no thought whatsoever of overthrowing the shogunate.
+
+@193
+Fearing a disturbance, Hisamitsu sent their own comrades as envoys to dissuade the radicals gathered here at the Teradaya.
+
+@194
+The envoys cut down, by the lord's order, the Satsuma men who would not listen to their persuasion. The Satsuma samurai ethos, which puts the lord's command above any creed, brought about the tragedy of comrades slaying one another.
+
+@195
+...What a cruel thing to do!!
+
+@196
+The ones who cut and the ones who were cut were all loyal men...
+
+@197
+...And the shishi of other domains?
+
+@198
+Their dream of an uprising is broken, but I think they are all trying to rise again in Kyōto.
+
+@199
+I wonder if the Tosa men who left the domain are all right...
+
+@200
+I wonder if the Tosa men who left the domain are all right...
+
+@201
+Pardon me. We are fully booked for a private party today.
+
+@202
+Oh well. I'll come again.
+
+@203
+Oh, the Tosa samurai from the other day!
+
+@204
+You remember me? I'm Sakamoto, a rōnin now. Your name, if I recall...
+
+@205
+Sana\nTose\nKaho
+
+@206
+Sana, was it?
+
+@207
+My name is Tose.
+
+@208
+That's right.
+
+@209
+Tose, was it?
+
+@210
+You remembered it? Oh, I'm so happy!
+
+@211
+Kaho, was it?
+
+@212
+My name is Tose.
+
+@213
+That's right.
+
+@214
+My, what a fine-looking man!
+
+@215
+Me? You certainly know how to flatter a customer.
+
+@216
+You're from Tosa, aren't you?
+
+@217
+Does my accent show? That's bad.
+
+@218
+...You're being chased, aren't you?
+
+@219
+Ha ha, nothing gets past you.\nYou're right, I've left my domain and I'm a rōnin now.
+
+@220
+Don't worry. I'm Otose of the Teradaya, and I would never hand a shishi over to the domain's officials.
+
+@221
+Thank you! I'll stay, then.
+
+@222
+Now, now, please come in.
+
+@223
+There are a lot of sandals here.
+
+@224
+Yes. The lord of Satsuma is said to be coming to Kyōto, and a great many of his men have come to stay.
+
+@226
+Ah! Ryōma!
+
+@227
+Yoshimura!
+
+@228
+So you finally left the domain!
+
+@229
+Yes.
+
+@230
+Shingo and the others are being sheltered here too.
+
+@231
+I see.
+
+@233
+Sawamura, you're here too?
+
+@234
+We Tosa rōnin who left the domain mean to join the righteous uprising too. Come along with us!
+
+@237
+Good, let's hold a meeting at once. Oh, and one more thing...
+
+@238
+Tosa police spies are prowling Kyōto to catch us. Until the day we strike, don't set foot outside this residence.
+
+@240
+Ryōma was swamped with preparations for the Kyōto uprising here at the Chōshū residence.
+
+@241
+And then, on the 23rd of the 4th month of Bunkyū 2...
+
+@242
+Ryōma!
+
+@244
+It's all over! The plan has failed! Our Satsuma comrades have been wiped out!
+
+@245
+What do you mean?!
+
+@246
+News of Shimazu Hisamitsu's march to Kyōto spread among loyalist shishi across the land. Believing this was the uprising to overthrow the shogunate, shishi gathered in Kyōto one after another.
+
+@247
+But...
+
+@248
+What! Men of my domain are plotting rash violence?!
+
+@249
+Hisamitsu himself had no thought whatsoever of overthrowing the shogunate.
+
+@250
+Fearing a disturbance, Hisamitsu sent their own comrades as envoys to dissuade the radicals gathered at the Teradaya.
+
+@251
+The envoys cut down, by the lord's order, the Satsuma men who would not listen to their persuasion. The Satsuma samurai ethos, which puts the lord's command above any creed, brought about the tragedy of comrades slaying one another.
+
+@252
+What a cruel thing to do...
+
+@253
+It's over... the Kyōto uprising has come to nothing!
+
+@254
+Sakamoto-san, what do we do now?
+
+@255
+Sakamoto-san. I'll follow you...
+
+@256
+Oh?
+
+@257
+I won't take part.
+
+@258
+What?!
+
+@259
+What?! What do you mean by that?!
+
+@260
+I have other things to do.
+
+@261
+What! You'd let this perfect chance to overthrow the shogunate slip away, and do what instead?!
+
+@262
+Two or three thousand men won't bring the shogunate down. Without overwhelming strength, it can't be overthrown.
+
+@263
+Ryōma, is that all you have to say?
+
+@264
+Yoshimura...
+
+@265
+Enough. I won't count on you. We will be the vanguard of the loyalists. You do as you see fit.
+
+@267
+Hm? Sawamura. Aren't you rising with Yoshimura?
+
+@268
+I've decided to follow Sakamoto-san.
+
+@269
+Oh?
+
+@270
+The shop called the Kokuraya around here is Shiraishi-dono's.
+
+@273
+Hm? A rōnin who left his domain, then?!
+
+@274
+While Lord Shimazu is staying here, entry into Edo is forbidden to troublesome rōnin!
+
+@275
+Me, a troublesome rōnin?!
+
+@276
+Not until the 7th month. Now, be off with you.
+
+@277
+I'll wander the provinces a little longer.
+
+@280
+As I feared, it can't be done...
+

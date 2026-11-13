@@ -1,0 +1,255 @@
+@0
+On the road to Kyōto from Edo
+
+@1
+Head for Kyōto
+
+@3
+Hm? That man...
+
+@4
+(Damn, he's the man I saw when I attacked Katsu.)
+
+@5
+...Must have been my imagination.
+
+@7
+Hm? What's that crowd?
+
+@8
+What do you mean, there's no lodging for me?!
+
+@9
+My apologies. It was an oversight on my part, as the officer in charge of lodgings.
+
+@10
+If there's no lodging, I'll simply sleep in the open. But I know what I'll do about it.
+
+@11
+W-what are you doing?!
+
+@12
+Wa ha ha! A campfire goes with sleeping outdoors. There's no suitable wood, so I'll smash up this hut for firewood!
+
+@13
+Gah ha ha ha! It burns nicely!
+
+@14
+F-fire! The post town is burning! S-somebody, put it out!
+
+@15
+Shut up! Don't get in my way!
+
+@17
+Serizawa-dono, please stop this violence!
+
+@18
+Wa ha ha, what fun, what fun!
+
+@19
+(...What an outrageous man.)
+
+@20
+What do you mean, there's no lodging for me?!
+
+@21
+My apologies. It was an oversight on my part, as the officer in charge of lodgings.
+
+@22
+If there's no lodging, I'll simply sleep in the open. But I know what I'll do about it.
+
+@23
+W-what are you doing?!
+
+@24
+Wa ha ha! A campfire goes with sleeping outdoors. There's no suitable wood, so I'll smash up this hut for firewood!
+
+@25
+Gah ha ha ha! It burns nicely!
+
+@26
+F-fire! The post town is burning! S-somebody, put it out!
+
+@27
+Shut up! Don't get in my way!
+
+@29
+Serizawa-dono, please stop this violence!
+
+@30
+Wa ha ha, what fun, what fun!
+
+@31
+(...What an outrageous man.)
+
+@32
+Halt, halt!
+
+@33
+Hm! You're a runaway rōnin, aren't you? State your home domain and name.
+
+@34
+(The Tosa domain's hand has already reached here!)
+
+@35
+Ah! Trying to run, are you?!
+
+@36
+The Tōkaidō looks heavily guarded.
+
+@37
+Halt!
+
+@38
+Hm? You're a runaway rōnin, aren't you? State your home domain and name.
+
+@39
+(The Tosa domain's hand has reached here already!)
+
+@40
+Ah! Trying to run?!
+
+@41
+The Tōkaidō is heavily guarded.
+
+@42
+Halt, halt!
+
+@43
+You're a runaway rōnin, aren't you? Are you one of the Rōshigumi guarding the shōgun?
+
+@44
+I got separated from the main body along the way.
+
+@45
+What a hopeless fellow. Go on through.
+
+@46
+Kiyokawa-san, I'm truly sorry, but I have some business to settle in Kyōto.
+
+@47
+Business?
+
+@48
+There's someone I want to see.
+
+@49
+I see. Then come back when your business is done.
+
+@50
+"Understood"\n"..."
+
+@52
+...I don't know whether I'll come back.
+
+@54
+Well, I'll think about it.
+
+@55
+By the time you return, the loyalist rōnin army should have been born.
+
+@56
+Yes, good luck to you.
+
+@57
+(Now, I must find Katsu-sensei.)
+
+@58
+(Now, I must find the Tosa men.)
+
+@60
+Who was the rōnin who just left the corps?
+
+@61
+Who knows, a deserter, probably. No matter. I meant to weed out the half-hearted sooner or later anyway.
+
+@62
+I'm sure that man was...
+
+@63
+You're Sakamoto Ryōma, the runaway from Tosa, aren't you?
+
+@64
+You lot don't give up.
+
+@65
+Rest easy, your crime has been pardoned. However, you must stay confined at the Kyōto residence for a while.
+
+@66
+For a while?
+
+@67
+Fifteen days.
+
+@68
+Seven days.
+
+@69
+Is that all?
+
+@70
+They say a hatamoto himself put in a word with Lord Yōdō. Once your confinement ends, you'll even be allowed to travel in the Kinai. Be grateful.
+
+@71
+Katsu-sensei... thank you!
+
+@72
+The outside air is sweet!
+
+@73
+Oh, Ryōma!
+
+@74
+Shūjirō-san!
+
+@75
+You're safe! Rest easy, your crime of leaving the domain has been forgiven!
+
+@76
+What?
+
+@77
+They say even Katsu-dono, a shogunate retainer, and Lord Shungaku of Echizen put in a word with Lord Yōdō! What on earth were you doing in Edo?
+
+@78
+Ha ha.
+
+@79
+Only after fifteen days of confinement, mind you.
+
+@80
+Only after seven days of confinement, mind you.
+
+@82
+...I'll die of boredom.
+
+@83
+Don't complain. Getting off with such a light sentence for the grave crime of leaving the domain is unheard of.
+
+@84
+...That's true.
+
+@85
+The outside air is sweet!
+
+@86
+Ryōma, is your confinement over?
+
+@87
+Just about.
+
+@88
+Oh yes, do you know about the rōnin corps that came up to Kyōto to guard the shōgun?
+
+@90
+Yes.
+
+@92
+If you don't, there's no use telling you...
+
+@93
+They say most of that rōnin corps went back to Edo.
+
+@95
+In the end, apparently Kiyokawa's persuasion failed or something... I don't know the details myself. They say part of the Rōshigumi stayed in Kyōto and began policing the sonnō-jōi rōnin.
+

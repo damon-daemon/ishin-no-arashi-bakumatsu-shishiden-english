@@ -1,0 +1,141 @@
+@0
+Rifles, forward!
+
+@2
+If Mt. Tengu falls, Hakodate falls! Hold it if it kills you!
+
+@3
+The enemy reinforces too fast! The front can't hold!
+
+@5
+(Forgive me... it seems I cannot keep my promise.)
+
+@8
+Pull back the Denshūtai and the Shōhōtai! Lure the enemy into the woods in front! Stretch their formation out long!
+
+@9
+Shinsengumi, your turn! Follow me!
+
+@10
+Strike the enemy's flank and rear! Finish them off in one blow!
+
+@12
+Chaaarge!!
+
+@13
+...Can an army that fierce really exist?\nNo, are those men even human?
+
+@14
+Scatter them! Teach them the terror of the Shinsengumi!
+
+@15
+...Can an army that fierce really exist?\nNo, are those men even human?
+
+@16
+Scatter them! Teach them the terror of the Shinsengumi!
+
+@17
+On this day Hijikata Toshizō met a glorious death in battle, never to see the fate of the Hakodate government in its hopeless plight...
+
+@18
+But however many victories Hijikata piled up, he could not overturn the course of the war.
+
+@19
+So Hakodate town has finally fallen to the imperial army...
+
+@20
+The imperial army is about to surround Goryōkaku itself.
+
+@21
+In that case there is nothing for it but to hold the fort.
+
+@22
+There is no other way...
+
+@23
+(Holding the fort? Futile...)
+
+@24
+(Even they must know that. They'll just surrender when it suits them.)
+
+@25
+What do you think, Hijikata-dono?
+
+@26
+(We can't win anyway, and they have no will to win...)
+
+@27
+(What's the point of a council of war like this?)
+
+@28
+Hijikata-dono?
+
+@30
+A sortie.
+
+@32
+Absurd!\nA sortie would only wear us down for nothing.
+
+@33
+Ōtori-dono, do you really think holding the fort to buy time will turn things around?
+
+@34
+Ugh...\nBut...
+
+@35
+I'm going out to fight.
+
+@36
+Kotsuru-san. You have a visitor.
+
+@37
+A visitor?
+
+@38
+Yes, I am Kotsuru.
+
+@40
+Um... who are you?
+
+@41
+My name is Fujita Gorō.
+
+@42
+Fujita-san...? What is your business?
+
+@43
+This is for you.
+
+@45
+! ...Th-this is...!
+
+@46
+The "Second-Generation Kanesada"... the beloved sword of a man who was once my comrade.
+
+@48
+He left it in my keeping, to be handed to you as a keepsake.
+
+@49
+A keepsake...
+
+@51
+...Ah!
+
+@53
+Toshizō-sama!!
+
+@54
+(The imperial army... no, Satsuma and Chōshū...)
+
+@55
+(Come to think of it, we've been at each other's throats since Kyōto. We go back a long way.)
+
+@56
+(Time to settle it, then...)
+
+@57
+Gentlemen!
+
+@58
+I am going to Hakodate!\nThose who want to die, follow me!
+

@@ -1,0 +1,891 @@
+@3
+Ryōma, are you in?
+
+@4
+Oh, Yoshimura!
+
+@5
+Ryōma, what do you think of Takechi-sensei's idea of making the whole of Tosa loyalist?
+
+@6
+"Wonderful"\n"It's impossible"
+
+@7
+Hanpeita is as sharp as ever. He's thought it through.
+
+@8
+...Is it, now? Me, I think it's plain impossible.
+
+@10
+After all, getting this domain's upper samurai to turn loyalist is a pipe dream.
+
+@11
+It's plain impossible.
+
+@12
+I think so too. Getting this domain's upper samurai to turn loyalist is a pipe dream.
+
+@13
+...Ryōma, let's leave the domain! If we stay in Tosa we'll only fall behind the times!
+
+@14
+Actually, I have astonishing news.
+
+@16
+Lord Shimazu Hisamitsu of Satsuma is marching to Kyōto with three thousand domain troops! The rumour is that this is the army that will overthrow the shogunate!
+
+@17
+Overthrow the shogunate?!
+
+@18
+The shishi of the land are answering the call and heading for Kyōto one after another! I'm joining them too!
+
+@19
+W-what are you talking about?!
+
+@20
+Ah, brother!
+
+@21
+Ryōma, I'm leaving Tosa a step ahead of you. I'll be waiting.
+
+@22
+Ryōma! You can't mean... you're not thinking of leaving the domain, are you?
+
+@23
+"Exactly"\n"I won't leave the domain"
+
+@24
+So you found out.
+
+@25
+No! Absolutely not!
+
+@26
+I won't... leave the domain.
+
+@27
+...Listen well, now.
+
+@28
+If you leave the domain, the guilt falls on your whole family and relatives. Otome's husband is Lord Yōdō's physician. If he is dismissed from his post, the two of them will be left wandering the streets.
+
+@29
+...I suppose so.
+
+@30
+Mind you, don't go getting any foolish ideas.
+
+@31
+You there, sir, what is the matter? Is something troubling you?
+
+@36
+Train hard at my hermitage for one month.
+
+@38
+Hm. I'll take you up on it.
+
+@40
+Hah!!
+
+@43
+Thief!
+
+@44
+Shh! No, no, Sakamoto-san.
+
+@45
+You are...
+
+@46
+I'm Sawamura, Yoshimura's messenger. I came to urge you to leave the domain.
+
+@47
+Is Yoshimura-san well?
+
+@48
+Yes, he got out of Tosa safely and is staying with Shiraishi, a wealthy merchant of Chōshū.
+
+@49
+So it went well...
+
+@50
+Sakamoto-san, have you made up your mind to leave the domain?
+
+@51
+"Yes"\n"Not yet"\n"I won't leave the domain"
+
+@52
+Yes.
+
+@53
+Then that makes it easy. I'll come for you in a month, so get ready by then.
+
+@54
+Not yet.
+
+@55
+Decide within the month. I'm leaving the domain myself, and if you say you're coming, I'll take you along.
+
+@56
+I won't leave the domain.
+
+@57
+I see. In a month, when I leave the domain, I'll stop by once more. If you've changed your mind by then, I'll take you with me, Sakamoto-san.
+
+@58
+Ryōma! Is somebody there?!
+
+@59
+(...Trouble.) It's nothing, just a stray cat! (Run!)
+
+@60
+(Then in a month.)
+
+@62
+Oh, Ryōma. What is it?
+
+@63
+"I want to leave the domain"\n"Nothing"
+
+@64
+...It's nothing.
+
+@65
+You'd keep secrets from me?
+
+@67
+You needn't lie. I know.
+
+@68
+"I do want to leave the domain"\n"It's really nothing"
+
+@69
+It's truly nothing.
+
+@70
+Ryōma...
+
+@71
+Sister...
+
+@74
+The whole country is boiling now.
+
+@75
+Mm-hm.
+
+@76
+Born a man, I want to do something for my country.
+
+@77
+Yes! That's only natural for a man! If I hadn't been born a woman...
+
+@78
+Tosa is a tiny place. Hemmed in by mountains, upper samurai and gōshi snarling at each other...
+
+@79
+...Are you going to leave the domain?
+
+@83
+Ryōma, live your own life. I won't say a word against it.
+
+@84
+Sister...
+
+@85
+Takechi-dono said this about you: "Ryōma is a man too big for Tosa." I think so too.
+
+@87
+Leave Tosa behind and go out into the wide world. You'll become a great man, I know it: a man who does great work for the country.
+
+@88
+It will cause trouble for Shinsuke-dono.
+
+@89
+Don't worry about that. No trouble will fall on that lecher.
+
+@90
+Why not?
+
+@91
+Actually, I've decided to divorce him.
+
+@93
+It isn't because of you that I'm divorcing him. I've simply had enough of that man's philandering.
+
+@94
+...Truly?
+
+@95
+Oh yes, and this is a parting gift from me.
+
+@96
+You received 200 ryō!
+
+@97
+And this too.
+
+@98
+This is...?!
+
+@99
+Sister Ei left it with me. She said to hand it over if you were going to slip out of the country...
+
+@100
+Such a fine blade!
+
+@101
+Listen. You are setting out with everyone's hopes on you.
+
+@102
+We may never meet again. But don't you dare look back!
+
+@104
+Ryōma! Become a dragon! Become a true dragon and race across the vast sky!
+
+@105
+...Yes, I will!
+
+@106
+For a samurai, those words are enough. Don't worry about what's left behind.
+
+@107
+Sister...
+
+@108
+If anything happens, don't forget to write.
+
+@109
+Of course! I'll write and tell you of deeds that'll knock you flat!
+
+@111
+You too, sister.
+
+@112
+...Farewell!
+
+@113
+Once I leave the domain, where should I go first?
+
+@116
+Edo\nKyōto\nChōshū\nSatsuma\nNagasaki\nElsewhere
+
+@117
+Jū-san did tell me to come to Edo.
+
+@118
+Revisit Edo
+
+@119
+If the Satsuma troops are marching on Kyōto, I'd best go up to the capital.
+
+@120
+Kaho-san serves the Sanjō house in Kyōto, doesn't she? Shall I write her a letter?
+
+@121
+Write\nDon't write
+
+@122
+I promised to work as a shishi too. I'll send her a letter!
+
+@123
+Let's not drag Kaho-san into this.
+
+@124
+Visit Hirai Kaho at the Sanjō residence in Kyōto
+
+@125
+Yoshimura is being looked after by some wealthy Chōshū merchant called Shiraishi, isn't he? I could rely on him.
+
+@126
+Meet Shiraishi Shōichirō in Shimonoseki
+
+@127
+They call Satsuma a loyalist domain too, but I don't know a single Satsuma man. Maybe I'll pay them a visit...
+
+@128
+It's so secretive a country that even the shogunate's spies can't get in, so it may be hopeless.
+
+@129
+Head for Kagoshima in Satsuma
+
+@130
+If I want to see foreign ships, it's Nagasaki.
+
+@131
+See the Black Ships at Nagasaki
+
+@132
+I've nowhere in mind. I'll go where the wind takes me.
+
+@133
+Persuade people across the provinces to gain renown
+
+@134
+In times like these, a woman needs great resolve to become a shishi. I'd better give her a bit of a warning.
+
+@135
+Let's see... Hirai Kaho-dono.
+
+@136
+I trust you are well. As the times grow pressing, prepare the things for dressing as a man: haori, hakama, a hood and a sword.
+
+@137
+Sakamoto Ryōma... there, that should do.
+
+@138
+"To Hirai Kaho-dono
+
+@139
+I trust you are well. As the times of the realm grow pressing,
+
+@140
+One, high-gusseted hakama\nOne, split-back haori\nOne, Sōjūrō hood
+
+@141
+Besides these, please prepare a slender pair of long and short swords.
+
+@142
+Sakamoto Ryōma"
+
+@143
+Ryōma-san!
+
+@144
+Oh, Kurata.
+
+@145
+Terrible news! They've finally killed Tōyō!
+
+@146
+So they did it...
+
+@147
+This is no time to be so calm! Suspicion has fallen on you too, Ryōma-san!
+
+@148
+On me?
+
+@149
+You're a swordsman of the Chiba school and a Tosa Loyalist Party member. It would hardly be odd for you to be eyed.
+
+@150
+They can't just decide it was me.
+
+@151
+Worse, the police spies seem to have learned that you discussed leaving the domain with Yoshimura Toratarō.
+
+@152
+I didn't do it.
+
+@153
+Saying so won't help. They're sure to come bursting in here as early as next month.
+
+@154
+I won't stand for it!
+
+@155
+If the domain officers catch you, you may take the blame for a crime you know nothing about. For your own sake, slip out of Tosa quickly.
+
+@156
+Hm? My sword is... gone!
+
+@157
+It must have been brother Gonpei! Afraid I'd leave the domain...
+
+@158
+I can't leave the domain without a sword... I'll ask sister Otome.
+
+@159
+Meet Sakamoto Otome at the Okanoue residence in Yamakita
+
+@160
+Ryōma, Takechi-sensei is calling for you.
+
+@161
+Right! ...Hm?
+
+@162
+What's the matter? We must hurry.
+
+@163
+My sword is... gone!
+
+@164
+What?!
+
+@165
+It must have been brother Gonpei! Afraid I'd leave the domain...
+
+@166
+Bah, we'll manage something about a sword! Just come!
+
+@167
+Ryōma, the time has come to strike. Are you ready?
+
+@168
+"Yes, but I have no sword"\n"On second thought, let's not"
+
+@169
+Why don't we call it off after all?
+
+@170
+Have you lost your nerve?
+
+@171
+I'm not in the mood.
+
+@172
+Then so be it. Now that it has come to this, entrusting it to a man whose heart is unsettled would only end in failure. I'll ask someone else to do the killing.
+
+@173
+Sorry...
+
+@174
+I'm ready any time, but...
+
+@175
+Hm?
+
+@176
+Brother Gonpei hid my sword, afraid I'd leave the domain...
+
+@177
+Ha ha ha, don't worry. Look at this.
+
+@178
+...What is this?
+
+@179
+Your brother left it in my keeping. Giving it to you means betraying his trust, but...
+
+@180
+I'm working for the country. He'll understand.
+
+@182
+Tonight Tōyō will lecture the young lord and the young upper samurai on the Nihon Gaishi inside the castle. When that ends comes the customary gift of sake from the lord. We strike the drunken Tōyō as he leaves the castle.
+
+@183
+Nasu-kun will assist, but Tōyō holds the full licence in Ittō-ryū. Don't let your guard slip for a moment.
+
+@184
+I'll send my men to fetch the head once you have it. They will bring you travel money and gear, and you will flee Tosa from that very spot. Understood?
+
+@185
+Understood. I'll kill him without fail.
+
+@186
+Ryōma, let's go.
+
+@187
+Is your mind made up?
+
+@188
+Yes, I was ready to die from the start.
+
+@190
+We cannot fail... we cannot...
+
+@191
+D-damn it, I can't stop trembling.
+
+@192
+Shh! He's coming!
+
+@193
+Phew, I drank a bit too much.
+
+@194
+..."Man's life is fifty years... within the realm below..."
+
+@195
+Let's go!
+
+@196
+Yes!!
+
+@197
+Hm! Who goes there?!
+
+@198
+Yoshida Tōyō! ...Tenchū!
+
+@199
+Can you walk? Now there's no staying in Tosa!
+
+@200
+I'm finished. Leave the domain on your own!
+
+@201
+How could I do that!
+
+@202
+We have to run through the mountain roads all night... if I'm with you, you'll be caught!
+
+@203
+I'll carry you on my back!
+
+@204
+Ryōma... you... you fool!
+
+@205
+There's not a moment to lose! If we don't get out of Tosa quickly, we're dead men!
+
+@206
+I know!
+
+@207
+I'll guide the way, so follow me!
+
+@208
+Listen. We run the mountain roads all night from here. There's no resting at all.
+
+@209
+...Not there yet?!
+
+@210
+Are you all right?! It's just ahead!
+
+@211
+Hold on! It's just ahead!
+
+@212
+That's enough, I can manage to walk by myself. Ryōma, I'm truly sorry!
+
+@213
+Are you truly all right?
+
+@214
+Yes, I won't forget this kindness!
+
+@215
+We should be far enough now. Shall we rest a while?
+
+@216
+...I can never go back to Tosa...
+
+@218
+I should at least have said a word to sister Otome.
+
+@219
+Don't say it! I haven't said goodbye to my wife and child either... you're making me think of them!
+
+@221
+It's for the country. Everyone will surely understand.
+
+@222
+Will they?
+
+@223
+Let's part here. Two of us together draw attention.
+
+@224
+Where will you go?
+
+@225
+We won't tell each other our destinations. That way, if one of us is caught, it can't be traced to the others.
+
+@227
+Take care. Farewell.
+
+@228
+Sakamoto-san, I've come to fetch you!
+
+@229
+"Let's go"\n"I won't leave the domain"
+
+@230
+Let's go. Lead the way.
+
+@231
+I won't leave the domain.
+
+@232
+What? If you stay in Tosa like this, you're in danger, aren't you?
+
+@234
+Take my advice. Better to abandon a domain like this.
+
+@235
+"You're right"\n"I'm prepared to die"
+
+@236
+...You're right. Lead the way.
+
+@237
+I'm prepared to die.
+
+@238
+Fool! There's no need to throw your life away for nothing!
+
+@239
+If I take the blame, Hanpeita is saved.
+
+@240
+...Y-you fool!
+
+@241
+Go! Don't worry, they won't catch me easily.
+
+@242
+Yoshimura and I will be waiting! Be sure to escape alive!
+
+@244
+We'll run the mountain roads all night, so please keep up!
+
+@245
+Huff, huff.
+
+@246
+Can you walk? Hold on!
+
+@247
+I... I can't go on...
+
+@248
+Climb on my back!
+
+@249
+Sakamoto-san... I'm sorry.
+
+@250
+We're safe now!
+
+@251
+We made it!
+
+@252
+This is our last farewell to Tosa in this life!
+
+@253
+Watch me, everyone... I'll do it!
+
+@254
+That's right. Join the righteous uprising in Kyōto and crush the shogunate!
+
+@256
+Yes. What do we do now?
+
+@257
+First, we meet Yoshimura Toratarō at Shiraishi-dono's place in Shimonoseki.
+
+@258
+Right.
+
+@259
+Meet Shiraishi Shōichirō in Shimonoseki
+
+@260
+I won't join.
+
+@261
+You won't join?! What do you mean by that?
+
+@262
+I don't like it.
+
+@263
+What?!
+
+@264
+I'll do it my own way. So I won't join the uprising.
+
+@265
+Wh-what are you saying! Sakamoto-san, are you betraying us?!
+
+@266
+It isn't a matter of betraying or not. There's something else I have to do.
+
+@267
+You say there's something to do besides the Kyōto uprising?! What is it?!
+
+@268
+...I don't know.
+
+@269
+Aaargh? I can't make head or tail of what you're saying! Enough, I'm going alone!
+
+@270
+Take care.
+
+@272
+If you change your mind, come to Kyōto!!
+
+@273
+Sakamoto Ryōma! By order of our lord! Submit quietly!
+
+@274
+What do you want?
+
+@275
+Playing the fool! Well, never mind. You have no right to ask!
+
+@276
+"Submit quietly"\n"Fight back"
+
+@277
+I leave the judgement to Heaven.
+
+@278
+Bind him! Take him away!
+
+@280
+Who are you?!
+
+@282
+You! Daring to do this... whoa, so you'll fight!!
+
+@283
+Sakamoto-san! Are you all right?!
+
+@284
+Sawamura?! You were still in Tosa?
+
+@285
+Aargh! Fr-from behind... you coward...
+
+@286
+...Gah!
+
+@288
+These ones are taken care of!
+
+@289
+Hurry, while there's time!
+
+@290
+Izō, and even Shūjirō!
+
+@291
+I'd feel bad if you went and got yourself killed.
+
+@292
+Nakaoka... this is Hanpeita's arrangement, isn't it?
+
+@293
+Never mind that now! Sawamura will guide you, so hurry!
+
+@294
+Sorry... farewell!
+
+@295
+You'd arrest me for no reason? If you think you can, try it!
+
+@296
+Resist and you'll regret it!
+
+@297
+More of them!
+
+@298
+Damn! He's only one man! Surround him and cut him down!
+
+@299
+Don't let him escape! What are you doing! Cut him, cut him down!
+
+@300
+There's no end to them. I'm running.
+
+@301
+Huff, huff.
+
+@302
+Did I shake them off?
+
+@304
+Sawamura?! You were still in Tosa?
+
+@305
+You're alive! Come on, let's run!
+
+@306
+Why didn't you go ahead?
+
+@307
+I was going to go on ahead, but I couldn't stop worrying about you.
+
+@308
+...Sorry.
+
+@309
+We'll run the mountain roads all night, so please keep up!
+
+@310
+Huff, huff.
+
+@311
+Can you walk? Hold on!
+
+@312
+I... I can't go on...
+
+@313
+Climb on my back!
+
+@314
+Sakamoto-san... I'm sorry.
+
+@315
+We're safe now!
+
+@316
+We made it!
+
+@317
+This is our last farewell to Tosa in this life!
+
+@318
+My life was already forfeit once... now I'll show them!
+
+@319
+That's right. Join the righteous uprising in Kyōto and crush the shogunate!
+
+@321
+Yes. What do we do now?
+
+@322
+First, we meet Yoshimura Toratarō at Shiraishi-dono's place in Shimonoseki.
+
+@323
+Right.
+
+@324
+Meet Shiraishi Shōichirō in Shimonoseki
+
+@325
+I won't join.
+
+@326
+You won't join?! What do you mean by that?
+
+@327
+I don't like it.
+
+@328
+What?!
+
+@329
+I'll do it my own way. So I won't join the uprising.
+
+@330
+Wh-what are you saying! Sakamoto-san, are you betraying us?!
+
+@331
+It isn't a matter of betraying or not. There's something else I have to do.
+
+@332
+You say there's something to do besides the Kyōto uprising?! What is it?!
+
+@333
+...I don't know.
+
+@334
+Aaargh? I can't make head or tail of what you're saying! Enough, I'm going alone!
+
+@335
+Take care.
+
+@337
+If you change your mind, come to Kyōto!!
+

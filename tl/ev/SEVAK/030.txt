@@ -1,0 +1,315 @@
+@0
+Ryōma! You've done it at last!!
+
+@1
+Ah, Nakaoka!
+
+@2
+Is your wound all right?
+
+@3
+Look at the state of me. I can't even relieve myself alone, so I lean on Oryō for everything.
+
+@4
+At the Teradaya, they say Oryō-san's warning saved you from disaster.
+
+@5
+Yes. I owe my life to Oryō.
+
+@7
+Phew, it's hot in here! Why not just hold the wedding with Oryō-san now? I'll be your go-between.
+
+@9
+A wedding?! You mean take Oryō along with me?
+
+@10
+Nothing to be so surprised about. After this incident the magistrate's office has Oryō-san on its list too. We can't leave her at the Teradaya.
+
+@11
+Marry her\nDon't marry her
+
+@12
+Oryō, will you come with me?
+
+@13
+Y-yes!!
+
+@14
+Good, that settles it!
+
+@15
+I can't do that.
+
+@17
+I've decided never to take a wife in this life. I have no choice but to take her along, but there will be no wedding.
+
+@20
+Yes, I'll manage somehow.
+
+@21
+Look at the state of me. I can't even relieve myself alone, so I lean on Sana-san for everything.
+
+@22
+Why not just hold the wedding with Sana-san now? I'll be your go-between.
+
+@24
+A wedding?! You mean take Sana-san along with me?
+
+@25
+You've made her a promise, haven't you?
+
+@27
+If I run off with my teacher's daughter and keep her waiting any longer, he'll be furious...
+
+@28
+All right, let's do it!
+
+@30
+Good, that settles it!
+
+@31
+Look at the state of me. I can't even relieve myself alone, so I lean on Kaho-san for everything.
+
+@32
+Why not just hold the wedding with Kaho-san now? I'll be your go-between.
+
+@33
+We... wed...?!
+
+@34
+A wedding?! You mean take Kaho-san along with me?
+
+@35
+You've made her a promise, haven't you?
+
+@37
+The late Shūjirō would glare and object, I suppose... but I can't leave her stuck in the Satsuma residence forever...
+
+@38
+All right, let's do it!
+
+@39
+Really?!
+
+@40
+Yes!
+
+@41
+Good, that settles it!
+
+@42
+Sakamoto-san, thank you for all your trouble this time.
+
+@43
+Saigō-don.
+
+@44
+I heard about the wedding. What do you say? Will you come to Satsuma?
+
+@45
+To Satsuma?
+
+@46
+Since it's a happy occasion, you could recover from your wound at the same time...
+
+@48
+That sounds fine. I'm bored to death!
+
+@49
+Yes, the Kyōto and Ōsaka area is dangerous.
+
+@50
+A trip to Satsuma with my new bride isn't bad at all. Let's do it.
+
+@51
+There is still so much I have to do.
+
+@52
+Don't worry, leave the rest to me. You just concentrate on healing your wound.
+
+@53
+I see. Then I'll take some rest for a while.
+
+@54
+That's best.
+
+@55
+Sakamoto-san, the ship your Shachū bought is arriving.
+
+@56
+A ship?!
+
+@57
+We will see you to Kagoshima.
+
+@58
+A ship... at last our own ship is coming!
+
+@59
+We will take you there on a Satsuma ship.
+
+@60
+Please, take your time and enjoy the journey.
+
+@61
+To Sakamoto Otome-dono
+
+@62
+I climbed to the summit of Mount Kirishima to see the Heavenly Reverse Halberd, travelling all the way with my wife.
+
+@63
+The road was terribly hard for a woman's feet, but we finally clambered to the top and saw the Heavenly Reverse Halberd.
+
+@64
+What a view!
+
+@65
+What is that?
+
+@66
+They say that when the gods descended from heaven, one of them thrust his halberd into the peak upside down.
+
+@67
+Oh, really?
+
+@68
+It's true\nI don't believe it
+
+@69
+Yes.
+
+@70
+That's obviously a made-up story.
+
+@72
+Hup!
+
+@73
+Hey, what are you doing?!
+
+@75
+What a thing to do...
+
+@76
+Oh, there's nothing for it. Let me see.
+
+@79
+Oryō!?
+
+@80
+Ha ha, it came out, it came out! I knew it was fake!
+
+@81
+It was cast copper, made by men.
+
+@82
+Well, it's nothing special at all.
+
+@83
+It was barely four shaku five sun long.
+
+@84
+...What a shocking woman.
+
+@85
+I don't believe in gods and buddhas.
+
+@86
+What are you doing?
+
+@87
+Men made it anyway, I'm sure. Hmph!
+
+@88
+It was cast copper, made by men.
+
+@89
+Look, it came out! Pah, it's nothing special.
+
+@90
+It was barely four shaku five sun long.
+
+@91
+People are all like that. Shōguns and daimyō are propped up on high, so they look great, but talk to them and they turn out to be ordinary men.
+
+@93
+Then, as before, I put it back again.
+
+@95
+What are you writing?
+
+@96
+A letter to my sister Otome.
+
+@97
+Your sister must be someone very special to you.
+
+@98
+That she is... I wonder if she's keeping well.
+
+@99
+Amazing. Is that Sakurajima?
+
+@100
+It is! Whoa! It's belching out a tremendous amount of smoke!
+
+@101
+It really is...
+
+@104
+Here!
+
+@106
+W-wait, Ryōma-dono!
+
+@107
+Ha ha, can you see well now?
+
+@110
+Th... thank you.
+
+@111
+Well, you're awfully meek today.
+
+@112
+Honestly... you're mean.
+
+@113
+This is a fine hot spring. It should be good for the wound.
+
+@116
+May I join you?
+
+@117
+Eh? Oh, a-all right.
+
+@119
+Ahh... that feels lovely.
+
+@120
+...(This is bad.)
+
+@121
+? What's the matter?
+
+@122
+N-nothing at all.
+
+@124
+Sakamoto-san.
+
+@125
+Saigō-don, you're back in Kagoshima?
+
+@126
+The ship your Shachū bought is arriving.
+
+@127
+A ship?!
+
+@128
+We will see you to Kagoshima harbour.
+
+@129
+A ship... at last our own ship is coming!
+

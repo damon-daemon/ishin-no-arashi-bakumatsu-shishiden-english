@@ -1,0 +1,648 @@
+@0
+There won't be many more chances to leave Tosa openly like this. I might as well take my time and see the provinces during the year before the deadline.
+
+@1
+On the road to Kōchi in Tosa\nDeadline: 30th of the 12th month, 1859
+
+@2
+See the provinces and broaden my outlook
+
+@3
+Damn... I have to get back to Tosa.
+
+@4
+Pardon me.
+
+@6
+Forgive me, but... are you not Sakamoto-dono of Tosa?
+
+@7
+"Indeed I am"\n"You have the wrong man"
+
+@8
+Indeed I am. And you are?
+
+@9
+I am Sumiya Toranosuke, a retainer of Mito Domain.
+
+@10
+You're mistaken.
+
+@11
+Ha ha ha, do not be alarmed. I mean you no harm. I am Sumiya Toranosuke, a retainer of Mito Domain.
+
+@12
+Then I beg your pardon. Yes, I am indeed Sakamoto.
+
+@13
+Is something the matter?
+
+@14
+I too am heading for the western provinces, and before leaving Edo I heard of you from Takechi-dono.
+
+@15
+You know Hanpeita?
+
+@16
+Yes. I thought that travelling with Sakamoto-dono, said to be the finest of the Chiba pupils, would make the road safe, so I called out to you.
+
+@17
+You think too highly of me. I might wander off the road here and there, you know.
+
+@18
+I do not mind. What do you say? They do say a traveller is best with a companion...
+
+@19
+Go with him\nDecline
+
+@20
+That would be fine.
+
+@21
+Travelling alone is training too.
+
+@22
+I see. Then perhaps we shall meet again.
+
+@23
+Halt, halt!
+
+@24
+A brawl?
+
+@25
+W-who are you people?
+
+@26
+That man is...
+
+@27
+You must be Sumiya Toranosuke of Mito.
+
+@28
+We have come for your life.
+
+@29
+W-what are you doing! Stop!
+
+@30
+Dangerous business.
+
+@31
+Help him\nStay away
+
+@33
+"A gentleman avoids danger"... that's the way.
+
+@34
+Who are you?! If you interfere, we will cut you down too!
+
+@35
+Take them on\nIntimidate them
+
+@36
+...Let me show you which of us gets cut.
+
+@37
+Die!
+
+@38
+Sumiya-san! ...He's gone.
+
+@39
+Are you all right?
+
+@40
+You are the man I took you for. I thank you for your help.
+
+@41
+Damn, my own life is in danger too!
+
+@43
+We have done what we came for. Leave him.
+
+@44
+Sumiya-san! Our best move here is to run!
+
+@45
+Understood!
+
+@46
+Hey, they're running!
+
+@47
+Halt!
+
+@48
+*pant* *pant*...
+
+@49
+Somehow we shook them off.
+
+@50
+That was a close call. I have put you to trouble.
+
+@51
+Cut me down? Do you know who I am? Sakamoto Ryōma, head pupil of the Chiba Dōjō.
+
+@52
+...Sakamoto of the Hokushin Ittō-ryū!
+
+@53
+Tch, fall back!
+
+@54
+Pathetic.
+
+@55
+You have saved me...
+
+@56
+Who were those fellows?
+
+@57
+Probably... Ii's private men.
+
+@58
+The Tairō's?
+
+@59
+Yes. We Mito jōi men are a thorn in his side.
+
+@60
+You've got yourself a fearsome enemy.
+
+@61
+We will not take this lying down. I mean to go west, make contact with sonnō jōi men of Chōshū, Tosa and Satsuma, and give Ii a nasty surprise.
+
+@62
+"An interesting fellow. I'll take him to Tosa"\n"A dangerous fellow. Best keep away"
+
+@63
+Interesting! Why not come to Tosa with me?
+
+@64
+Nothing would please me more. I shall go with you.
+
+@65
+You'd do better to give up such dangerous business.
+
+@66
+What are you saying?! What can a man who cares for his country achieve if he holds his own life dear?! It seems I misjudged you. Good day!
+
+@67
+A hot-blooded fellow...
+
+@68
+Sakamoto-dono, I am sorry to ask, but would you stop at Fushimi in Kyōto?
+
+@69
+Fushimi?
+
+@70
+Yes. There is an inn there called the Teradaya. It is a place every sonnō-jōi patriot who travels the country is sure to stop at.
+
+@71
+Welcome. Oh, Sumiya-han!
+
+@72
+Ah, Otose-dono, are you well?
+
+@73
+Very well, thank you. ...Oh, what a handsome man.
+
+@74
+Me?
+
+@75
+Hee hee. When you come to Kyōto, please do stop at the Teradaya in Fushimi.
+
+@76
+Oh, yes. Sumiya-han, your companion is waiting.
+
+@77
+Ah, he's here!
+
+@78
+Sumiya-dono, you are late.
+
+@79
+Forgive me. How did it go on your side?
+
+@80
+...And who might this gentleman be?
+
+@81
+Forgive me, I forgot to introduce you. This is Sakamoto-dono of Tosa, who guarded me on the road.
+
+@82
+Well, well. I am Ōgo Itsuzō, a retainer of Mito Domain. Tosa is a land of many loyalists, is it not?
+
+@83
+Ōgo-dono. Is the item safe?
+
+@84
+Yes, it is.
+
+@85
+"What item?"\n"If it's a secret, I'll stay out of it"
+
+@86
+What item?
+
+@88
+It is all right. This man can be trusted.
+
+@89
+I see... then I shall tell you.
+
+@90
+...Maybe I should leave you to it.
+
+@91
+No, you are no stranger to us now. Please listen.
+
+@92
+The item is this: an imperial edict.
+
+@93
+"An imperial edict??"\n"What does it say?"
+
+@94
+An imperial edict??
+
+@95
+A letter from His Majesty the Emperor himself.
+
+@96
+Well! And what does it say?
+
+@97
+You know, I trust, that the shogunate forced through the treaties without imperial sanction?
+
+@99
+Yes. I heard something of the kind.
+
+@100
+Not a word.
+
+@101
+...Well, never mind.
+
+@102
+Furthermore, Tairō Ii placed the lords of Mito, Owari and Echizen, who had strongly opposed the treaties, under house arrest.
+
+@103
+Those who were punished are daimyō of the so-called Hitotsubashi faction. Lord Yōdō of Tosa belongs to it too, so he cannot rest easy either.
+
+@104
+"The Hitotsubashi faction?"\n"I see"
+
+@105
+What's this "Hitotsubashi faction"?
+
+@106
+Daimyō and shishi who campaigned to make the wise Lord Hitotsubashi Yoshinobu the next shōgun.
+
+@107
+But Ii has already decided on his own that the shōgun will be Lord Iemochi of Kishū.
+
+@109
+The Emperor was displeased by the shogunate's tyranny and issued an edict condemning it.
+
+@110
+But why would such a grand thing end up with you?
+
+@111
+In fact an edict identical to the one addressed to the shogunate was also delivered to our Mito Domain.
+
+@112
+We are working to convey His Majesty's will to every domain and rally the forces against Ii.
+
+@113
+"..."\n"What are the prospects?"
+
+@115
+What are the prospects?
+
+@116
+The most promising is Chōshū, where the jōi faction recently took real power.
+
+@117
+Then Satsuma, the greatest domain in the west. The loss of Lord Shimazu Nariakira, called the hero of the age, was a heavy blow, but the jōi faction there is as strong as ever.
+
+@118
+And your own Tosa. They say Lord Yōdō, of the Hitotsubashi faction, is an enlightened ruler, gifted in martial arts, learning and courage.
+
+@119
+That lord, eh?
+
+@120
+If we answer in concert with the loyalist shishi of Satsuma, Chōshū and Tosa, even the shogunate will find us hard to ignore.
+
+@121
+"Exactly"\n"That's naive"
+
+@122
+A grand tale, I like it! I'm starting to enjoy this!
+
+@123
+Naive, so naive...
+
+@124
+What?!
+
+@125
+From what you say, Ii is a man who ignores even the Emperor's wishes. He won't change his mind over a thing like this.
+
+@126
+Then... I will cut Ii down, though it cost me my life!
+
+@127
+Dangerous talk.
+
+@128
+Be that as it may, I intend to do all that can be done.
+
+@129
+I will go to Tosa with Sakamoto-dono.
+
+@130
+Then I shall go to Chōshū.
+
+@131
+Welcome. ...Oh, what a handsome man.
+
+@133
+Hee hee. "Washi", is it? Are you from the western provinces?
+
+@134
+From Tosa...
+
+@135
+Tosa, then. You must be a loyalist.
+
+@137
+Something like that.
+
+@138
+Not exactly... but is Tosa loyalist after all?
+
+@139
+Satsuma, Chōshū and Tosa are the three loyalist domains of the west. The shishi gentlemen are always so good to us.
+
+@140
+Is that so.
+
+@141
+Now, now, you must be tired. Do come in.
+
+@142
+...E-excuse me, sir.
+
+@144
+Food...
+
+@145
+Collapsed on the road?
+
+@146
+Give him something\nIgnore him
+
+@147
+Buy yourself something to eat with this.
+
+@148
+Th-thank you... uh, uuu...
+
+@149
+? Hey, what are you doing? Let go of my leg.
+
+@150
+I-I can't move.
+
+@151
+What a helpless fellow. Here, hold on to my shoulder.
+
+@152
+Sorry, but I'm in a hurry.
+
+@153
+W-wait...
+
+@154
+Hey, don't grab my leg.
+
+@155
+Foooood...
+
+@156
+Whoa. All right, all right, let go!
+
+@157
+*gulp gulp gulp*...
+
+@158
+Eat more calmly! How many days has it been since you last ate?
+
+@159
+*munch* I forgot, *chomp* all about it, *munch*...
+
+@160
+*slurp* Aaah! I've eaten my fill!
+
+@161
+Hm?! ...Oh!!
+
+@163
+You! Th-these are the rarest of features! One in ten thousand, no, rarer still!
+
+@164
+You're a fortune-teller, then.
+
+@165
+You're going to do something tremendous in the future, sir!
+
+@166
+You needn't flatter me so much over the price of a meal.
+
+@167
+No, no, what are you saying! You will surely become a great man who shakes the whole land!
+
+@168
+Yes, yes.
+
+@169
+Ah, I've met a most extraordinary man. Bless you, bless you!
+
+@170
+...That's enough. I'm in a hurry.
+
+@171
+Thank you. I will never forget your kindness.
+
+@172
+Shall we take a ship to Shikoku?
+
+@173
+Sakamoto-dono, an acquaintance of mine owns a merchant ship near here. Shall we take passage to Shikoku?
+
+@174
+Shall we take the ship to Shikoku?
+
+@175
+Oh, there's a ship.
+
+@176
+Excuse me. Where is this ship bound?
+
+@177
+We're going as far as Takamatsu in Shikoku.
+
+@178
+(Just the thing. Shall I board?)
+
+@179
+Board the ship\nDo not board
+
+@180
+I'd like to see a bit more first.
+
+@181
+I see. Then let us do it another time.
+
+@182
+Another time will do.
+
+@183
+Yes, let us take passage on that.
+
+@184
+Would you let me aboard?
+
+@185
+Certainly.
+
+@186
+Ah, the sea is grand...
+
+@187
+Do you like ships, samurai?
+
+@188
+"I do"\n"No"
+
+@189
+No.
+
+@190
+You like the sea but not ships? That's a hard one.
+
+@191
+I suppose so...
+
+@192
+I do.
+
+@193
+You really do seem to like it.
+
+@194
+"I'm tired"\n"Teach me to sail"
+
+@195
+I'll sleep. Wake me when we arrive.
+
+@196
+Aye, aye.
+
+@197
+Won't you teach me to sail the ship?
+
+@198
+What?! A samurai, sailing?
+
+@199
+Why not?
+
+@200
+Well, all right... You're an odd one for a samurai, and no mistake.
+
+@201
+Hey, what's this? What do I do with it?
+
+@202
+Wait a moment, please. This is how it goes...
+
+@203
+What on earth is Sakamoto-dono doing? A truly odd gentleman.
+
+@204
+There he is!
+
+@206
+Sakamoto Ryōma! Surrender quietly!
+
+@208
+Your deadline to return to Tosa passed long ago. We have orders to haul you back by force if need be.
+
+@209
+"Understood"\n"Shut up"
+
+@210
+I'd forgotten.
+
+@212
+Don't get so worked up over a little thing.
+
+@213
+Insolent! Seize him!
+
+@214
+Once I'm back in Kōchi, I won't be able to leave again.
+
+@215
+Enter Kōchi\nTravel a little longer
+
+@216
+I think I'll see the provinces until the deadline in the 12th month.
+
+@217
+Stuck in the backwoods of Kōchi, every day will be a bore...
+
+@218
+Enter Kōchi anyway\nTravel a little longer
+
+@219
+I think I'll see the provinces until the deadline in the 12th month.
+
+@220
+Once I'm back in Kōchi, I won't be able to leave again.
+
+@221
+Enter Kōchi\nTravel a little longer
+
+@222
+Return to Kōchi by the deadline
+
+@223
+Sumiya-san, would you mind keeping me company a little longer?
+
+@224
+I do not mind at all.
+
+@229
+Then I shall go and canvass the senior officials of Tosa Domain.
+
+@230
+I'm below the rank allowed an audience, so I can't go with you.
+
+@231
+Here we part, then. Thank you for your company on the long road.
+
+@232
+Not at all.
+
+@233
+Then, if you will excuse me.
+

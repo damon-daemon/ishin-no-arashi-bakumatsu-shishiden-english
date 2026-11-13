@@ -1,0 +1,357 @@
+@0
+Chōshū seems to be plotting something. Many of their retainers and rōnin appear to have been sent into Kyōto already.
+
+@1
+Commander. I think the area around Kawaramachi, where the Chōshū residence is, smells fishy.
+
+@2
+Yes. Then, Yamazaki-kun, will you go?
+
+@3
+I'll find out where those fellows are hiding, without fail.\nVice-Commander, give me your orders.
+
+@4
+Patrol and gather information.\n(Key area: Kawaramachi)
+
+@5
+According to the inspectors' report, the Masuya smells fishy. We're going in, so come with me, Toshi-san.
+
+@6
+Who is it?
+
+@7
+Shinsengumi! Master of the Masuya, no, Furutaka Shuntarō!
+
+@9
+You are suspected of rallying vagrant rōnin to plot treason against the authorities. This is an official order. Come quietly and be bound!
+
+@10
+...I have no reason to suffer the shame of being bound for something I know nothing about. I will state my case before the magistrate, so take me there.
+
+@11
+Found anything?
+
+@12
+Th-this is...!
+
+@13
+Fire bombs and gunpowder. An enormous amount.
+
+@14
+Hey, a pledge signed by the rōnin! And letters too!
+
+@15
+It seems there's no mistake.
+
+@16
+How is Furutaka?
+
+@17
+He won't talk at all.
+
+@18
+I'll make him talk.
+
+@19
+I will submit to questioning only at the magistrate's office. I find this treatment outrageous.
+
+@20
+Silence. Answer only what you're asked.
+
+@22
+With all that evidence in front of you, how long do you mean to play dumb?
+
+@23
+Oh? I've no idea what you mean.
+
+@24
+Question him harshly\nSee how he reacts
+
+@25
+Don't play the fool!
+
+@26
+Ugh!
+
+@27
+I'm not a patient man. I'll ask once more.
+
+@28
+What are you plotting?! Talk!
+
+@29
+Gah! I... I know nothing.
+
+@30
+Harsher still\nAsk gently
+
+@31
+Speak! Won't you speak?!
+
+@32
+Gwah! A samurai does not betray his comrades.
+
+@33
+I'll make you want to talk...
+
+@34
+S-stop. Stop it!
+
+@35
+If you talk, I may lighten your sentence.
+
+@36
+Ha ha ha! You think I'd sell out my comrades to save my own skin?! Dog of the shogunate!
+
+@37
+...Nothing good comes of angering me.
+
+@38
+Wh-what are you going to do? S-stop. Stop it!
+
+@39
+What are you plotting?
+
+@40
+I know nothing.
+
+@41
+Question him harshly\nAsk gently
+
+@42
+Speak! Won't you speak?!
+
+@43
+Gah! ...A samurai does not betray his comrades.
+
+@44
+Oh, admirable spirit. Then I'll make you want to talk...
+
+@45
+S-stop. Stop it!
+
+@46
+If you talk, I may lighten your sentence.
+
+@47
+Ha ha ha! You think I'd sell out my comrades to save my own skin?! Dog of the shogunate!
+
+@48
+...Nothing good comes of angering me.
+
+@49
+Wh-what are you going to do? S-stop. Stop it!
+
+@51
+Has he talked?
+
+@52
+Yes. In his ravings he blurted out something outrageous... Don't be shocked when you hear it.
+
+@53
+A truly terrifying plan was revealed from Furutaka Shuntarō's mouth.
+
+@54
+On a windy night, the rōnin would set fires throughout Kyōto and on all four sides of the Imperial Palace.
+
+@55
+They would lie in ambush for Matsudaira Katamori and the pro-shogunate lords and court nobles who rush to the Palace in alarm, and kill them...
+
+@56
+And then, taking advantage of the confusion, they would carry the Emperor off to Chōshū. It was a grand scheme indeed.
+
+@57
+Wh-what?!
+
+@58
+If this is carried out, our mission to keep the peace in Kyōto comes to an end.
+
+@59
+We must stop it before it happens, whatever it takes. But the rōnin are scattered and hiding all over Kyōto, so wiping them out is an almost impossible task.
+
+@60
+For the plan to go ahead they must hold a secret meeting somewhere.\nAnd soon. If they learn that Furutaka, who holds the secrets, has been captured, they will bring the date forward.
+
+@61
+Yes... Let's keep the inspectors gathering intelligence.
+
+@62
+Await Yamazaki Susumu's report.
+
+@63
+It's come! A report from Yamazaki-kun! The meeting is tonight, at the Ikedaya!
+
+@64
+But according to the Shoshidai's spies, the place is the Tantora.
+
+@65
+What? Hm... Toshi-san, what do you think?
+
+@66
+Ikedaya\nTantora
+
+@67
+Let's trust Yamazaki-kun. The Ikedaya.
+
+@68
+No, if you ask where sonnō-jōi shishi gather, surely it's the Tantora.
+
+@69
+Yes. We'll divide the corps in two. I'll go to the Ikedaya.\nToshi-san, take the Tantora.
+
+@70
+If you ask where vagrant rōnin gather, it's the Tantora, surely.
+
+@71
+Exactly so.
+
+@72
+Understood. Toshi-san, head for the Tantora. I'll take one unit to the Ikedaya, just in case.
+
+@73
+Yamanami-kun, run to the Protector's residence. Ask for support from the Aizu troops.
+
+@75
+This great round-up will decide whether our Shinsengumi sinks or swims. Don't slip up!
+
+@77
+Yeah!
+
+@78
+Moving out!!
+
+@79
+In the 7th month of Genji 1 (1864), the sonnō-jōi men who had lain hidden all over Kyōto since the Kinmon Incident rose up all at once.
+
+@80
+At last Kyōto was wrapped in crimson flames. The Imperial Palace and the main parts of the city were reduced to burnt fields before one's eyes.
+
+@81
+Here the Shinsengumi, which had been entrusted with the peace of Kyōto, lost its reason for being and met the sorry fate of dissolution.
+
+@83
+They're late.
+
+@84
+The Aizu troops still haven't come.
+
+@85
+What shall we do? Wait?
+
+@86
+Enough waiting. No need to let the others take the credit. We go in!
+
+@87
+Shinsengumi. We're inspecting the premises.
+
+@88
+Eek!
+
+@89
+...There's nobody here.
+
+@90
+Damn, it was the Ikedaya after all! Hurry!
+
+@91
+I can't wait any longer. Let's do it ourselves.
+
+@92
+With this few men?
+
+@93
+If we sit on our hands, the big fish will get away. Let's go!
+
+@96
+The Shinsengumi's influence rose by 35!
+
+@98
+What is it?!
+
+@99
+Guh!
+
+@100
+Sōji!
+
+@101
+Huff, huff...\nWe've finally reached the Ikedaya...
+
+@102
+Looks like it began long ago.
+
+@103
+Hey! The rōnin are coming out of the Ikedaya!
+
+@105
+Cough, cough!
+
+@106
+What is it?!
+
+@107
+Guh!
+
+@108
+Sōji!
+
+@109
+Huff, huff...\nWe've finally reached the Ikedaya...
+
+@110
+Looks like it began long ago.
+
+@111
+Oh! Kondō-san's unit is being routed!
+
+@112
+Damn! Charge in!
+
+@113
+No! Reinforcements!
+
+@114
+The Shinsengumi's influence rose by 20!
+
+@115
+Hijikata Toshizō's renown rose by 200!
+
+@116
+The Shinsengumi's influence rose by a further 25!
+
+@117
+Hijikata Toshizō's renown rose by a further 300!
+
+@118
+So the Ikedaya Incident came to a close.
+
+@119
+Kondō and his few men had struck down many leading sonnō-jōi figures, and their struggle burned the name of the Shinsengumi ever deeper into people's minds.
+
+@121
+The danger of Kyōto being set aflame had passed.
+
+@122
+Though forced into a hard fight, Kondō and his few men had struck down many leading sonnō-jōi figures, and their struggle was enough to make the Shinsengumi's name thunder across the land.
+
+@124
+The danger of Kyōto being set aflame had passed.
+
+@125
+Hard pressed by the unexpected resistance of the sonnō-jōi rōnin, the Shinsengumi narrowly declared victory thanks to the relief led by Hijikata.
+
+@127
+At least the danger of Kyōto going up in flames had been narrowly averted.
+
+@128
+The Shinsengumi suffered a painful defeat at the hands of the sonnō-jōi rōnin's unexpected resistance, but then, aided by the overwhelming forces of Aizu and the other domains, they turned to the counterattack.
+
+@129
+The shishi who had escaped the tiger's jaws of the Ikedaya were caught in that heavy cordon and fell one after another, in battle or by their own hands.
+
+@130
+At least the danger of Kyōto going up in flames had been narrowly averted.
+
+@131
+This incident, which stained the dawn of the Imperial City with the blood of fervent patriots, was to grow into a surge of Bakumatsu history that Hijikata and the others had never imagined.
+

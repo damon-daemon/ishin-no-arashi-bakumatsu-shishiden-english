@@ -1,0 +1,687 @@
+@0
+Active in the Kinai
+
+@3
+What d'you want?!
+
+@4
+You took the money, so hurry up and give her sister back.
+
+@5
+This has got nothing to do with you! Keep out of it!
+
+@6
+Hey...!
+
+@8
+Isn't it enough that a slip of a girl made a fool of you? Do you want to get hurt too?
+
+@9
+...Gh! Damn you!
+
+@10
+Are you going to give her back?
+
+@11
+Ow, ow, ow! I-I'll give her back! I'll give her back!
+
+@12
+Th-thank you very much. You've been so kind.
+
+@13
+Now there's a remarkable girl. Slapping a yakuza in the face!
+
+@15
+Embarrassed, are you? After the scene you just made?
+
+@16
+Ask what happened\nLeave
+
+@17
+What happened?
+
+@19
+I won't force you if you don't want to talk. Well, so long.
+
+@21
+Don't throw your life away.
+
+@23
+...I-I'm Narasaki Ryō! And you?!
+
+@24
+Ryō?! ...The same name as mine!
+
+@26
+I'm Ryōma... Sakamoto Ryōma.
+
+@27
+Sakamoto... Ryōma...
+
+@30
+Izō.
+
+@31
+I'm done guarding Katsu.
+
+@32
+Why?
+
+@33
+I-I can't stand ships. If I stay with Katsu, I have to go aboard.
+
+@34
+You'll get used to it soon.
+
+@35
+I-I can't, and that's that!
+
+@36
+Hey! Izō!
+
+@37
+Leave him be.
+
+@38
+Sensei!
+
+@39
+He really does seem to be bad with ships. Worse than me, and I get seasick enough.
+
+@40
+Is that so...
+
+@41
+He was a dependable bodyguard, too. I owe him my life.
+
+@42
+Were you attacked, sir?
+
+@43
+Yes, by rōnin of the radical sonnō-jōi faction. Izō cut them down so fast the eye couldn't follow.
+
+@44
+When I told him killing is a bad thing, he said that if he hadn't, I'd have been the one cut down. Even I had nothing to say to that.
+
+@46
+It seems he's troubled by having killed men who shared his cause. It would be cruel to keep him with us any longer.
+
+@47
+Izō...
+
+@48
+Ah, Ryō-san...
+
+@49
+What's wrong, Jū-san?
+
+@50
+I think I'll go back to Edo after all.
+
+@52
+I'm just not cut out to be a shishi. And I'm worried about the dōjō in Edo too.
+
+@53
+I see... Sana-san must be lonely, too.
+
+@54
+I'm sorry...
+
+@55
+It's I who should apologise for dragging you along. Take care going home.
+
+@56
+Well, so long. Do your best.
+
+@57
+Ryō-san, I came to Kyōto, but I keep worrying about the dōjō. I'm going back to Edo.
+
+@58
+...I suppose so. Sana-san must be lonely too.
+
+@59
+I'm sorry. I'm just not cut out to be a shishi.
+
+@60
+It's I who should apologise for dragging you along. Take care going home.
+
+@61
+Well, so long. Do your best.
+
+@62
+Sakamoto-han.
+
+@63
+There's a very pretty girl here who says she wants to see you, Sakamoto-han.
+
+@64
+A girl?
+
+@65
+Um, hello. Thank you for helping me the other day.
+
+@66
+Oryō-san! How did you find this place?
+
+@67
+Thanks to you, my sister came home safe.
+
+@68
+What's the matter?
+
+@69
+No... well, it's...
+
+@70
+We can't talk standing here. Come in.
+
+@71
+My father was a doctor. He was so devoted to the imperial cause that the shogunate inspectors arrested him in the Ansei Purge, and he died in prison.
+
+@72
+...The Ansei... Purge!
+
+@73
+Since then we'd been living by renting out our house, but the house burned down in a fire...
+
+@74
+Oh dear!
+
+@75
+We ran up a terrible debt, and my sister was nearly sold off by force as security.
+
+@77
+You really saved us. I only wanted to thank you.
+
+@78
+I did nothing. It was all your own doing.
+
+@79
+No, that's not so...
+
+@80
+But how do you mean to get by from now on?
+
+@82
+...You, come and work for me here.
+
+@84
+Splendid idea!
+
+@85
+I've been short of help and struggling. Well? Say yes.
+
+@86
+Just what you needed! Glad for you!
+
+@87
+...Is that really all right?
+
+@88
+With a young girl here, the Teradaya will do a roaring trade!
+
+@89
+Well! Are you calling me an old woman?!
+
+@90
+I never said that. But I'll look forward to coming home to the Teradaya!
+
+@91
+There! You as good as said it!
+
+@92
+I didn't say it, I didn't!
+
+@93
+Honestly, I'm no match for you, Sakamoto-han!
+
+@94
+...Hehehe.
+
+@95
+Ah, she laughed!
+
+@96
+Hahahaha!
+
+@97
+Wahah! Wahahaha!
+
+@98
+Hehehe, ahahaha!
+
+@99
+Ah! Good timing.
+
+@100
+I'm about to board a Black Ship.
+
+@101
+Really, sir?!
+
+@102
+Want to come along?
+
+@103
+Go along\nDon't go
+
+@105
+Not today, I think.
+
+@106
+Well, that's not like you. All right.
+
+@107
+They got him! Lord Anegakōji has been cut down by the sonnō-jōi men!
+
+@108
+What?! Why?
+
+@109
+Anegakōji?
+
+@110
+One of the court nobles at the head of the sonnō faction. And I had finally made him understand that jōi is impossible!
+
+@111
+...Why?
+
+@112
+To the radical jōi men, I suppose it felt like betrayal. Damn it, why are there so many fools!
+
+@114
+Um...
+
+@116
+What's that palanquin that's been following us?
+
+@117
+You'll see soon enough.
+
+@118
+Oh, Kaishū! Show me the Black Ships at once!
+
+@119
+It's just ahead, my lord.
+
+@120
+...Show me? A court noble?
+
+@121
+Lord Anegakōji Kintomo. The jōi radicals look up to him as one of their leaders.
+
+@122
+The one Chōshū and Takechi and the rest rally around?
+
+@123
+Who is that samurai?
+
+@124
+This is Sakamoto Ryōma, my lord. He will be head of the school at the new naval school in Kōbe.
+
+@125
+Ohoho, is that so.
+
+@126
+There, that is a Black Ship.
+
+@127
+O-oh! H-h-huge, isn't it!!
+
+@128
+Let us board at once.
+
+@129
+How dreadful! It is nothing like what I imagined, truly enormous!
+
+@130
+The foreign powers have a hundred, two hundred such ships, my lord.
+
+@131
+Tr-truly?!
+
+@132
+Truly. And several such nations have their eyes on our country.
+
+@133
+...Then if the shogunate carried out jōi as Chōshū says...
+
+@134
+Our country would be blown to pieces.
+
+@135
+Wh-what!
+
+@136
+With the strength of the shogunate and the lords today, jōi is quite impossible.
+
+@138
+To stand against them, we must have a navy of our own.
+
+@139
+I understand now. The jōi faction talked me round into a dreadful mistake. My eyes are open now.
+
+@140
+I beg you, my lord, to hold back the imperial order commanding the shogunate to carry out jōi.
+
+@141
+Understood. I was nearly the ruin of this country.
+
+@210
+My father was a doctor. He was so devoted to the imperial cause that the shogunate inspectors arrested him in the Ansei Purge and he died in prison.
+
+@213
+Oh dear!
+
+@245
+Ryōma!
+
+@246
+Hisamoto-san.
+
+@247
+A letter's come for you from Katsura-san of Chōshū.
+
+@248
+From Katsura-san?
+
+@249
+Are you acquainted with him?
+
+@250
+He's a friend.
+
+@251
+What?! Friends with Katsura-san himself? I envy you!
+
+@252
+...Let me see.
+
+@254
+Our Chōshū has at last carried out jōi. From the Shimonoseki batteries we fired indiscriminately on the foreign fleets. Ike Kurata-dono of your domain fought bravely alongside us--
+
+@255
+So Kurata fled Tosa and is in Chōshū too?
+
+@256
+--But we were soon made to feel, painfully, that it was utter folly.
+
+@257
+The American and French fleets began reprisals at once, the Shimonoseki batteries were smashed to pieces, and the Chōshū fleet suffered devastating blows.
+
+@258
+Yet once lit, the jōi fever of the Chōshū people shows no sign of cooling, and they seem ready to fight until the domain itself perishes.
+
+@259
+Sakamoto-kun. It seems the time has come for us of the sonnō-jōi faction to change our thinking completely.
+
+@260
+Katsura Kogorō
+
+@261
+Katsu-sensei was right. Jōi will only succeed after Japan has built up more strength.
+
+@262
+Have you seen Nakaoka?
+
+@264
+I hear he's been looking for me...
+
+@265
+T-terrible news!
+
+@267
+Oh, Ryōma, you're here too! Ryōma! Something awful has happened!
+
+@269
+Hirai-san has been seized by the domain officials and sent back home!
+
+@270
+Why Shūjirō?!
+
+@271
+Lord Yōdō has come up to Kyōto!
+
+@272
+I see... Damn it! So we did earn his wrath!
+
+@274
+...It's a long story.
+
+@275
+Lord Yōdō preached loyalty to the Emperor, but at heart he was always for the shogunate. And he couldn't stand gōshi preaching loyalty and swaying the domain's government.
+
+@276
+Shūjirō and the others got a decree from the Court without Lord Yōdō's leave and used it to force Tosa into the imperial cause.
+
+@277
+His lordship's patience must have snapped at last. He gave the order to arrest every last one involved... that's how it is.
+
+@278
+Then Shūjirō is...!
+
+@279
+Yes... They say he was ordered to commit seppuku at once.
+
+@280
+What?! What did you say?! How cruel...!
+
+@281
+We of the Loyalist Party are in danger too. To Lord Yōdō we're hated enemies.
+
+@282
+Takechi-sensei has been sent back to Tosa as well.
+
+@284
+The sensei is known to the court nobles and to Satsuma and Chōshū. They surely can't pin a crime on him.
+
+@285
+Who can say?! Ah, has the loyalist movement in Tosa come this far only to be crushed?
+
+@286
+Gh...! Shūjirō... Shūjirō is dead?! Why?! Why did Shūjirō have to be killed?!
+
+@288
+My brother! My brother!
+
+@289
+...I heard.
+
+@290
+I... I don't know what to do!
+
+@292
+The lady I serve is the sister of Lord Yōdō, who put my brother to death! Of course, I bear her no grudge. But... I can't go on as before...
+
+@295
+Hm?!
+
+@296
+Ryōma-san... give me... something to eat...
+
+@297
+Kurata! What happened to you?!
+
+@298
+Gobble, munch munch, gulp gulp.
+
+@299
+What happened? What became of the Tenchūgumi?
+
+@300
+What happened? I heard you were in Chōshū.
+
+@301
+Gobble... When I heard the Emperor would make a progress to Yamato... mnf... I talked it over with Yoshimura Toratarō, Nasu Shingo, Yasuoka and the others.
+
+@302
+All of you together, then.
+
+@303
+Ahead of the progress, we rōnin would raise an army, glug... and welcome the Emperor at Gojō in Yamato, that was our plan.
+
+@305
+We rose, but slurp... at the same moment there was a coup in Kyōto and the Union of Court and Shogunate faction seized power.
+
+@307
+Of course the Yamato progress was cancelled. We couldn't turn back now, so we fought the armies of the domains sent to put us down...
+
+@308
+Gh... w-wiped out!
+
+@310
+Yoshimura-san, Shingo-san, Yasuoka-san... uh, uuh... they all d-died magnificent deaths in battle!
+
+@311
+How terrible...
+
+@313
+What will you do now?
+
+@314
+Back to Chōshū. And one day I'll avenge them all!
+
+@317
+Kaho-san.
+
+@318
+It's hopeless! The flame of loyalty has gone out!
+
+@320
+Satsuma betrayed us! They joined hands with the shogunate and Aizu and drove Chōshū out of Kyōto!
+
+@321
+I can't follow that. Explain it properly.
+
+@322
+Satsuma had long been alarmed by Chōshū's manoeuvring at the Court.
+
+@323
+They feared that once the shogunate was overthrown, Chōshū would control everything at Court and in time a Mōri shogunate would arise...
+
+@324
+Ridiculous!
+
+@325
+Everyone knows how badly Chōshū and Satsuma get along. On top of that, Chōshū's monopolising ways in Kyōto seem to have left Satsuma uneasy.
+
+@326
+First the Teradaya, and now Satsuma has changed its mind and ruined the sonnō-jōi faction again!
+
+@327
+His Majesty disliked foreigners, but he opposed Chōshū's radical talk of overthrowing the shogunate. So he leaned toward Satsuma, which takes the more moderate line.
+
+@328
+The loyalist movement in Tosa has failed, and Chōshū is completely isolated.
+
+@329
+The Chōshū troops were ordered out of Kyōto, and the sonnō-jōi court nobles, Lord Sanjō foremost among them, have all fled to Chōshū.
+
+@330
+What will you do, Kaho-san?
+
+@331
+Now that my brother has been condemned and is already dead, I have no choice but to go home to Tosa...
+
+@332
+"I see"\n"Don't do it"
+
+@333
+...Kyōto will feel very lonely all at once.
+
+@334
+Sakamoto-sama. Carry out the wish my brother could not fulfil.
+
+@335
+I know. I'll bring the shogunate down one day, you have my word!
+
+@336
+Thank you... Then, take care.
+
+@337
+...Your brother was a fine man. Even back in Tosa, you can hold your head high.
+
+@339
+What will you do back home? You'll only have to hang your head there.
+
+@340
+But I don't know what to do...
+
+@341
+It's for you to decide. Weren't you a shishi, Kaho-san?
+
+@343
+I'm racing about to bring down the shogunate and save Japan too. Whatever people say, I mean to see it through my own way.
+
+@344
+...That's right. I came to Kyōto for the imperial cause, and I've worked for it until today.
+
+@345
+I'll follow Lord Sanjō to Chōshū and protect him!
+
+@346
+Good. Now that the Emperor has turned pro-shogunate, they're the only ones the anti-shogunate side can rally around!
+
+@347
+Thank you. Then I must hurry after Lord Sanjō.
+
+@348
+Don't do anything rash.
+
+@349
+You too, Sakamoto-sama...
+
+@351
+...Ah! Manjūya!
+
+@353
+It's me. Manjūya, from the manjū shop.
+
+@354
+Chōjirō?!
+
+@355
+Yes, sir!
+
+@356
+What brings you here?
+
+@357
+Katsu-sensei says the naval school in Kōbe is ready, and you're to come at once.
+
+@358
+It's finished already?! ...Hm? Why are you here?
+
+@359
+Hehehe, I've joined the naval school too.
+
+@360
+Is that so! Let's work together!
+
+@362
+...Ah! Manjūya!
+
+@364
+It's me. Manjūya, from the manjū shop.
+
+@365
+Chōjirō?!
+
+@366
+Yes, sir!
+
+@367
+What brings you here?
+
+@368
+Katsu-sensei says the naval school in Kōbe is ready, and you're to come at once.
+
+@369
+It's finally finished! ...Hm? Why are you here?
+
+@370
+Hehehe, I've joined the naval school too.
+
+@371
+Is that so! Let's work together!
+

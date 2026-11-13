@@ -1,0 +1,283 @@
+# INIT / MARCH / MOVIE overlays: title, new game, scenario texts, practice, sound test, hero creation, marching narration, movie names
+INIT:8015b858	The hero of this scenario is a lone rōnin who appears out of nowhere in the turbulent Bakumatsu: you.\n\nHow you live and whom you meet are all up to you.\nThe game may be hard, but do try to make your own history.
+INIT:8015b95c	Ishin Storm
+INIT:8015b968	In the upheaval of the Bakumatsu, the Shinsengumi, a fighting band, shook the city of Kyōto.\n\nThis scenario follows the man who fiercely upheld the nearly forgotten way of the samurai: Hijikata Toshizō, Shinsengumi vice-commander.\nIt begins while Hijikata is still at Kondō Isami's dōjō, the Shieikan in Edo, where the young Toshizō burns with the ambition of youth.
+INIT:8015ba94	White Tiger's Roar
+INIT:8015baa0	This scenario tells the energetic life of Sakamoto Ryōma, the Bakumatsu's great maverick, whose free thinking and human charm worked miracles: founding Japan's first trading company, the Kaientai, and forging the Satsuma-Chōshū Alliance.\n\nIt begins with Ryōma's sword training in Edo, when, under threat from the Western powers, the whole country was torn between opening up and jōi.\nThe age of upheaval, the dawn of Japan, was about to begin...
+INIT:8015bbfc	Azure Dragon's Flight
+INIT:8015bc20	{M0}: Confirm\n{M3}: Go Back
+INIT:8015bc3c	-
+INIT:8015bc54	-
+INIT:8015bc6c	-
+INIT:8015bc90	Persuasion Drill
+INIT:8015bc9c	Hanafuda Lessons
+INIT:8015bcac	Fencing Drill
+INIT:8015bcb8	Battle Drill
+INIT:8015bcc4	End Practice
+INIT:8015bcd4	Player Wins
+INIT:8015bcec	Player Loses
+INIT:8015bd04	Player Wins on Points
+INIT:8015bd20	Game Over
+INIT:8015bd58	{C7}Choose an item, {M0} to play\n{M3} to go back\n\n
+INIT:8015bd84	%s/
+INIT:8015bd8c	BGM
+INIT:8015bd94	SFX
+INIT:8015bd9c	Movies
+INIT:8015bda8	Spring at Goryōkaku
+INIT:8015bdb4	Voyage to America
+INIT:8015bdc4	Ōmiya Attack
+INIT:8015bdd0	Farewell, Kozuru
+INIT:8015bdec	Shimonoseki Battle
+INIT:8015bdf8	Satsuma-Chōshū Talks
+INIT:8015be08	Kinmon Incident
+INIT:8015be14	Ikedaya Raid
+INIT:8015be20	Sana's Confession 2
+INIT:8015be34	Sana's Confession 1
+INIT:8015be48	Meeting Oryō
+INIT:8015be58	Shinsengumi Founded
+INIT:8015be84	Battle of Tama
+INIT:8015be90	Sana and Butterfly
+INIT:8015be9c	Jūtarō's News
+INIT:8015beac	Fanfare
+INIT:8015bebc	Crowd
+INIT:8015bec4	Failure
+INIT:8015becc	Success
+INIT:8015bee4	Steam Whistle
+INIT:8015beec	Crash
+INIT:8015bef4	Thunder
+INIT:8015befc	Rain
+INIT:8015bf04	Match over!
+INIT:8015bf10	Ippon!
+INIT:8015bf18	Dō!
+INIT:8015bf20	Kote!
+INIT:8015bf28	Men!
+INIT:8015bf30	Halt!
+INIT:8015bf38	Caution!
+INIT:8015bf40	Hajime!
+INIT:8015bf4c	Rei!
+INIT:8015bf54	Shinai 2
+INIT:8015bf60	Shinai 1
+INIT:8015bf6c	Taiko
+INIT:8015bf74	Fall by Water
+INIT:8015bf84	Cannon
+INIT:8015bf8c	Gunshot
+INIT:8015bf94	Finishing Blow
+INIT:8015bf9c	Scream 2
+INIT:8015bfa4	Scream 1
+INIT:8015bfac	Open Fusuma
+INIT:8015bfbc	Slash 3
+INIT:8015bfc4	Slash 2
+INIT:8015bfcc	Slash 1
+INIT:8015bfd4	Yaaah!
+INIT:8015bfe0	Chesuto!
+INIT:8015bfec	Clash 2
+INIT:8015bff8	Clash 1
+INIT:8015c004	Room Steps
+INIT:8015c010	Water Steps
+INIT:8015c01c	Indoor Steps
+INIT:8015c028	Ending
+INIT:8015c038	Hope for Tomorrow
+INIT:8015c048	Historical Ending
+INIT:8015c05c	Sad Event
+INIT:8015c06c	Hanafuda
+INIT:8015c074	Kendō
+INIT:8015c07c	Persuasion 2
+INIT:8015c088	Persuasion 1
+INIT:8015c094	Big Battle
+INIT:8015c0a0	Battle 2
+INIT:8015c0ac	Battle 1
+INIT:8015c0b8	Crisis!
+INIT:8015c0c4	Shinsengumi
+INIT:8015c0d4	Hijikata Theme
+INIT:8015c0e4	Ryōma Theme
+INIT:8015c0f4	Romance
+INIT:8015c0fc	Advance
+INIT:8015c104	Wandering
+INIT:8015c110	Village Theme
+INIT:8015c11c	Nagasaki Theme
+INIT:8015c12c	Kansai Theme
+INIT:8015c13c	Kantō Theme
+INIT:8015c14c	Kōchi Theme
+INIT:8015c15c	Satsuma Theme
+INIT:8015c16c	Chōshū Theme
+INIT:8015c17c	Foreign Wonders
+INIT:8015c188	Shogunate
+INIT:8015c198	Historic Event
+INIT:8015c1a4	Opening
+INIT:8015c1cc	-
+INIT:8015c1f4	-
+INIT:8015c21c	-
+INIT:8015c244	-
+INIT:8015c26c	-
+INIT:8015c294	OK
+INIT:8015c29c	Cancel
+INIT:8015c2a4	-
+INIT:8015c2a8	-
+INIT:8015c2ac	-
+INIT:8015c2b0	-
+INIT:8015c2b4	-
+INIT:8015c2b8	Page
+INIT:8015c2c0	-
+INIT:8015c2cc	-
+INIT:8015c2d8	-
+INIT:8015c2e4	-
+INIT:8015c2f0	-
+INIT:8015c2fc	-
+INIT:8015c308	-
+INIT:8015c314	-
+INIT:8015c320	-
+INIT:8015c32c	-
+INIT:8015c338	-
+INIT:8015c344	-
+INIT:8015c350	-
+INIT:8015c35c	-
+INIT:8015c368	-
+INIT:8015c374	-
+INIT:8015c380	-
+INIT:8015c38c	-
+INIT:8015c39c	-
+INIT:8015c3a8	-
+INIT:8015c3b4	-
+INIT:8015c3bc	-
+INIT:8015c3c4	-
+INIT:8015c3cc	-
+INIT:8015c3d4	-
+INIT:8015c3dc	-
+INIT:8015c3ec	-
+INIT:8015c3fc	-
+INIT:8015c40c	-
+INIT:8015c41c	-
+INIT:8015c42c	-
+INIT:8015c434	-
+INIT:8015c43c	-
+INIT:8015c444	-
+INIT:8015c44c	-
+INIT:8015c454	-
+INIT:8015c460	-
+INIT:8015c46c	-
+INIT:8015c478	-
+INIT:8015c480	-
+INIT:8015c488	-
+INIT:8015c490	-
+INIT:8015c498	-
+INIT:8015c4a4	-
+INIT:8015c4d4	-
+INIT:8015c4dc	-
+INIT:8015c4f8	Type
+INIT:8015c500	Origin
+INIT:8015c508	Gender
+INIT:8015c510	Alias
+INIT:8015c518	Nickname
+INIT:8015c528	Warrior
+INIT:8015c534	Man of Action
+INIT:8015c540	Strategist
+INIT:8015c54c	Ordinary
+INIT:8015c558	Meticulous
+INIT:8015c564	Bold
+INIT:8015c5a0	Next, choose the alias's given name.\n(10 letters max)
+INIT:8015c5d4	An alias is used when the hero wants to hide his identity.\nFirst choose its family name.\n(10 letters max)
+INIT:8015c638	Choose the nickname close friends call the hero by.\n(10 letters max)
+INIT:8015c678	Next, choose the given name.\n(10 letters max)
+INIT:8015c6a0	Enter the hero's name.\nFirst choose the family name.\n(10 letters max)
+INIT:8015c6e8	Male
+INIT:8015c6f0	In the game you will go about disguised as a man.\nIs that all right?
+INIT:8015c72c	Male. Is that all right?
+INIT:8015c744	{C7}Choose a gender
+INIT:8015c8a0	You will hold the title of Jigen-ryū swordsman.\nIs %s all right?
+INIT:8015c8d4	Is %s all right?
+INIT:8015c8ec	{C7}Choose an origin
+INIT:8015c908	A Warrior excels in strength and Spirit: a swordsman type.\nIs that all right?
+INIT:8015c94c	A Man of Action has plenty of Drive and stamina: a type who carves out his own path.\nIs that all right?
+INIT:8015c9a8	A Strategist excels in Learning: a scholar or debater type.\nIs that all right?
+INIT:8015c9ec	{C7}Choose a character type
+INIT:8015ca10	An Ordinary temper is an average one with no special traits.\nIs that all right?
+INIT:8015ca58	A Meticulous temper is always calm and acts with calculation.\nIs that all right?
+INIT:8015ca9c	A Bold temper is easygoing and unfussy about details.\nIs that all right?
+INIT:8015cae8	{C7}Choose a temper
+INIT:8015cb08	Sonnō means putting the Emperor at the centre of politics, an anti-shogunate stance.\nIs that all right?
+INIT:8015cb64	Sabaku holds that the Tokugawa shogunate should be at the centre of government.\nIs that all right?
+INIT:8015cbb4	{C7}Choose a polity view
+INIT:8015cbd8	{C7}Polity views are ideas about Japan's political system
+INIT:8015cc0c	Jōi means driving back the foreign powers pressing in, to defend Japan's polity.\nIs that all right?
+INIT:8015cc6c	Open means actively trading and dealing with foreign nations.\nIs that all right?
+INIT:8015ccc0	{C7}Choose a foreign policy view
+INIT:8015cce4	{C7}Foreign policy views are ideas about Japan's foreign policy
+INIT:8015cd18	Moderate means reaching goals peacefully, without force.\nIs that all right?
+INIT:8015cd70	Militant means reaching goals by force.\nIs that all right?
+INIT:8015cdbc	{C7}Choose a means of resolution
+INIT:8015cde0	{C7}Means of resolution is how the political order is to be established
+INIT:8015ce28	{C7}%c%c%c%c: 
+INIT:8015ce4c	M
+INIT:8015ce50	F
+INIT:8015ce5c	{M1}: edit %s\n{M0}: finish  {M3}: go back
+INIT:8015ce98	Are these settings all right?
+INIT:8015ceb4	Name: %s %s
+INIT:8015cec4	Nickname: %s
+INIT:8015ced0	Alias: %s %s
+INIT:8015cee0	Gender: %s
+INIT:8015ceec	Origin: %s
+INIT:8015cef8	Type: %s
+INIT:8015cf04	Nature: %s
+INIT:8015cf10	Views: %s, %s, %s
+INIT:8015cf64	{C7}Choose a hero\n{M0}: confirm  {M3}: back to menu
+INIT:801668e0	-
+INIT:80166978	-
+MARCH:8015b908	an incident
+MARCH:8015b914	a major incident
+MARCH:8015b91c	In %s, %s seems to have occurred.
+MARCH:8015b988	But with the front at a standstill, word came suddenly that the 14th shōgun, Iemochi, had died.
+MARCH:8015b9f8	At the remaining Sekishū and Geishū fronts too, Chōshū was kept on the defensive by the shogunate's surging attacks.
+MARCH:8015ba3c	Under fierce attack, Ogasawara Nagamichi, commander of the Kyūshū front, was forced to abandon Kokura Castle and retreat.
+MARCH:8015ba90	But Chōshū's preparations for war with the shogunate were late, and the fighting was hard from the first battle.
+MARCH:8015bad4	Takasugi's fleet then headed for Shimonoseki, drove off the shogunate fleet and began shelling the Moji batteries opposite.
+MARCH:8015bb24	Thus the shogunate's punitive army was forced to withdraw without achieving its original aim.
+MARCH:8015bb7c	But with the front deadlocked, news of the death of the 14th shōgun, Iemochi, suddenly arrived.
+MARCH:8015bbc8	Ōmura Masujirō's brilliant generalship barely held back the overwhelming shogunate numbers.
+MARCH:8015bc20	The Kiheitai's extraordinary morale and the great power of the new rifles.
+MARCH:8015bc58	At the remaining Sekishū and Geishū fronts too, Chōshū was kept on the defensive by the shogunate's surging attacks.
+MARCH:8015bc9c	But with neither army making progress, word came suddenly that the 14th shōgun, Iemochi, had died.
+MARCH:8015bd08	The Kiheitai's extraordinary morale and Ōmura Masujirō's brilliant generalship barely held back the overwhelming shogunate numbers.
+MARCH:8015bd78	On land too, Chōshū was kept on the defensive by wave after wave of shogunate attacks.
+MARCH:8015bdbc	Meanwhile, at the Sekishū and Geishū fronts, the pro-shogunate domains' poor equipment stood out, and they were forced into an unexpected struggle.
+MARCH:8015be20	Only four thousand men in all. The odds were over twenty to one. The outcome was plain to everyone.
+MARCH:8015be6c	Facing the imposing army of the Chōshū Expedition, Chōshū deployed its forces at the Sekishū, Geishū, Kokura and Ōshima fronts.
+MARCH:8015becc	But with only four thousand men and late preparations for war with the shogunate, the fighting was hard from the first battle.
+MARCH:8015bf20	Only four thousand men in all. The odds were over twenty to one. The outcome seemed plain to see...
+MARCH:8015bf70	Facing the imposing expeditionary army, Chōshū deployed its forces at the Sekishū, Geishū, Kokura and Ōshima fronts.
+MARCH:8015bfcc	At last the shogunate army marched on Chōshū's four borders, over 100,000.
+MARCH:8015c018	The shogunate army finally stirred itself and advanced on Chōshū's four borders. Over 100,000 men.
+MARCH:8015c068	In the first battle the shogunate navy made a fine start by seizing Ōshima, but a bold surprise attack by Takasugi Shinsaku's fleet soon retook it.
+MARCH:8015c0d0	Meanwhile Ryōma's fleet headed for the Shimonoseki Strait to fight the shogunate fleet and shell the Moji batteries opposite.
+MARCH:8015c128	With this support, the Kiheitai under Yamagata Aritomo launched a landing at once and finally set Kokura Castle ablaze.
+MARCH:8015c184	With this support the Kiheitai landed and made for Kokura Castle, but met stubborn resistance from Higo Kumamoto's Gatling guns.
+MARCH:8015c208	The Kiheitai landed at Kokura with this support, but Higo Kumamoto, with Gatling guns and other modern arms, drove it off.
+MARCH:8015c274	Thus the shogunate's punitive army, never once having entered Chōshū's lands, was finally forced to withdraw.
+MARCH:8015c2e4	Ryōma's fleet also engaged the shogunate fleet around Shimonoseki, but it was hopelessly outmatched in ship size, numbers and performance.
+MARCH:8015c35c	One enemy ship was sunk and two badly damaged, but the Union suffered damage beyond repair.
+MARCH:8015c3a8	Chōshū fought furiously against the overwhelmingly larger shogunate army, but could not match its numbers...
+MARCH:8015c3f8	Takasugi's fleet then headed for Shimonoseki, drove off the shogunate fleet and began shelling the Moji batteries opposite.
+MARCH:8015c448	With this support, the Chōshū army launched a landing at once, and Ryōma's rōnin force, the Yūgekitai, also made for Kokura Castle.
+MARCH:8015c4ac	The Yūgekitai's bold sortie proved to be nothing but reckless bravado.
+MARCH:8015c4e8	Spurred by the Shinsengumi's victory, the shogunate army launched a surging attack, and Chōshū could only defend.
+MARCH:8015c54c	After a fierce fight the Chōshū army broke and fled. Trusting in its numbers, the shogunate army swept on to the castle town of Hagi.
+MARCH:8015c5a0	A rebel force of only eighty marched on Shimonoseki, surrounded the magistrate's office, and took Shimonoseki without a fight.
+MARCH:8015c5fc	Ryōma and Takasugi then led warships up to Hagi, firing blank shots again and again to sap the conservatives' will to fight.
+MARCH:8015c66c	In response, the reluctant Kiheitai also finally rose.
+MARCH:8015c69c	They faced the decisive battle with the Senpōtai, whose ranks were filled with Chōshū's upper samurai.
+MOVIE:8015b9e4	Spring at Goryōkaku
+MOVIE:8015b9f0	Voyage to America
+MOVIE:8015ba00	Ōmiya Attack
+MOVIE:8015ba0c	Farewell, Kozuru
+MOVIE:8015ba28	Shimonoseki Battle
+MOVIE:8015ba34	Satsuma-Chōshū Talks
+MOVIE:8015ba44	Kinmon Incident
+MOVIE:8015ba50	Ikedaya Raid
+MOVIE:8015ba5c	Sana's Confession 2
+MOVIE:8015ba6c	Sana's Confession 1
+MOVIE:8015ba7c	Meeting Oryō
+MOVIE:8015ba90	Shinsengumi Founded
+MOVIE:8015babc	Battle of Tama
+MOVIE:8015bac8	Sana and Butterfly
+MOVIE:8015bad4	Jūtarō's News
+MOVIE:8015bae4	Opening
+INIT:8015c6e0	Female

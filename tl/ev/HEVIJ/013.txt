@@ -1,0 +1,459 @@
+@0
+Vice-Commander Hijikata!
+
+@1
+Oh, Yamazaki.\nWhat is it?
+
+@2
+Terrible news!\nChief Yamanami has deserted!
+
+@5
+He left this note behind...
+
+@7
+I am, after all, the Chief of the Shinsengumi.
+
+@8
+That my words are not heeded is solely because Kondō-dono has been led astray by the flattery of Hijikata Toshizō.
+
+@9
+I cannot share life and death with such a Commander.
+
+@11
+Leaving a letter behind, how very like Yamanami-san. He could have slipped away quietly.
+
+@12
+He can't have gone far yet. Will you send men after him?
+
+@13
+...Naturally.
+
+@15
+I can't let a man who breaks the code go free.
+
+@16
+Who will you send after him?
+
+@17
+Nagakura Shinpachi\nSaitō Hajime\nHarada Sanosuke\nTōdō Heisuke\nOkita Sōji
+
+@18
+Nagakura-kun.
+
+@19
+Yes?
+
+@20
+I'm counting on you.
+
+@21
+Oh, very well. All right, then.
+
+@22
+Nagakura-kun.
+
+@23
+Yes?
+
+@24
+I'm counting on you.
+
+@25
+Oh, very well. All right, then.
+
+@26
+Call Nagakura-kun for me.
+
+@27
+Yamanami-dono!
+
+@28
+Oh! Nagakura-kun...
+
+@29
+Desertion means seppuku. You can no longer escape.
+
+@30
+And if I refuse?
+
+@31
+By the Commander's order, I must cut you down.
+
+@32
+The Commander? You mean the Vice-Commander, surely?
+
+@33
+Yamanami-dono, accept your fate.
+
+@34
+So this is the end...
+
+@35
+Nagakura-kun. I have one last favour to ask.
+
+@36
+I'm listening.
+
+@37
+There is a woman in Gion called Akesato. I wish to see her once more at the end. Call it lingering attachment, but could you arrange it for me?
+
+@38
+Akesato-dono, is it... Very well.
+
+@39
+Yamanami-han!
+
+@40
+Akesato!
+
+@41
+Yamanami-han...
+
+@42
+Akesato...
+
+@44
+He got away... Well, this means I'll have to commit seppuku.
+
+@45
+My apologies. I let him get away.
+
+@47
+I wasn't good enough. I had him all but caught, and then...
+
+@48
+No. Yamanami-kun is dead.
+
+@50
+If it got out that the Shinsengumi's Chief had deserted, we could never keep discipline, inside the corps or out. The deserter was cut down by you. That is how it stands. Understood?
+
+@52
+Saitō-kun.
+
+@54
+I'm counting on you.
+
+@56
+Saitō-kun.
+
+@58
+I'm counting on you.
+
+@60
+Call Saitō-kun for me.
+
+@61
+Yamanami-san, so you're here.
+
+@62
+Saitō-kun...
+
+@63
+You have surely guessed my errand.
+
+@64
+To send the one man I least want as an enemy... that is just like Hijikata-kun.
+
+@65
+I am honoured. I'll take that as praise.
+
+@66
+Come, cut me down.
+
+@67
+You mean to take your own life, I presume.
+
+@68
+A samurai's mercy... I am grateful.
+
+@70
+Magnificent! I have seen it through. Farewell!
+
+@72
+Vice-Commander. It is all done.
+
+@73
+I see... Well done.
+
+@74
+Damn. Have I lost my edge?
+
+@75
+My apologies. I let him get away.
+
+@78
+No. Yamanami-kun is dead.
+
+@80
+If it got out that the Shinsengumi's Chief had deserted, we could never keep discipline, inside the corps or out. The deserter was cut down by you. That is how it stands. Understood?
+
+@81
+I have no excuse.
+
+@82
+Sanosuke.
+
+@83
+I know, I know. I'll go and be back in no time.
+
+@84
+Take some of the men.
+
+@85
+No need.
+
+@86
+Don't underestimate him. He holds a full licence in Hokushin Ittō-ryū.
+
+@88
+Sanosuke.
+
+@89
+I know, I know. I'll go and be back in no time.
+
+@90
+Take some of the men.
+
+@91
+No need.
+
+@92
+Don't underestimate him. He holds a full licence in Hokushin Ittō-ryū.
+
+@94
+Call Harada-kun for me.
+
+@95
+Yamanami-sensei!
+
+@96
+Harada!
+
+@97
+Slipping out without a word is unkind. We've known each other long enough; you could at least have said something.
+
+@98
+If I'd said goodbye to you, we'd have been swinging swords on the spot.
+
+@99
+Heh heh. Well, it's only a matter of sooner or later.
+
+@100
+Sensei, prepare yourself!
+
+@101
+Guh!!
+
+@103
+I got him, but... it leaves a bad taste, doesn't it.
+
+@104
+If you hadn't done it, someone else would have had to.
+
+@105
+Well, yes, that's true, but...
+
+@106
+Well done. Take a good rest.
+
+@107
+Damn, he got away! What a mess!
+
+@108
+I'm sorry. He got away from me.
+
+@110
+Just as the Vice-Commander said, I underestimated him. So I'll cut my own belly for it, and let that settle things.
+
+@111
+No, there's no need. Yamanami-kun is dead.
+
+@113
+If it got out that the Shinsengumi's Chief had deserted, we could never keep discipline, inside the corps or out. The deserter was cut down by you. That is how it stands. Understood?
+
+@117
+You and he trained at the same school. I'll leave it to you.
+
+@118
+Understood. And if I can't find him?
+
+@119
+Find him.
+
+@123
+You and he trained at the same school. I'll leave it to you.
+
+@124
+Understood. And if I can't find him?
+
+@125
+Find him.
+
+@127
+Call Tōdō-kun for me.
+
+@128
+Yamanami-dono!
+
+@129
+Oh, Tōdō-kun.
+
+@130
+Why did you do something so rash?
+
+@131
+...I could not bear it one more day.
+
+@132
+Radical shishi they may be, but most of them are capable men who grieve for the country. Some were even fellow students of Hokushin. And day after day we cut them down without a hearing...
+
+@134
+This is not the Shinsengumi I dreamed of. To be the vanguard of jōi for the nation, and to guard the Emperor's capital from mobs that borrow the name of jōi...
+
+@135
+No. It is useless to say so now.
+
+@137
+If I am to be caught, I am glad it is by you. Do with me as you will.
+
+@139
+Tōdō-kun.
+
+@140
+...I have seen nothing.
+
+@142
+Yamanami-sensei. Take care of yourself.
+
+@143
+W-wait! You will be punished for this!
+
+@144
+I'll be fine. Worry about yourself instead.
+
+@145
+Tōdō-kun...
+
+@146
+I thank you!
+
+@147
+I'm sorry. He got away.
+
+@150
+Heisuke. Surely you didn't go easy on him?
+
+@151
+N-no. Nothing of the sort...
+
+@153
+No, never mind. Yamanami-kun is dead.
+
+@155
+If it got out that the Shinsengumi's Chief had deserted, we could never keep discipline, inside the corps or out. The deserter was cut down by you. That is how it stands. Understood?
+
+@156
+...Yes, sir!
+
+@157
+Okita.
+
+@159
+If you go after him, Yamanami-san will accept it.
+
+@161
+If you don't want to, I won't force you.
+
+@162
+No, I'll go.
+
+@163
+You're sure?
+
+@165
+Okita.
+
+@167
+If you go after him, Yamanami-san will accept it.
+
+@169
+If you don't want to, I won't force you.
+
+@170
+No, I'll go.
+
+@171
+You're sure?
+
+@173
+Call Okita for me.
+
+@174
+Hm? Okita-kun.
+
+@175
+Oh, Yamanami-san.
+
+@176
+You came?
+
+@178
+Ha ha ha, I give up! When I saw the pursuer, I meant to go out in a blaze of sword-fighting, but against you, Okita-kun, I haven't the heart to fight.
+
+@179
+Please, cut me down if you like. I won't draw.
+
+@180
+That is exactly why I can't cut you down. Well, never mind. If it is you who catches me, I can resign myself to it.
+
+@181
+Yamanami-san...
+
+@182
+Okita-kun, may I ask you to act as my second when I commit seppuku?
+
+@184
+And one more thing. There is a woman in Gion called Akesato. I wish to see her once more at the end. Call it lingering attachment, but could you arrange it for me?
+
+@185
+Akesato-san, is it? Understood.
+
+@186
+Yamanami-han!
+
+@187
+Akesato!
+
+@188
+Yamanami-han...
+
+@189
+Akesato...
+
+@191
+Gentlemen, I have an announcement.
+
+@192
+A new headquarters has been established within the grounds of Nishi-Hongan-ji in Shimabara. From now on it will be the base of our Shinsengumi.
+
+@193
+And one more thing...
+
+@194
+Yamanami-kun's death is truly regrettable.
+
+@195
+But we cannot grieve forever.\nWe have grave duties.
+
+@196
+Itō Kashitarō-kun will take the post of Chief and Staff Officer. Each of you is to devote yourself still more to your duties.
+
+@197
+The Shinsengumi's strength rose by 8!
+
+@200
+North of the water, south of the hills... the spring moon.
+
+@201
+Yamanami-san... why?
+

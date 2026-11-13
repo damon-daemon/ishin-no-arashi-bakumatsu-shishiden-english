@@ -1,0 +1,447 @@
+@0
+Patrol and gather intelligence\n(Priority: Nakagyō, Shimogyō, Gion, Kiyomizu)
+
+@2
+Surrender quietly!
+
+@3
+R-run!
+
+@4
+You won't escape!
+
+@7
+Hijikata-san, the Vice-Commander, is it not? I am Tomiyama Yahei, a new member.
+
+@10
+Ha ha, surprised? Itō-kun brought him in.
+
+@11
+A Satsuma man?
+
+@12
+Yes. A simple fellow, but silent and brave. He shows real promise.
+
+@13
+He isn't a spy, I hope?
+
+@14
+No, he was driven from his domain after a bloody quarrel. He bears a grudge against Satsuma.
+
+@15
+Besides, he isn't clever enough to be a spy. Anyway, if he acts suspiciously, we'll deal with it then.
+
+@18
+You took us for poor rōnin and made fools of us at every turn.
+
+@19
+That's because you have no manners!
+
+@20
+Is that how you treat a customer, eh?
+
+@21
+A customer who won't pay a single sen? Shameless!
+
+@22
+Quite the mouth on that woman. Shut her up!
+
+@24
+"Cut the rōnin down"\n"Look the other way"
+
+@25
+And who are you?
+
+@26
+Hijikata, Vice-Commander of the Shinsengumi. I cut down vagrants who disturb the Imperial capital.
+
+@27
+!! S-Shinsengumi?!
+
+@29
+Hijikata Toshizō's renown rose by 10!
+
+@30
+This won't do.
+
+@31
+Hah, the Shinsengumi aren't all they're said to be. Wait!
+
+@32
+Sorry for the disturbance.
+
+@34
+Right, we're pulling out.
+
+@35
+He's gone... Oh! I couldn't even thank him.
+
+@36
+Oh, something dropped?
+
+@37
+"Hōgyoku's Collected Haiku"... what is this?
+
+@38
+"On official business, the road I take: a spring moon."
+
+@39
+Goodness! The demon Vice-Commander of the Shinsengumi writes haiku!
+
+@41
+Hm?\nSomething seems to be going on out there...
+
+@42
+Hijikata-san, you have a visitor.
+
+@44
+Heh heh, she says she came to return something you forgot.
+
+@46
+Thank you very much for the other day.
+
+@48
+You dropped this, didn't you?
+
+@49
+You... looked inside?
+
+@50
+Yes, I'm fond of writing verse myself. I knew it was rude, but I couldn't help reading it.
+
+@53
+Did I offend you?
+
+@54
+...How was it?
+
+@56
+As a fellow haiku poet, I'm asking how the verses turned out.
+
+@57
+Oh, how lovely. Then I shall tell you.
+
+@59
+They are wonderful. Not the sort of verse the petty wits of Kyōto and Ōsaka could ever write. They quite opened my eyes.
+
+@60
+Well! I've never seen anyone praise Hijikata-san's verse before.
+
+@61
+Sōji. Go away.
+
+@63
+When you have a new piece, please let me hear it.
+
+@64
+I'd like to see your own verses too.
+
+@65
+Yes. Perhaps another time.
+
+@66
+How can I meet you?
+
+@67
+I work at the Tachibana in Gion. If you like, please come by.
+
+@68
+The Tachibana, is it...
+
+@69
+Oh, Hijikata-sama. You came after all.
+
+@70
+Kotsuru, wasn't it? Were you born in the Kantō?
+
+@71
+Yes, from Sagami... but if you'd prefer Kyōto speech, I can talk that way.
+
+@72
+No, there's no need.
+
+@73
+...Why did you come to Kyōto?
+
+@74
+It's rude to ask a woman about her past.
+
+@75
+If you don't want to say, fine.
+
+@76
+So sorry, Kotsuru isn't in today.
+
+@77
+She isn't always here?
+
+@78
+Well, she has her reasons, it seems. She should be back next month, I think.
+
+@80
+Hijikata-sama! You came again!
+
+@81
+I forgot all about it the other day. I came to see your verses.
+
+@82
+How embarrassing. I've never shown them to anyone.
+
+@83
+All the better, then.
+
+@85
+That makes me the first, doesn't it?
+
+@86
+Oh, hee hee.
+
+@87
+So sorry, Kotsuru isn't in today.
+
+@88
+Her day off, then.
+
+@89
+Welcome.
+
+@90
+Lately I can hardly wait for the days I see you.
+
+@91
+I won't fall for that.
+
+@94
+You think it's just easy shop talk, don't you?
+
+@96
+That's cruel.
+
+@97
+It isn't that.
+
+@99
+I was only a little uneasy whether you truly meant it.
+
+@100
+...Hee hee, I was lying.
+
+@101
+I just wanted to tease you a little.
+
+@103
+Oh, are you angry?
+
+@105
+I'm sorry, I didn't mean it that way.
+
+@106
+...That's my revenge.
+
+@107
+What? ...Honestly!
+
+@109
+So sorry, Kotsuru isn't in today.
+
+@110
+Off again today.
+
+@111
+Hijikata-sama!
+
+@112
+You seem to take days off from the shop fairly often.
+
+@114
+Do you have other work?
+
+@115
+Hee hee, it's a secret.
+
+@117
+Do you want to know?
+
+@118
+Never mind. So long as you're mine alone when you're with me.
+
+@119
+Oh, you flatter me... If they knew those were the words of the Shinsengumi's demon Vice-Commander, everyone would faint.
+
+@121
+I'm sorry... it's just... I'm so happy...
+
+@124
+...
+
+@125
+So sorry.
+
+@126
+Yes, I'll come again.
+
+@127
+Is the money ready?
+
+@128
+Y-yes. Right away.
+
+@130
+Ah! The Shinsengumi!
+
+@133
+Th-thank you.
+
+@134
+Fujii Randen. You are suspected of plotting rebellion against the shogunate. You will accompany me to headquarters.
+
+@135
+That's groundless!
+
+@136
+You deny any knowledge of it? Then show me what you are writing now.
+
+@142
+By decree of the Imperial Court. Prepare at once.
+
+@143
+Y-yes, sir.
+
+@144
+Prepare what?
+
+@145
+!! Vi... Vice-- Ah, no... D-damn you!
+
+@146
+Do you think you can escape?
+
+@148
+The Shinsengumi's morale rose by 1!
+
+@149
+Toshi-san. What shall we do about the corps' budget?
+
+@157
+Oh, Hijikata-san!\nJust in time.\nCome and join the talk.
+
+@158
+Yes, that's right.\nLet's settle this once and for all.
+
+@159
+What is it? What's going on?
+
+@160
+Well, this fellow says Kyōto women are better. Hijikata-san, surely you think Edo women are better?
+
+@161
+What are you talking about?\nEdo women are loud and have no charm.
+
+@162
+No, Kyōto women are dreary and no good.\nIn the end, good-natured Edo women are the best.
+
+@163
+Honestly, why can't you see it?\nI suppose men who aren't popular never will.
+
+@164
+Oh? Are you picking a fight with me?\nI'll take you on right now.
+
+@165
+Yeah, bring it on!\nStep outside!
+
+@166
+Hey, stop it.\nYou're both a disgrace...
+
+@167
+Well, what's all the racket?\nI can't get on with my calligraphy.
+
+@168
+Oh, Kondō-san.\nIt's like this...
+
+@169
+Ha ha ha ha!\nQuarrelling over something that stupid.
+
+@170
+By the way, how about you, Toshi-san?
+
+@171
+"Good nature and looks are enough"\n"No, Edo women for me"\n"No, Kyōto women are better"
+
+@172
+As long as she's good-natured and pretty, I don't care where she lives.
+
+@173
+No, I still say Edo women.\nKyōto women just don't suit me.
+
+@174
+No, I prefer Kyōto women.\nThere's a certain refinement about them.
+
+@175
+Oh, is that so?\nAs for me, there's no woman like my own wife.
+
+@176
+Urk... (That wife of his?)\nI-is that so.
+
+@177
+W-well, it's good that you get along so well...\n(H-he can't be serious...)
+
+@178
+Y-yeah, that's right.\nTsune-san is a fine woman...\n(Well, she is Kondō-san's wife, after all...)
+
+@179
+W-well, I'd better get my work done...
+
+@180
+Y-yes, me too.\nIf you'll excuse me...
+
+@181
+Hey, won't you stay and hear about my wife?\nIt'd do you good... Hey!
+
+@182
+Ah, Hijikata-san.\nFine weather today.
+
+@183
+Yes, a day like this makes one want to take it easy.
+
+@184
+Indeed. I thought I'd tend to my sword; would you join me, Hijikata-san? And let me feast my eyes on your prized Nosada.
+
+@185
+Oh, this one?\nYes, why not.
+
+@186
+Then, if you'll permit me...
+
+@187
+Saitō examined Hijikata's beloved sword, the second-generation Izumi-no-kami Kanesada, known as Nosada, at some length...
+
+@188
+Truly a splendid piece.\nIt has the bearing proper to a great blade.
+
+@189
+Yes, it does.\nBut holding it, somehow it doesn't feel as if I got it only yesterday.
+
+@190
+Ah, they say a sword has a will to choose its wielder. It must have come to fight alongside you, Hijikata-san.
+
+@191
+That sword was born three hundred years ago.\nIt must have passed through the battles of the Sengoku age and drifted down to us.
+
+@192
+Fighting on since the Sengoku age...
+
+@193
+Yet I may be the last it fights for.\nA new age will soon come.
+
+@194
+Yes, this sword too must have come in search of a place for its last fight.\nTo open a new age...
+
+@195
+Or to burn out...
+
+@196
+Heh...\nBut I will fight until the end comes.\nI'll let this sword have its last service.
+
+@197
+Yes, I'll go with you to the end.\nWell then, shall we get to work?
+

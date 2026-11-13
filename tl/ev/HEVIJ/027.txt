@@ -1,0 +1,330 @@
+@0
+Toshi-san. The Shinsengumi has been ordered to guard the shōgun. After a short rest, we enter Edo.
+
+@1
+Staying in Edo to guard the shōgun.
+
+@2
+Wait in Edo.
+
+@4
+I have rented a room at the Uekin in Ushigome. Okita-dono will recuperate there.
+
+@6
+Toshi-san, good news.
+
+@7
+Preparing to march out as the Kōyō Chinbutai.
+
+@8
+Wait in Edo.
+
+@10
+Kondō-san, where have you been?
+
+@11
+Edo Castle. I went to see Katsu-dono of the shogunate.
+
+@13
+The shōgun has already left the castle and is in confinement. He has given up entirely on defending the shogunate's lands by force.
+
+@15
+Tosa troops under Itagaki Taisuke are advancing along the Nakasendō toward Kōfu. At this rate the million koku of Kai will fall to the imperial army without a fight.
+
+@17
+He says that if the Shinsengumi takes on this defence as the Kōyō Chinbutai, he will give us half of it. Overnight we'd be great daimyō of five hundred thousand koku.
+
+@18
+...Not bad.
+
+@19
+We'll need some time to prepare, recruiting troops and the rest.
+
+@20
+The men are worn out from all the moving. They should rest for a few days.
+
+@21
+Sōji, how are you feeling?
+
+@22
+Yes... so-so.
+
+@23
+Oh, that's right, I hear Kondō-san is to become a daimyō.\nHe says he'll give me thirty thousand koku, heh heh.
+
+@24
+The shogunate has no future, so daimyō or not means nothing. But a goal lifts the men's morale.
+
+@25
+I wish I could go too.
+
+@26
+...Anyway, right now you need to get well.
+
+@28
+...\nThe headquarters is awfully quiet today...
+
+@29
+Hey, where has everyone gone?
+
+@30
+They said they were heading out to the Shinagawa-rō in Honjo-Fukagawa.
+
+@32
+Ah, Hijikata-san!
+
+@33
+Oh, Toshi-san, you came too! Today the whole place is booked for the Shinsengumi.
+
+@35
+Don't make that face, it's one last fling in this world. In this situation it's the quickest way to raise the men's spirits.
+
+@36
+I've recruited men. Weapons and money have been issued, and we're fully prepared. At last we set out for Kōfu!
+
+@37
+Back in Hino for the first time in five years. It feels like yesterday, and yet like ages ago.
+
+@38
+Kondō-san, I hear you've become a daimyō. And with the rank of junior councillor, too. Hino talks of nothing else.
+
+@39
+Ha ha ha. That is a story for after we win the battle.
+
+@40
+How is Gen-san?
+
+@42
+In the last battle... he died a splendid death.
+
+@44
+...I see.
+
+@45
+Kondō-dono, please take us to Kōfu with you!
+
+@46
+Oh, you'll come with us!
+
+@47
+We of the Kasuga Unit will serve you well!
+
+@48
+Marching out as the Kōyō Chinbutai.
+
+@49
+Wait in Hino.
+
+@51
+Toshi-san, it's about time we set out.
+
+@52
+I see an army ahead!
+
+@53
+What?! What's this?
+
+@54
+...Surely not!
+
+@55
+They're firing!
+
+@56
+Enemy?!
+
+@57
+The Shinsengumi was defeated...
+
+@58
+With the arrival of modern warfare, even the band of swordsmen who had boasted of being the strongest of the Bakumatsu lost its reason to exist.
+
+@59
+It seems the imperial army has already entered Kōfu!
+
+@63
+To think the imperial army would advance this fast...
+
+@64
+...We have no choice but to retreat.
+
+@66
+The Kōyō Chinbutai is defeated and returns to Edo.
+
+@67
+Return to the infantry headquarters.
+
+@69
+...This is no time to be wandering about.\nLet's go back to the Uekin for now.
+
+@70
+The imperial army has Edo tightly surrounded...
+
+@71
+Wasn't the reason that Katsu fellow sent us to Kōshū in the first place that the Shinsengumi's name stood in the way of a peaceful negotiation with the imperial army?
+
+@72
+So they got rid of us neatly.
+
+@73
+Kondō-san, Hijikata-san!
+
+@74
+Hm?\nNagakura-kun and Harada-kun...
+
+@75
+Let's go to Ōshū!
+
+@76
+Ōshū?
+
+@77
+I've already spoken to our comrades in Edo. I think we can gather several dozen.
+
+@79
+You decided what becomes of us without a word to me?
+
+@81
+Now that I've been raised to daimyō rank, you are as good as my retainers. I can't have you acting before you've spoken to me.
+
+@83
+Absurd! Since the founding we've worked together as comrades! If we'd wanted to serve a second master now, we'd never have gone through all this in the first place!
+
+@84
+Bah! Things being what they are, this isn't the Shinsengumi or anything else any more. We're back to being individuals, that's all. We'll do as we please.
+
+@85
+Thank you for looking after me for so long. Farewell!
+
+@87
+...Kondō-san. I know you're feeling sour, but if you throw it in, it's over.
+
+@88
+I've somehow grown weary of it all.
+
+@89
+What happened to the spirit you had when we set out for Kōshū?
+
+@90
+Our time has already passed.
+
+@91
+What are you saying? The interesting part starts now.
+
+@93
+I'm going to surrender.
+
+@94
+...Surrender?
+
+@95
+The shogunate is gone now.
+
+@96
+Don't. You'd be going off to die for nothing.
+
+@97
+Things having come to this, death is our fate sooner or later.
+
+@98
+There are still the domains of Ōu and Echigo! Even among the shogunate retainers there are those who haven't lost the will to fight! We can still fight!
+
+@99
+Is there any hope of winning?
+
+@100
+It isn't about winning or losing! It's about how you carry through your own convictions!
+
+@101
+I don't want to fight and be branded a rebel.
+
+@102
+...When you're on the rise you show more strength than anyone, but on the way down you're hopeless.
+
+@103
+Listen. "Imperial army" and "rebel army" are only temporary guises. Chōshū was a rebel army until just the other day. And what are they now?
+
+@105
+You fight as long as there's a chance. No! Even without one, dying for the path you believe in is the way of the samurai, isn't it?
+
+@106
+...I've had enough.
+
+@107
+Kondō-san, don't go!
+
+@108
+No. On this one, even if it's you, Toshi-san, I won't be moved. I can't fight a battle I know I'll lose.
+
+@109
+...Come to think of it, Kondō Isami, Commander of the Shinsengumi, may have been a false image you created, Toshi-san.
+
+@111
+I'm grateful. It looks like I'll manage to leave my name in the history books. Only, spare me being written there as an enemy of the Court.
+
+@112
+I choose the grace of giving up cleanly over the stubbornness of keeping to the way of the samurai.
+
+@114
+So long, Toshi-san.
+
+@115
+...!!
+
+@116
+Kondō Isami, Commander of the Shinsengumi, surrendered alone to the imperial army under the name Ōkubo Yamato.
+
+@117
+A few days later it was decided that Edo Castle would be surrendered, and the organisation called the shogunate was almost completely erased.
+
+@118
+The curtain had risen here on Hijikata Toshizō's lonely battle.
+
+@119
+Hijikata-san. What will you do now?
+
+@121
+I'm thinking of going to Ōshū.
+
+@122
+Go to Ōshū\nGo to Echigo\nStay in Edo
+
+@123
+I'm going to Ōshū too. In any case, let's head for Aizu.
+
+@124
+I'll head for Echigo and seek help from the Nagaoka Domain.
+
+@125
+...I see. Then this is goodbye.
+
+@127
+Take this...
+
+@128
+?\nThis is... Kanesada!?
+
+@129
+It's a sword with ties to the Aizu Domain. Take it along with you.
+
+@131
+Take care.
+
+@132
+I'll stay in Edo.
+
+@133
+...I see. Then this is goodbye.
+
+@135
+Take this...
+
+@136
+?\nThis is... Kanesada!?
+
+@137
+It's a sword with ties to the Aizu Domain. Take it along with you.
+
+@139
+Take care.
+

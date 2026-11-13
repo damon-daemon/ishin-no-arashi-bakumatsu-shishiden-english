@@ -1,0 +1,552 @@
+@0
+Well, if it isn't S2-san.
+
+@1
+Sakamoto-san! What are you doing in Tsukiji?
+
+@2
+Katsu-sensei put in a word for me, and now I'm studying the navy.
+
+@3
+Katsu-dono, the Navy Commissioner?
+
+@4
+That's right.
+
+@5
+Who is Katsu-sensei?
+
+@6
+The Navy Commissioner, Katsu Awa-no-kami.
+
+@8
+My friends in Tosa all call him a traitor who's selling this country to the foreigners.
+
+@9
+But it isn't true.
+
+@10
+He is a great man who studied the navy out of concern for this country.
+
+@12
+Is studying the navy interesting?
+
+@13
+Every day brings a new discovery!
+
+@14
+If you like, why not study the navy with me? I can introduce you to Katsu-sensei.
+
+@15
+Yes, please\nNo, thank you
+
+@16
+I will pass this time.
+
+@17
+No need to hold back.
+
+@18
+The more friends the better, so why not study together?
+
+@19
+Yes, please\nNo, thank you
+
+@20
+Thank you, but...
+
+@21
+Oh, what a shame.
+
+@22
+Please invite me again some other time.
+
+@24
+Then I must go and talk to Katsu-sensei right away.
+
+@25
+Please do.
+
+@26
+Leave it to me.
+
+@27
+Wander around a little while you wait.
+
+@28
+Wait for Sakamoto's report
+
+@29
+I'm late, I'm late! Katsu-sensei will be angry!
+
+@30
+Oh, he has gone...
+
+@31
+What was that about?
+
+@32
+Sorry about this.
+
+@33
+About the naval school: they say there are no seats left.
+
+@34
+Katsu-sensei says so himself, so there's nothing I can do.
+
+@35
+Oh well...
+
+@37
+Well, if it isn't S2-san.
+
+@38
+This is a shogunate facility! A good-for-nothing rōnin has no business here!
+
+@40
+Ah, Ryō-san.
+
+@41
+Katsu-sensei.
+
+@42
+Thank you for your service, sir.
+
+@43
+Ah, S2-san, isn't it?
+
+@44
+I have heard about you from Ryō-san.
+
+@45
+So this is the rōnin you told me about the other day.
+
+@46
+That's right.
+
+@47
+I am S1 M1.
+
+@48
+He looks like a fine samurai.
+
+@49
+Well, no need to stand on ceremony. Come on in.
+
+@50
+But sir, there are rules...
+
+@51
+I'm the Navy Commissioner and I'm telling you, so it's fine!
+
+@53
+Honestly, shogunate officials are far too fussy about rank and all sorts of petty things.
+
+@55
+Well, make yourself at home.
+
+@56
+Here's a sudden question: do you know why the foreigners grew strong enough to make the shogunate tremble?
+
+@57
+Well...
+
+@58
+Above all, it's the richness of their imagination, to think of building something like a Black Ship. And the industrial strength to actually pull it off.
+
+@61
+Business...
+
+@63
+A booger?
+
+@64
+Their business is large-scale trade with other countries. Britain and France are both nations grown fat on trade.
+
+@67
+So Sensei keeps telling the shogunate to trade as much as it can.
+
+@69
+Trade... I can't believe the shogunate would allow it...
+
+@70
+That's it, that's it! S2-san, you've hit the nail on the head!
+
+@72
+In a country with thriving industry, the political system lets anyone who wants to make money go and trade freely abroad.
+
+@76
+Greed is power...
+
+@77
+Don't underestimate the power of greed. Even in swordsmanship, you improve precisely because you want to become stronger than anyone else. Don't you think?
+
+@79
+The shogunate and the daimyō of today are good for nothing but pressing down on the common people and squeezing them dry.
+
+@80
+...Then perhaps the shogunate is no good.
+
+@86
+Everyone?!
+
+@93
+"Wonderful!"\n"..."
+
+@96
+Somehow we must reform the shogunate!
+
+@97
+It's odd for a shogunate retainer to say so, but clinging to the shogunate alone is a mistake.
+
+@98
+If the shogunate truly isn't needed, then it should be smashed!
+
+@100
+If that's the best thing for this country, so be it.
+
+@101
+We must overthrow the shogunate!
+
+@103
+But if the shogunate truly isn't needed, then so be it!
+
+@106
+Well, take what I've just said in your own way and look for what is best for this country.
+
+@107
+Hey, is S2-kun here?
+
+@108
+Oh, if it isn't Takasugi-san.
+
+@109
+I happened to be nearby.
+
+@110
+What brings you to Edo?
+
+@111
+There's a secret plan I have...
+
+@112
+A secret plan?
+
+@113
+Will you keep it to yourself?
+
+@114
+I will\nI'm not sure
+
+@115
+I can't promise...
+
+@117
+I'll keep it, I swear.
+
+@118
+If you don't, you won't get off lightly.
+
+@119
+A samurai does not go back on his word!
+
+@120
+Good.
+
+@121
+(Gulp.)
+
+@124
+We will burn down the foreigners' legation and cut down the minister!
+
+@127
+It is a declaration of war. If you anger foreigners, they will surely retaliate.
+
+@128
+We will force the shogunate to carry out jōi!
+
+@130
+Splendid! We must show these arrogant foreigners that some Japanese have backbone.
+
+@132
+That is reckless. Would the shogunate change its attitude over such a childish act?
+
+@135
+Well... All right, let's do it.
+
+@137
+Please look elsewhere.
+
+@139
+I have some domain business...
+
+@140
+These days every domain seems busy with lobbying.
+
+@141
+Quite so.
+
+@142
+Ha ha ha.
+
+@143
+I can't dawdle here, so I'll take my leave.
+
+@144
+Good luck with your work.
+
+@145
+Yes.
+
+@146
+Right, then. I'll come for you on the 11th.
+
+@148
+Wait for Takasugi
+
+@149
+I've come to fetch you.
+
+@150
+At last.
+
+@151
+I'm counting on you.
+
+@152
+It seems everyone is here. Let me introduce S2-kun.
+
+@158
+Is this all of us?
+
+@165
+You are well prepared.
+
+@168
+Shinagawa-kun, secure our line of retreat.
+
+@170
+Shunsuke, Monta, come! S2-kun, you know the sword, so you guard us.
+
+@171
+Understood.
+
+@172
+(I'm not that good, really...)
+
+@181
+Leave this side to me and keep working.
+
+@183
+Indeed.
+
+@189
+Monta! What have you been doing?!
+
+@190
+I thought sawdust alone would be slow to burn, so I broke up a door and brought it for kindling.
+
+@198
+And if it fails?
+
+@199
+The shogunate is no longer needed.
+
+@200
+No, for Japan it is nothing but an obstacle. Such a thing should simply be smashed.
+
+@201
+Grrraaah!
+
+@202
+Serizawa-sama, there are other guests...
+
+@203
+Silence!
+
+@204
+Landlady, do you not know who I am?
+
+@205
+Serizawa-sama, there are other guests... Aaah!
+
+@206
+Silence!
+
+@207
+Do you not know who I am?
+
+@208
+I am Serizawa Kamo of the Mito Tengu Party!
+
+@209
+I know, sir. Please, keep your voice down.
+
+@210
+Stop him\nPretend not to see
+
+@211
+(Best to keep away from danger.)
+
+@212
+(Best to keep away from danger.)
+
+@213
+Now, now. The landlady has apologised.
+
+@214
+Now, now. The proprietor has apologised.
+
+@215
+Are you making a fool of me too?!
+
+@216
+Draw! I'll show you my Shintō Munen-ryū!
+
+@217
+(This is bad.)
+
+@218
+Run away\nDraw your sword\nPersuade him sincerely
+
+@219
+Please calm down. Let's talk this over.
+
+@220
+Hey. Draw your sword!
+
+@221
+(It is not getting through at all...)
+
+@222
+Run away\nDraw your sword
+
+@223
+(I have no wish to die in a place like this.)
+
+@224
+(I have no wish to die in a place like this.)
+
+@225
+Hey, don't run!
+
+@226
+Very well, then...
+
+@227
+Sensei! What are you doing in a place like this?!
+
+@228
+Come, let's go back.
+
+@229
+Ugh...
+
+@230
+It seems it did not come to a fight.
+
+@231
+Oh, S2-kun! Won't you join us?
+
+@232
+Oh, S2-kun! Won't you join us?
+
+@233
+Oh, S2-kun! Won't you join us?
+
+@234
+Oh, S2-kun! Won't you join us?
+
+@235
+I'm sorry for the trouble Sensei caused you. Forget it and have a drink with us, won't you?
+
+@236
+Yes\nNo, thank you
+
+@237
+I have other business...
+
+@238
+I see... What a pity.
+
+@239
+Then, if I may.
+
+@240
+Zzz... zzz...
+
+@241
+He has fallen asleep...
+
+@242
+I am truly sorry about that, S2-kun.
+
+@243
+Not at all.
+
+@244
+Even so, he is in quite a rough mood.
+
+@245
+Well, there is a lot behind it.
+
+@246
+We are about to join the Rōshigumi.
+
+@247
+The Rōshigumi?
+
+@248
+For the shōgun's visit to Kyōto, they are recruiting rōshi to sweep out the sonnō-jōi rōnin who infest the capital.
+
+@249
+Kiyokawa Hachirō-dono and the shogunate retainer Yamaoka Tesshū-dono are at its centre.
+
+@250
+I see.
+
+@251
+Oh, I know. Why don't you join us?
+
+@253
+I have other business...
+
+@254
+I don't know what it is, but this will surely be more interesting!
+
+@255
+And I admire the nerve it took to draw on Sensei!
+
+@258
+I see... What a pity.
+
+@259
+I will join too!
+
+@261
+These are our comrades. I want you all to get along.
+
+@265
+I will tell Sensei when he wakes.
+
+@266
+We assemble on the 1st of next month at Denzū-in in Koishikawa.
+
+@267
+Don't be late!
+
+@268
+Go to Denzū-in in Koishikawa in the 2nd month
+
+@269
+S2-sama, you work hard every day.
+
+@270
+Once in a while, it is good to relax at a restaurant or the like.
+
+@271
+Once in a while, it is good to relax in Asakusa or the like.
+
+@274
+Sorry about this.
+

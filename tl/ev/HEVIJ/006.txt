@@ -1,0 +1,423 @@
+@0
+Shinsengumi. We're inspecting the premises.
+
+@1
+What?! How did you find this place?
+
+@3
+Hijikata Toshizō's renown rose by 50!
+
+@4
+Hirano Kuniomi has died!
+
+@5
+Excuse me.
+
+@6
+Who the hell are you lot?
+
+@7
+We are the Shinsengumi, in the service of the Protector of Kyōto!
+
+@8
+Seize them all! Cut down anyone who resists!
+
+@9
+Hijikata Toshizō's renown rose by 25!
+
+@10
+The Shinsengumi's influence rose by 1!
+
+@11
+Niimi-kun! Niimi-kun!
+
+@12
+Niimi-sensei went off alone to the Ichiriki in Gion.
+
+@13
+What, Gion? Then let's go too.
+
+@14
+Call on Niimi Nishiki at the Ichiriki in Gion.
+
+@16
+(Toshi-san... did you hear? Niimi is alone now.)
+
+@17
+(Yes.)
+
+@18
+Serizawa-sensei, please wait!
+
+@20
+I have something to say to all of you.
+
+@23
+(Toshi-san, I leave the Ichiriki to you.)
+
+@26
+Okita... this is our chance.
+
+@27
+We're going after Niimi, then?
+
+@28
+The Serizawa faction are all skilled men, not just Serizawa himself. Niimi above all has full licence in Shintō Munen-ryū. A dangerous man.
+
+@29
+So first we fill in the outer moat... is that it?
+
+@31
+Put simply, we cut them down one by one, right?!
+
+@32
+Ready? We go in.
+
+@33
+Who is it?
+
+@34
+It's me.
+
+@35
+Coming all the way here to see me. What is the meaning of this?
+
+@36
+Niimi-sensei, we ask you to make your decision.
+
+@37
+What decision?
+
+@38
+We ask that you commit seppuku here and now.
+
+@40
+Wh-what are you saying?!
+
+@41
+Please, make your decision.
+
+@42
+W-wait! What is the reason? Why must I commit seppuku? Well?!
+
+@43
+Need I spell it out? Forced loans, raising money without leave, excess in revelry, neglect of duty, unfitness to be a samurai... the list is endless.
+
+@44
+Gnnh, slander!
+
+@45
+Where are you going?
+
+@46
+To see Commander Serizawa and seek his judgement!
+
+@47
+Hold it!
+
+@51
+Damn you, you tricked me!
+
+@52
+Sensei, this is unseemly.
+
+@53
+It's useless now. Lord Matsudaira has already graciously permitted you a samurai's end.
+
+@54
+N-nngh!
+
+@55
+Niimi-sensei, please, die like a samurai.
+
+@56
+Harada-kun, you once botched your own seppuku, did you not?
+
+@57
+Help Niimi-sensei, so that the same doesn't happen to him.
+
+@59
+W-what are you doing!
+
+@60
+Sensei, this is how it's done... Pardon me!
+
+@62
+I shall act as your second.
+
+@63
+Toshi-san, you're back.
+
+@64
+Commander, I have a report.
+
+@66
+Chief Niimi Nishiki committed seppuku at the Ichiriki just now.
+
+@68
+Wh-what?!
+
+@69
+What does this mean?!
+
+@70
+It was a magnificent end.
+
+@71
+We're asking why he was ordered to commit seppuku!
+
+@72
+Unfit to be a samurai.
+
+@75
+Grr... I never gave my permission!
+
+@76
+There is no need. The corps code is absolute. Even a commander cannot bend this iron rule!
+
+@80
+From this time on, the unprecedented corps code devised by Hijikata, with seppuku for every offender, began to take effect.
+
+@81
+Its detailed rules even included a harsh clause: seppuku for a man who returns without finishing off an enemy wounded in the back.
+
+@82
+It was a code of the corps born from boiling down, to the very limit, the resolve of a samurai that long peace had let men forget.
+
+@84
+Lovely weather today.
+
+@85
+It is indeed.
+
+@86
+...Say, Father. About Shinkichi...
+
+@87
+Hm?\nWhat, that again?
+
+@90
+?\nWhat's the matter, Father... eek!
+
+@92
+(L-look!\nCome on, hurry up.)
+
+@93
+(Yes...)
+
+@95
+We don't seem to be very popular, do we?
+
+@97
+Well, it's no wonder.\nThere are men who run amok wearing this haori.
+
+@99
+Some even say, "The Mibu wolves are worse than the levy-takers."
+
+@100
+"Mibu wolves" means us?
+
+@101
+Oh, Hijikata-san, really.\nWho else could they mean but us?
+
+@104
+Toshi-san, about that matter...
+
+@105
+(Serizawa, then.)
+
+@106
+What shall we do?\nStrike tonight?
+
+@107
+Go ahead\nPlan it first
+
+@108
+Go ahead\nPlan it first
+
+@109
+Good. Let's do it.
+
+@110
+I've picked the men myself. We cannot afford to fail.
+
+@112
+Listen, this must be done in secret.\nCut down every witness.
+
+@114
+Got it!
+
+@116
+Let's go!
+
+@118
+Intruder!
+
+@119
+Hm? Kondō-dono?!
+
+@120
+What brings you all here at this hour?
+
+@121
+Commander, I'm afraid you must die.
+
+@123
+You bastards!
+
+@124
+...Fools.
+
+@125
+Very well! If you want it, I'll cut you all down together!!
+
+@126
+I don't want to lose men on our side. There is a surer way to finish him.
+
+@127
+Let's prepare today and carry it out tomorrow.
+
+@128
+Understood. Let's do that.
+
+@129
+We failed!
+
+@130
+So this is the end for us too...
+
+@131
+In the feud within the Shinsengumi, the Kondō faction failed to purge the Serizawa faction. And here Hijikata Toshizō's life comes to its end...
+
+@132
+Toshi-san, tonight is the night... I've picked the men myself.
+
+@133
+Then the rest goes as planned...
+
+@134
+Serizawa-sensei, tonight I have prepared a banquet at the Sumiya. It would please us if you and the others would join.
+
+@135
+Well, this is rare indeed.
+
+@136
+We are usually the ones invited, after all. Once in a while will do no harm.
+
+@138
+(Do you suppose they've put poison in it?)
+
+@139
+(Yes... these are Kondō and Hijikata, the men who killed Niimi-sensei.)
+
+@140
+Ha ha ha! If word got out of a poisoning in Shimabara, Kondō-kun and his men could not stay in Kyōto. They haven't the nerve. Isn't that so, Hijikata-kun?!
+
+@141
+...What are you talking about?
+
+@144
+Hey, sake, sake!
+
+@145
+Ha ha ha, truly delightful.
+
+@148
+Hey, Hirayama, drink! It's fine, there's no poison in it!
+
+@149
+If only you had a bit more guts. Your swordsmanship is sound, so you must take Niimi's place.
+
+@150
+Now, now, Commander. Hirayama-kun is a fine man. It would be no surprise if he became Chief one day.
+
+@151
+Oh, I wouldn't say...
+
+@152
+Ha ha ha, well done! Kondō-kun acknowledges your ability!
+
+@153
+Come, let's drink! Hey, Hirama! You're not drinking!
+
+@154
+No, I've had enough already. Please spare me.
+
+@155
+What a feeble fellow! Hirayama, Noguchi!
+
+@156
+Mm, I can't go on. Hic... zzz
+
+@157
+Zzz, zzz...
+
+@158
+What, passed out over this little?
+
+@159
+Here, Commander.
+
+@162
+But I must have drunk a lot without noticing... I'm getting sleepy too... yaaawn
+
+@163
+Sensei, you'll catch cold sleeping here. Come, let's go back to headquarters.
+
+@164
+Nnah? Hmm...
+
+@165
+Hijikata-kun, everyone, help me. We'll take the gentlemen along.
+
+@166
+Listen, this must be done in secret.\nCut down every witness.
+
+@168
+Got it!
+
+@170
+Let's go!
+
+@171
+(Serizawa-sensei, prepare yourself!)
+
+@172
+Ugh!
+
+@173
+Y-you bastards!
+
+@174
+Hah!
+
+@175
+Guh... d-damn it all!!
+
+@176
+Yaaaah!!
+
+@177
+Gwaah!
+
+@178
+How is it over there?!
+
+@179
+Done!
+
+@180
+Damn! Hirama is missing, he got away!
+
+@181
+It seems Noguchi did not come back to this house.
+
+@182
+Leave them be. Those two can't do anything on their own.
+
+@184
+The Shinsengumi's morale rose by 10!
+
+@185
+The Shinsengumi's morale rose by 10!
+

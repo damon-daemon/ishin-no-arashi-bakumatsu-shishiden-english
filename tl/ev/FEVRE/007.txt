@@ -1,0 +1,315 @@
+@4
+Hey, S2-kun!
+
+@5
+Hm? Oh, Katsura-san!?
+
+@9
+You have disguised yourself remarkably well.
+
+@13
+So it means war?
+
+@15
+That sounds difficult...
+
+@20
+That's Kijima-don, so strong in battle. Quite something... he's like a demon god.
+
+@24
+Patriots who grieve for the nation!\nNow is the time to give our lives for the great cause of sonnō jōi!
+
+@25
+Yūgekitai, charge!
+
+@26
+No! Kijima-dono has fallen in battle!
+
+@31
+S2-kun, you must live! I leave the rest to all of you!
+
+@42
+The battle ended in a great victory for the shogunate, but still harsher trials were to befall Chōshū.
+
+@43
+S2-san! It looks like something big is about to begin!
+
+@44
+S2-han! Chōshū has finally made its move!
+
+@45
+About half a month earlier, in Chōshū, after the news of the Ikedaya Incident had arrived...
+
+@48
+Grrrraaah!! The Shinsengumi, the Aizu villains, I will not forgive them! Prepare to march! We advance on Kyōto!!
+
+@51
+Kusaka, since when did you become such a coward!? Why hesitate now, when we can remove the traitors around the throne, Satsuma and Aizu, and set the Emperor's mind at rest!!
+
+@57
+Sitting on our hands like this will get us nowhere. To break this deadlock, whatever the outcome, we have no choice but to act.
+
+@59
+It may look like an attack on Kyōto, but what does that matter if our hearts are loyal to the Emperor?
+
+@62
+At this news the order to move out also went to the Shinsengumi, who were to take up position on the Fushimi side.
+
+@63
+The Chōshū army approached the Imperial Palace to petition the Court of its loyalty, while the anti-Chōshū coalition prepared to stop them. Now the first blows were about to fall.
+
+@75
+The vanguard under Fukuhara Echigo, Chōshū house elder, is advancing from the Fushimi side toward the Palace. It seems to be the main force, so we count on the Shinsengumi to fight bravely.
+
+@101
+The enemy is wavering! Now! Advance, advance!
+
+@107
+Hey! You there, what are you doing!?
+
+@108
+A domain soldier? Which domain are you from!?
+
+@109
+Rōnin\nAizu Domain\nKuwana Domain\nHikone Domain\nŌgaki Domain
+
+@110
+Out of the way! Move!
+
+@111
+Fool! Don't just stand there, get over here, quick!
+
+@112
+Kuwana's post is over there!
+
+@113
+Hikone's post is next to this one!
+
+@114
+Ōgaki's post is over there!
+
+@115
+The Chōshū army is in sight! All forces, charge!
+
+@116
+Hm? I do not know your face.
+
+@118
+...Well, no matter. Be off with you at once.
+
+@119
+But that splendid command just now...
+
+@120
+I will not ask your reasons. How about it? Would you care to take a stipend from our domain?
+
+@122
+It would be a waste to let your skill rot as a rōnin. I shall recommend you to the domain myself.
+
+@123
+Accept the recommendation\nDecline
+
+@124
+I am most grateful.
+
+@125
+A pity.
+
+@133
+The battle ended in a great victory for the shogunate, but still harsher trials were to befall Chōshū.
+
+@161
+The Imperial Court and the shogunate have granted prize money for the Shinsengumi's services at the Ikedaya and in the Kinmon Incident. It will be shared out according to each man's work.
+
+@166
+I'm so sorry. As you can see, we have a great many guests just now...
+
+@167
+(These are all the sandals samurai wear.)
+
+@168
+Ask about the guests\nLeave
+
+@169
+What sort of guests are they?
+
+@170
+...A gathering of the neighbours...
+
+@171
+(That answer is odd!)
+
+@172
+I see. Sorry to have troubled you.
+
+@173
+Never mind, then. I'll come another time.
+
+@174
+I am terribly sorry.
+
+@175
+Report it\nDo not report it
+
+@176
+(I am worrying too much...)
+
+@177
+(I am worrying too much...)
+
+@178
+(I had better report it, just in case.)
+
+@179
+The Hyōtei, is it...
+
+@180
+That area is a nest of loyalist rōnin, after all. It is worth looking into.
+
+@181
+Toshi-san, I leave it to you.
+
+@182
+Pardon us. Official inspection!
+
+@183
+Why, sir, there's no one suspicious here.
+
+@184
+We will search the place.
+
+@185
+(The sandals are gone!)
+
+@186
+There seems to be nothing...
+
+@187
+Thank you for your service.
+
+@189
+S-s-samurai, sirs!
+
+@190
+I knew it!
+
+@197
+Good work out here.
+
+@198
+There may still be rōnin hiding around here.
+
+@199
+We can't take our eyes off the place.
+
+@227
+Oh, pardon me.
+
+@230
+Who was that?
+
+@231
+Who knows? Some samurai or other.
+
+@232
+We've been seeing a lot of Chōshū samurai lately, though...
+
+@233
+Oh, is that so?
+
+@235
+Report it after all\nDefinitely don't report it
+
+@236
+(What good would cutting them down do...)
+
+@237
+(No more needless killing...)
+
+@238
+(I must tell Hijikata-san!)
+
+@239
+I hear Chōshū rōnin come and go at the Akebono-tei in Kiyomizu.
+
+@240
+Good work, S2-san.
+
+@241
+Sōji, Sanosuke, Gen-san, get over there!
+
+@242
+Right, leave it to me.
+
+@243
+There it is.
+
+@248
+He must be lying about who he is.
+
+@249
+Let's just cut him down.
+
+@253
+Ah, S2-san.
+
+@255
+Good timing!
+
+@256
+They say Chōshū rōnin are often seen around here.
+
+@257
+Understood. I will look into it.
+
+@258
+Good. I'm counting on you, then.
+
+@286
+S2-san, it seems Kondō-san has something to tell you.
+
+@287
+S2-han, the Commander has called an assembly.
+
+@288
+S2-san. I have been looking for you!
+
+@290
+The Commander has called an assembly. Please return at once.
+
+@301
+S2-san, may I have a word?
+
+@303
+You've done good work as an inspector. I'm grateful.
+
+@304
+It is my duty to the corps.
+
+@305
+Thanks to you, S2-san, we no longer hear rumours of Chōshū rōnin.
+
+@306
+Now that reinforcements have come from Edo, I'd like you to take on a new duty from today.
+
+@307
+A new duty?
+
+@308
+That business Kondō-san is so keen on lately: mediating in affairs of state.
+
+@309
+It doesn't interest me, but Kondō-san insists.
+
+@310
+Well, they say a lot is going on out there. You're free to leave Kyōto.
+
+@311
+Lately the wind has turned against the shogunate. Who knows what will become of the Shinsengumi.
+
+@312
+I'm counting on you.
+
+@313
+Persuade the sonnō domains to support the shogunate
+

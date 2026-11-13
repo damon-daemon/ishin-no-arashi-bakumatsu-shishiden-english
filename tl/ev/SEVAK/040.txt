@@ -1,0 +1,234 @@
+@0
+In exile in Chōshū with the other sonnō-jōi men
+
+@1
+Visit the Shōkenkaku in Mitajiri
+
+@5
+Actually, I came because I have a favour to ask.
+
+@6
+Nakaoka, and Yoshida-san. What's the matter?
+
+@8
+This is Yoshida Toshimaro-dono of Chōshū.
+
+@9
+A favour? Of me?
+
+@10
+To gather intelligence, I am looking for men to go up to Kyōto with me.
+
+@11
+To Kyōto? That's suicide!
+
+@12
+I know. But ever since the Chōshū forces were driven out of the capital, no word of the centre has reached us at all.
+
+@13
+If this goes on, Chōshū will be left behind and the Court's councils will be run by Satsuma and Aizu. The sonnō-jōi faction will surely be swept out of the whole country, root and branch.
+
+@14
+...You could get yourself killed.
+
+@15
+Of course, I am prepared for that.
+
+@16
+"Let's go"\n"..."
+
+@18
+Ryōma, we're going. Miyabe-dono and I will slip in too. It's about all we rōnin can do now.
+
+@19
+All right. Understood.
+
+@20
+Oh, thank you!
+
+@21
+We'll go up to Kyōto separately. Ryōma, we'll meet at the Tantora in Kawaramachi.
+
+@22
+Ryōma! What we feared has finally happened!
+
+@23
+Takechi-sensei has been thrown in prison!
+
+@24
+Hanpeita?!
+
+@29
+We can never go back to Tosa either. If we did, we'd be thrown in prison without a word. But we have to save Sensei somehow!
+
+@30
+If we can't go home to Tosa, there's nothing we can do...
+
+@31
+We must turn the tide in Kyōto back towards the imperial cause once more! That's the only way to save Sensei!
+
+@32
+Ah, Ryōma!
+
+@33
+Hisamoto-san!
+
+@34
+The Five Nobles are staying here. Would you like to meet Lord Sanjō too?
+
+@38
+I cannot forget the scalding we took from Satsuma and Aizu... You too must work to win back the loyalists' lost ground.
+
+@39
+Yes, my lord.
+
+@41
+Kaho-san! Have you been well?
+
+@42
+Yes... but I can't help feeling anxious.
+
+@43
+I know. But now is the time to endure.
+
+@44
+Aren't you... Sakamoto-kun?
+
+@45
+You've a good memory.
+
+@46
+I thought so! I hear the Tosa Loyalist Party is in danger too, but it seems you came through safely.
+
+@47
+And you are?
+
+@48
+Sakamoto Ryōma, who left the Tosa domain.
+
+@49
+Tosa, is it? I hear the Loyalist Party is in danger too.
+
+@50
+The fate of the Tosa gōshi hangs on the rise and fall of Chōshū.
+
+@51
+...True enough.
+
+@53
+Chōshū has been through a terrible time.
+
+@54
+So have you. I heard the story. It's a wonder you're alive.
+
+@55
+In a single morning, Satsuma and Aizu overturned Chōshū's standing.
+
+@57
+Whatever it takes, I mean to turn the tables in Kyōto.
+
+@58
+What of the court nobles who were driven from Kyōto?
+
+@59
+The sonnō-jōi nobles and the shishi who left their domains are hiding in Mitajiri.
+
+@60
+Oh, Sakamoto-kun. Gotenyama was fun, wasn't it?
+
+@61
+Well, if it isn't Sakamoto-kun. You look well.
+
+@62
+...You're taking it easy.
+
+@63
+Ha ha ha, I believe. I believe the day will come when the Kiheitai I created scatters those shogunate fools and Satsuma thieves.
+
+@64
+Until then Chōshū will not die. That isn't a wish, it's a conviction.
+
+@65
+Ryōma, you came!
+
+@66
+Many of the sonnō-jōi shishi who were in Kyōto have gathered here in Mitajiri.
+
+@67
+I am Maki Izumi.
+
+@68
+Miyabe Teizō, at your service.
+
+@69
+We rōnin have decided to form the Yūgekitai, a sonnō-jōi unit to help Chōshū. You should join it too.
+
+@70
+"Of course"\n"Wait"
+
+@71
+...I don't want to end up like the Tenchūgumi.
+
+@72
+They were unlucky. They ended up acting alone. Taking that as a lesson, we will always fight in a joint front with the Chōshū army.
+
+@74
+If Chōshū falls, we sonnō-jōi rōnin will have nowhere left to stand. We have no choice.
+
+@75
+Understood. I'll share your fate.
+
+@76
+Yes, of course I'll join.
+
+@77
+Unless we turn the Court's will back to sonnō jōi, Chōshū will be destroyed and we, rōnin who left our domains, will be wiped out.
+
+@78
+Lie low in Bōchō
+
+@81
+Actually, I came because I have a favour to ask.
+
+@82
+Nakaoka, and Yoshida-san. What's the matter?
+
+@84
+This is Yoshida Toshimaro-dono of Chōshū.
+
+@85
+A favour? Of me?
+
+@86
+To gather intelligence, I am looking for men to go up to Kyōto with me.
+
+@87
+To Kyōto? That's suicide!
+
+@88
+I know. But ever since the Chōshū forces were driven out of the capital, no word of the centre has reached us at all.
+
+@89
+If this goes on, Chōshū will be left behind and the Court's councils will be run by Satsuma and Aizu. The sonnō-jōi faction will surely be swept out of the whole country, root and branch.
+
+@90
+...You could get yourself killed.
+
+@91
+Of course, I am prepared for that.
+
+@92
+"Let's go"\n"..."
+
+@94
+Ryōma, we're going. Miyabe-dono and I will slip in too. It's about all we rōnin can do now.
+
+@95
+All right. Understood.
+
+@96
+Oh, thank you!
+
+@97
+We'll go up to Kyōto separately. Ryōma, we'll meet at the Tantora in Kawaramachi.
+

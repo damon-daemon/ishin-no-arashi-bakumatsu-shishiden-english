@@ -1,0 +1,333 @@
+@0
+Serving as Shinsengumi Vice-Commander, keeping order in Kyōto.
+
+@2
+Hey, Sōji.
+
+@3
+Yes, what is it?
+
+@4
+About the doctor's daughter...
+
+@6
+I wanted to do something to see you two together, so I went all the way to the Nakarai house to ask them for the girl.
+
+@7
+Kondō-san!
+
+@8
+But they refused. Thinking about it, he is physician to the Nishi-Hongan-ji abbot. A man of loyalist leanings from the start. You might say you fell for the daughter of the enemy.
+
+@9
+N-no, you've got it wrong.
+
+@10
+I understand how you feel, but our standing is different from theirs. Be a samurai about it and give her up cleanly.
+
+@11
+What have you done... I can never see her again.
+
+@12
+Kondō-san did it with your good in mind.
+
+@13
+It wasn't like that.\nI never meant to marry her, it wasn't like that...
+
+@14
+Kondō-san, may I have a moment?
+
+@16
+I have caught wind of some interesting information from a relative of mine in Ōsaka.
+
+@17
+Well, what is it? Out with it.
+
+@18
+But, that is...
+
+@20
+Toshi-san is my strategist. It's all right.
+
+@21
+...Very well. Then I shall tell you.
+
+@22
+It is said that rōnin who fled Tosa are gathering at a zenzai shop in Dōtonbori, Ōsaka, and plotting to set the city on fire.
+
+@23
+Oh! ...Is that certain?
+
+@24
+I was thinking of leading some men there now to find out.
+
+@25
+Hm. What do you say, Toshi-san?
+
+@26
+"Go ahead."\n"I'll go."
+
+@27
+Yes, go ahead.
+
+@28
+Then I will go.
+
+@29
+No, I'll take command.
+
+@31
+I see. I leave it to you.
+
+@32
+Go to the zenzai shop in Ōsaka
+
+@33
+Official investigation!
+
+@34
+What! Why is the Shinsengumi here?!
+
+@35
+Kindly stay quiet.
+
+@36
+Stay quiet, all of you.
+
+@37
+You bastards!
+
+@38
+We have seized letters addressed to Chōshū, and arms and ammunition!
+
+@39
+We have seized letters addressed to Chōshū, and arms and ammunition!
+
+@40
+Well done. Withdraw!
+
+@44
+Commander, I have just returned.
+
+@45
+Ah, how did it go?
+
+@46
+Most of the rōshi were away. But we cut down one Ōri Teikichi, and seized a memorial addressed to Chōshū, along with arms and ammunition.
+
+@47
+Good, well done! Take a good rest.
+
+@50
+Ah, Vice-Commander Hijikata. You are working hard at your duties.
+
+@52
+Chief Yamanami. Were you consulting Itō-sensei about something?
+
+@53
+Oh, nothing much. I was just grieving over the end of the Mito Tengu Party.
+
+@54
+The Mito Tengu Party...
+
+@55
+Do you not know? They were no hotheads out to topple the shogunate. They raised troops only to carry out jōi...
+
+@56
+Incredibly, the shogunate stripped the surrendered samurai naked, crammed them into the herring warehouses at Tsuruga, and executed several hundred as though they were cutting radishes.
+
+@58
+Among them, I hear, were several old friends of Yamanami-kun... It is truly heartbreaking.
+
+@63
+Today we're all going to play karuta. Last year's got called off. This year we should do it for fellowship and a deeper acquaintance with waka poetry.
+
+@64
+Not again...
+
+@65
+Right, let's go, Toshi-san.
+
+@67
+Commander. Forgive me, but who is reading this year...
+
+@68
+Yes, this year I've asked Takeda-kun to be the reader.\nTakeda-kun, I count on you.
+
+@69
+Yes, I shall read with all due respect.
+
+@75
+Right, we start!\nGo ahead, Takeda-kun.
+
+@76
+Yes, here we go.\nAsaborake...
+
+@77
+And so the fierce contest went on, until only a few cards remained...
+
+@78
+Now, ten cards remain. Shall we check how many each of you has taken?
+
+@79
+I have twenty-four.
+
+@80
+Wow, Yamanami-san is amazing.\nI only have sixteen.
+
+@81
+I have twenty-two.\nHeh heh... the contest is far from over.
+
+@82
+Yes, Harada-san and Hijikata-san have twelve each.\nAnd the Commander has...
+
+@83
+This is no fun.
+
+@84
+Wh... what?
+
+@85
+This is no fun.
+
+@86
+Ah, w-well then, everyone,\nlet's give it our all...
+
+@87
+This is no fun.
+
+@90
+With everyone frozen stiff, the second Karuta Tournament closed with Yamanami Keisuke as champion.
+
+@91
+Needless to say, Commander Kondō, crushed in defeat, threw a great tantrum afterwards...
+
+@92
+Hey, Hijikata-san.\nHow are you?
+
+@93
+Oh, Heisuke.\nHm? Is that a forehead guard you're polishing?
+
+@94
+Yes.\nI thought I'd give it a bit of care.
+
+@95
+Good, that's a commendable attitude. Dangerous fights will keep coming, after all.
+
+@96
+True. This thing has saved my life more than once.\nI'm not about to part with it.
+
+@97
+Well now, what are you doing chatting here...\nOh? Ah, that's Tōdō-san's prized forehead guard.
+
+@98
+Yes. What about you, don't you wear any protection?
+
+@99
+I don't use a forehead guard.\nWhen we turn out, I wear chain mail under my clothes.
+
+@100
+Chain mail...\nDoesn't it get in the way of your movement?
+
+@101
+No, I've got used to it. And I can leave my body open without worrying.
+
+@102
+Hijikata-san, do you wear anything when you turn out?
+
+@103
+"No, nothing."\n"My armour is complete."
+
+@104
+No, I don't wear anything, but...
+
+@105
+That won't do.\nIf anything happened to the Vice-Commander, it'd be a disaster.\nBetter to wear armour, I'd say.
+
+@106
+It may be meddling, but there's a shop in Shimogyō, Kitakōji Armour, that has decent goods. Why not have a look sometime?
+
+@107
+Right, I'll drop by one of these days.
+
+@108
+No, my armour is complete too.\nNo need to worry.
+
+@109
+Really? That's good, then.\nBetter safe than sorry, after all.
+
+@110
+Though with the devil's own luck Hijikata-san has, he may not need it at all.
+
+@111
+True, even the swords might get scared and flee.
+
+@112
+Hmph. Listen to you.
+
+@113
+Toshi-san, Yamanami-kun. I'd like a word with you.
+
+@114
+Toshi-san. About the corps' budget, what shall we spend it on?
+
+@122
+Hey, Toshi-san!
+
+@123
+Toshi-san, I want to talk something over with you.
+
+@124
+What is it?
+
+@125
+Well, let's not talk standing here.
+
+@126
+Yamanami-kun, do you mind?
+
+@129
+What is it?
+
+@130
+The Shinsengumi has grown, and the Mibu quarters have finally become cramped. To expand our strength further, I think we should build new headquarters and move there.
+
+@131
+Where?
+
+@132
+The grounds of Nishi-Hongan-ji.
+
+@133
+What?!
+
+@134
+Nishi-Hongan-ji has long leaned to the imperial side, and sonnō-jōi shishi seem to be sheltered there. With headquarters there, we could keep them under watch.
+
+@136
+But the monks are fiercely opposed. It's proving difficult.
+
+@137
+Please don't. It is unseemly for the Shinsengumi to squabble with mere priests.
+
+@138
+...What do you say, Toshi-san?
+
+@139
+"I favour the move."\n"I oppose the move."
+
+@140
+Watching Hongan-ji is indeed a fine idea. I shall abide by the Commander's word.
+
+@141
+Good, it's decided.
+
+@143
+The Shinsengumi's present size is enough. Yamanami-san has a point.
+
+@144
+Is that so...
+
+@145
+Oh well. Let's forget the whole matter.
+

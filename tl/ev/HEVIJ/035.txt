@@ -1,0 +1,141 @@
+@0
+Toshi-san, Toshi-san!
+
+@1
+Have you heard?! The order to punish Satsuma has finally been issued!
+
+@2
+They've shown some nerve.
+
+@3
+The suspicion that they plotted an alliance with Chōshū has come to light, and Satsuma has apparently refused entry to the shogunate's inspection party.
+
+@4
+On top of that, they flatly opposed the last Chōshū Expedition, and their smuggling came to light. That must be what angered the authorities.
+
+@5
+Well, the reasons hardly matter. It's enough that it's clear they're the enemy.
+
+@6
+Toshi-san, let's do it! Distinguish ourselves in this war, and becoming a daimyō is no dream!
+
+@8
+Satsuma is strong. Get careless and we'll be cut down.
+
+@9
+Yes! We'll make this the last battle!
+
+@10
+The time has come for this Gatling gun to spit fire.
+
+@11
+The first spear goes to the samurai of Aizu! Don't fall behind, men!
+
+@12
+Don't push yourself, sir, at your age.\nDenshūtai! Show them the secret tactics you learned from the French!
+
+@13
+This punitive army is even more impressive than the one against Chōshū.
+
+@14
+With French aid, the shogunate's victory is as good as decided. If a domain doesn't win merit here, it may be ruined at any time. Every domain is desperate.
+
+@15
+The age of fighting wars with swords will end. Perhaps this is a fitting place for the Shinsengumi to end it too.
+
+@16
+Aww, so it's all ending...
+
+@17
+Anyway, if we crush Satsuma, the shōgun's rule is safe for the time being.
+
+@18
+Though those useless hatamoto need some schooling.
+
+@19
+That's a job for us of the Shinsengumi.
+
+@20
+Good idea.
+
+@22
+Looks like I made it in time.
+
+@23
+Sōji?!
+
+@24
+How cruel, leaving me behind for such an important battle.
+
+@25
+H-how did you get here?
+
+@26
+By changing palanquins along the way.
+
+@27
+You fool! You're weak enough as it is, and you go and overdo it like this!
+
+@28
+...But.
+
+@30
+Do as you like.
+
+@31
+Toshi-san...?
+
+@32
+...We are swordsmen.
+
+@33
+How to live and how to die rests only in one's own heart.
+
+@34
+Sōji, come!
+
+@36
+Good, one more push. We'll take Kagoshima in one go!
+
+@37
+I'll leave the swordsmen's command to you, Kondō-san. From here I lead the newly raised Western-style unit.
+
+@38
+Toshi-san! That outfit...?!
+
+@39
+I thought I'd follow the shōgun's example. It suits commanding riflemen better.
+
+@40
+Ha ha ha! It suits you very well!
+
+@41
+The resistance of the Satsuma samurai and the remaining loyalist rōnin was fiercer than expected, and a hard fight of over ten days was waged.
+
+@42
+But in the end what counted was the difference in resources. The shogunate side's overwhelming numbers, naval power and transport decided the outcome.
+
+@43
+A dozen or so years after the Black Ships came, the crisis of the Tokugawa shogunate that had thrown the land into turmoil was narrowly averted.
+
+@44
+The fifteenth shōgun, Tokugawa Yoshinobu, still has a mountain of problems at home and abroad, and his road ahead is hard.
+
+@45
+Yet it is also true that the thoroughly corrupt mindset of the shogunate's retainers is gradually changing because of this upheaval.
+
+@46
+Perhaps it may be said that Japan has finally begun to wake slowly from its long sleep.
+
+@47
+The resistance of the Satsuma samurai and the remaining loyalist rōnin was fiercer than expected, and the fighting became deadlocked.
+
+@48
+Repeated punitive campaigns had drained the domains' coffers dry.
+
+@49
+In contrast, the Satsuma army, which had conserved its strength, received powerful British support and kept driving back the expeditionary force that had come such a long way, using its knowledge of the terrain.
+
+@50
+Seeing this, the Kyūshū domains finally defected, and the Satsuma Expedition turned into a proxy war between Britain and France.
+

@@ -1,0 +1,255 @@
+@0
+So the new government has finally set out to subdue Hakodate.
+
+@1
+It's come at last. What is the enemy's strength?
+
+@2
+By the scouts' report: four warships, four transports, and six thousand landing troops.
+
+@3
+We have seven warships, headed by the Kaiyō and the Kaiten. We can put up a fight.
+
+@4
+Only...
+
+@6
+The enemy flagship is the ironclad Stonewall.
+
+@8
+An ironclad?
+
+@9
+The biggest ship in Japan. They say it can smash a medium-sized steamer with a single blow.
+
+@10
+It is the monster I schemed to carry off when I escaped from Shinagawa, but never managed to. With it, Ezo's defence would have been perfect.
+
+@11
+So it fell into Satsuma and Chōshū hands...
+
+@12
+Seize it
+
+@13
+If it's such a grand ship, we may as well take it ourselves.
+
+@15
+We strike at night, while the enemy lies in port around Miyako Bay.
+
+@17
+Th-that's preposterous... It can't be done!
+
+@18
+I'm sure they think the same.
+
+@19
+But in fact, once a steamship lets its boiler fire die, it takes a terribly long time to get moving again.
+
+@20
+Hm... true.
+
+@21
+That's when we hit them. Under cover of darkness we come alongside the ironclad and cut our way aboard with the landing troops.
+
+@24
+Ha ha ha ha! What a man you are, to think up something so outrageous!
+
+@25
+Well, you've astonished me. But I like it!
+
+@26
+Enomoto-san!
+
+@27
+Let us take up that plan.
+
+@28
+B-but!
+
+@29
+Either way, against the ironclad we have no chance of winning. All we can do is gamble everything on a great reversal.
+
+@30
+I leave the command of the operation entirely to you. Please begin preparations at once.
+
+@32
+I am Kōga Gengo, the fleet commander for this raid.
+
+@33
+Right. I'm counting on you.
+
+@34
+However... a problem has arisen.
+
+@36
+The flagship Kaiyō ran aground during training and sank.
+
+@38
+And I was right there. My deepest apologies.
+
+@40
+We can't call off the operation. Carry on with the preparations.
+
+@41
+Sir.
+
+@42
+A report from the scouts. The new government fleet seems to be moving north. It looks set to enter Miyako Bay within days.
+
+@43
+Then let us go.
+
+@44
+Good luck.
+
+@45
+All ships, set sail!
+
+@46
+...What a storm.
+
+@47
+Hijikata-dono! The two ships behind us are out of sight!
+
+@48
+...Phew.
+
+@49
+Our luck is rotten through and through. But we can't let this chance slip.
+
+@50
+No matter. The raid goes ahead with the Kaiten alone!
+
+@52
+Enemy fleet sighted ahead!
+
+@53
+The officers and men still seem fast asleep.
+
+@54
+Where is the ironclad?
+
+@55
+At the far end.
+
+@56
+Stop the engines! Landing troops, all hands stand by on deck!
+
+@57
+Engines stopped! Hold your course!
+
+@60
+Bring us alongside the ironclad, broadside on!
+
+@61
+...The rudder...
+
+@62
+What is it?!
+
+@63
+The rudder won't answer! ...W-we're going to hit!
+
+@65
+E-enemy attack!!
+
+@66
+Hijikata-dono! We've been spotted!
+
+@67
+The tide of the times is a fearsome thing. Looks like luck has deserted us completely.
+
+@68
+We came alongside head-on! Only one man at a time can board like this!
+
+@69
+Nothing to be done now! Never mind, board her!
+
+@70
+We've seized the Gatling gun!
+
+@72
+Aaaargh!
+
+@74
+Surrender! Hand over the ship quietly and everyone goes free!
+
+@75
+Take the ship's guns! Fire on all the enemy around us!
+
+@76
+Damn! The Stonewall has been captured!
+
+@77
+This is no contest! We mustn't die for nothing! Retreat! Retreat!
+
+@78
+Sweep the ship! Cut down anyone who resists!
+
+@80
+The Shinsengumi obtained a Gatling gun.
+
+@81
+The Shinsengumi's morale rose by 3!
+
+@82
+What are you doing?! Fire! Why aren't you firing?!
+
+@83
+Riflemen! Aim at the officers on the enemy deck!
+
+@84
+Ugh!
+
+@85
+Guh!!
+
+@86
+Kōga-kun!!
+
+@87
+Damn...!
+
+@88
+We missed our chance! Everyone, retreat!
+
+@89
+The Shinsengumi's morale fell by 3!
+
+@90
+Return to Goryōkaku.
+
+@91
+As planned, Hijikata seized the ironclad and thwarted the imperial army's landing operation before it began.
+
+@92
+Hijikata-dono, you did it!
+
+@93
+That was a close thing.
+
+@95
+I only hope the imperial army learns its lesson and refrains from further raids...
+
+@96
+Yet, contrary to most expectations, the respite the Hakodate government gained by the victory at Miyako Bay was a mere year or so.
+
+@97
+Staking its prestige on it, the Meiji government set about the conquest of Hokkaidō in earnest.
+
+@98
+It bought two new ironclads and now outmatched Hakodate even at sea, the one field where Hakodate had held the advantage. This time, fully on guard against surprise attack, it began its advance northward.
+
+@99
+With the imperial army landing from three points, Hakodate, Matsumae and Toi, Hijikata and his men found no opening whatever, and in the end the enemy was allowed to land.
+
+@100
+It is no exaggeration to say that this defeat decided the fate of the Hakodate government.
+
+@101
+The Kaiten returned battered all over. With the Kaiyō and two other ships sunk or wrecked, the new government now outmatched Hakodate even in naval power, its only advantage.
+
+@102
+One month later...\nThe Meiji government's invasion fleet, crammed with troops, bore down on Hakodate.
+

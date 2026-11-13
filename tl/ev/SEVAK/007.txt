@@ -1,0 +1,801 @@
+@1
+Is Shūjirō in?
+
+@2
+He's out. But I think he'll be back soon.
+
+@3
+Wait\nGo home
+
+@4
+I'll come again.
+
+@5
+Yes, all right.
+
+@6
+Mind if I wait for him?
+
+@7
+Of course, come in.
+
+@8
+Here, some tea.
+
+@9
+No need to trouble yourself.
+
+@10
+...Sakamoto-sama, what was Edo like?
+
+@11
+"A lively place"\n"A dangerous place"
+
+@12
+Lively! The domain residences from all over the country and the hatamoto mansions are packed in shoulder to shoulder, and around Nihonbashi there are shops of every kind side by side.
+
+@13
+My, I'd love to go. I've never been out of Tosa.
+
+@14
+Going to Edo made me feel how stifling Tosa is. Life without the divide between upper samurai and gōshi is truly better, I found.
+
+@15
+Hmm...
+
+@16
+And so many people! Since the Black Ships came, the place has been swarming with armed samurai from every domain. Since the country opened there are fewer samurai, but prices have risen and thieves have multiplied.
+
+@17
+Oh, how frightening. Were you all right, Sakamoto-sama?
+
+@18
+Even the thieves seemed to think there was nothing worth taking off me.
+
+@19
+Hee hee, because you're so strong?
+
+@20
+Because I look so shabby.
+
+@21
+Oh, hee hee hee.
+
+@22
+Shūjirō is taking his time.
+
+@23
+You must be hungry. I'll make something, so wait here.
+
+@24
+Decline politely\nAccept the meal
+
+@25
+I'd be much obliged.
+
+@26
+No. I'll come back another time.
+
+@27
+Don't be shy. Why not stay a little longer?
+
+@28
+"Perhaps I will"\n"No, I'm going home"
+
+@29
+I think I will, then.
+
+@30
+No, I can't do that.
+
+@31
+Oh? Take care on the way home.
+
+@32
+Kaho-san, why haven't you been speaking Tosa dialect lately?
+
+@33
+...It's a secret.
+
+@34
+You sound like a young lady of some fine house.
+
+@35
+My, what a flatterer.
+
+@36
+Here, it's only whatever I had on hand.
+
+@37
+Oh, that looks delicious!
+
+@38
+Eat more slowly.
+
+@39
+Mm, mm, delicious.
+
+@40
+Dropping crumbs everywhere... like a child. Hee hee!
+
+@41
+Ah, I've eaten well.
+
+@42
+Was it to your taste?
+
+@43
+"Of course"\n"A bit bland"
+
+@44
+You cook so well, you'd make a fine wife.
+
+@45
+Hmm. Then, would you take me?
+
+@46
+Wh-what?!
+
+@47
+Hee hee, did I surprise you?
+
+@48
+Don't tease me.
+
+@49
+It's a little bland.
+
+@50
+And you were wolfing it down like that.
+
+@51
+Have a drink of sake in the meantime.
+
+@52
+You're even giving me sake?
+
+@53
+It's quite all right. Here, have a cup.
+
+@54
+Accept\nHead home soon
+
+@55
+Whoa, whoa.
+
+@56
+I've had a splendid feast. It's about time I went home.
+
+@57
+Really? Don't be shy. I don't mind at all.
+
+@58
+"Then I won't hold back"\n"No, I'm going home"
+
+@59
+If you put it that way...
+
+@60
+Here you are.
+
+@62
+No, I can't do that.
+
+@63
+I see. Well, take care.
+
+@64
+He'll surely be back while we drink.
+
+@65
+Right. ...Aah, that hits the spot!
+
+@66
+I think I'll have some too.
+
+@67
+Allow me to pour for you.
+
+@68
+Oh, how kind.
+
+@69
+Hic... still, he's not back yet.
+
+@70
+No, he doesn't... he's very late.
+
+@71
+He's not coming back today. I'm going home, hic.
+
+@72
+It's fine, you can stay here for the night.
+
+@73
+...What?!
+
+@74
+"Perhaps I will"\n"No, I'm going home"
+
+@75
+...W-well, I suppose so. Let's do that, whoops.
+
+@76
+Th-that would be bad, wouldn't it? I'm going home, whoops.
+
+@77
+You're swaying all over. ...You'll hurt yourself, so why not stay?
+
+@78
+"I suppose I must"\n"No, I'm going home!"
+
+@79
+Hmm, I suppose I have no choice. Let's do that.
+
+@80
+Nooo! I'm going home!
+
+@81
+You're no fun!
+
+@82
+It's not about fun or no fun! I'll come again.
+
+@83
+You're so unsteady. Here, hold on to me.
+
+@84
+Ah, thank you very much... up we go.
+
+@85
+Hey, where do you think you're touching!
+
+@86
+Huh? S-sorry, whoa, o-oh!
+
+@87
+Eek!
+
+@88
+Ow...
+
+@91
+Sakamoto-sama...
+
+@92
+Kaho-san...
+
+@93
+...What are you two doing?
+
+@94
+!!
+
+@95
+!!
+
+@96
+B-brother! Welcome home! You're late!
+
+@97
+O-oh, Shūjirō! I've been waiting for you all this time!
+
+@98
+Hm? I see. Sorry about that. I drank a bit too much.
+
+@99
+Oh, that's right! I was in the middle of my sewing!
+
+@100
+What, you two were drinking as well? Right, let's drink again!
+
+@101
+Didn't you say you'd had too much?
+
+@102
+I'm a true Tosa man, aren't I? Drinking at home is different. Anyway, what did you come for?
+
+@103
+...I've completely forgotten.
+
+@104
+What? Strange fellow. Well, never mind, you can still drink, can't you?
+
+@105
+Yes, I've sobered up completely.
+
+@106
+Huh?
+
+@107
+Er, never mind. Come on, let's drink!
+
+@108
+Right, I'll drink with you all night.
+
+@111
+What is it, Tora?
+
+@112
+Ryōma-san...
+
+@113
+Come to play? Oh, I have some manjū. Want one?
+
+@114
+...I'm not a child, you know.
+
+@115
+Ah, sorry, an old habit. What's wrong?
+
+@116
+...Teach me how to cut a man down.
+
+@117
+What?! Did something happen?
+
+@118
+No... it's nothing.
+
+@119
+It can't be nothing, can it?
+
+@120
+...Excuse me!
+
+@121
+Hey! Tora!
+
+@122
+Ryōma! It's terrible!
+
+@123
+Shūjirō, what is it?
+
+@124
+T-Tora... Toranoshin has cut down an upper samurai!
+
+@125
+What?!
+
+@126
+The man he cut down was Oni Yamada, the hated bully who loves tormenting gōshi.
+
+@127
+...What happened?!
+
+@128
+Yamada, in his usual way, picked a quarrel with Tora's elder brother and insulted him all he liked, they say.
+
+@129
+Tora's short-tempered brother drew his sword, and Yamada cut him down for his insolence!
+
+@130
+And when Tora heard that... he took revenge for his brother?!
+
+@131
+Yes! All the gōshi are gathered at Tora's house now!
+
+@132
+I thought Tora wasn't himself!
+
+@133
+Ah! It's Ryōma! With him we're as good as a hundred men!
+
+@134
+Hisamoto-san! Where's Tora?!
+
+@135
+Ryōma-san... I'm sorry.
+
+@136
+The upper samurai have gathered at Oni Yamada's house and are raging that they'll kill Tora!
+
+@137
+I won't let them kill Tora! It's war, war! We'll slaughter every upper samurai!
+
+@138
+Waaah! Let's repay the grudge of all these years!
+
+@139
+Whatever happens, we cannot hand Tora over!
+
+@140
+"I'll protect Tora!"\n"Calm down!"
+
+@141
+Don't worry. I swear I'll protect Tora!
+
+@142
+Exactly, avenging a family is a samurai's honour! Why must Tora be killed?
+
+@143
+Calm down!
+
+@144
+How can I calm down! Avenging a family is a samurai's honour! Why must Tora be killed?
+
+@145
+This is Tosa Domain. A gōshi is a samurai and yet no samurai. If he lays a hand on an upper samurai, he cannot live...
+
+@146
+So we're to let Tora die?!
+
+@147
+I didn't say that! But if we fight the upper samurai here, Tosa Domain will be abolished.
+
+@148
+Who cares! Better that this rotten domain were gone!
+
+@149
+Right, we're not Yamauchi's retainers!
+
+@150
+Damn it! If only Takechi were here at a time like this... What shall we do, Ryōma?
+
+@151
+"Leave it to me!"\n"Right, to war!"
+
+@152
+Leave it to me.
+
+@153
+What do you mean to do?
+
+@154
+I'll go and settle it with the upper samurai.
+
+@155
+That's reckless! The upper samurai will never be so reasonable.
+
+@156
+Yes, we won't let you go alone!
+
+@157
+That's right! If you insist on going, I'm going too!
+
+@158
+That's no different from going to start a fight!
+
+@160
+Everyone, wait here. All right?
+
+@161
+Prepare for war! Let's show the upper samurai our mettle!
+
+@162
+Hey, Ryōma! Are you serious?!
+
+@163
+All right! We'll cut and cut and cut them down!
+
+@164
+H-heh heh. I'm trembling with the thrill of battle.
+
+@165
+W-wait, please!
+
+@166
+Tora...
+
+@167
+What is it, Tora?
+
+@168
+It's my fault this has happened. I can't drag you all into it!
+
+@169
+What are you saying! You've done nothing wrong!
+
+@170
+That's right, it's Oni Yamada who was in the wrong! He deserved to die!
+
+@171
+If Tosa Domain is abolished, won't everyone who fought have to commit seppuku?
+
+@172
+We were prepared for that from the start. Before that, we'll slaughter the upper samurai!
+
+@173
+Yes... we'll do it, we'll do it.
+
+@176
+...Gah! Aaargh!!
+
+@177
+...Tora? Aaah!!
+
+@179
+T-Tora has cut open his belly!!
+
+@180
+What?!
+
+@181
+Tora! Why were you so rash!
+
+@182
+Ugh!... E-everyone... don't die... in a place like this...
+
+@183
+N-no! This is hopeless, he can't be saved!
+
+@184
+...For Japan's sake... please... work... protect this country... from the foreigners, cough!
+
+@185
+Tora! Enough! Don't talk!
+
+@186
+A world with no upper samurai... or g-gōshi... ugh, urgh, gah!
+
+@187
+...Yes! I'll do it! We'll bring down the upper samurai and the shogunate, and make a Japan where everyone can walk with his head held high!
+
+@188
+Ah...!
+
+@189
+Kurata! Act as his second! Don't let a brave man suffer any longer!
+
+@190
+Waaaah! Toraaa!
+
+@191
+Damn it all! The day the upper samurai fall will surely come! Tora, watch from the other world!!
+
+@192
+Tora...
+
+@193
+Hey, wait a moment.
+
+@194
+You there, you!
+
+@195
+Are you listening?
+
+@196
+Turn around\nIgnore them
+
+@199
+Hey! Wait!
+
+@200
+Let go!
+
+@201
+Insolent!!
+
+@202
+Your shoulder touched mine just now, didn't it?
+
+@203
+"I beg your pardon"\n"So what?"
+
+@204
+Please forgive me.
+
+@205
+You're a gōshi, aren't you? When a gōshi sees us upper samurai, it is proper that he give way. And yet even after touching shoulders you'd walk past without a bow? What do you mean by it?
+
+@206
+I'm apologising now.
+
+@207
+What did you say? Is that any attitude for an apology?
+
+@208
+Crack!!
+
+@209
+Ugh! (He hit me...)
+
+@210
+So what if I did?
+
+@211
+You're a gōshi, aren't you? When a gōshi sees us upper samurai, it is proper that he give way. And yet even after touching shoulders you'd walk past without a bow? What do you mean by it?
+
+@212
+What would you have me do?
+
+@213
+Y-you gōshi scum!
+
+@214
+Crack!!
+
+@215
+Ugh! (He hit me...)
+
+@216
+Such insolence!
+
+@217
+Thud!!
+
+@218
+...Ptui!
+
+@219
+Take off your sandals and kneel in the dirt.
+
+@220
+Huh? Can't you hear?
+
+@221
+We upper samurai can cut down a gōshi for rudeness and face no blame.
+
+@222
+Come on, grovel, grovel! Don't you value your life?
+
+@223
+Grovel\nIgnore them
+
+@224
+Please forgive me.
+
+@225
+Hey! Lower your head!
+
+@226
+Those who won't listen get this!
+
+@227
+Ha ha ha, good! Stamp on that curly head some more!
+
+@228
+A stupid gōshi has to be taught his manners hard.
+
+@229
+Quite. Fools will be fools, so we'll let it pass this once. Now be off with you!
+
+@230
+Have you no ears, you!
+
+@231
+Those who won't listen get the iron fist of justice! Take that!
+
+@232
+Too gentle! Kick him, kick him! Hyah!
+
+@233
+Ugh!
+
+@234
+Come on, it's too early for a nap.
+
+@235
+Heh heh heh. If you hate giving way so much... here!
+
+@236
+Splat
+
+@238
+Walk around with horse dung smeared on your face! Then we'll be the ones to step aside.
+
+@239
+Gya ha ha! Disgusting!
+
+@240
+Ugh, it stinks, it stinks. Enough, cutting a wretch like this would only dirty our swords.
+
+@241
+He says he forgives you. Be grateful.
+
+@242
+Ha ha ha! Ugh, what a stench.
+
+@244
+Are you all right?!
+
+@246
+Whoa! This is terrible!
+
+@247
+And who are you?
+
+@248
+Mochizuki Kameyata, a student of Takechi-sensei.
+
+@249
+Yoshimura Toratarō, likewise. What a misfortune, though.
+
+@250
+And you?
+
+@251
+Mochizuki Kameyata, a student of Takechi-sensei.
+
+@252
+What a misfortune, though.
+
+@253
+What a misfortune.
+
+@254
+I'm all right.
+
+@255
+That was Oni Yamada. A nasty fellow who's always picking quarrels with gōshi.
+
+@256
+And the young ones at his sides?
+
+@257
+Oh, Gotō and Itagaki, who were promoted by Yoshida Tōyō, the man of the hour.
+
+@258
+Gotō and Itagaki... and who is this Yoshida Tōyō?
+
+@259
+The councillor whom Lord Yōdō trusts completely. While Lord Yōdō is in Edo, he has charge of all Tosa. I hear he doesn't think of gōshi as human beings.
+
+@260
+Tosa is a stifling place.
+
+@261
+Ryōma! I'm back! Ryōma, are you there?
+
+@262
+Oh, Jaw! You're back!
+
+@263
+Huff, huff... Ryōma, it's terrible! Huff... w-water!
+
+@264
+You haven't even been home yet? There, the well's out back... what is it, why the hurry?
+
+@265
+It's grave news... glug... glug... glug... gulp, cough, cough!
+
+@266
+Ryōma! So you were here!\nI'm back!
+
+@267
+Oh, Jaw! You're back!
+
+@268
+Huff, huff... Ryōma, it's terrible!
+
+@269
+You haven't even been home yet?\n...What is it, why the hurry?
+
+@270
+I-it's grave news... terrible!\nCough, cough!
+
+@271
+Calm down, it's not like you.
+
+@272
+...The Tairō, Ii Naosuke, has been cut down by rōnin who left Mito and Satsuma!
+
+@273
+Wh-what?!
+
+@274
+...I can't believe it.
+
+@275
+No wonder. The shogunate's chief minister cut down by a dozen or so mere rōnin. Could anyone have imagined it ten years ago, or even five?
+
+@276
+The world is at last in upheaval. If the authorities can't be relied on, we must do something before the foreigners destroy Japan.
+
+@277
+Ha, ha ha, if rōnin could do such a great deed! Ha! Ryōma, I'm going to do it! I'll turn the world upside down! Wa ha ha ha!
+
+@278
+The shock of Ii's assassination ran through Japan and brought great change to the hearts of the shishi of every domain.
+
+@279
+The mighty image of the Tokugawa shogunate, until then absolute, began little by little to crumble.
+
+@280
+Yet Ryōma himself, inside the cage that was Tosa Domain, could hardly contain the passion welling up in him.
+
+@281
+In contrast to the turbulent movement of the world, the days passed uneventfully, one month and then another.
+

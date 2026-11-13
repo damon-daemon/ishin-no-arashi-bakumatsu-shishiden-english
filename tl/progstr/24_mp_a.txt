@@ -1,0 +1,292 @@
+# MP overlay, first half 8015b858-8015e744: dōjō visits, Shinsengumi / Kaientai info screens, shop and meal lines, geisha party, patrols, persuasion openers
+MP:8015b858	Sakamoto-san, forgive me, I am unwell. Spare me.
+MP:8015b890	Understood. I'll take the %s!
+MP:8015b8b4	Sakamoto-san, there is no ship free just now!
+MP:8015b8e0	Not enough money to trade!
+MP:8015b928	Sword Skill rose by %d!
+MP:8015b940	Throw him out behind the dōjō!
+MP:8015b95c	We don't take on dōjō challengers, but I'll gladly spar with you for practice.
+MP:8015b9a0	Splendid skill, I must say.
+MP:8015b9b8	Sword Skill rose by 1!
+MP:8015b9d0	Hm, today the victory is mine.
+MP:8015b9f8	Oh, the renowned swordsman %s-dono! Do give us some instruction today!
+MP:8015ba3c	You trained together and received a tip!
+MP:8015ba60	We accept no matches with other schools. Please leave.
+MP:8015ba98	If you want a match, come back when your skill has grown.
+MP:8015bacc	You lack the Drive to ask for a match!
+MP:8015baf8	Know your place! Very well, come at me.
+MP:8015bb28	Back for more? I'll beat you again!
+MP:8015bb54	You're that dōjō challenger from before! Get out!
+MP:8015bb90	Out
+MP:8015bb98	{C6}Standby{C7}
+MP:8015bbb4	%s
+MP:8015bbbc	Post
+MP:8015bbc4	Name
+MP:8015bc08	{B}Group
+MP:8015bc14	{B}Shinsengumi
+MP:8015bc20	{B}Superior
+MP:8015bc34	{B}Base
+MP:8015bc40	{B}Power
+MP:8015bc54	{B}Wealth
+MP:8015bc5c	{B}Influence
+MP:8015bc68	{B}Military
+MP:8015bc74	{B}Troops
+MP:8015bc7c	{B}Arms
+MP:8015bc84	{B}Morale
+MP:8015bc8c	{B}Kyōto Order
+MP:8015bc98	{B}%d/100
+MP:8015bca8	Trading
+MP:8015bcb8	Ships Owned
+MP:8015bcc4	Standby
+MP:8015bccc	Funds
+MP:8015bcd8	Stop Viewing
+MP:8015bce8	Shinsengumi Details
+MP:8015bcfc	Gathered Info
+MP:8015bd0c	Personnel Info
+MP:8015bd24	View Ships
+MP:8015bd34	View Members
+MP:8015bd80	Understood. S1 will go and gather information.
+MP:8015bda8	Right! S1's off to dig up some news.
+MP:8015bdc8	As you say. S1 will be off to gather information.
+MP:8015bdf4	Very well, I shall go on patrol myself.
+MP:8015be20	Right you are. S1'll go and pick up some news.
+MP:8015be48	Got it. S1's off to sniff out some news.
+MP:8015be68	Very well, leave it to me.
+MP:8015be80	Understood. S1 shall gather information.
+MP:8015bea4	All right. S1 will go and gather information.
+MP:8015bee8	Damn... no money.
+MP:8015befc	Have you money on you, sir?
+MP:8015bf20	Got any money, sir?
+MP:8015bf3c	You do have money, sir?
+MP:8015bf58	Got the coin for it, sir?
+MP:8015bf74	Got money with you, sir?
+MP:8015bf90	Got any money on you, mister?
+MP:8015bfb0	Do you have any money, sir?
+MP:8015bfcc	Understood.
+MP:8015bfdc	Right, thank you.
+MP:8015bfec	Aye, thank you.
+MP:8015bffc	Right, thanks as ever.
+MP:8015c00c	Certainly.
+MP:8015c020	Right, here's your %s!
+MP:8015c034	Yes, here's your %s!
+MP:8015c048	Yes.
+MP:8015c050	Right.
+MP:8015c058	Qing noodles are so thin and delicious.
+MP:8015c080	So this is Qing udon? Mm, delicious.
+MP:8015c0a8	Odd noodles, but good.
+MP:8015c0c8	Neither udon nor soba... but it's delicious.
+MP:8015c104	This fried dish is delicious.
+MP:8015c124	So this is Satsuma's tsukeage. Mm, delicious!
+MP:8015c150	So this is Satsuma's famous tsukeage. Oh, it's good.
+MP:8015c184	My, that's good. I could eat bowls of rice with it.
+MP:8015c1b8	"Maple" means venison, then. Mm, it's delicious.
+MP:8015c1ec	"Maple" means venison, then. Mm, it's good.
+MP:8015c21c	I had my doubts about venison, but it's delicious.
+MP:8015c24c	Ah, so this is venison. My, it's good.
+MP:8015c278	The noodles are firm and delicious.
+MP:8015c29c	What a bite these noodles have. Really satisfying.
+MP:8015c2c8	Mm, that firmness is truly Sanuki udon. Delicious.
+MP:8015c2fc	Ah, no broth, just soy sauce? My, it's good.
+MP:8015c334	No fishy smell at all, and delicious.
+MP:8015c354	Now then, hm. The flesh is firm and tasty.
+MP:8015c37c	Fresh bonito is good indeed...
+MP:8015c39c	Seared bonito is the best. Delicious!
+MP:8015c3c4	I was wary of meat, but it's delicious once tried.
+MP:8015c3fc	I never knew boar was so tasty...
+MP:8015c420	Just like a peony in bloom. A dish for the eye as well as the tongue: how profound.
+MP:8015c468	Ah, this is boar meat? My, it's good.
+MP:8015c49c	I was wary at first, but it's lighter and nicer than I thought.
+MP:8015c4d8	Pork hotpot, I'm not keen... but, mm, it's good.
+MP:8015c508	I tried it expecting the worst, but it's not bad at all.
+MP:8015c540	So this is the famous pork hotpot. Mm, it's quite good.
+MP:8015c57c	Ah, warm food settles the spirit.
+MP:8015c5ac	Ah, that warms me through...
+MP:8015c5c8	The plain taste is truly good. Rich fare is fine, but simple food has its charm.
+MP:8015c610	What, bubuzuke is just rice with hot water?
+MP:8015c638	The smell of miso is so fragrant.
+MP:8015c658	The smell of miso is wonderfully fragrant. Plain, but good.
+MP:8015c68c	Miso with fish is this good... the smell of it whets the appetite.
+MP:8015c6cc	Ah, fish baked with miso on top. The miso smells fine.
+MP:8015c708	Just the right kick. I could get used to this.
+MP:8015c728	Mm, just the right kick to whet the appetite.
+MP:8015c74c	This goes well with rice. Shall I ask for another bowl?
+MP:8015c77c	That sharp tang is irresistible. I could keep asking for more bowls.
+MP:8015c7c8	I wondered about it raw, but it's quite good.
+MP:8015c7f8	Horse meat, I'm not keen... ah, it's deeper in flavour than expected.
+MP:8015c838	Horse sashimi is rare. Mm, it's quite good.
+MP:8015c864	Horse sashimi gives one pause, but it's tasty once tried.
+MP:8015c8a0	I was wary at first, but this is delicious.
+MP:8015c8cc	Beef hotpot... oh, it's rather good.
+MP:8015c8f4	Oh, this is good. I had my doubts at first, but it's really tasty.
+MP:8015c940	So this is the famous beef hotpot... let's see... mm! Delicious!
+MP:8015c970	What a plump, lovely eel.
+MP:8015c990	This is a plump, fine eel.
+MP:8015c9b0	A plump, tasty-looking eel. A little luxury now and then is fine.
+MP:8015c9f0	What a tasty-looking eel. I can't resist.
+MP:8015ca1c	A leisurely meal like this calms the heart...
+MP:8015ca48	Every dish is superb. I can't wait for the next...
+MP:8015ca74	A little plain, perhaps, but a meal like this is good now and then.
+MP:8015cab4	A calm meal now and then is good.
+MP:8015cae4	The finest grade is delicious indeed.
+MP:8015cb00	Every topping is first-rate. A luxury now and then is good.
+MP:8015cb30	Ah, so fresh it melts away. The top grade is something else.
+MP:8015cb68	Mm, these toppings are truly the finest.
+MP:8015cb8c	Barley rice and yam, this plain taste is lovely.
+MP:8015cbb4	Barley rice and yam, this plain taste is the best.
+MP:8015cbdc	Yes, I can't forget this flavour.
+MP:8015cbfc	Ah, I could have bowls of this.
+MP:8015cc20	So this is Akita's kiritanpo. Mm, delicious.
+MP:8015cc4c	So this is Akita's kiritanpo. Mm, tasty... ouch, hot!
+MP:8015cc7c	I see, it's plain but good.
+MP:8015cca4	So this is kiritanpo hotpot. Well, I can't resist it.
+MP:8015cce8	Mm, this is truly delicious.
+MP:8015cd08	How delicious this salmon roe is...
+MP:8015cd24	Taste and texture both, it's exquisite.
+MP:8015cd4c	That popping texture is irresistible. Delicious!
+MP:8015cd88	The sea urchin melting in my mouth is delicious...
+MP:8015cdac	Sea urchin melting in the mouth with hot rice... bliss.
+MP:8015cde0	Mm, this melting taste... a true delicacy.
+MP:8015ce18	Ah, this melting taste is irresistible.
+MP:8015ce44	You got a discount!
+MP:8015ce60	Oh! Th-this is deli-i-icious!
+MP:8015ce84	Hm? A little sour... Ugh, my stomach!
+MP:8015ceb4	Merrymaking
+MP:8015cec8	Ask Hobbies
+MP:8015ced4	Have Her Pour
+MP:8015cee8	Certainly. Please wait a moment.
+MP:8015cf14	Good evening, %s-sama. What shall we do?
+MP:8015cf40	Pardon me. I am %s.
+MP:8015cf5c	You must make women cry all the time.
+MP:8015cf7c	It's a lovely night.
+MP:8015cf94	It's so unsafe round here lately.
+MP:8015cfb8	On a full-moon night... well.
+MP:8015cfcc	Indeed, quite so.
+MP:8015cfe4	Not at all.
+MP:8015cff8	Let us drink till dawn tonight!!
+MP:8015d018	Then I shall sing a song.
+MP:8015d034	Sir, how about some entertainment?
+MP:8015d05c	Pardon me. Please, make yourself at ease.
+MP:8015d094	Mmm, mumble...
+MP:8015d0ac	Hic! Have I drunk too much...
+MP:8015d0c8	Urp, I feel sick...
+MP:8015d0e0	Are you all right? You were terribly drunk last night.
+MP:8015d114	Sorry, we're not open now.
+MP:8015d140	Out
+MP:8015d148	{C6}Standby{C7}
+MP:8015d158	%s
+MP:8015d168	Post
+MP:8015d170	Name
+MP:8015d188	They are out. Cannot change.
+MP:8015d1a4	They are on orders. Cannot change.
+MP:8015d1c0	Stop Orders
+MP:8015d1cc	Change Staff
+MP:8015d1ec	Order Patrol
+MP:8015d1fc	No one assigned.
+MP:8015d228	Change Companion
+MP:8015d23c	Kameyama Shachū Info
+MP:8015d24c	Kaientai Info
+MP:8015d2b0	%s, we found %s lawless rōnin and cut them all down!
+MP:8015d2e0	%s, we found %s lawless rōnin and dealt with every one.
+MP:8015d310	%s, I have put down %s lawless rōnin!\nHa ha ha!
+MP:8015d344	%s, took care of %s lawless rōnin out there.
+MP:8015d368	%s, I've gone and cut down %s lawless rōnin!
+MP:8015d390	%s, %s lawless rōnin fell to my sword!
+MP:8015d3bc	%s, %s lawless rōnin cut down.
+MP:8015d3e0	%s, I've dealt with %s lawless rōnin!
+MP:8015d408	%s, I cut down %s lawless rōnin.
+MP:8015d43c	Well done
+MP:8015d444	The Shinsengumi's influence rose by %d!
+MP:8015d460	%s, I regret that they had already fled when we burst in...
+MP:8015d498	%s, I regret that the nest was already empty...
+MP:8015d4c8	%s, the rōnin had already fled.
+MP:8015d4ec	%s, sorry, but they'd fled before we burst in.
+MP:8015d520	%s, I'm sorry, but the nest was empty when we burst in.
+MP:8015d558	%s, a pity, but they had already fled.
+MP:8015d580	%s, the rōnin had fled and the nest was empty.
+MP:8015d5b0	%s, too bad, they'd already run off.
+MP:8015d5d8	%s, I regret there was no sign of the rōnin; they seem to have fled.
+MP:8015d610	%s, it was a shogunate spy, not a rōnin...
+MP:8015d638	%s, in truth it was a shogunate spy, not a rōnin.
+MP:8015d664	What, %s, it was a shogunate spy, not a rōnin.
+MP:8015d694	%s, what a waste of time.\nIt was a shogunate spy, not a rōnin.
+MP:8015d6d4	%s, it was a shogunate spy, not a rōnin.\nWhat a waste of time, truly.
+MP:8015d718	%s, it was a shogunate spy, not a rōnin.\nWe nearly cut down our own side.
+MP:8015d760	%s, it was no rōnin, but a shogunate spy.
+MP:8015d790	%s, turned out it was no rōnin but a shogunate spy.
+MP:8015d7b8	%s, in truth it was a shogunate spy, not a rōnin.
+MP:8015d7e4	You have no companion. Set out anyway?
+MP:8015d810	 is with you. Preparations are complete.
+MP:8015d834	Go out?
+MP:8015d844	Understood. S1 is off.
+MP:8015d860	Understood. S1 will set out.
+MP:8015d880	Right, leave it to S1.
+MP:8015d898	Got it. S1's heading out.
+MP:8015d8b4	Right you are. S1's on the way.
+MP:8015d8d4	Very well, I shall set out myself.
+MP:8015d8f4	Understood. S1 will be going.
+MP:8015d918	Right! Off goes S1!
+MP:8015d930	Understood. S1 setting out.
+MP:8015d94c	No captain is free to go.
+MP:8015d968	No unit is free to set out! Appoint a captain.
+MP:8015d99c	Go Out Myself
+MP:8015d9ac	Send a Captain
+MP:8015d9c0	Cancel Going Out
+MP:8015d9f4	%s refused to meet you.\nThey will not meet a mere gōshi, it seems.
+MP:8015da2c	It seems you cannot ask to meet %s.
+MP:8015da54	%s refused to meet you.\nYour reputation seems too poor.
+MP:8015da8c	%s refused to meet you.\nYou seem to need more renown.
+MP:8015dadc	Without a fight, no true change is born.\nI must make you understand that.
+MP:8015db2c	We must avoid pointless fighting at home now.\nI shall make you understand that.
+MP:8015db78	Shouting jōi forever changes nothing.\nI shall make you see that opening the country is unavoidable.
+MP:8015dbdc	I'd rather not hear talk of opening the country, but I shall listen.
+MP:8015dc10	Sonnō is a sound view, but I ask you to hear mine too.
+MP:8015dc48	I'd rather not hear such vulgar sabaku talk, but I shall listen.
+MP:8015dc8c	Well, let us talk over a drink.
+MP:8015dcbc	Well, if you insist, so be it.\nWe both fear for our country; let us talk it through.
+MP:8015dd08	Without one great fight, the country won't unite.\nI'll make you see that.
+MP:8015dd50	Fighting now would only please the foreigners.\nI'll make you see that.
+MP:8015dd94	Shouting "jōi, jōi" gets us nowhere now.\nYou must open your eyes wider.
+MP:8015dde0	Open the country? Preposterous!\nI'll set that thinking straight.
+MP:8015de1c	Sonnō is right enough, but in truth we still need the shogunate.
+MP:8015de5c	You still mean to lean on the shogunate?\nYou'd best change that thinking.
+MP:8015de94	Well, let's have a drink and talk it over at leisure.
+MP:8015dec4	I'm a poor talker, but if need be, I'll talk.
+MP:8015def8	Without a fight, nothing new is born.\nLet us talk that over well.
+MP:8015df3c	Pointless fighting must be avoided.\nLet us talk that over well.
+MP:8015df7c	Jōi alone will no longer do.\nYou must turn your eyes abroad, K2.
+MP:8015dfc8	We cannot accept opening the country.\nPray tell me your true mind, K2.
+MP:8015e008	Sonnō is truly sound, but hear my view too.
+MP:8015e050	Satsuma men cannot forget their loyalty to the Court.\nFirst, let me hear your sabaku view, K2.
+MP:8015e0b0	Well, shall we talk over a drink?
+MP:8015e0d8	Unless we settle it by force, Japan won't unite.\nLet me teach you that.
+MP:8015e120	Force can't solve it.\nYou'll have to understand that.
+MP:8015e154	From now on we must know the foreigners.\nLet me teach you that well.
+MP:8015e190	I'll show you that opening the country is wrong.
+MP:8015e1bc	The country can't run on sonnō alone.\nLet me teach you that well.
+MP:8015e1f4	Let me teach you we can't lean on the shogunate any more.
+MP:8015e224	Well, let's take our time and talk over a drink.
+MP:8015e254	I'm a poor talker, not much for debate, but I'll take you on.
+MP:8015e28c	Allow me to show you that moderate measures solve nothing.
+MP:8015e2c8	I shall have you understand that force must be avoided.
+MP:8015e300	Allow me to show you that rash jōi is folly.
+MP:8015e32c	Opening the country is the root of ruin.\nAllow me to show you why jōi is needed.
+MP:8015e364	We must not forget our debt to the Tokugawa.\nAllow me to show you that sonnō is mistaken.
+MP:8015e3b0	Allow me to show you the folly of leaning on the shogunate.
+MP:8015e3d8	Then let us talk at leisure over a drink.
+MP:8015e408	I am no great debater, but I shall oblige you.
+MP:8015e43c	at home
+MP:8015e444	in gaol
+MP:8015e44c	I don't understand talk of sonnō or sabaku.
+MP:8015e484	You cannot persuade a companion.
+MP:8015e4a8	I feel sluggish...\nI'm in no mood to debate.
+MP:8015e4e0	I feel sluggish...\nNot in the mood to debate.
+MP:8015e518	I feel sluggish...\nI'm not in the mood to debate.
+MP:8015e550	I feel sluggish...\nI'm not in the mood for debate.
+MP:8015e588	Over a drink,\nlet us talk of the nation.
+MP:8015e5b8	Remember our debt to the Tokugawa.\nLet me show sonnō's error.
+MP:8015e5fc	Let me show you we cannot forget loyalty to the Court.
+MP:8015e638	Opening the country? Never.\nTell me your mind, %s.
+MP:8015e670	Jōi is no longer possible.\nYou must look abroad, %s.
+MP:8015e6b8	A war now only pleases the foreigners.\nYou must see that.
+MP:8015e6fc	Without one great fight, we won't unite.\nYou must see that.
+MP:8015e744	If you wish it, so be it.\nWe both fear for Japan; let us talk.

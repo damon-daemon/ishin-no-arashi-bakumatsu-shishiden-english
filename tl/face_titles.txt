@@ -1,0 +1,293 @@
+# Short forms of card titles for the debate card face (one line of 115 px; tools/facetitle.py).
+# key<TAB>short title. Lists, the name bar and the popups keep the full title of tl/progstr.
+PROG:80010c6c	Return of Rule
+PROG:80010cbc	Shōgun Yoshinobu
+PROG:80010d10	Satchō Alliance Drive
+PROG:80010d68	Foreign Demands
+PROG:80010ddc	Anti-Shogunate Moves
+PROG:80010e1c	The Chōshū Problem
+PROG:80010e5c	Satchō Carry Out Jōi
+PROG:80010ecc	Shinsengumi in Action
+PROG:80010f18	Intrigue in Kyōto
+PROG:80010f5c	Jōi Attacks Spread
+PROG:80010f98	Rise of Sonnō-Jōi
+PROG:8001103c	National Mediation
+PROG:80011154	Court-Shogunate Union
+PROG:800111cc	Shōgun's Succession
+PROG:80011278	Reforms Everywhere
+PROG:800112d8	Treaty and Sanction
+PROG:80011328	Strife in the Domains
+PROG:80011384	The Black Ships Arrive
+PROG:800114c4	Death of Ii Naosuke
+PROG:80011534	Why Ii Was Attacked
+PROG:8001158c	Sakuradamon Incident
+PROG:800115fc	Gesshō and Saigō
+PROG:80011668	Hashimoto Beheaded
+PROG:800116c8	Sonnō-Jōi Crackdown
+PROG:80011724	Nobles Punished
+PROG:800117ac	Manabe at the Palace
+PROG:80011824	Retainers Arrested
+PROG:800118a8	Umeda Unpin Arrested
+PROG:80011918	Shoshidai to Kyōto
+PROG:8001198c	Edict; Oust Kampaku
+PROG:80011a60	The Trade Treaty
+PROG:80011aac	Ii Becomes Tairō
+PROG:80011afc	Chōshū Turns Jōi
+PROG:80011bcc	Toba-Fushimi
+PROG:80011c38	Restoration Proclaimed
+PROG:80011ce0	Anti-Shogunate Muster
+PROG:80011d48	Daimyō to Kyōto
+PROG:80011db0	Retainers Confused
+PROG:80011e74	After the Return
+PROG:80011ee8	Rule Is Returned
+PROG:80011f40	Yoshinobu's Plan
+PROG:80011f90	The Secret Order
+PROG:80011fe0	Satchō-Aki Alliance
+PROG:80012054	Satsuma-Tosa Pact
+PROG:80012130	British, French Aims
+PROG:80012184	Yoshinobu's Thinking
+PROG:800121f0	Return of Rule Drive
+PROG:800122f0	Four Lords Disband
+PROG:8001234c	Four Lords' Aim
+PROG:800123b4	Four Lords Meet
+PROG:80012420	Restorationists Fall
+PROG:80012544	Port Delay Talks
+PROG:800125b4	Gold, Silver Outflow
+PROG:800126f8	Shogunate Decree
+PROG:8001276c	Why Yokohama?
+PROG:800127d4	Yokohama Opens
+PROG:80012840	Low Ranks Resist
+PROG:800128c0	Han Leaders' Stance
+PROG:80012930	The Russian Warship
+PROG:800129f8	Tsushima's Position
+PROG:80012a44	Russians at Tsushima
+PROG:80012b78	Mistaken Views
+PROG:80012c50	No Manners at All
+PROG:80012db8	Foreigners' Strength
+PROG:80012e20	Plight of the Qing
+PROG:80012e74	Shanghai Harbour
+PROG:80012ee0	Qing and the Powers
+PROG:80012f34	Britain Seeks Markets
+PROG:80012f80	The Arrow Incident
+PROG:80012fb4	Shōzan Assassinated
+PROG:80013014	Takechi's Seppuku
+PROG:80013070	The Prince's Decree
+PROG:800130d4	Sonnō-Jōi Purges
+PROG:8001313c	Tosa Crackdown
+PROG:800131c0	Tosa Loyalist Party
+PROG:80013254	Ashikaga Statues
+PROG:800132f4	Legation Burned
+PROG:80013340	Curbing the Faction
+PROG:800133a4	Talks Collapse
+PROG:80013414	Indemnity Paid
+PROG:8001347c	A Careless View
+PROG:80013604	Effects on Domains
+PROG:8001371c	Tenchū's Targets
+PROG:800137cc	Pressure on Shogunate
+PROG:80013838	Legation Attacked
+PROG:800138ec	Flustered Shogunate
+PROG:80013948	Arrogant Foreigners
+PROG:80013994	Killings Multiply
+PROG:80013a00	Sakashitamon Incident
+PROG:80013ac4	Emperor Kōmei Dies
+PROG:80013b7c	Kyōto Still Burns
+PROG:80013c38	Ikedaya News
+PROG:80013d18	Kinmon Incident
+PROG:80013d70	Sanyo Council Ends
+PROG:80013db8	Han Oppose Closure
+PROG:80013e78	Motives for Closure
+PROG:80013f58	Yokohama Closure
+PROG:80014010	Delegation Fine Print
+PROG:80014054	Rule Delegated
+PROG:80014098	Iemochi Returns
+PROG:800140e0	Union Men in Kyōto
+PROG:80014248	Tenchūgumi Crushed
+PROG:80014354	Seven Nobles Flee
+PROG:80014434	Union Men Summoned
+PROG:80014514	Kōmei's True Intent
+PROG:80014568	Campaign Edict
+PROG:80014638	Campaign Opposed
+PROG:800146a4	Maki's Campaign Plan
+PROG:800146e8	The Campaign Plan
+PROG:80014770	Rōshigumi Returns
+PROG:800147d0	Rōshigumi Formed
+PROG:80014840	Troops Fail to Enter
+PROG:800148a0	Attack the Satchō
+PROG:8001496c	Pressing to Open
+PROG:800149c4	Curbing the Nobles
+PROG:80014a40	Army Marches West
+PROG:80014b08	Iwashimizu Procession
+PROG:80014b7c	Kamo Procession
+PROG:80014bf8	Hisamitsu Leaves
+PROG:80014cec	Delegation Order
+PROG:80014d40	Shōgun to Kyōto
+PROG:80014d84	Yoshinobu in Kyōto
+PROG:80014dd4	Jōi Order Accepted
+PROG:80014e30	Court Decides on Jōi
+PROG:80014e94	Aizu as Protector
+PROG:80014ee0	Union Men Punished
+PROG:80014fa4	Hisamitsu's Intent
+PROG:800150e0	Faction Gains Ground
+PROG:80015148	Shogunate Post Reform
+PROG:800151fc	Marriage to Kazu
+PROG:80015268	A Reckless Pledge
+PROG:80015350	Iwakura's Advice
+PROG:800153a8	Kōmei Opposes
+PROG:80015468	Rōjū Andō's Thinking
+PROG:80015534	Kazu's Marriage
+PROG:8001559c	Nagai Uta Impeached
+PROG:80015614	Chōshū's Sea Plan
+PROG:8001571c	Satsuma Turns Jōi
+PROG:800157d4	The Catfish's Curse
+PROG:80015884	Ansei Earthquake
+PROG:80015950	Powerless Shogunate
+PROG:800159fc	Letter Received
+PROG:80015a58	Steamship Mobility
+PROG:80015aa8	Black Ship Firepower
+PROG:80015b80	Ships Were Expected
+PROG:80015c48	Magistrate Ignored
+PROG:80015d80	Warning of Powers
+PROG:80015df8	Trade Refused
+PROG:80015e54	US Envoy's Visit
+PROG:80015ec8	Nariaki's Hard Line
+PROG:80015f18	Do-Nothing Shogunate
+PROG:80015f80	Dutch Warning
+PROG:80016060	Hong Kong Acquired
+PROG:80016108	Fearsome Powers
+PROG:80016180	Power of Opium
+PROG:800161f0	British Market Policy
+PROG:80016268	Response to the War
+PROG:800163a4	Satchō Alliance Made
+PROG:80016410	Folly of Rash Jōi
+PROG:80016490	Exorbitant Indemnity
+PROG:800165c4	Chōshū Crushed
+PROG:80016640	Inoue's Truce Talks
+PROG:800166c0	A Shabby Response
+PROG:80016724	British Minister's View
+PROG:800167f4	Clash with the Elite
+PROG:8001685c	Domain Readies War
+PROG:800168b8	Kiheitai Formed
+PROG:80016928	Chōshū Prepares
+PROG:80016988	Satsuma War Lesson
+PROG:80016a10	Satsuma War Ends
+PROG:80016b74	Seize British Ships
+PROG:80016be4	Satsuma War Begins
+PROG:80016c44	US, France Hit Back
+PROG:80016d00	Reporting Jōi Action
+PROG:80016d64	Foreign Ships Shelled
+PROG:80016e20	Hyōgo Sanctioned
+PROG:80016e84	Anti-Shogunate Aim
+PROG:80016fb4	Silk Monopoly Demand
+PROG:80017048	Leaning on France
+PROG:800170b0	Yokosuka Ironworks
+PROG:8001730c	No Answer to Britain
+PROG:80017390	Oguri's Plan
+PROG:80017450	Britain Aids Domains
+PROG:80017574	Unequal Treaties Set
+PROG:80017644	Satsuma at Court
+PROG:80017710	Treaty Sanctioned
+PROG:80017760	Shōgun, Don't Resign
+PROG:800177d0	Iemochi Resigns
+PROG:80017838	Hardline Rōjū Purged
+PROG:800178b8	Delay and Journey
+PROG:80017920	Yoshinobu's Exploits
+PROG:800179fc	British Policy
+PROG:80017ac4	Paris Pact Annulled
+PROG:80017c18	Closure Talks
+PROG:80017c78	Talks with France
+PROG:80017cec	Righteous Take Power
+PROG:80017da8	Tengu Punished
+PROG:80017e04	Yoshinobu's Force
+PROG:80017e60	Tengu Head West
+PROG:80017f40	Tengu Party Aims
+PROG:80018038	Iemochi Is Shōgun
+PROG:800180a0	Counter-Strike Fruit
+PROG:80018118	Hitotsubashi Hit Back
+PROG:80018184	Hitotsubashi Punished
+PROG:800181e0	Hitotsubashi Demoted
+PROG:80018230	Succession Settled
+PROG:8001829c	Lobbying Fails
+PROG:80018310	Nanki Faction Aim
+PROG:8001837c	Hitotsubashi Aim
+PROG:800183d0	Worry Over Iesada
+PROG:800184e0	Meeting Ministers
+PROG:80018548	Shogunate Grows
+PROG:800185a8	Mending Court Ties
+PROG:8001869c	Shogunate Finances
+PROG:80018710	Structural Reform
+PROG:80018768	Arms and Aid
+PROG:800187bc	Yoshinobu's Reforms
+PROG:800187fc	Yoshinobu Is Shōgun
+PROG:800188a8	Uprisings Everywhere
+PROG:80018958	Other Treaties
+PROG:800189c0	Oust Kampaku Kujō
+PROG:80018a34	Shogunate Summoned
+PROG:80018aa0	Emperor Furious
+PROG:80018b14	Signing Defied Court
+PROG:80018b88	Treaties in China
+PROG:80018c60	Treaty Terms
+PROG:80018d4c	Trade Treaty Signed
+PROG:80018dc0	Emperor Refuses
+PROG:80018ea4	Nariaki's Intrigues
+PROG:80018f18	Nobles Mostly Jōi
+PROG:80018f70	Emperor's Jōi View
+PROG:80018fe4	Sanction Intrigues
+PROG:80019050	Sanction Not Won
+PROG:800190b4	Hopes for Sanction
+PROG:80019120	Unity under Court
+PROG:80019190	Seeking Sanction
+PROG:800193c8	Harris at Edo Castle
+PROG:80019424	Treaty Talks Begin
+PROG:800194a8	Abe Masahiro Dies
+PROG:8001959c	Progressive Hotta
+PROG:80019608	Hotta Appears
+PROG:800197b4	Dutch Treaty Signed
+PROG:8001981c	British Treaty Signed
+PROG:80019890	Russian Treaty Signed
+PROG:80019904	Powers Press Treaties
+PROG:80019a60	Shogunate Stalling
+PROG:80019ac8	Kanagawa Treaty
+PROG:80019bec	Ryōma Assassinated
+PROG:80019d24	Shinsengumi Fame
+PROG:80019f20	Shinsengumi Born
+PROG:80019fe0	Shogunate Disliked
+PROG:8001a344	Second Expedition
+PROG:8001a394	Shogunate's Response
+PROG:8001a4a8	Fear of the Shogunate
+PROG:8001a544	Expedition Opposed
+PROG:8001a5ac	Expedition Sanction
+PROG:8001a604	Iemochi Marches
+PROG:8001a6a8	French-Aided War
+PROG:8001a7f4	Expedition Ends
+PROG:8001a850	Conservatives Rule
+PROG:8001a988	Conservatives' Case
+PROG:8001abc0	Shogunate Misjudges
+PROG:8001ae9c	Anti-Shogunate Plans
+PROG:8001af78	Kameyama Shachū
+PROG:8001afe4	Chōshū Arms
+PROG:8001b050	Students Abroad
+PROG:8001b128	Clash with Shogunate
+PROG:8001b274	Chōshū Revolts
+PROG:8001b2cc	Kōbe Naval School
+PROG:8001b32c	Military Reform
+PROG:8001b73c	Domain Reforms
+PROG:8001b900	Coastal Defence
+PROG:8001ba70	Mimawarigumi Traitor
+PROG:8001bb08	Deserter Robs Shops
+PROG:8001bb4c	Rōnin at Shinoya Inn
+PROG:8001bcc4	Takeda the Spy
+PROG:8001bd18	Sakamoto at Teradaya
+PROG:8001bdc0	Kusunoki a Spy?
+PROG:8001be94	Rōnin at Ogawa-tei
+PROG:8001bf34	Chōshū Men in Shimizu
+PROG:8001bff0	Fake Shinsengumi
+PROG:8001c0a4	Senbon Shaka-dō Plot
+PROG:8001c194	Chōshū's Grudge
+PROG:8001c1f8	Chōshū the Enemy
+PROG:8001c2e0	Fugitive Shishi
+PROG:8001c340	Shogunate Must Fall
+PROG:8001c568	Selling Out Japan
+PROG:8001c5e0	Strike on Domains
+PROG:8001c6a0	Satsuma's Expedition
+PROG:8001c6f8	Kinmon Grudge
+PROG:8001c7d8	Chōshū the Champion

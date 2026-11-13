@@ -1,0 +1,177 @@
+@1
+What is it?
+
+@2
+I'm going to fetch Kondō-san. Would you like to come along?
+
+@4
+Shall we go?
+
+@5
+By the way, where is Kondō-san?
+
+@6
+At his lady's place.
+
+@7
+Oh...
+
+@8
+Odd. We were supposed to meet here...
+
+@9
+This is for Itō-sensei!
+
+@10
+Abe-san... Your sword can't cut me.
+
+@11
+Curse you... Prepare yourself!
+
+@12
+So Itō's faction is after us...!
+
+@13
+Kondō-san is a target!
+
+@14
+If he's gone back ahead of us, that's bad!
+
+@16
+S2-san. Are you all right?
+
+@17
+Why did he run off without finishing you?
+
+@18
+Perhaps their real target is Kondō-san.
+
+@19
+Let's hurry back!
+
+@20
+I have other work to attend to.
+
+@21
+I see. Good luck with your work, then.
+
+@26
+S2-san! Okita-san has been attacked by an assassin!
+
+@28
+What about Okita-san? Was he cut down?
+
+@50
+Are you all right, Kondō-san?
+
+@53
+I know this is an emergency, but on no account must you push yourself and move about.
+
+@74
+And in that moment, the Shinsengumi, the strongest band of swordsmen in the Bakumatsu, vanished from history...
+
+@89
+Yamazaki-kun, who was wounded, has suddenly taken a turn for the worse!
+
+@92
+Ah, Kondō-han, Hijikata-han... S2-han...
+
+@101
+Japan, however, splits into shogunate and loyalist camps and plunges into a quagmire of civil war lasting years.
+
+@102
+Which camp will win cannot be told here.
+
+@103
+All that is certain is that Japan's national strength, exhausted here, would not recover for a long time.
+
+@105
+Japan, however, splits into shogunate and loyalist camps and plunges into a quagmire of civil war lasting years.
+
+@106
+Which camp will win cannot be told here.
+
+@107
+All that is certain is that Japan's national strength, exhausted here, would not recover for a long time.
+
+@109
+Japan, however, splits into shogunate and loyalist camps and plunges into a quagmire of civil war lasting years.
+
+@110
+Which camp will win cannot be told here.
+
+@111
+All that is certain is that Japan's national strength, exhausted here, would not recover for a long time.
+
+@112
+The Four Wise Lords, appointed councillors of the new government, wage a heated war of words over the future course of politics.
+
+@113
+Satsuma's Shimazu Hisamitsu, with Saigō and Ōkubo pulling the strings behind him, calls for punishing the Tokugawa, but is silenced by a single shout from Tosa's Yamauchi Yōdō...
+
+@114
+In the end, in view of the Tokugawa's real strength and the merit of this bold decision, Tokugawa Yoshinobu came to hold the seat of Sanyo to the Court.
+
+@115
+Kyōto and Ōsaka came under the Court's direct control and the Three Lords became independent in Kai and Suruga. The shogunate's lands were greatly reduced, yet the real power of the main Tokugawa house was preserved.
+
+@116
+There is no room for doubt that Japan's new order will go on to be built under the Tokugawa's leadership.
+
+@118
+Tokugawa Yoshinobu, Sanyo to the Court, still has mountains of problems at home and abroad, and his path ahead is hard.
+
+@121
+On this day, the shogunate issued the order of battle for the Satsuma Expedition.
+
+@122
+Satsuma, alarmed by Oguri's policy of subduing the great domains, publicly declared its support for the shogunate,
+
+@123
+but it came to light that it was secretly sheltering the remnants of the sonnō faction and working to stir up the other domains against the shogunate.
+
+@124
+The shogunate sent an inquiry mission to Kagoshima, but the Satsuma Domain refused it entry.
+
+@125
+Then a shogunate spy was brutally murdered, and Shōgun Yoshinobu judged that there was no room left for hesitation.
+
+@128
+On this day, the shogunate, which had been sensing signs of Satsuma's defection, issued the order of battle for the third Chōshū Expedition.
+
+@129
+Seeing that the Court manoeuvres of Ōkubo and Iwakura were not going as planned and that the lords were cold towards joining the anti-shogunate alliance, the shogunate council made a last gamble.
+
+@130
+Chōshū, utterly exhausted by the previous expedition, had no strength left to repel it.
+
+@133
+The loyalist shishi lost their refuge and were captured one after another.
+
+@135
+Shōgun Yoshinobu still has mountains of problems at home and abroad, and his path ahead is hard.
+
+@138
+Three days later, the ship anchored off Yokohama in the evening. The sick and wounded were taken into the medical institute in Yokohama, and the remaining Shinsengumi went on to Shinagawa.
+
+@139
+Renamed the Kōyō Chinbutai, they fought the new government army but were soon defeated.
+
+@140
+After returning to Edo...
+
+@141
+Kondō Isami took up position at Nagareyama, hoping for another confrontation, but was attacked by the new government army and defeated, and gave himself up. He was executed at the Itabashi execution ground.
+
+@142
+Okita Sōji's chronic consumption worsened and, despite Matsumoto Ryōjun's treatment, he ended his life at the age of 25.
+
+@143
+Nagakura Shinpachi, together with Harada Sanosuke, parted ways with Kondō and the others. He joined the old shogunate army and fought in Aizu and elsewhere, then returned to the Matsumae Domain and lived out his natural life in Hokkaidō.
+
+@144
+Saitō Hajime distinguished himself in the Boshin War as leader of the Shinsengumi. When the fighting ended he entered the Metropolitan Police and won distinction in the Satsuma Rebellion. He lived out his days in the land of Aizu.
+
+@145
+And Hijikata Toshizō joined the old shogunate fleet led by Enomoto Takeaki and fought the new government army at Goryōkaku. Advancing as if seeking a place to die, he was struck by an enemy bullet and killed.
+

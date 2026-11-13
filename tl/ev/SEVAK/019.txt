@@ -1,0 +1,258 @@
+@0
+Carrying out Katsu Kaishū's request in Fukui, Echizen
+
+@1
+Visit Mitsuoka Hachirō in Fukui
+
+@3
+Is Mitsuoka-dono at home?
+
+@4
+Yes, what can I do for you? Hm? You are...
+
+@5
+It's been a while.
+
+@6
+Ah! Katsu-dono's disciple! What brings you all the way here? ...Ah, is it about the funds for that navy?
+
+@7
+I come on Katsu Kaishū's orders. My name is Sakamoto.
+
+@8
+I am Mitsuoka, a retainer of the Fukui Domain. What brings you all the way here? ...Ah, is it about the funds for that navy?
+
+@10
+I'm sorry, but let us speak of that later. I have a guest at the moment.
+
+@11
+Oh, pay no attention to me. So you are Katsu-dono's disciple?
+
+@13
+Allow me to introduce you. This is Yokoi Shōnan-dono of the Kumamoto Domain, who has come to our domain as a financial adviser.
+
+@14
+Pleased to meet you. ...About what you were saying, the finances of this Fukui Domain are in as grave a crisis as the shogunate's.
+
+@15
+I am ashamed to say so, but if we spoke of paying for a navy that our domain doesn't even own, the other senior retainers would very likely rise up against it.
+
+@16
+Persuade\nAccept it
+
+@17
+But the only way to save Japan from this crisis is to build up a navy.
+
+@18
+Hm... That is true.
+
+@19
+A great domain like Echizen, begrudging a mere 5,000 ryō? If it means Japan is reborn, that's cheap!
+
+@20
+F-five thousand ryō?! Hmm...
+
+@21
+...I suppose so.
+
+@22
+...Then there is nothing for it but for Sakamoto-dono to ask Lord Shungaku in person.
+
+@23
+Yes, it will be difficult, I think... but we will back you.
+
+@24
+Persuade Matsudaira Yoshinaga at Fukui Castle
+
+@25
+We are busy at the moment. Samurai of other domains may not enter.
+
+@26
+I am the messenger of Katsu-dono, a shogunate retainer.
+
+@27
+No. Without the introduction of a retainer of this domain, you cannot enter.
+
+@28
+Sakamoto-dono, please come in.
+
+@29
+Then we will go too...
+
+@30
+Oh, Ryōma! It's been a long time!
+
+@31
+It has been a while, my lord. Today I have come because I have a favour to ask.
+
+@32
+My lord.
+
+@33
+What is it, Mitsuoka? ...Hm? And who is this?
+
+@34
+This is Sakamoto Ryōma-dono, Katsu-dono's disciple.
+
+@35
+Ah, so you are Sakamoto-kun. Awa-dono told me a great deal about you.
+
+@36
+Today I have come because I have a favour to ask.
+
+@37
+...Come now, drop the stiff greetings. I know. It's about money, isn't it?
+
+@39
+But you see, my domain is in difficulty too. However much it is for Japan, my retainers won't accept paying money for something that brings no direct profit to our domain.
+
+@41
+What are you saying, my lord? Far from bringing no profit, the Fukui Domain stands to make a huge fortune!
+
+@42
+A huge fortune??
+
+@43
+It is a great mistake to think a navy exists only for war. Used well, it becomes a tool that produces enormous wealth.
+
+@44
+What, enormous wealth?!
+
+@45
+(...So that's his approach!)
+
+@46
+We trade with the Black Ships! In fact, that is exactly how foreign merchants make their piles of money, isn't it?
+
+@47
+...I see!
+
+@48
+They make their money through an organisation called a company. We mean to do it that way too.
+
+@49
+A c-company...?
+
+@50
+Oh!
+
+@51
+In short, a share of the profit goes straight to the Fukui Domain as the one who put up the funds. The more we of the navy earn, the more you earn too.
+
+@52
+Even after the loan has been paid back in full?
+
+@53
+As long as the company turns a profit! By my reckoning, the Fukui Domain can go on receiving money from now on without lifting a finger!
+
+@54
+Is that true?
+
+@55
+For a mere 5,000 ryō, a pittance, Lord Shungaku can not only become the patron of the navy that saves Japan, but a very rich man in the future!
+
+@56
+...Pff! Wahahaha! Everything he says is on such a grand scale! Five thousand ryō, a pittance, he says!
+
+@57
+Heh.
+
+@58
+This is fun, Mitsuoka!
+
+@59
+Y-yes, my lord!
+
+@60
+Listening to this man, the worries of my domain seem terribly small.
+
+@61
+Then...?
+
+@62
+Very well, take your 5,000 ryō! The Echizen Fukui Domain will sink or swim together with your navy!!
+
+@63
+Thank you very much!!
+
+@64
+Splendid indeed! We weren't needed at all!
+
+@65
+Now, quickly deliver this draft to Katsu-dono.
+
+@66
+I thank you both!
+
+@67
+(By now he must be waiting impatiently at Nijō Castle.)
+
+@68
+I am sorry, but I cannot meet your expectations.
+
+@70
+We were no help to you.
+
+@71
+I feel I've let Katsu-dono down.
+
+@72
+Not at all...
+
+@73
+(By now he must be waiting impatiently at Nijō Castle...)
+
+@74
+Report to Katsu Kaishū at Nijō Castle in Kyōto
+
+@75
+Ryōma, you're back! How did it go?
+
+@76
+...Here!
+
+@77
+A draft for 5,000 ryō! You did it!
+
+@78
+Leave it to me!
+
+@79
+Yes! Now we can finally get started!
+
+@80
+Well done, Ryōma! Have a good long rest!
+
+@81
+It didn't work out...
+
+@82
+I-I see... Damn! I'll have to run around raising funds.
+
+@85
+...Ah! Manjūya!
+
+@87
+It's me. Manjūya, from the manjū shop.
+
+@88
+Chōjirō?!
+
+@89
+Yes!
+
+@90
+What's the matter?
+
+@91
+Katsu-sensei says, what are you up to? The naval school in Kōbe is ready, so come quickly.
+
+@92
+It's built already?! ...Hm? Why you, though?
+
+@93
+Heh heh, I've joined the naval school too.
+
+@94
+Is that right! Let's work at it together!
+

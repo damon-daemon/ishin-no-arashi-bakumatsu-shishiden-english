@@ -1,0 +1,396 @@
+@0
+Working to bring about the Restoration of Imperial Rule
+
+@3
+Ryōma, are you there?!
+
+@5
+I mean to make Tosa commit to overthrowing the shogunate by force. To settle this, there's one word: war. Nothing else will do!
+
+@6
+Have you a plan?
+
+@7
+Right now there are only a thousand Satsuma troops in Kyōto. Saigō says he'll bring two thousand more, but the shogunate's army will easily number over ten thousand.
+
+@8
+Of course we plan to call in Chōshū troops, but the shogunate mustn't catch wind of it. At most one or two thousand can be sent to Kyōto. We want Tosa's soldiers.
+
+@9
+But Yōdō will never agree.
+
+@10
+Itagaki Taisuke, who leads Tosa's Western-style troops, has lately swung firmly towards the loyalist cause. I'll persuade him and bring him into the anti-shogunate camp, and I want your help too.
+
+@12
+I know well how you must feel. Since you left the domain the upper samurai of Tosa have hunted you and killed your friends. But things have changed since then.
+
+@13
+Even if we shut our eyes to the feud with the Tosa gōshi, Tosa has to side with the Emperor. Itagaki understands that perfectly.
+
+@14
+For the sake of the realm, won't you set aside your private feelings?
+
+@17
+I'm counting on you.
+
+@18
+Understood, I'll persuade Itagaki. Is he in Kyōto?
+
+@19
+Yes, he should be at the domain residence in Kyōto.
+
+@20
+Persuade Itagaki Taisuke at the Tosa residence in Kyōto
+
+@21
+Ryōma, are you there?!
+
+@23
+I mean to make Tosa commit to overthrowing the shogunate by force. To settle this, there's one word: war. Nothing else will do!
+
+@24
+Have you a plan?
+
+@25
+Right now there are only a thousand Satsuma troops in Kyōto. Saigō says he'll bring two thousand more, but the shogunate's army will easily number over ten thousand.
+
+@26
+Of course we plan to call in Chōshū troops, but the shogunate mustn't catch wind of it. At most one or two thousand can be sent to Kyōto. We want Tosa's soldiers.
+
+@27
+But Yōdō will never agree.
+
+@28
+Itagaki Taisuke, who leads Tosa's Western-style troops, has lately swung firmly towards the loyalist cause. I'll persuade him and bring him into the anti-shogunate camp, and I want your help too.
+
+@30
+I know well how you must feel. Since you left the domain the upper samurai of Tosa have hunted you and killed your friends. But things have changed since then.
+
+@31
+Even if we shut our eyes to the feud with the Tosa gōshi, Tosa has to side with the Emperor. Itagaki understands that perfectly.
+
+@32
+For the sake of the realm, won't you set aside your private feelings?
+
+@35
+I'm counting on you.
+
+@36
+Understood, I'll persuade Itagaki. Is he in Kyōto?
+
+@37
+Yes, he should be at the residence.
+
+@38
+Persuade Itagaki Taisuke at the Tosa residence in Kyōto
+
+@39
+Ryōma, have you a moment?
+
+@41
+Yes.
+
+@42
+You have the Kaientai, so you're fine, but I have nothing. And I can't rely any more on Chōshū, which is hard pressed enough already.
+
+@43
+You have the Shachū, so you're fine, but I have nothing. And I can't rely any more on Chōshū, which is hard pressed enough already.
+
+@48
+The Rikuentai?
+
+@49
+An army of rōnin that supports Tosa as its land force.
+
+@50
+Even after leaving the domain, you can't quite abandon Tosa at heart.
+
+@51
+Yes. I plan to borrow Tosa's Shirakawa residence for our camp.
+
+@55
+You have ways of earning money, but the Rikuentai has none.
+
+@56
+Even if Tosa gave us money, we'd have no means of paying it back. That's no independent army.
+
+@62
+Since you've already helped so much, I have a job to ask of the Kaientai.
+
+@63
+Since you've already helped so much, I have a job to ask of the Kameyama Shachū.
+
+@65
+I want you to buy guns at Dejima in Nagasaki. Don't worry about the money: Satsuma has agreed to lend it.
+
+@66
+As your reward, 300 of those new-model guns are yours. Use them with the Kaientai when the time comes to overthrow the shogunate.
+
+@67
+As your reward, 300 of those new-model guns are yours. Use them with the Kameyama Shachū when the time comes to overthrow the shogunate.
+
+@68
+Very well.
+
+@69
+Oh, and don't forget the Satsuma-Tosa alliance.
+
+@70
+Ah, right. Itagaki is at the Tosa residence, isn't he?
+
+@74
+By the way, what became of the Satsuma-Tosa alliance?
+
+@75
+I'm on my way now. Itagaki is at the Tosa residence, isn't he?
+
+@76
+Hm, you're Sakamoto!
+
+@77
+Is Itagaki in?
+
+@78
+Itagaki?
+
+@79
+Itagaki Taisuke, who leads the Western-style troops.
+
+@80
+What?! H-how rude!
+
+@81
+Is he in or not?
+
+@82
+You fool, getting above yourself like that!
+
+@83
+Now, hold on.
+
+@84
+Itagaki-dono!
+
+@85
+...Sakamoto-san, I am Itagaki.
+
+@86
+I-Itagaki-dono!! Bowing your head to a mere gōshi... Ow!
+
+@87
+The fool is you! I'll get ready, so show him in with proper courtesy!
+
+@88
+Y-yes, sir!
+
+@89
+...(How frightening, the way the times change.)
+
+@90
+Understood. Even if Lord Yōdō shrinks back when the time comes to rise, I will send the domain troops to Kyōto on my own authority!
+
+@91
+I'm sorry. Sending the domain troops to Kyōto is difficult after all.
+
+@94
+Kawaramachi, the Ōmiya\nKawaramachi, the Suya
+
+@96
+Kawaramachi, the Suya\nFushimi, the Teradaya
+
+@98
+Hijikata-san.
+
+@99
+Tosa has come over to our side! The Satsuma-Tosa alliance is ready to be signed!
+
+@101
+Saigō and the others will attend from Satsuma, and Itagaki and the house elder Fukuoka and others from Tosa. You are to sit in with Nakaoka.
+
+@104
+Ahem.
+
+@106
+Tosa troops to Kyōto. Is that certain?
+
+@107
+Certain. If it comes to it, I'll bring them even if every man has to leave the domain.
+
+@108
+Understood. I will trust you.
+
+@110
+Persuade the moderate domains to favour war
+
+@119
+Never mind that, there'll be one soon enough. Now, load those on board right away.
+
+@121
+Oh, you bought them! I'm in your debt!
+
+@122
+It seems Fukuoka-dono of Tosa plans to merge your Kaientai and my Rikuentai and name it the "Shōtentai."
+
+@123
+It means he wants us to fly free across the open sky, not bound by Tosa, our parent domain.
+
+@124
+Oh? (Fukuoka said that...)
+
+@125
+In that case we'd have the strength of a small daimyō on land and sea.
+
+@126
+Rōnin like us, on a par with a daimyō! Hahaha, well, I never!
+
+@129
+Nakaoka. What is it?
+
+@130
+There's someone I want you to meet.
+
+@131
+Who?
+
+@133
+I see. So that man's scheming is why Kyōto's politics have suddenly tilted towards overthrowing the shogunate?
+
+@136
+Oh ho, so this is Sakamoto, the architect of the Satsuma-Chōshū Alliance?
+
+@138
+This man is my comrade, Sakamoto Ryōma.
+
+@139
+Hm, hm. And what do you want?
+
+@140
+We need a just cause to strike the shogunate. We would dearly like an edict from the Emperor.
+
+@141
+I am already discussing that with Ōkubo of Satsuma.
+
+@142
+We must hurry, or the shogunate may build up its forces. Worse, if it notices our moves and sends its main army to Kyōto, the plan will fail.
+
+@143
+I know that. Our first aim in rising at Kyōto is to take the Emperor into our keeping, become the imperial army, and draw the lords over to our side.
+
+@166
+Hijikata-san.
+
+@187
+Never mind that, there'll be one soon enough. Now, load those on board right away.
+
+@189
+Oh, you bought them! I'm in your debt!
+
+@190
+It seems Fukuoka-dono of Tosa plans to merge your Kaientai and my Rikuentai and name it the "Shōtentai."
+
+@191
+It means he wants us to fly free across the open sky, not bound by Tosa, our parent domain.
+
+@192
+Oh? (Fukuoka said that...)
+
+@193
+In that case we'd have the strength of a small daimyō on land and sea.
+
+@194
+Rōnin like us, on a par with a daimyō! Hahaha, well, I never!
+
+@196
+Ryōma! Ryōma!
+
+@197
+Nakaoka, what is it?!
+
+@198
+The secret edict to overthrow the shogunate has finally come!
+
+@201
+Yet Japan split into the pro-shogunate and loyalist camps and plunged into a civil war that dragged on in the mire for years.
+
+@205
+Hanjirō-don. Is Saigō-don here?
+
+@206
+It is finally war. We are counting on your fleet, Sakamoto-san.
+
+@207
+Saigō-don, first of all, the new government. We strike the Tokugawa on the Emperor's edict, so the anti-shogunate army must fight as the imperial army.
+
+@211
+Well now!
+
+@221
+Satsuma has four names there and Chōshū three, but the only man from Tosa in a key post is Itagaki-san.
+
+@222
+It was Satsuma and Chōshū's work that turned the tide. Naturally.
+
+@225
+...Your name is not there.
+
+@238
+It is said that at that moment Ryōma seemed a far bigger man than Saigō.
+
+@259
+He'd never imagine I'm here in Kyōto. I wonder what face he'll make when I show up after all this time. Heh heh.
+
+@283
+Ryōma. Are you really going abroad?
+
+@284
+Yes. First I must see the foreign lands that Katsu-sensei and the Satsuma and Chōshū leaders have seen, or nothing begins.
+
+@285
+I see. So Sakamoto Ryōma's rival is no longer in Japan.
+
+@287
+Hm?!
+
+@288
+Wahaha! At last I've found you, you arch-villain who defies the authorities! Give yourself up!
+
+@289
+The Shinsengumi!!
+
+@291
+Hm?!
+
+@292
+You two, I take it, are Sakamoto Ryōma and Nakaoka Shintarō. You die here!
+
+@293
+The Mimawarigumi!
+
+@295
+Hm?!
+
+@296
+Traitors who sold their hearts to the foreigners! Tenchū!
+
+@297
+Jōi patriots!
+
+@298
+And so the grand proclamation of the Restoration of Imperial Rule was finally issued.
+
+@299
+At the Battle of Toba-Fushimi the Satsuma-Chōshū-Tosa allied army showed overwhelming superiority in firepower and routed the shogunate army marching west on Kyōto.
+
+@300
+Now the imperial army, the allies swept the domains aside in a flash and finally surrounded Edo Castle. But a miraculous meeting between Saigō and Katsu averted the attack on the castle.
+
+@301
+In the Boshin War that followed, the shogunate's remnants were crushed. Thus the birth of a new government under the Emperor Meiji as absolute head of state was proclaimed.
+
+@318
+And so the grand proclamation of the Restoration of Imperial Rule was finally issued.
+
+@319
+Thus the birth of a new government under the Emperor Meiji as absolute head of state was proclaimed.
+

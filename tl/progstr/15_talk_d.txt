@@ -1,0 +1,264 @@
+# Generic conversation lines 0x8002e000-0x80030fff: arrest and pursuit, warnings, debate approach and refusal, assassins, duels, drinking
+PROG:8002e000	Nice try, K2.\nGive it up.
+PROG:8002e018	Surround him!\nDon't let him escape!
+PROG:8002e030	You cannot escape, K2.
+PROG:8002e048	H-hey, wait!
+PROG:8002e05c	Oh! How dare you flee!
+PROG:8002e078	Oh! Stay where you are!
+PROG:8002e090	H-hey, do not run!
+PROG:8002e0b0	Hey, hold it there!
+PROG:8002e0c4	Hey! Hold it right there!
+PROG:8002e0e0	Damn it, stop right there!
+PROG:8002e0fc	Hey!\nDon't let him go! Catch him!
+PROG:8002e124	Hm! Halt, I say!
+PROG:8002e138	Hey! Stop!
+PROG:8002e148	This is unseemly, K2!\nPlease come quietly.
+PROG:8002e178	No, I can't let you go here.
+PROG:8002e1a0	Not even for you, K2, can I allow that.\nCome quietly.
+PROG:8002e1d4	Excuses are useless.\nNow, submit to arrest.
+PROG:8002e200	I'm on official duty myself.\nI can't let this pass.
+PROG:8002e22c	No, I cannot overlook it today.\nPlease submit quietly.
+PROG:8002e264	Lies won't help you, K2.\nCome on, come quietly!
+PROG:8002e29c	Fool, I won't fall for that.\nSubmit quietly!
+PROG:8002e2d4	No, in the Shinsengumi's name I cannot overlook this.\nSubmit quietly!
+PROG:8002e310	No, your guilt is plain.\nI cannot let you go.
+PROG:8002e33c	Very well.\nThen go.\nBut next time, I may not be so lenient.
+PROG:8002e390	Hmm, I'll let it pass today.\nBe careful, now.
+PROG:8002e3d0	Is that so?\nThen I will trust you, K2.\nGo carefully.
+PROG:8002e410	I hardly trust you, but I shall overlook it today.\nNow go.
+PROG:8002e458	Oh, very well...\nI'll overlook it today.\nMind how you go, now.
+PROG:8002e4ac	Is that so? Today I'll believe you.\nWell, goodbye.
+PROG:8002e4f8	Is that so? Well, since it's you saying it,\nI'll believe you for today.\nTake care, then.
+PROG:8002e548	Hmm...\nYou have a glib tongue!\nEnough, go!
+PROG:8002e57c	Well, that is true...\nVery well, I shall let it pass today.
+PROG:8002e5c0	Hm...\nVery well, to avoid trouble, please go quickly.
+PROG:8002e604	If you are wanted, I cannot spare you, even you.\nPlease submit to arrest.
+PROG:8002e648	Even for you, K2, I can't let a crime go.\nSurrender like a man!
+PROG:8002e684	Even you, K2, I cannot spare if you are wanted.\nSurrender like a man, please.
+PROG:8002e6d4	K2, you are under arrest!\nMen, seize this man!
+PROG:8002e708	Not even you, K2, can be forgiven a crime.\nPlease surrender with good grace.
+PROG:8002e744	Even for you, K2, I can't forgive a crime.\nPlease give yourself up with good grace.
+PROG:8002e788	I can't let this slide, not even for you.\nCome quietly, now.
+PROG:8002e7cc	He is a wanted man.\nSeize him!
+PROG:8002e7f0	Even you, K2, I cannot forgive a crime.\nSubmit quietly.
+PROG:8002e824	Not even you, K2, can be spared if you are wanted.\nPlease surrender with good grace.
+PROG:8002e874	You are wanted.\nI'll overlook it today, so go quickly.
+PROG:8002e8b4	You're wanted, you know.\nFlee before they find you.
+PROG:8002e8ec	K2, the shogunate wants you.\nPlease flee quickly.
+PROG:8002e924	You are wanted.\nTo avoid trouble, flee quickly.
+PROG:8002e95c	K2, you're wanted.\nI'll overlook it today, so go quickly.
+PROG:8002e9a0	K2, you're wanted, you know.\nI'll overlook it today, so go quickly.
+PROG:8002e9ec	There's a warrant out for you.\nI'll overlook it today, so go quickly.\nSee you.
+PROG:8002ea3c	I'll let you go today.\nBut next time I may arrest you.
+PROG:8002ea84	You are wanted.\nI'll overlook it here, so go quickly.
+PROG:8002eacc	In fact, you are wanted.\nI'll overlook it today, so go quickly.\nWell...
+PROG:8002eb24	K2, it is dangerous to loiter in Kyōto.\nExcuse me.
+PROG:8002eb5c	K2, better not loiter around here.\nSee you.
+PROG:8002eb90	K2, it's dangerous to loiter here.\nGo carefully.
+PROG:8002ebd4	K2, it's dangerous to hang about here.
+PROG:8002ec00	K2, it's wiser not to loiter here.\nGoodbye, then.
+PROG:8002ec3c	K2, Kyōto is dangerous.\nGo carefully.
+PROG:8002ec6c	K2, it's dangerous to loiter here.\nTake care, then.
+PROG:8002eca8	I'll overlook it today, but don't hang about here so much.
+PROG:8002ecf8	We would rather you did not loiter here.\nPlease mind that in future.
+PROG:8002ed34	You'd best not loiter here.\nWell...
+PROG:8002ed6c	Oh, isn't that K2?
+PROG:8002ed88	Oh, aren't you K2?
+PROG:8002eda0	You're K2, aren't you?
+PROG:8002edb8	Oh, it was K2.
+PROG:8002edcc	Oh, so it's K2.
+PROG:8002ede0	Oh, it's K2.
+PROG:8002edf4	Oh, K2 it was, eh?
+PROG:8002ee08	Hm! So it's K2.
+PROG:8002ee20	Oh, K2 it was.
+PROG:8002ee38	Why, aren't you K2?
+PROG:8002ee5c	Then let us move somewhere suitable and talk.
+PROG:8002ee8c	Well, shall we talk at that %s?
+PROG:8002eeb0	Then let's talk somewhere suitable.
+PROG:8002eed8	Let us move somewhere suitable and talk.
+PROG:8002ef04	Then please come with me to that %s.
+PROG:8002ef30	Then shall we go to that %s?
+PROG:8002ef50	Then let's talk at that %s.
+PROG:8002ef70	Good, we'll debate at the %s.
+PROG:8002ef94	Then let us debate at the %s.
+PROG:8002efb0	Then let us talk at that %s.
+PROG:8002efd4	I won't allow such an attitude to a visitor.\nLike it or not, you'll join me.
+PROG:8002f024	Running away is unmanly, K2.
+PROG:8002f044	K2, running away won't do.\nCome, let's have a proper debate.
+PROG:8002f080	Don't think you can flee, K2.
+PROG:8002f0a0	Don't say that, keep me company.
+PROG:8002f0cc	No, I can't just back down.
+PROG:8002f0fc	I won't let you run away.\nI mean to debate to the bitter end today.
+PROG:8002f144	What are you saying!\nYou won't get away that easily.
+PROG:8002f170	No, I must ask you to join me today.
+PROG:8002f198	Don't say that, let us debate, K2!
+PROG:8002f1c8	I see. If it does not suit you, there is nothing for it.\nLet us debate another time.\nExcuse me, then.
+PROG:8002f234	How cold.\nWell, I'll come again another day.
+PROG:8002f26c	Is that so?\nVery well, I will come again.
+PROG:8002f2a0	What, you won't debate with me?\nWell, so be it. Farewell.
+PROG:8002f2e0	Is that so...\nThen another time.\nGoodbye, now.
+PROG:8002f320	Is that so? Oh well.\nThen I'll be off.
+PROG:8002f354	How cold of you.\nWell, another time, then.
+PROG:8002f388	Hmm...\nYou say you won't debate with me...\nVery well, farewell.
+PROG:8002f3c4	Hm, there's nothing for it.\nThen let us debate another time.\nFarewell.
+PROG:8002f40c	I see...\nA pity, but another time, then.
+PROG:8002f440	I see. If you are unwell, there is nothing for it. Let us debate another time.\nExcuse me, then.
+PROG:8002f4a8	What, you're unwell?\nI'll come again, so rest well.
+PROG:8002f4f0	You are unwell, K2?\nVery well, I will come again.\nTake care of yourself.
+PROG:8002f544	What, you are unwell?\nThen so be it. Rest well.
+PROG:8002f58c	You're unwell?\nThen another time.\nGoodbye, now.
+PROG:8002f5d8	Oh, you're unwell?\nI'll come again, so take care.
+PROG:8002f628	What, you're unwell?\nThen another time.\nGet some rest.
+PROG:8002f67c	What, you're ill? Then there's nothing for it.\nI'll be back, so prepare yourself!
+PROG:8002f6cc	So you are unwell, K2.\nIn that case, I will come again.\nPray take care of yourself.
+PROG:8002f728	You are unwell, I see.\nVery well, I will come again.\nTake care.
+PROG:8002f77c	Hello, K2.\nToday I have come to debate with you at length.
+PROG:8002f7b8	Hey, K2.\nI came to debate with you today.
+PROG:8002f7e0	Excuse me, K2.\nToday I came to debate with you properly.
+PROG:8002f81c	Ah, K2.\nToday I have come to debate with you.
+PROG:8002f848	Excuse me, K2.\nToday I came to debate with you.
+PROG:8002f878	Hello, K2.\nToday I came to debate with you.
+PROG:8002f8a0	Hello, K2.\nToday I came to talk with you.
+PROG:8002f8c4	Hey, K2.\nToday I'll change your mind!
+PROG:8002f8f0	Ah, K2.\nI came today to debate with you.
+PROG:8002f91c	Good day, K2.\nI came to debate with you today.
+PROG:8002f944	Pardon me, but are you K2?\nI am S1 M1.\nToday I wish to debate with you.
+PROG:8002f9a0	You're K2, then?\nI'm S1 M1.\nI came to debate with you.
+PROG:8002f9e4	You are K2?\nI am S1 M1.\nToday I have come to debate with you.
+PROG:8002fa34	You are K2?\nI am S1 M1.\nI have come to talk with you today.
+PROG:8002fa7c	You're K2, aren't you?\nI'm S1 M1.\nI came to talk with you today.
+PROG:8002fac4	You're K2, right?\nI'm S1 M1.\nI came to talk with you today.
+PROG:8002fb0c	You're K2.\nI'm S1 M1.\nI came to talk with you today.
+PROG:8002fb4c	You are K2.\nI am S1 M1.\nToday I mean to change your mind.
+PROG:8002fb9c	You are K2, I take it.\nI am S1 M1.\nI have come to debate with you, K2.
+PROG:8002fbe8	You are K2.\nI am S1 M1.\nToday I came to hear your views.
+PROG:8002fc2c	I won't let you escape!
+PROG:8002fc4c	Hold on, no escape!
+PROG:8002fc64	Hold on, I'll not let you escape!
+PROG:8002fc88	Fool, surround him!
+PROG:8002fca4	Hold on, I won't let you go!
+PROG:8002fcbc	Oh no you don't!
+PROG:8002fcd4	Fool, cut him down!
+PROG:8002fcf4	Fool, did you think you'd escape?
+PROG:8002fd14	Not so fast!
+PROG:8002fd20	Damn! Flee, coward?
+PROG:8002fd3c	Flee, coward?
+PROG:8002fd54	Hey! Flee, would you?
+PROG:8002fd70	Hey! Don't let him go!
+PROG:8002fd8c	Hey! Stop there!
+PROG:8002fda8	Damn it, stop!
+PROG:8002fdc4	Don't let him go! Cut him down!
+PROG:8002fde0	Flee, you coward!
+PROG:8002fdf4	Halt!
+PROG:8002fe08	You are K2?\nI must make you vanish.
+PROG:8002fe30	Sorry, but you must die!
+PROG:8002fe54	You are K2?\nYou must vanish.
+PROG:8002fe74	You're K2?\nYou must die!
+PROG:8002fe98	You're K2?\nSorry, but you're a dead man!
+PROG:8002fec0	So you're S2!\nYou die here!
+PROG:8002fee8	You are S2 M2?\nYour life is mine!
+PROG:8002ff08	S2? Your life is mine!
+PROG:8002ff20	Traitor who preaches opening the country!\nYou die here!
+PROG:8002ff50	Opening the country, what drivel!\nYou must die!
+PROG:8002ff88	Preaching open ports is outrageous!\nYou must vanish!
+PROG:8002ffc0	Lackey of the foreigners!\nYou must die!
+PROG:8002ffe4	Lackey of the foreigners!\nDie!
+PROG:80030004	Traitor to your country!\nI'll cut you down!
+PROG:80030028	Lackey of the foreigners!\nYou die here!
+PROG:8003004c	Traitor who preaches opening the country!\nYour life!
+PROG:80030070	Villainous rōnin!\nYou die here!
+PROG:80030098	Arch-criminal against the shogunate!\nYou must die!
+PROG:800300c4	Villainous rōnin, you must vanish!
+PROG:800300e8	Arch-criminal defying the shogunate!\nYou must die!
+PROG:80030114	Rebel against the shogunate!\nYou die!
+PROG:8003013c	Rōnin who defy the shogunate, I'll cut you down!
+PROG:80030168	Rebel! You die here!
+PROG:80030188	Arch-criminal defying the shogunate!\nYour life!
+PROG:800301ac	Dog of the shogunate!\nYou die here!
+PROG:800301d4	Lackey of the shogunate, you must die!
+PROG:800301f8	Those who harm the Court must vanish!
+PROG:80030220	Spy of the shogunate!\nYou must die!
+PROG:80030244	Tenchū!\nNo hard feelings!
+PROG:80030260	Dog of the shogunate, taste my blade!
+PROG:80030288	Tenchū!
+PROG:80030298	Dog of the shogunate!\nYour life!
+PROG:800302b4	K2, I must make you vanish.
+PROG:800302d8	Sorry, but die you must!
+PROG:800302f4	Cheeeest!
+PROG:80030304	K2! You must vanish!
+PROG:8003031c	K2! You must die!
+PROG:80030334	K2, sorry, but you die.
+PROG:80030350	S2!\nThis day will be your last!
+PROG:8003036c	Your life!
+PROG:80030378	S2! Your life!
+PROG:8003038c	W-what are you doing?
+PROG:800303a4	What d'you think you're doing?
+PROG:800303bc	What do you mean by this?
+PROG:800303d8	Damn you, what's this?
+PROG:800303f0	Ruffian!\nYou'll not get away with this!
+PROG:80030424	What is the meaning of this?
+PROG:8003043c	Insolent!\nI'll show you what a %s can do!
+PROG:80030464	What!\nYou dare say that, knowing I'm a %s?
+PROG:80030498	This is fun!\nI'll show you what a %s can do!
+PROG:800304c4	Eek! W-what are you doing?
+PROG:800304e8	Eek! Wh-what is this!
+PROG:80030508	What's the big idea?
+PROG:8003051c	W-what!\nDamn you, I'll show you what a %s can do!
+PROG:80030554	Insolent!\nI'll show this brat what a %s can do!
+PROG:80030584	Insolent!\nNow see what a %s can do!
+PROG:800305ac	W-what is this?
+PROG:800305c0	Now, shall we enjoy ourselves today, K2?
+PROG:800305e8	What, so grave, K2?\nThat's not like you.
+PROG:80030618	K2, are you unwell?\nYou look pale.
+PROG:80030658	K2, no need to be so tense.\nRelax.
+PROG:80030694	What is it, K2?\nThe privy is over there.
+PROG:800306c4	What is it, K2?\nAre you unwell?
+PROG:800306f0	What's with the scary face...\nGoing to cut me down?
+PROG:80030724	K2, what is it?\nIf anything is amiss, speak freely.
+PROG:80030764	It is a merry day indeed!\nEnjoy yourself too, K2.
+PROG:800307a0	K2!\nWhy the scary face?
+PROG:800307c8	Hm!\nForgive me, I sensed a killing intent.
+PROG:800307fc	Hey, K2.\nWhy are you fidgeting?
+PROG:80030820	Cheeeest!\nJust a bit of fighting spirit.\nHa ha ha!
+PROG:80030868	Oh, K2, what is it?\nThe privy is that way.
+PROG:800308a0	Excuse me, K2.\nI must visit the privy.
+PROG:800308d0	Excuse me...\nI was bitten by a bug.\nOh, how itchy...
+PROG:80030920	Whoa!\nWhat's with you? You look murderous.
+PROG:8003094c	Hm!\nWhat is it? Something to say?
+PROG:80030980	Hah!\nThere was a bug on you.
+PROG:800309b0	Oh, why the scary face?
+PROG:800309d8	Well, I'll join you for just one cup.
+PROG:800309fc	Well, just a little, then.
+PROG:80030a1c	Then I'll keep you company for one cup.
+PROG:80030a44	I can't drink much, but I'll join you.
+PROG:80030a74	All right, I'll join you, but just a little.
+PROG:80030a98	Then I shall join you.
+PROG:80030ab8	Hm, I don't care for sake...\nBut I'll join you today.
+PROG:80030af0	Well, I'll join you for a little.
+PROG:80030b14	Then I will join you briefly.
+PROG:80030b38	Well, drinking alone is lonely.\nI'll join you a little.
+PROG:80030b74	Hm, then I'll join you.
+PROG:80030b94	I am poor at drinking, but I shall join you.
+PROG:80030bcc	Then I will join you, K2.
+PROG:80030bf0	I only pour the sake.
+PROG:80030c0c	I can't drink sake, really.
+PROG:80030c2c	Sake is a bit...
+PROG:80030c40	I can't hold my drink.\nForgive me, no sake.
+PROG:80030c6c	No, sake goes straight to my head.\nYou go ahead, K2.
+PROG:80030c9c	I'm ashamed to say I can't drink...\nPray excuse me from sake.
+PROG:80030ce0	I do not care for sake.\nIf you wish to drink, do so yourself.
+PROG:80030d24	No, excuse me.\nI cannot drink much sake.
+PROG:80030d64	No, I'm not much of a drinker.
+PROG:80030d88	No, I can't take sake.\nSorry, drink on your own.
+PROG:80030dc4	No, I don't drink sake.
+PROG:80030de0	Forgive me, I can't hold my drink...
+PROG:80030e04	No, I am a poor drinker, excuse me.
+PROG:80030e34	K2, first a cup.\nDrink it down like a man.
+PROG:80030e6c	K2, first, do have some sake.
+PROG:80030e98	K2, first, some sake.
+PROG:80030eb4	K2, first have a cup.\nNothing like it for a frank talk.
+PROG:80030f00	Come, drink, K2.\nNothing gets said till we've had a drink.
+PROG:80030f34	K2, let's drink first.\nThen we talk at leisure.
+PROG:80030f78	Come, have some sake first.\nWe shall talk after.
+PROG:80030fac	K2, how about sake?\nDrink up, don't hold back.
+PROG:80030fe4	Come, first have a cup.

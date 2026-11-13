@@ -1,0 +1,221 @@
+# Generic conversation lines 0x80023000-0x80025fff: sparring, refusals, illness, greetings, hunger, shop tips
+PROG:80023010	Hm, I yield.\nYour skill is certainly real.
+PROG:8002303c	I yield!\nYou're every bit as good as they say, K2.
+PROG:80023060	I yield!\nYou are strong indeed.
+PROG:8002308c	I see...\nA pity, but there's nothing for it.
+PROG:800230b8	What, you won't?\nThen we'll do it another time.
+PROG:800230f0	Is that so...\nThen I shall ask again another time.
+PROG:80023124	What a pity...\nTeach me another day, pray.
+PROG:80023160	Is that so...\nThen I'll ask for a bout another time.
+PROG:80023198	Is that right...\nThen another time, please.
+PROG:800231c8	A shame, but there's nothing for it.
+PROG:800231ec	Not doing it, then?\nWell, so be it.
+PROG:80023210	Is that so...\nThen I shall ask another time.
+PROG:80023244	I see...\nThen I'll ask another time.
+PROG:80023278	Oh, that is kind of you.\nThen let us have a bout at once.
+PROG:800232b0	Right, let's begin, then.
+PROG:800232d0	Oh, I'm grateful.\nThen let us begin at once.
+PROG:80023300	Good, I'm grateful.\nLet us begin at once.
+PROG:80023330	Thank you kindly.\nThen a bout, if you please.
+PROG:8002335c	Much obliged.\nShall we start right away?
+PROG:80023384	Right, then a bout it is.
+PROG:800233b0	Good, then do not hold back.\nI shall not go easy on you either.
+PROG:800233fc	Oh, how kind.\nThen let us begin.
+PROG:8002342c	Oh, you will?\nThen let us begin right away.
+PROG:80023458	Would you teach me too?
+PROG:80023478	Well? Will you spar with me?
+PROG:800234a0	How about it? Spar with me?
+PROG:800234c8	Well? Will you instruct me?
+PROG:800234f0	Would you care to spar with me?
+PROG:80023518	How about it? Train me too?
+PROG:80023548	How about it, a bout with me?
+PROG:8002357c	Well, shall we spar?
+PROG:800235a4	Would you kindly train me?
+PROG:800235d4	Would you train me?
+PROG:80023600	I am kept %s, you see.\nI cannot speak with you.
+PROG:8002362c	I am kept %s, you see.\nI cannot speak.
+PROG:80023654	I am kept %s.\nI cannot speak with you.
+PROG:80023678	I am kept %s.\nNo talking, I'm afraid.
+PROG:800236a0	I am kept %s.\nI can't talk with you.
+PROG:800236c8	I am kept %s.\nI cannot talk with you.
+PROG:800236f4	Forgive me, I am kept %s.\nI cannot talk.
+PROG:80023724	I am kept %s, so I cannot speak with you.
+PROG:80023754	I am kept %s, so I cannot speak.
+PROG:80023784	I'm kept %s, so I can't talk.
+PROG:800237b0	Sorry, I am kept %s.\nI cannot talk.
+PROG:800237e0	I am kept %s.\nI cannot speak with you.
+PROG:80023804	I am kept %s.\nI mustn't talk much.
+PROG:80023830	I am unwell today.\nPlease forgive me, another day.
+PROG:8002386c	I feel poorly today.\nCome back another time, will you?
+PROG:800238a0	I am a bit unwell.\nLet us talk another day.
+PROG:800238dc	I am unwell, you see.\nCome another day, pray.
+PROG:80023908	I am unwell today.\nPlease excuse me.
+PROG:80023934	I'm a bit unwell...\nExcuse me for today.
+PROG:80023968	I'm a bit unwell.\nAnother time, please.
+PROG:80023998	I am unwell.\nCome back another day.
+PROG:800239c8	I am sorry, I am unwell.\nAnother day, then.
+PROG:800239fc	I'm sorry, but I'm a little unwell...
+PROG:80023a2c	You seem quite unwell, K2.\nWe cannot discuss state affairs like this.
+PROG:80023a74	You look ill.\nWe can't discuss state affairs like this.
+PROG:80023ab4	You seem unwell, K2.\nLet us discuss state affairs another day.
+PROG:80023ae8	You seem unwell, K2.\nRest first, then come back.
+PROG:80023b1c	You seem unwell, K2.\nLet us talk another day.
+PROG:80023b60	You look unwell, K2, so let's talk another day.
+PROG:80023b90	You look unwell, so let's talk another day.
+PROG:80023bc4	You seem unwell, K2.\nCome back another time.
+PROG:80023bf0	You seem unwell, K2.\nLet us speak another day.
+PROG:80023c28	You look quite unwell, K2.\nLet's meet another day.
+PROG:80023c5c	Do you know this argument, K2?
+PROG:80023c7c	By the way, do you know this argument?
+PROG:80023ca4	Ah, let me teach you this argument.
+PROG:80023ccc	Right, I'll teach you this argument.
+PROG:80023cf0	Do you know this argument, K2?
+PROG:80023d14	Ah, I shall teach you this argument.
+PROG:80023d3c	Then I'll pass on this argument.
+PROG:80023d5c	Oh, I'll teach you this argument.
+PROG:80023d7c	Oh, yes.\nLet me teach you this argument.
+PROG:80023da0	Do you know this argument, K2?
+PROG:80023dc0	Ah, do you know this argument?
+PROG:80023de0	Oh my, it's you, K2.\nWhat a surprise to meet here.\nExcuse me, then.
+PROG:80023e30	Oh, it's you, K2.\nHow odd to meet you here.\nWell, excuse me.
+PROG:80023e80	Ah, it is you, K2.\nWhat a coincidence to meet here.\nExcuse me, then.
+PROG:80023ecc	Oh? Is that you, K2?\nFancy meeting you here.\nWell, so long.
+PROG:80023f18	Ah, it is you, K2.\nQuite a coincidence, meeting here.\nI take my leave.
+PROG:80023f6c	Ah, it's you, K2, isn't it?\nQuite a coincidence, meeting here.\nWell, farewell.
+PROG:80023fb4	Ah, it's you, K2.\nA happy chance, meeting here.\nExcuse me, then.
+PROG:80023ffc	Ah, it's you, K2.\nWhat a coincidence, meeting here.\nI'll be going, then.
+PROG:80024048	Oh, it's you, K2.\nFancy running into you here.\nSee you.
+PROG:80024088	Hm, it is you, K2, is it not?\nA coincidence, meeting here.\nFarewell.
+PROG:800240cc	Ah, it is you, K2.\nA coincidence, meeting here.\nI take my leave.
+PROG:80024108	Ah, it's you, K2.\nA coincidence, meeting here. Well then...
+PROG:80024140	Oh my, it's you, K2!\nWhat luck, meeting here.\nDo come and talk to me, if you like.
+PROG:80024194	Oh my, it's you, K2!\nI was hoping to see you.\nDo come and talk to me, if you like.
+PROG:800241e0	Oh, it's you, K2.\nHow odd to meet you here.\nWell, excuse me.
+PROG:8002422c	Well, hello, K2.\nA coincidence, meeting here. Do come and talk to me if you are free. Excuse me, then.
+PROG:80024290	Well, hello there, K2!\nQuite a coincidence, this.\nCome and talk to me if you like.
+PROG:800242e4	Oh, it is you, K2.\nI shall be in the back; come and talk to me if you wish.\nI take my leave.
+PROG:80024340	Oh, it is you, K2!\nA coincidence, meeting here.\nCome and talk to me, if you wish.
+PROG:80024394	Ah, K2. What a chance.\nIf you are free, do come and talk to me.\nExcuse me, then.
+PROG:800243ec	Ah, K2. What a coincidence.\nIf you're free, come and talk to me.\nI'll be going, then.
+PROG:80024440	Hey, it's you, K2. What luck.\nCome and talk to me, if you like.\nSee you.
+PROG:80024494	Oh, K2. A rare place to meet.\nCome and talk to me, if you wish.\nFarewell.
+PROG:800244ec	Ah, K2. A coincidence indeed.\nDo come and talk to me, if you please.\nI take my leave.
+PROG:80024540	Hello, K2. A coincidence, here.\nDo come and talk to me, if you like.\nExcuse me, then.
+PROG:80024598	I am S1.\nI only wished to greet you, so I spoke up. Excuse me, then.
+PROG:800245f4	I am S1.\nI only wished to greet you, so I spoke up.\nExcuse me, then.
+PROG:80024654	I am %sS1.\nI hope you will remember me.\nExcuse me, then.
+PROG:800246b0	I'm %sS1.\nRemember me from now on.\nWell, I'll be off.
+PROG:800246fc	I am %sS1.\nI ask that you remember me.\nI take my leave.
+PROG:8002474c	I am S1.\nYou would do well to remember me.\nNow, farewell.
+PROG:80024788	I am called S1.\nPlease keep me in mind.\nExcuse me, then.
+PROG:800247dc	I am called S1.\nPlease keep me in mind.\nI'll be going, then.
+PROG:80024834	I am %sS1.\nKeep me in mind.\nWell, see you.
+PROG:80024870	Ah, I see. I am S1.\nRemember it. Farewell.
+PROG:800248b0	Pray, remember me from now on.\nExcuse me...
+PROG:800248f4	I saw you, so I thought I would greet you.\nI take my leave.
+PROG:80024948	Pardon me, are you S2-han?
+PROG:8002496c	Pardon me, K2, but it is you, is it not?
+PROG:8002499c	Excuse me, K2. It is you, isn't it?
+PROG:800249cc	Pardon me, are you S2-san?
+PROG:800249f8	Pardon me. Is that you, K2?
+PROG:80024a24	Pardon us a moment. Are you the one called S2?
+PROG:80024a54	Pardon me.\nAre you the famous S2-han?
+PROG:80024a88	Pardon me.\nAre you the famous S2-san?
+PROG:80024ab8	Pardon me, are you S2-san?
+PROG:80024ae0	Pardon me. Is it you, K2?
+PROG:80024b08	Pardon me, I am %sS1.\nYour fame goes before you, K2.
+PROG:80024b4c	Pardon me, but is it you, K2?\nHow do you do? I am %sS1.
+PROG:80024b88	I feel...\nI have had too much to drink...
+PROG:80024bbc	I feel...\nI may have drunk too much...
+PROG:80024bf0	Phew... I feel ill...\nI drank too much...
+PROG:80024c28	Phew... too much sake?\nI feel sick...
+PROG:80024c58	...Hm, a hangover.\nI am unwell today...
+PROG:80024c9c	Phew... my head aches.\nToo much to drink...
+PROG:80024cc4	...Ah, sorry, I had too much to drink...
+PROG:80024cf8	...Ah, sorry. I drank too much...\nOh, I feel sick...
+PROG:80024d3c	Phew, I feel sick...\nToo much to drink...
+PROG:80024d70	...Ah, pardon me.\nI have a hangover...
+PROG:80024da8	...Well, I drank too much.\nI still feel sick.
+PROG:80024de8	Oh... my stomach...\nDid I eat something bad?
+PROG:80024e20	My stomach...\nDid I eat something bad?
+PROG:80024e58	Ah... my belly...\nSomething disagreed with me.
+PROG:80024e90	Ow... ow...\nWhat a stomach ache...\nH-heaven help me...
+PROG:80024ecc	...Hm, my stomach is bad.\nWas it something I ate?
+PROG:80024f10	My belly... ow ow ow...\nSomething disagreed with me.
+PROG:80024f4c	...My stomach...\nSorry, something disagreed with me.
+PROG:80024f94	Ugh... ow...\nMust be food poisoning...
+PROG:80024fcc	Mm... my belly...\nSomething I ate, perhaps...
+PROG:80025000	Ugh... my belly...\nIt pains me somewhat...
+PROG:80025034	...Mm, my stomach...\nSomething I ate, perhaps...
+PROG:80025074	Oh... I'm dizzy...\nI feel unwell...
+PROG:800250a0	Oh... I'm dizzy...\nI have come over unwell.
+PROG:800250e0	Phew... I seem to have fallen ill.\nI've had chills for a while...
+PROG:80025120	Phew... I have a fever.\nI have the chills...
+PROG:80025158	...\nHm, I have a fever.\nI'm dizzy...
+PROG:80025190	Phew... my head is spinning.\nI seem to have a fever...
+PROG:800251c8	...\nAh, sorry.\nI seem to have a fever...
+PROG:80025200	...Ah, sorry.\nI seem to have a fever...
+PROG:80025238	...Ah, sorry. I went blank there...\nI may have a high fever.
+PROG:80025280	Phew, I'm dizzy...\nPerhaps a high fever...
+PROG:800252b8	...\nPardon me, I seem to have a fever...
+PROG:800252f0	...\nWell, I seem to have a fever...
+PROG:80025318	*cough* *cough*...\nSorry, my cough is bad...
+PROG:80025350	*cough* *cough*...\nSorry, my cough is bad...
+PROG:80025388	Ugh! *cough* *cough*...\nI'm fine, it's a chronic cough.
+PROG:800253cc	Gah! *cough* *cough*...\nPhew, it won't stop, and it's no cold.
+PROG:80025414	Ugh, *cough* *cough*...\nMy cough has been bad lately.
+PROG:80025450	*cough* *cough*... Phew...\nThis cough... I hope it's nothing serious.
+PROG:80025498	*cough* *cough*...\nSorry, my cough is bad.
+PROG:800254d8	Ugh! *cough* *cough*...\nMy cough has been bad lately...
+PROG:8002550c	*cough* *cough*...\nMm, my cough is bad lately.
+PROG:8002553c	Ugh, *cough* *cough*...\nPardon me, my cough is troublesome.
+PROG:80025588	*cough*... *cough*...\nAh, sorry...\nMy cough has been bad lately...
+PROG:800255cc	Ugh... my wound...\nNo, I should not push myself yet.\nSorry, but let us rest today.
+PROG:8002562c	Mm, my wound still hurts.\nLet's rest early today, K2.
+PROG:80025664	Ugh...\nNo, I'm fine.\nMy wound hurts a little.
+PROG:8002569c	Ugh! Ow...\nListen, K2, I am wounded.\nLet me rest a little.
+PROG:800256ec	Ugh... my wound pains me.\nI cannot push myself yet.
+PROG:80025734	Ow ow...\nMy wound still hurts.\nShall we rest today?
+PROG:80025770	Mm, my wound pains me.\nLet us rest today.
+PROG:800257a4	Ugh... my wound pains me.\nIt has not fully healed yet...
+PROG:800257f4	Ugh! My wound...\nMay I rest a while?
+PROG:80025834	K2, I'm worn out.\nLet us rest today...
+PROG:8002586c	K2, I am a little tired.\nI would like to rest today...
+PROG:800258b4	...K2, shall we rest today?\nI am not quite well.
+PROG:800258f8	Say, K2.\nShall we rest today?\nI'm rather tired.
+PROG:80025938	K2, let's rest today.\nI'm tired.
+PROG:80025968	Phew... I've been unwell lately.\nI must rest, or I'll collapse.
+PROG:800259ac	Ah... I'm worn out.\nCould I rest a while?\nI can't go on.
+PROG:80025a00	Phew... I'm tired.\nI may need some rest.
+PROG:80025a38	Hey, K2.\nI'm tired.\nI can't go on without rest.
+PROG:80025a70	Phew... I am weary.\nI have been rather tired lately.
+PROG:80025ab0	...Ah, I'm tired.\nI'd like a little rest.
+PROG:80025aec	I'm quite hungry...
+PROG:80025b0c	I'd like a big, tasty meal at a restaurant.
+PROG:80025b40	K2, what shall we eat?
+PROG:80025b5c	K2, I'd like a leisurely meal somewhere.
+PROG:80025b88	I'd like something tasty for once.
+PROG:80025bb0	What shall we eat today?
+PROG:80025bd0	I'd like a lavish meal for once.
+PROG:80025bf8	Let's eat well at a restaurant for once.
+PROG:80025c20	I'd like a lavish meal at a restaurant.
+PROG:80025c50	I'd like something tasty for once.
+PROG:80025c7c	I would like something tasty.
+PROG:80025ca0	I would like something tasty for once.
+PROG:80025cd0	I'd like to eat my fill of tasty food.
+PROG:80025cf8	K2, I'd like something tasty.
+PROG:80025d24	Say, K2, I am hungry.
+PROG:80025d44	We should eat hearty food and build strength.
+PROG:80025d7c	I'd like something tasty for once.
+PROG:80025da8	I'd like something in season for once.
+PROG:80025dd4	Say, K2.\nI'm hungry.\nWithout hearty food I have no strength.
+PROG:80025e14	What shall we eat today...
+PROG:80025e30	I am quite hungry.
+PROG:80025e4c	By the way, near here there is %s, a %s.
+PROG:80025e7c	Oh, I hear there's %s, a %s, near here.
+PROG:80025eac	By the way, near here there is %s, a famous %s.
+PROG:80025ee0	Say, K2.\nSeems there's %s near here, a famous %s.
+PROG:80025f18	K2, they say there is %s, a %s, near here.
+PROG:80025f48	Say, K2.\nIt seems there is %s, a %s, near here.\nI should like to see it.
+PROG:80025f90	By the way, near here there is %s, a famous %s.
+PROG:80025fc8	Oh, did you know there is %s, a %s, near here?\nWhy not go and pay respects sometimes?

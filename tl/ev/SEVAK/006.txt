@@ -1,0 +1,942 @@
+@0
+Forbidden by domain law to leave Kōchi
+
+@1
+Devote myself to study
+
+@2
+Win comrades who trust me
+
+@3
+Ryōma!!
+
+@4
+? That voice...
+
+@5
+Ryōma! What are you standing there gaping for?
+
+@6
+Big sister Otome!! Are you well?!
+
+@7
+I haven't seen you for a little while and you've grown again, haven't you?
+
+@8
+At my age I've stopped growing. You've shrunk, sister.
+
+@9
+Listen to the cheek of him.
+
+@10
+You look well.
+
+@11
+It's good to have you back.
+
+@12
+And Shinsuke-dono?
+
+@13
+That lecher? I don't know anything about him.
+
+@14
+Come on now, let's go home.
+
+@15
+(Another quarrel, I suppose?)
+
+@16
+Brother, it's Ryōma! Ryōma is back!
+
+@17
+Wh...
+
+@18
+Thud! Rattle rattle... CRASH
+
+@19
+Ow, ow, ow!
+
+@20
+Oh, Ryōma!! ...Ouch!
+
+@21
+I'm home... Is your leg all right?
+
+@22
+Yes, yes... well, well. So you're back...
+
+@23
+Uncle Ryōma!
+
+@24
+Harui, is that you!
+
+@25
+Hee hee hee, welcome home!
+
+@26
+Have you been a good girl?
+
+@27
+Don't treat me like a child.
+
+@28
+Well, well.
+
+@29
+He's become quite cheeky...\nSo, how did the training go?
+
+@30
+I did all I could.
+
+@31
+Let's see... Hokushin Ittō-ryū full licence... a full licence!!
+
+@32
+What! F-full licence?! Ryōma?
+
+@33
+What's all the astonishment about?
+
+@34
+Incredible! A full licence from the Chiba school, and from Tosa, and from this very Sakamoto house!
+
+@35
+I knew it, I told you Ryōma was a man who would become a dragon!
+
+@36
+Uncle Ryōma is a dragon?
+
+@37
+Yes, a dragon! That bedwetter has finally become a dragon!
+
+@38
+Ryōma. You must be tired from the long journey, so rest well today.
+
+@39
+This is the best I could do.
+
+@40
+Let's see... Hokushin Ittō-ryū assistant instructor! Oh! You, an assistant instructor?
+
+@41
+Nothing to boast of. Edo still has a great many far better swordsmen.
+
+@42
+Even so, an assistant instructor of the Chiba school is quite something.
+
+@43
+Well, well, that bedwetter an assistant instructor of the famous Chiba Dōjō! Ha ha! Now I can report to the domain with my head held high!
+
+@44
+Uncle, you're great! Hee hee hee!
+
+@45
+Ryōma. You must be tired from the long journey, so rest well today.
+
+@46
+It's nothing much to boast of.
+
+@47
+Let's see... Hokushin Ittō-ryū naginata mokuroku licence...
+
+@48
+Well, I came from a country dōjō after all. That's about as far as I could get.
+
+@49
+You fool! You haven't trained hard enough!
+
+@50
+Ow!
+
+@51
+Hmm, it's one of the Three Great Dōjō of Edo, after all. Hardly a place where a swordsman like Ryōma could get by so easily.
+
+@52
+Ryōma was simply slacking.
+
+@53
+That's right, that's right...
+
+@54
+You say that, but a Chiba mokuroku is no small thing, you know.
+
+@55
+Don't say so yourself!
+
+@56
+Ah...
+
+@58
+Ah, it was hopeless.
+
+@59
+What? Hopeless...?
+
+@60
+What does that mean?
+
+@61
+It was no good. I got no further than kirigami. I have no talent for the sword.
+
+@62
+Wh-what a fellow! These five years I sent you money, and you say it was all for nothing?
+
+@63
+I'm sorry. But I had other things to do.
+
+@64
+What are you saying! Ah... Father must be lamenting in his grave.
+
+@65
+I never thought Ryōma was such a blockhead...
+
+@66
+Blockhead! Hee hee hee!
+
+@67
+Don't say that. I won't let my training in Edo go to waste.
+
+@68
+You fool! What good is going to train in swordsmanship if you don't master the sword?
+
+@69
+Ouch!
+
+@70
+Enough. I don't know how to apologise to the domain officials who allowed you to train in Edo.
+
+@71
+? Who's there?
+
+@72
+Hm? Could it be Sakamoto?
+
+@73
+Master, Shingo-san, it's been a long time.
+
+@74
+Oh, you're back!
+
+@75
+Ah! Ryōma-san!
+
+@76
+Tora! Have you grown strong?
+
+@77
+Hee hee, so-so.
+
+@78
+Sakamoto, I hardly knew you! How did the training in Edo go?
+
+@79
+Thanks to you, I got as far as the full licence.
+
+@80
+What!
+
+@81
+What! The full licence? Ha, just as I expected!
+
+@82
+Well? Why not show us that full-licence skill right here?
+
+@83
+They made me an assistant instructor.
+
+@84
+Oh!
+
+@85
+Splendid, my congratulations!
+
+@86
+How about it? It's been a while: will you give my pupils some practice?
+
+@87
+I've become passable, but I still have a long way to go.
+
+@88
+I see. Don't neglect your training.
+
+@89
+Right, it's been a while. Let me see your swordsmanship!
+
+@90
+Please don't ask.
+
+@91
+You've been wasting your time, haven't you?
+
+@92
+I'll beat that attitude out of you. Ryōma, to practice!
+
+@93
+Now?
+
+@94
+Of course. Hey, Ikeda! Will you take him on for a bout?
+
+@95
+Yes! If you please!
+
+@96
+Tora has been improving by leaps and bounds lately. If you're careless, he'll sweep your feet out from under you.
+
+@97
+Oh dear.
+
+@98
+Come now, stop grumbling. Best of three!
+
+@99
+I yield!
+
+@100
+Good, that's enough! The Hokushin style is truly impressive.
+
+@101
+You flatter me.
+
+@102
+There's nobody here who could match you, but if you come I'll at least give you tea.
+
+@103
+Tora has grown strong too...
+
+@104
+Hm, so the famous Hokushin style is nothing much after all.
+
+@105
+It's only that I'm unskilled.
+
+@106
+Ha ha ha, at least you have the loyalty to defend your teacher in Edo.
+
+@107
+Oh? Sakamoto-sama? It is Sakamoto-sama, isn't it?
+
+@108
+Kaho-san!
+
+@109
+When did you come back?
+
+@110
+Only the other day...
+
+@111
+My, what a fine man you've become.
+
+@112
+Is your brother well?
+
+@113
+Yes, he's well. He's at home now, so do stop by.
+
+@114
+Hm, I think I will.
+
+@115
+I'll go and fetch him, so wait here.
+
+@116
+(...She's grown so pretty.)
+
+@117
+Well, Ryōma! How many years has it been!
+
+@118
+You look truly well.
+
+@119
+I heard, I heard. They say you made quite a name for yourself in Edo?
+
+@120
+You exaggerate.
+
+@121
+I heard, I heard. They say you went to Edo and played about without training at all?
+
+@122
+Who's been saying that?
+
+@123
+Is Takechi doing well?
+
+@124
+He's debating affairs of state with a stern look on his face.
+
+@125
+Ha ha, that's just like him!
+
+@126
+You debate with Takechi-sama too, don't you, Sakamoto-sama?
+
+@128
+I debate as hard as anyone.
+
+@129
+Well, well, and this from Ryōma, who hated his books!
+
+@130
+In times like these, it's only natural for a man to debate affairs of state.
+
+@131
+I'm no good at it. I leave the knotty talk to Takechi.
+
+@132
+That too is just like you.
+
+@133
+That won't do. When the nation is in peril, it is only natural for a man to discuss the times.
+
+@134
+Kaho-san talks like a jōi patriot herself.
+
+@135
+It's all my brother's influence.
+
+@136
+You blame me? Oh yes, it's all my fault, everything!
+
+@137
+What a close brother and sister.
+
+@138
+No. We can't compare with how close you and your sister are.
+
+@139
+What's this, Kaho? You sound jealous of Otome-san.
+
+@140
+Brother!
+
+@141
+Ha ha ha! Your face is red!
+
+@142
+Honestly!
+
+@143
+...Anyway, Ryōma. How are things in Edo? Is the shogunate still being bullied by the foreigners?
+
+@144
+Yes. The famous eighty thousand hatamoto can't even afford weapons, and coastal defence is left entirely to the domains. Even if it wanted to repel the foreigners, the shogunate hasn't the strength.
+
+@145
+Wh... what a...
+
+@147
+Ryōma, let's go to Edo! We'll drive the foreigners out ourselves!
+
+@148
+"Let's go!"\n"That's impossible"
+
+@149
+Let's go!
+
+@150
+Brother, Sakamoto-sama, don't say such foolish things! Leaving the domain is a grave crime!
+
+@151
+Just the two of us, it's quite impossible.
+
+@152
+Ah, how frustrating! I want to teach the foreigners how terrible samurai can be!\nWhy is the shogunate so spineless!
+
+@153
+Oh, Ryōma! You've come at the right moment!
+
+@154
+Brother-in-law, are you quarrelling again?
+
+@155
+Please, help me.
+
+@156
+Hey! You lecher!
+
+@157
+Eek! Deva King, have mercy!
+
+@158
+No, this time I will not forgive you.
+
+@159
+Stop the quarrel\nStand by and watch
+
+@160
+Not my business.
+
+@161
+Ryōma, you heartless wretch!
+
+@162
+Don't go blaming Ryōma, it's none of his doing!
+
+@163
+Ow, ow, ugh, that hurts!
+
+@164
+That's for your philandering! Don't tell me it hurts!
+
+@165
+Yow! It hurts, whatever you say!!
+
+@166
+You've lost, brother-in-law. Just apologise and be done with it.
+
+@167
+Deva King, I'm sorry. I beg you.
+
+@168
+Who's a Deva King?!
+
+@169
+Mmmpf!
+
+@170
+Tut, tut. Nobody meddles in a husband and wife's quarrel, as they say.
+
+@171
+...I'll come back another time.
+
+@172
+Now, now, sister Otome.
+
+@173
+Ryōma, get out of the way.
+
+@174
+Calm down a little. What started this quarrel? I'll decide once I've heard it.
+
+@175
+Well, that is, er...
+
+@176
+This lecher has gone and laid hands on a servant, of all things!
+
+@177
+Another affair...
+
+@178
+And what is more, he has got the girl with child! I won't be satisfied till I've slapped that blockhead's face twenty or thirty times!
+
+@179
+"Shinsuke is in the wrong"\n"Poor Shinsuke"
+
+@180
+Well, brother-in-law, you reap what you sow.
+
+@181
+Ryōma, th-that's cruel.
+
+@182
+A man must take responsibility for what he has done.
+
+@183
+Well said, Ryōma!
+
+@184
+Eek!
+
+@185
+Take your beating. It'll clear the air between you.
+
+@186
+Ugh! H-h-help... yow! I'm being killed!
+
+@187
+Well, I'm in the way here. Sister Otome, go a little easy on him.
+
+@188
+Ryōma, you heartless wretch! Ow, ow, ow!
+
+@189
+You'll kill him. It's because you're such a tomboy, sister Otome, that he strays.
+
+@190
+Y-yes, yes, exactly!
+
+@191
+You're in no position to talk, brother-in-law.
+
+@192
+Y-yes...
+
+@193
+Ryōma, are you taking that man's side?!
+
+@194
+Eek!
+
+@195
+Let him off. For my sake.
+
+@196
+No, I won't! Ah, he's run away! You there, stop!
+
+@197
+It's no use... nobody can stop the Deva King's wrath.
+
+@198
+Have you business with Sensei? And who might you be?
+
+@199
+"I am Sakamoto"\n"And you are?"
+
+@200
+I'm Sakamoto, a gōshi. I wish to see Sensei... are you his pupil?
+
+@201
+I am his pupil, Nagaoka Kenkichi. Please wait a moment.
+
+@202
+And you are...?
+
+@203
+I am his pupil, Nagaoka Kenkichi.
+
+@204
+I'm Sakamoto, a gōshi. Is Sensei at home?
+
+@205
+Please wait a moment.
+
+@206
+Hmm? Sakamoto? Oh, it's the Saitaniya's son.
+
+@207
+What do you want?
+
+@208
+"I want to study Western learning"\n"Nothing in particular"
+
+@209
+Nothing at all.
+
+@210
+I have no time for your nonsense! Be off with you at once!
+
+@211
+Teach me Western learning, please.
+
+@212
+What, Western learning? I have no time for your nonsense.
+
+@213
+I'm not joking.
+
+@214
+...Hm, well, come inside in any case.
+
+@215
+I hear you've been to Edo.
+
+@217
+You've seen the Black Ships, I suppose?
+
+@218
+Yes.
+
+@219
+What did you think?
+
+@220
+"Magnificent"\n"Nothing much"
+
+@221
+Yes, they were magnificent!
+
+@222
+His eyes shine like a child's. Yes, that is the real strength of the foreigners we look down on as barbarians.
+
+@223
+I want one...
+
+@224
+...Are you joking?
+
+@225
+I'm not joking.
+
+@227
+Nothing much.
+
+@228
+Oh? Yet Japan today could never build one.
+
+@230
+Bravado is all very well, but without seeing reality honestly you cannot judge rightly.
+
+@231
+With those Black Ships they race across the seas of the world, threaten weak countries with their cannon, and buy their cheap produce.
+
+@232
+Then they manufacture goods and sell them in quantity, and with the money earned they build yet more ships and cannon.
+
+@233
+Can we beat such countries? Wave swords and shout "jōi, jōi" all you like, one blast from a Black Ship's cannon and it is over.
+
+@234
+Then what should we do?
+
+@235
+We need Black Ships of our own. Without them we are at the foreigners' mercy. We must learn the mechanical civilisation of the West and build Black Ships.
+
+@236
+"I see!"\n"I'm not convinced"
+
+@237
+Kawada-sensei!!
+
+@238
+W-what is it?
+
+@239
+Your talk is fascinating! Teach me more about the West!
+
+@240
+...What a strange applicant.
+
+@241
+Well, very well. For a while I'll let you come and go as one of my pupils.
+
+@242
+One of my pupils: Nagaoka Kenkichi, a doctor's son.
+
+@243
+Pleased to meet you.
+
+@244
+Shingū Umanosuke.
+
+@245
+I am Umanosuke. Everybody calls me "Akazura".
+
+@246
+There is one more, but he seems to have business today.\nI'll introduce him in due course.
+
+@247
+That's what a foreigner-worshipper would say. I don't like it.
+
+@248
+Expecting a jōi fanatic to understand my talk was perhaps a little much. Go home and cool your head.
+
+@249
+Uncle Ryōma, a letter has come for you!
+
+@250
+Thank you.
+
+@251
+Oh, it's from Jaw!
+
+@252
+To Sakamoto Ryōma
+
+@253
+At last Ii has shown his true colours.
+
+@254
+Yoshida Shōin-sensei, standard-bearer and teacher of the sonnō-jōi faction of Chōshū, has been executed. When I think of what Katsura and his friends must feel, I cannot help but mourn.
+
+@255
+In this great purge, men of learning who cared for the country, such as Umeda Unpin and Hashimoto Sanai, have lost their lives as well. Our own lord, Lord Yōdō, has been placed under house arrest like the other lords of the Hitotsubashi faction.
+
+@256
+The shogunate no longer has the breadth to accept right opinion from others, and one may say that Japan is in ever greater danger of ruin.
+
+@257
+Takechi Hanpeita
+
+@258
+Yoshida Shōin-dono... put to the sword by the shogunate??
+
+@260
+W-why?
+
+@261
+Who's this Yoshida fellow?
+
+@262
+A truly great teacher... what a loss!!
+
+@263
+Chōshū is going to be in an uproar...
+
+@264
+So the shogunate is serious now!
+
+@265
+When those with no substance resort to violence, they only make enemies.
+
+@266
+Sakamoto-san!
+
+@268
+Is Sakamoto-san in?! It's me, Ike Kurata!
+
+@269
+Here comes a noisy one.
+
+@270
+Noisy, is it? That's a fine greeting. I heard you were back, so I came to see you.
+
+@271
+Well! It's been a long time!
+
+@272
+Noisy, is it? That's a fine greeting.
+
+@273
+Ha ha ha, I'm joking.
+
+@274
+What's the matter, you look gloomy... What's that?
+
+@275
+A letter from Takechi. Want to see?
+
+@276
+Let's see...
+
+@277
+!! Our lord under house arrest?
+
+@278
+Our lord's house arrest is the least of it.
+
+@280
+The real problem is that patriots who care for their country are being killed though they've committed no crime.
+
+@281
+...Truly. The shogunate is weak toward foreigners, yet merciless to those below it.
+
+@282
+Sakamoto-san.
+
+@284
+It is Sakamoto-san, isn't it? Do you remember me?
+
+@285
+...Now who might you be?
+
+@286
+Kondō Chōjirō.
+
+@287
+Kondō? ...Kondō, Kondō...
+
+@288
+Chōjirō of the manjū shop!
+
+@289
+Ah! The manjū shop!\nSo you're the other pupil he mentioned?
+
+@290
+Yes. Have you become a pupil too, Sakamoto-san?
+
+@291
+Something like that. He's quite interesting.
+
+@292
+Yes, the sensei's talk of the West is truly wonderful.
+
+@293
+You always did love learning.
+
+@294
+It's the only thing I can boast of... Sakamoto-san, I hope we'll be good friends.
+
+@295
+Oh yes. I'll lend you the book Shōryō-sensei wrote.
+
+@296
+...Is it difficult?
+
+@297
+It's all right. The sensei wrote it after hearing about the real state of America from a man called Nakahama Manjirō.
+
+@298
+What?!
+
+@299
+Nakahama is a fisherman of Tosa. They say he was rescued by an American ship when he was caught in a storm, and lived over there for a while.
+
+@300
+...Are you sure? Something so valuable?
+
+@301
+It's a copy I made myself. I've read it many times already.
+
+@302
+Much obliged!
+
+@303
+Ah, Sakamoto-dono.
+
+@304
+How did it go?
+
+@305
+Hopeless. The senior retainers of this domain are all die-hard sabaku men. Forgive me, but all they have in mind is protecting the Yamauchi house.
+
+@306
+...I expect so.
+
+@307
+Come to think of it, Lord Yōdō in Edo was said to be a loyalist when drunk and a shogunate man when sober.
+
+@308
+What will you do now?
+
+@309
+I am thinking of going to Satsuma.
+
+@310
+Beware of assassins.
+
+@311
+We may never meet again. Farewell.
+
+@312
+You there, sir, what ails you?\nAre you troubled by something?
+
+@313
+Yes\nNo
+
+@314
+I don't know what I should do with myself from now on. I'm just terribly bored.
+
+@315
+I see. Very well, this humble priest shall resolve your trouble.
+
+@317
+You should train at my hermitage for one month.
+
+@318
+Yes\nNo
+
+@319
+Hm, why not.
+
+@320
+Understood. Then let us begin.
+
+@321
+Kaaah!!
+
+@322
+Idle thoughts fade away...
+
+@323
+Spirit rose by 1!
+
+@324
+I see. If you have time on your hands and cannot see your own path, come here again.
+

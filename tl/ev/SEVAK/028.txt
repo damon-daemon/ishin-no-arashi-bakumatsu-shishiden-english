@@ -1,0 +1,447 @@
+@0
+Brokering the Satsuma-Chōshū Alliance
+
+@2
+Sakamoto-san!
+
+@3
+Ah, Kurata, it's you!
+
+@4
+Sakamoto-san, I heard. You're finally building a fleet of your own.
+
+@5
+You hear everything, don't you?
+
+@6
+Take me in too! Just once I want to fire the cannon of a Black Ship!
+
+@7
+So you want to join the navy too!
+
+@8
+Yes, I'll do it!
+
+@9
+Everyone's getting ready in Nagasaki, so go and lend them a hand, will you?
+
+@10
+Right!
+
+@11
+Ryōma.
+
+@12
+I want to see Lord Sanjō.
+
+@13
+Right, wait a moment.
+
+@14
+And you are?
+
+@15
+I am Sakamoto Ryōma.
+
+@16
+Ah, so you are the man Nakaoka spoke of.
+
+@17
+Hmm, you would ally Chōshū with Satsuma?
+
+@19
+...True, we sonnō-jōi court nobles stand as one with Chōshū. If Chōshū dies, I cannot go on living either. To breathe life back into dying Chōshū, there is no other way.
+
+@20
+But is it possible?
+
+@21
+I will make it possible.
+
+@22
+Then I shall wager on those words. I will write you a letter in my own hand; persuade Katsura for me.
+
+@23
+Eh? Katsura-san has returned to Chōshū?
+
+@24
+He vanished in Kyōto and no one knew where he was, but after Takasugi's coup succeeded he came back and has become the real leader of Chōshū. You must win him over first.
+
+@25
+Persuade Katsura Kogorō in Hagi
+
+@26
+What, a Satsuma-Chōshū alliance?!
+
+@27
+...Hmm, a fine idea! It would hold back the shogunate's tyranny, and Satsuma and Chōshū could each keep the other from running ahead alone.
+
+@28
+What do you mean, keep each other in check?
+
+@29
+Listen. In building a new state, what matters is that no single party wins everything.
+
+@30
+If either Satsuma or Chōshū seizes the lead and topples the Tokugawa shogunate on its own, all you get is a Shimazu shogunate or a Mōri shogunate in its place. That is no truly strong state.
+
+@31
+The lords must each give their views and decide policy by joint deliberation. Dictatorship by one power is the root of the bigotry and corruption we see in the shogunate today.
+
+@32
+Domestic Insight rose by 6!
+
+@33
+Ha ha, so you already have the Japan after the shogunate's fall in mind, Sensei. But if the shogunate crushes Chōshū, it will all be over.
+
+@34
+True. To reconcile Satsuma and Chōshū, begin by explaining where their profit lies. Profit outweighs feeling.
+
+@36
+Persuade Katsura Kogorō in Hagi
+
+@37
+Ryōma, did you bring Satsuma round?
+
+@38
+Yes, they seem willing.
+
+@39
+Truly?! Good, perhaps we can manage this after all!
+
+@40
+How was Chōshū?
+
+@42
+It's heavy going. The grudge Chōshū men hold against Satsuma runs deeper than I thought.
+
+@44
+Ryōma, is that you, Ryōma?
+
+@46
+Oh, Shintarō and Hisamoto-san!
+
+@47
+If Ryōma's come here, then... don't tell me!
+
+@48
+Ha ha ha, you were thinking the same thing, weren't you?!
+
+@50
+You mean to reconcile Satsuma and Chōshū, don't you?
+
+@51
+What, you too!
+
+@52
+Well now, so that's how it is.
+
+@53
+But persuading Chōshū is hard going. Their grudge against Satsuma is very deep.
+
+@54
+We have thrown up our hands too. If the two great powers made a pact, overthrowing the shogunate would be no dream!
+
+@55
+...I can only try.
+
+@56
+All right, I'll trust you. I leave Chōshū to you.
+
+@57
+Hijikata-san, stay by the Five Nobles. I'm going to Satsuma now. I'll bring Saigō back here, so see that you win Katsura over by then.
+
+@58
+Many shishi have tried the great work of a Satsuma-Chōshū alliance, and failed.
+
+@59
+Tsukigata Senzō of the Fukuoka Domain was the foremost, but a pro-shogunate coup broke out in his home domain and the whole sonnō-jōi faction was purged.
+
+@60
+Now only we can pull it off. Tosa gōshi who left their domain will change the history of Japan!
+
+@61
+Ah, right, Ryōma. Before you go to Katsura, would you come with me to Dazaifu?
+
+@62
+Back to Kyūshū?
+
+@63
+If Lord Sanjō stands between them, Chōshū's feelings might soften, no?
+
+@65
+Visit the Five Nobles at Dazaifu
+
+@66
+Talk as often as you like, the answer is the same.
+
+@67
+Oh, if it isn't Sakamoto-kun!
+
+@68
+Katsura-san, you've grown very thin.
+
+@69
+Just being alive is a blessing. What brings you here?
+
+@70
+Actually, I came with a small favour to ask...
+
+@71
+A favour?
+
+@72
+It is a favour, and yet not a favour.
+
+@73
+What are you talking about?
+
+@74
+I came to tell you the one way Chōshū can survive.
+
+@76
+With Satsuma...
+
+@77
+Don't say it!!
+
+@79
+You mean to tell me to join hands with Satsuma, don't you? That I cannot do!
+
+@80
+Why?!
+
+@81
+Think about it. Because of Satsuma's betrayal, Chōshū, which raised the banner of loyalty to the Emperor above all, was made an enemy of the Court overnight!
+
+@82
+Turned away by the Imperial Court, attacked by the shogunate and other domains, pounded by foreign powers... can you, a man of another domain, understand what Chōshū has suffered this past year and more?!
+
+@83
+...I didn't come to talk about the past. As things stand, Chōshū will be abolished. Is that all right with you?!
+
+@85
+Very well... I leave the details to you. Please, I beg you to see to the reconciliation with Satsuma.
+
+@86
+Now all that's left is to wait here for word from Nakaoka.
+
+@87
+Your friend Nakaoka has gone to Kagoshima to persuade Saigō. Let us wait for his answer first.
+
+@88
+Wait for Nakaoka Shintarō in Hagi
+
+@89
+We cannot be reconciled with the Satsuma thieves. Even if Chōshū perishes, we are resolved to die for the Emperor's cause.
+
+@90
+Sakamoto-kun.
+
+@91
+We've had word from Nakaoka-kun in Satsuma. Saigō is going up to Kyōto and will stop at Shimonoseki on the way to discuss the alliance.
+
+@92
+Shintarō, you did it!
+
+@93
+I want you to sit in on it as well.
+
+@96
+Ah, Shintarō!
+
+@98
+Shintarō?
+
+@99
+I'm so sorry!! Forgive me!!
+
+@101
+What's the matter? Where's Saigō?
+
+@102
+Saigō... isn't coming!
+
+@104
+What... do you mean?
+
+@105
+The arrangement was for him to stop at Shimonoseki and discuss the alliance, but...
+
+@107
+He got as far as Saganoseki, very close, then said something urgent had come up and he could not stop at Shimonoseki...
+
+@108
+Why?!
+
+@109
+I don't know. He said he had to hurry to Kyōto at all costs to stop the shogunate's Chōshū Expedition...
+
+@110
+Nonsense! The shogunate would never call off the expedition! The alliance comes first, doesn't it?!
+
+@111
+...So this is Saigō's... Satsuma's way!
+
+@112
+They hold out a hand, then snatch it back the moment we reach for it... They wait for Chōshū to come crying and clinging, to ally on terms even slightly in their favour...
+
+@113
+...Saigō is not that sort of man.
+
+@114
+Then what is it?! Is he saying that at the last moment he cannot join hands with Chōshū after all?!
+
+@115
+No... most likely he couldn't overcome the opposition of Lord Hisamitsu and the conservatives in the domain. Even Saigō cannot push this through on his own authority.
+
+@116
+Gh... Damn it!!
+
+@117
+...Saigō has shamed Chōshū utterly! I never wanted to join hands with Satsuma in the first place!
+
+@118
+You pressed it on us so strongly that I was talked into it... I persuaded our reluctant lord with tears... How am I supposed to apologise?!
+
+@119
+I'm sorry! I'll commit seppuku!
+
+@120
+Stop!!
+
+@121
+It won't help me if you commit seppuku!
+
+@122
+Maybe it was too soon...
+
+@123
+It was impossible to suddenly reconcile two sides who had been at each other's throats for so long.
+
+@125
+Think about it. A man and a woman who are always quarrelling. Even if both are of marrying age, you can't just marry them off all at once, can you?
+
+@126
+That's... true.
+
+@127
+We need a groundwork, after all. They must have the experience of doing something together and helping each other.
+
+@128
+For that there is the Kameyama Shachū. In Satsuma's name we buy the weapons and warships Chōshū is desperate to have.
+
+@129
+That will get round the Satsuma conservatives' opposition, and Chōshū's resentment of Satsuma should melt away.
+
+@131
+Between man and woman too, what counts is first making it a fait accompli.
+
+@133
+How rude! Do you take this alliance to be no more than a marriage match?!
+
+@134
+Just a comparison. The shogunate means to crush Chōshū utterly. To fight the shogunate's army you'll need weapons whatever happens.
+
+@136
+The shogunate's navy is mighty. It has bought guns and cannon from France in great numbers too.
+
+@137
+...I want them! We cannot fight without weapons! We may be crushed by the shogunate tomorrow. I will cling to anything I can!
+
+@138
+I'll buy those weapons. In Satsuma's name. Take the substance before the name. The alliance can come afterwards.
+
+@141
+...It depends on how they respond.
+
+@142
+Saigō-don is in Kyōto, isn't he?
+
+@143
+Yes.
+
+@144
+Shintarō, we go up to Kyōto!
+
+@145
+Right!
+
+@146
+Oh, that's right, I was to wait here for Nakaoka.
+
+@148
+Hijikata-san!
+
+@149
+The shogunate's army has at last begun its invasion of Chōshū!
+
+@151
+Nakaoka has somehow put together the appearance of an alliance, but Chōshū is in uproar.
+
+@152
+Kozone-san, I am truly sorry, but could you look after Oryō for a while?
+
+@153
+Yes, rest assured.
+
+@154
+Miyoshi-kun, I'm counting on you.
+
+@155
+I will guard her with my life.
+
+@156
+Oryō. Sorry, but you'll have to stay here and be looked after for a while.
+
+@157
+I'll be practising my gekkin. If you don't come home soon, I'll be sad, you know.
+
+@159
+Kozone-san, I am truly sorry, but could you look after Sana for a while?
+
+@160
+Yes, rest assured.
+
+@161
+Miyoshi-kun, I'm counting on you.
+
+@162
+With a swordswoman like Sana-dono, it may be me who gets protected.
+
+@164
+Sana-san. Sorry, but you'll have to stay here and be looked after for a while.
+
+@166
+There's no dōjō in Nagasaki, so I'm bored.
+
+@167
+Just a little while longer.
+
+@168
+Kozone-san, I am truly sorry, but could you look after Kaho for a while?
+
+@169
+Yes, rest assured.
+
+@170
+Miyoshi-kun, I'm counting on you.
+
+@171
+I will guard her with my life.
+
+@172
+Kaho-san. Sorry, but you'll have to stay here and be looked after for a while.
+
+@173
+Please take me with you. I won't be any trouble, I'll dress as a man.
+
+@174
+Don't be selfish. That's not possible.
+
+@175
+But...
+
+@176
+I'll be back soon. All right?
+

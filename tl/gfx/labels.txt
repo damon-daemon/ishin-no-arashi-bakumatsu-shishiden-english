@@ -1,0 +1,62 @@
+# Labels of the icon menus (CG/WINFRAME.I2 sectors 60-93: 60 pieces of 96 x 24 px, tools/gfx.py).
+# number<TAB>English; at most 94 px in the game font. The wording follows tl/progstr where the same
+# command exists as text (shortened where the label would not fit).
+0	View Info
+1	Talk to People
+2	Give Souvenir
+3	Pray
+4	Game Objective
+5	Buy Souvenirs
+6	Have a Meal
+7	Travel
+8	Take a Break
+9	Play Hanafuda
+10	Kaientai Info
+11	Quit the School
+12	Kameyama Info
+13	Rest
+14	Practise
+15	Leave Building
+16	Talk
+17	Request a Match
+18	Take a Photo
+19	Hero Info
+20	Drink Sake
+21	Area Info
+22	Sortie
+23	Order Trade
+24	View Info
+25	Gather News
+26	Ask for Info
+27	Eat
+28	Shinsengumi Info
+29	See the Doctor
+30	Find Person
+31	Group Info
+32	Persuade
+33	Leave Village
+34	Other People
+35	Direct the Men
+36	Leave District
+37	Leave Town
+38	Take the Waters
+39	Work
+40	Change Escort
+41	Buy Items
+42	Sell Items
+43	Quit the Dōjō
+44	Buy Specialities
+45	Sell Specialities
+46	Advance the Date
+47	Enrol
+48	Bathe
+49	Visit
+50	Stay
+51	Buy Arms
+52	Sell Arms
+53	Study
+54	Set as Base
+55	Meet
+56	Shinsengumi Duty
+57	Kaientai Duty
+58	Kameyama Duty

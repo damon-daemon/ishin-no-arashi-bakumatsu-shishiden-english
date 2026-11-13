@@ -1,0 +1,373 @@
+# KAIWA overlay 80000000-8fffffff: townspeople's rumours, news, town tips, festivals, food and goods, persons seen
+KAIWA:8015b85c	Nothing new to report.
+KAIWA:8015b878	I know nothing, I'm afraid.
+KAIWA:8015b898	They say a new war has begun.\nThis one is far bigger than the last, I hear.
+KAIWA:8015b8ec	A new government has finally been formed, they say.
+KAIWA:8015b918	Lately it's all the rage to parade through the streets shouting "Ee ja nai ka, ee ja nai ka!"
+KAIWA:8015b970	Rumour has it the shogunate has returned rule to the Emperor.
+KAIWA:8015b998	They say Sakamoto Ryōma-sama founded the Kaientai with Tosa's backing.
+KAIWA:8015b9e4	The Emperor has passed away, I hear.
+KAIWA:8015ba04	Lord Hitotsubashi has become the new shōgun, I hear.
+KAIWA:8015ba30	Rumour has it Shōgun Iemochi has passed away.
+KAIWA:8015ba6c	We commoners are disappointed by the shogunate's war.\nI wish they would think of us a little.
+KAIWA:8015bac8	Rumour has it Takasugi Shinsaku-sama of Chōshū has died.\nChōshū has lost a precious man.
+KAIWA:8015bb20	The shogunate has finally attacked Chōshū, I hear.\nBut I keep hearing Chōshū has the upper hand.
+KAIWA:8015bb78	The shogunate is going to fight Chōshū again, they say.
+KAIWA:8015bba4	I hear the shogunate is up to something together with the foreigners.
+KAIWA:8015bbf0	A big factory is going up in Yokosuka village in Kanagawa.
+KAIWA:8015bc28	An Englishman called Satow has published a book attacking the shogunate.
+KAIWA:8015bc6c	I heard Sakamoto Ryōma-sama of Tosa formed a group called the Kameyama Shachū.
+KAIWA:8015bcb4	Rumour has it Takasugi Shinsaku-sama of Chōshū has raised troops.
+KAIWA:8015bce4	Chōshū has surrendered and the war is over, I hear.\nWhat became of all its earlier spirit?
+KAIWA:8015bd34	The shōgun will finally crush Chōshū by force, it seems.
+KAIWA:8015bd64	Chōshū has fired on the Imperial Palace in Kyōto, I hear.\nWhen will we ever have peace?
+KAIWA:8015bdcc	Many lords are gathering in Kyōto, they say.\nWhat will they get up to this time?
+KAIWA:8015be1c	There was another swordfight in Kyōto.\nThe Shinsengumi and Chōshū shishi, I hear.
+KAIWA:8015be70	A corps called the Shinsengumi has been formed to guard Kyōto, I hear.\nI hope the city grows peaceful now.
+KAIWA:8015bee0	There was more trouble in Kyōto.\nChōshū shishi were shut out of the city, I hear.
+KAIWA:8015bf3c	Rumour has it Chōshū is suffering reprisals from America and the others.
+KAIWA:8015bf6c	They say Satsuma's castle town is a pitiful sight.
+KAIWA:8015bf9c	Satsuma and Britain have gone to war, I hear.
+KAIWA:8015bfd0	Jōi shishi have finally attacked a foreign ship.
+KAIWA:8015c004	The authorities are recruiting a volunteer corps of rōnin, they say.
+KAIWA:8015c034	The shōgun is going up to Kyōto, they say.
+KAIWA:8015c058	In Kyōto, "Tenchū!" killings are all the rage.\nYou samurai had better take care.
+KAIWA:8015c0ac	An imperial order for jōi has been issued, I hear.
+KAIWA:8015c0e4	The shogunate is easing its restrictions on sonnō-jōi lords, I heard.
+KAIWA:8015c12c	They say a terrible incident happened along the Tōkaidō.
+KAIWA:8015c160	In Kyōto the Tenchū killings go on.\nWhat a dangerous world it has become.
+KAIWA:8015c1b4	The lord of Satsuma is marching east with many troops.
+KAIWA:8015c1ec	I heard American traders are being cut down by sonnō-jōi shishi.\nPoor men, to die in a distant land.
+KAIWA:8015c260	There was another assassination at Edo Castle.\nThis time it was Rōjū Andō-sama, they say.
+KAIWA:8015c2a8	A princess of Kyōto will marry the shōgun, I hear.
+KAIWA:8015c2e0	A village off the Tōkaidō can now trade with Americans, they say.
+KAIWA:8015c328	Lord Ii, the Tairō, was assassinated outside the Sakurada Gate of Edo Castle, I hear.
+KAIWA:8015c36c	If you are a sonnō shishi, sir, you should hide.\nShogunate officials are cracking down on them.
+KAIWA:8015c3d4	The cholera the foreigners brought is spreading.\nTake care, sir.
+KAIWA:8015c42c	Lord Iemochi has become shōgun.\nI hope that brings a peaceful age.
+KAIWA:8015c474	They say trade with America will begin.
+KAIWA:8015c4ac	Lord Ii has become the shogunate's Tairō.
+KAIWA:8015c4d4	The shōgun is still alive, yet the shogunate squabbles over his heir.
+KAIWA:8015c52c	A big earthquake struck and wrecked everything, I hear.
+KAIWA:8015c570	The shogunate and America are preparing to trade.\nThat suits a merchant like me.
+KAIWA:8015c5c0	Rōjū Abe-sama has passed away, I hear.
+KAIWA:8015c5f0	A man called Harris has arrived from America.
+KAIWA:8015c61c	They say the shogunate's storehouses are empty.\nPerhaps the shogunate is finished...
+KAIWA:8015c668	At the Naval Training School they teach how to sail a Black Ship.\nI'd like to sail one myself.
+KAIWA:8015c6d4	America and the shogunate signed a treaty, I hear.\nWhat will become of us now?
+KAIWA:8015c730	The American Black Ships are said to be enormous.
+KAIWA:8015c764	They say America is coming to attack.
+KAIWA:8015c790	 is famous for beautifying waters.
+KAIWA:8015c7ac	 is said to be good for the stomach.
+KAIWA:8015c7c8	 is said to ease neuralgia.
+KAIWA:8015c7e4	 is said to help stiff shoulders.
+KAIWA:8015c800	 washes away weariness.
+KAIWA:8015c818	 has waters good for illness.
+KAIWA:8015c838	 has waters good for injuries.
+KAIWA:8015c858	 is a renowned academy.
+KAIWA:8015c870	 has a poor reputation.
+KAIWA:8015c88c	's reputation is so-so.
+KAIWA:8015c8b0	For sword training, 
+KAIWA:8015c8c0	 is the pick.
+KAIWA:8015c8d0	 has a poor name.
+KAIWA:8015c8f0	The Renpeikan is a famous dōjō in Edo.
+KAIWA:8015c918	The Genbukan is a famous dōjō in Edo.
+KAIWA:8015c940	The Shigakukan is a famed dōjō in Edo.
+KAIWA:8015c968	The Shinsengumi HQ is near here.
+KAIWA:8015c98c	You can study Black Ships at Tsukiji, I hear.
+KAIWA:8015c9bc	You can study Black Ships at Nagasaki, I hear.
+KAIWA:8015c9ec	You can study Black Ships at Kōbe, I hear.
+KAIWA:8015ca1c	's HQ is near here.
+KAIWA:8015ca3c	's 
+KAIWA:8015ca40	 is said to be a beauty.
+KAIWA:8015ca5c	Ueno Photo Studio takes photos.
+KAIWA:8015ca80	: 
+KAIWA:8015ca84	 is said to be a captive.
+KAIWA:8015caa0	Loyalist Party men were in Yamadachō Gaol.
+KAIWA:8015cad0	Ansei Purge captives were held in Rokkaku Gaol.
+KAIWA:8015cb0c	Chōshū samurai are often seen by the Ikedaya.
+KAIWA:8015cb40	The Ikedaya Incident was shocking.
+KAIWA:8015cb68	The Chōshū residence is eerily quiet.
+KAIWA:8015cb98	The Chōshū residence closed after the war.
+KAIWA:8015cbcc	The British at Tōzen-ji were attacked.
+KAIWA:8015cbfc	The Shieikan men left for Kyōto.
+KAIWA:8015cc28	The Masuya's master was a loyalist samurai.
+KAIWA:8015cc54	The Itō Dōjō men left for Kyōto.
+KAIWA:8015cc84	The naval academy has been closed.
+KAIWA:8015ccac	Chōshū men raided the Gotenyama legation.
+KAIWA:8015cce0	The Govt. Hall closed when Chōshū was cut.
+KAIWA:8015cd18	The Fushimi magistracy stands empty.
+KAIWA:8015cd40	The Shinsengumi left the infantry post.
+KAIWA:8015cd6c	Kan'ei-ji in Koishikawa holds the shōguns' tombs.
+KAIWA:8015cda4	Sensō-ji in Asakusa: famed Kaminarimon lantern.
+KAIWA:8015cdd4	Kinkaku-ji in Nishijin: gold mirrored in a pond.
+KAIWA:8015ce10	Ginkaku-ji in Sakyō has a lovely atmosphere.
+KAIWA:8015ce48	Sanjūsangen-dō in Shimizu holds countless Kannon.
+KAIWA:8015ce84	Kiyomizu-dera's high stage is famous.
+KAIWA:8015ceac	Tōshō-gū enshrines Gongen-sama.
+KAIWA:8015ced0	Kamakura's Buddha is handsome.
+KAIWA:8015cef0	Pray at Tenmangū to succeed in study.
+KAIWA:8015cf20	If you are tired, 
+KAIWA:8015cf30	 is a good place to stop by.
+KAIWA:8015cf4c	 has cheap, tasty fare aplenty.
+KAIWA:8015cf70	For a gourmet, 
+KAIWA:8015cf80	 is my recommendation.
+KAIWA:8015cf94	If you need money, 
+KAIWA:8015cfa8	 is the place to go.
+KAIWA:8015cfc4	For injury or illness, 
+KAIWA:8015cfd4	 is best.\nLeft alone, it only worsens.
+KAIWA:8015d000	To lift your spirits, 
+KAIWA:8015d00c	 is a fine place to go.
+KAIWA:8015d024	Now and then, 
+KAIWA:8015d030	 is a fine place to pray.
+KAIWA:8015d050	 is where 
+KAIWA:8015d058	-sama lives.
+KAIWA:8015d06c	Matsushima is next to this village.
+KAIWA:8015d090	Mount Fuji looks superb from here.
+KAIWA:8015d0b8	Miho no Matsubara is by this castle town.
+KAIWA:8015d0e8	Just outside town is Tōjinbō, with a lovely sunset.\nIt is a magnificent sight.
+KAIWA:8015d13c	Walk the Sea of Japan coast to Amanohashidate, famed for its shoreline.
+KAIWA:8015d174	The Great Buddha of Nara is truly a blessing.
+KAIWA:8015d1a4	Walk the Inland Sea coast to Miyajima.
+KAIWA:8015d1d0	Since you've come this far, see Akiyoshidai.\nIt is right on our doorstep.
+KAIWA:8015d220	You can see the Naruto whirlpools along the Inland Sea.
+KAIWA:8015d494	this place
+KAIWA:8015d49c	Every 7 years, at this time, 
+KAIWA:8015d4b4	 holds the Onbashira Festival.
+KAIWA:8015d4d4	Early in the 8th month, 
+KAIWA:8015d4e4	 holds the Neputa Festival.
+KAIWA:8015d500	 holds Kantō lanterns.
+KAIWA:8015d518	 holds the Tanabata.
+KAIWA:8015d530	Late in the 5th month, 
+KAIWA:8015d540	 holds the Sanja Fair.
+KAIWA:8015d558	Early in the 4th month of 1858, 
+KAIWA:8015d570	Early 4th month, 1865, 
+KAIWA:8015d588	 holds Onbashira.
+KAIWA:8015d5a0	Late 8th mo., 
+KAIWA:8015d5b0	 holds Owara Kaze no Bon.
+KAIWA:8015d5cc	In mid-8th month, 
+KAIWA:8015d5dc	 holds the Gion Fair.
+KAIWA:8015d5f4	In mid-2nd month, 
+KAIWA:8015d604	 holds the Saidai-ji Eyō.
+KAIWA:8015d620	 holds the Awa Odori.
+KAIWA:8015d638	Tomorrow, 
+KAIWA:8015d640	 opens the Neputa Festival.
+KAIWA:8015d65c	From the 4th, 
+KAIWA:8015d668	 opens Kantō lanterns.
+KAIWA:8015d680	From the 6th, 
+KAIWA:8015d68c	 opens the Tanabata.
+KAIWA:8015d6a4	From the 28th, 
+KAIWA:8015d6b0	 opens the Sanja Festival.
+KAIWA:8015d6c8	From the 5th, 
+KAIWA:8015d6d4	 opens the Onbashira Festival.
+KAIWA:8015d6ec	From the 20th, 
+KAIWA:8015d6f8	 opens Owara Kaze no Bon.
+KAIWA:8015d714	From the 15th, 
+KAIWA:8015d720	 opens the Gion Fair.
+KAIWA:8015d738	From the 10th, 
+KAIWA:8015d744	 opens the Saidai-ji Eyō.
+KAIWA:8015d760	From the 12th, 
+KAIWA:8015d76c	 opens the Awa Odori.
+KAIWA:8015d784	Tonight many doll lanterns appear.
+KAIWA:8015d7ac	At night, lantern poles hung with lanterns parade.
+KAIWA:8015d7e4	Lovely streamers deck the town: Sendai's pride.
+KAIWA:8015d81c	It's a rough festival, always with some blood.
+KAIWA:8015d858	You're lucky to see this festival, sir.
+KAIWA:8015d88c	Even this backwater swarms with people at festival time.
+KAIWA:8015d8c8	Gorgeous floats parade through town.
+KAIWA:8015d8f0	At midnight, loincloth-clad men fill the main hall.
+KAIWA:8015d924	Tonight we dance through the streets.\nJoin us, sir?
+KAIWA:8015d960	Namahage come every New Year's Eve.
+KAIWA:8015d988	The Danjiri Festival will soon start outside Ōsaka.
+KAIWA:8015d9c0	The Namahage come tonight too.
+KAIWA:8015d9e0	They hold the Danjiri Festival on the road to Wakayama.
+KAIWA:8015dae4	Why not woo a lady with a tortoiseshell hairpin?\n
+KAIWA:8015db14	As a souvenir, 
+KAIWA:8015db20	How about uirō as a souvenir?\n
+KAIWA:8015db40	's Bear Gall will soon cure a mild illness.
+KAIWA:8015db78	's Mankintan mends cuts in no time.
+KAIWA:8015dbac	As for castella, 
+KAIWA:8015dbbc	For a lady's make-up, 
+KAIWA:8015dbd0	For a ladies' man, 
+KAIWA:8015dbdc	 sells Western vidro glass.\nSure to please.
+KAIWA:8015dc10	's Kibi Dango is the best souvenir.
+KAIWA:8015dc34	If you want Akafuku, 
+KAIWA:8015dc4c	 sells tsukeage, best on hot rice.
+KAIWA:8015dc80	As for fine Satsuma Kiriko, 
+KAIWA:8015dc94	For a Hakata souvenir, 
+KAIWA:8015dca4	Hakata's speciality is 
+KAIWA:8015dcb4	's chestnut mochi is lovely with sencha.
+KAIWA:8015dce0	In these times, 
+KAIWA:8015dcf0	If you come to Hino, 
+KAIWA:8015dd00	As for rare Western liquor, 
+KAIWA:8015dd14	As for the sweet konpeitō, 
+KAIWA:8015dd30	As for foreigners' tobacco, 
+KAIWA:8015dd44	's salt yōkan is nicely not too sweet.
+KAIWA:8015dd6c	Speaking of sweets, 
+KAIWA:8015dd80	's Kaminari Okoshi: ever had it?\nThe best with tea.
+KAIWA:8015ddb8	After seeing the Kamakura Buddha, 
+KAIWA:8015ddcc	As for the Momotarō kibi dango, 
+KAIWA:8015dde8	As for the famed Akafuku, 
+KAIWA:8015ddf8	Have you tried the famed Abekawa-mochi?\n
+KAIWA:8015de18	's manjū is the best in Japan.
+KAIWA:8015de30	's chestnut zenzai is Japan's best.
+KAIWA:8015de4c	As for wine, a rare Western drink, 
+KAIWA:8015de6c	As for beer, a rare Western drink, 
+KAIWA:8015de8c	's Chinese noodles: ever had them?\nDo try them.
+KAIWA:8015dec8	As for fried rice, a Qing dish, 
+KAIWA:8015dee0	As for Kyūshū's karashi-renkon, 
+KAIWA:8015def8	Sanuki udon is a cut above the rest.\n
+KAIWA:8015df18	Boar meat is quite good too.\n
+KAIWA:8015df34	There is a place that serves pork.\n
+KAIWA:8015df58	How about Ōsaka's battera?\n
+KAIWA:8015df7c	's bubuzuke: ever had it?\nNice now and then.
+KAIWA:8015dfb0	When in Kyōto, 
+KAIWA:8015dfc0	Speaking of grilled eel, 
+KAIWA:8015dfd8	Speaking of unajū, 
+KAIWA:8015dfe8	's horse sashimi ruins all other sashimi for you.
+KAIWA:8015e024	's miso-nikomi udon is Japan's best.
+KAIWA:8015e044	Have you ever eaten beef?\n
+KAIWA:8015e064	's Edo-style sushi can't be had just anywhere.
+KAIWA:8015e0a0	's kiritanpo hotpot: ever had it?
+KAIWA:8015e0c4	's salmon roe is top quality.
+KAIWA:8015e0dc	's sea urchin is top quality.
+KAIWA:8015e0f0	Have you visited many shops, sir?
+KAIWA:8015e118	 serves it.
+KAIWA:8015e128	 is the only place.\nThe thick eel is irresistible.
+KAIWA:8015e150	 is the only place.\nSkip it and you'll regret it.
+KAIWA:8015e178	's Kyō kaiseki is a must, or heaven will punish you.
+KAIWA:8015e1a0	 is where you can eat it.
+KAIWA:8015e1b4	 is the shop for it.
+KAIWA:8015e1c4	 is where to try it.
+KAIWA:8015e1d4	 is where to drink it.
+KAIWA:8015e1ec	 is where to eat it.
+KAIWA:8015e208	's Daibutsu-mochi is a must.
+KAIWA:8015e22c	's three-colour dango is best.
+KAIWA:8015e244	 sells it.
+KAIWA:8015e254	 has it.
+KAIWA:8015e260	 has it in stock.
+KAIWA:8015e274	's Ishida Powder is worth buying.
+KAIWA:8015e298	's forehead guard is a must for safety!
+KAIWA:8015e2b8	's chain mail will keep you safe!
+KAIWA:8015e2dc	's Hakata-ori.
+KAIWA:8015e2ec	's Hakata dolls are the best.
+KAIWA:8015e304	 has it on sale.
+KAIWA:8015e318	 is the place to go.
+KAIWA:8015e330	's eau de cologne is a must.
+KAIWA:8015e350	's foundation powder, perhaps?
+KAIWA:8015e378	 is the only place to buy it.
+KAIWA:8015e394	's Kaminari Okoshi, perhaps?
+KAIWA:8015e3b0	 has it.
+KAIWA:8015e3c0	I saw sonnō-jōi rōnin go into a haberdasher's in Nakagyō.
+KAIWA:8015e3f8	They say a Mimawarigumi man is plotting treason at an inn in Shimizu.
+KAIWA:8015e434	Shinsengumi men are hanging about in Shimogyō, but...
+KAIWA:8015e468	I hear Shinsengumi men are wrecking merchants' shops in Nakagyō.
+KAIWA:8015e4a4	Rumour says Chōshū men are hiding at an inn in Nakagyō.
+KAIWA:8015e4d8	A rōnin from Ōmi is gathering sonnō-jōi rōnin in Kamigyō.
+KAIWA:8015e50c	At a temple in Shimogyō, sonnō-jōi rōnin and a Confucian scholar are plotting evil.
+KAIWA:8015e54c	There seems to be a gathering place for sonnō-jōi rōnin in Kawaramachi.
+KAIWA:8015e580	I saw Takeda-sama go into the Satsuma residence.
+KAIWA:8015e5b8	Sakamoto-sama of Tosa comes and goes at the Teradaya in Fushimi.
+KAIWA:8015e5f0	They say the Masuya's master was once a samurai.
+KAIWA:8015e618	I've seen Kusunoki-sama with a Chōshū man.
+KAIWA:8015e654	I often see Arakida-sama of the Shinsengumi in Kawaramachi.
+KAIWA:8015e680	A samurai in Shimabara claims he cut down a Shinsengumi man.
+KAIWA:8015e6b8	Rumour says a runaway Higo rōnin hides in Gion.
+KAIWA:8015e6e8	The Yamakinuya in Gion is attacked by rōnin again and again.
+KAIWA:8015e720	Rumour says Chōshū men are hiding in Shimizu.
+KAIWA:8015e74c	I often see Chōshū men near their residence.
+KAIWA:8015e77c	A rōnin using the Shinsengumi's name is at Nijō Castle.
+KAIWA:8015e7b4	Lately a samurai has been extorting loans in Shimabara, they say.
+KAIWA:8015e7ec	Rōnin are said to hold secret meetings in Nishijin.
+KAIWA:8015e894	He's hugely popular with the town's women.
+KAIWA:8015e8b0	Rumour says he is gravely ill.
+KAIWA:8015e8e0	They say no one in Edo can match his swordsmanship.
+KAIWA:8015e914	They say he's the sharpest mind in the Shinsengumi.
+KAIWA:8015e940	Hijikata-sama made the Shinsengumi what it is, they say.
+KAIWA:8015e978	Every woman around here admires him, they say.
+KAIWA:8015e9a8	He leads the Shinsengumi: a remarkable man.
+KAIWA:8015e9d8	Kondō-sama holds the Shinsengumi together, I hear.
+KAIWA:8015ea0c	No mere dōjō master, he hides something deep.
+KAIWA:8015ea40	He is said to hold the shogunate's real power.
+KAIWA:8015ea6c	He has a calibre beyond ordinary shogunate men.
+KAIWA:8015ea9c	As America's envoy, he has a great many worries.
+KAIWA:8015ead4	Satsuma and Chōshū samurai often call on him...
+KAIWA:8015eafc	He has lately settled into an idle post.\nPoor man...
+KAIWA:8015eb34	He has been abroad, I hear.
+KAIWA:8015eb60	He built the shogunate's navy, I hear.
+KAIWA:8015eb88	He always goes out in flamboyant dress.
+KAIWA:8015ebb4	He is chief of the sonnō-jōi shishi, they say.
+KAIWA:8015ebd4	He works tirelessly for the loyalist cause.
+KAIWA:8015ebfc	's Sakamoto-sama? Everyone knows him.
+KAIWA:8015ec28	He is always busy with affairs of state.
+KAIWA:8015ec50	He is to form a rōnin navy, I hear.
+KAIWA:8015ec7c	He is very famous in Tosa, I hear.
+KAIWA:8015eca4	His life as a fugitive was hard, they say.
+KAIWA:8015ecd0	He's been missing since the Ikedaya Incident, they said.
+KAIWA:8015ed00	He leads the Chōshū sonnō shishi, I hear.
+KAIWA:8015ed2c	Katsura-sama's swordsmanship rings through all Edo.
+KAIWA:8015ed58	He is the great man holding this country together now.
+KAIWA:8015ed8c	With that big frame, he works hard for the nation.
+KAIWA:8015edc4	I feel the Tosa men will save this country.
+KAIWA:8015edf8	Something terrible happened in his home domain, I hear.
+KAIWA:8015ee28	The Tosa men work hard for the loyalist cause, I hear.
+KAIWA:8015ee58	Tosa men are mostly a fiery lot.
+KAIWA:8015ee84	Lately all the Tosa men are busy with state affairs.
+KAIWA:8015eeb8	We don't see the Loyalist Party men any more.
+KAIWA:8015eee4	The gōshi have been doing remarkable work lately.
+KAIWA:8015ef10	The upper and lower samurai fight bitterly...
+KAIWA:8015ef34	Lately the Tosa men seem busy with state affairs.
+KAIWA:8015ef68	We hardly hear of the Tosa men these days.
+KAIWA:8015ef9c	They say it's Tosa men behind the Tenchū killings...
+KAIWA:8015efcc	Every Tosa man debates state affairs hotly.
+KAIWA:8015f000	We've heard little of the Mito men lately.
+KAIWA:8015f034	Mito samurai are all renowned men.
+KAIWA:8015f068	It's a pity Mito has lost its old vigour lately.
+KAIWA:8015f0a4	The Mito men are busy with state affairs.
+KAIWA:8015f0d4	Shipping looks set to succeed in the coming age.
+KAIWA:8015f100	Here in Nagasaki, 
+KAIWA:8015f110	The Shinsengumi men have it hard.
+KAIWA:8015f12c	The Shinsengumi keeps the peace in Kyōto, I hear.
+KAIWA:8015f160	They work hard to keep order in Kyōto, I hear.
+KAIWA:8015f198	With the shogunate gone, the Shinsengumi too...
+KAIWA:8015f1c0	No one can defy the Shinsengumi, of course.
+KAIWA:8015f1e8	The Shinsengumi guards the peace of Kyōto, I hear.
+KAIWA:8015f218	Satsuma samurai are all so finely dressed.
+KAIWA:8015f244	Satsuma samurai all eat sweet potatoes, I hear.
+KAIWA:8015f274	Everyone rejoices at the Satsuma samurai's deeds.
+KAIWA:8015f2a0	Satsuma samurai are busy with state affairs.
+KAIWA:8015f2dc	Defeating the shogunate: Chōshū is not to be scorned.
+KAIWA:8015f318	Is Chōshū finished, then?
+KAIWA:8015f33c	Poor Chōshū, what trouble it met in Kyōto.
+KAIWA:8015f370	Chōshū samurai are busy with state affairs.
+KAIWA:8015f3ac	I hope they settle the realm on the strength of beating the shogunate.
+KAIWA:8015f3e4	The domain is in turmoil; everyone has gone mad.
+KAIWA:8015f418	All the samurai burn to regain ground in Kyōto.
+KAIWA:8015f448	Their work in Kyōto is splendid.
+KAIWA:8015f46c	I'm glad the Chōshū men are back in Kyōto.
+KAIWA:8015f4a0	Is something afoot, with them in Kyōto now?
+KAIWA:8015f4d8	Since the coup, the Chōshū men keep a low profile.
+KAIWA:8015f514	All the Chōshū men look so fine.
+KAIWA:8015f53c	At %s you'll find %s's %s-sama.
+KAIWA:8015f55c	Chōshū
+KAIWA:8015f564	At %s you'll find %s-sama.
+KAIWA:8015f580	Satsuma
+KAIWA:8015f590	 men look dashing.
+KAIWA:8015f5ac	Mito
+KAIWA:8015f5b4	At %s you'll find %s%s%s-sama.
+KAIWA:8015f6ec	This area is unsafe.\nTake care, sir.
+KAIWA:8015f728	This is a fairly decent place to live.
+KAIWA:8015f758	This area is very safe and easy to live in.
+KAIWA:8015f7ac	We don't seem to understand each other...
+KAIWA:8015f7d0	Ee ja nai ka, ee ja nai ka
+KAIWA:8015f7f0	There is no one to talk to.
+KAIWA:8015f810	You spoke to them, but were ignored.
+KAIWA:8015f82c	No one is about.
+KAIWA:8015f838	They are in no state to talk.
+KAIWA:8015f870	Any crying children here...?
+KAIWA:8015f884	End Talk
+KAIWA:8015f890	About Incidents
+KAIWA:8015f8b0	What can I do for you, sir?
+KAIWA:8015f8d0	What would you be wanting?
+KAIWA:8015f8ec	Oh, you have no business, then?
+KAIWA:8015f910	Well then, I will be going.

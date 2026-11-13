@@ -1,0 +1,603 @@
+@0
+Kondō-san, a rōnin-looking fellow has come with a challenge from another school!
+
+@1
+Which dōjō is it?
+
+@2
+Need you ask?
+
+@3
+...The Suzaku-kan.
+
+@4
+They say they'll come here next month.
+
+@5
+Hm. If they can't win in real fights, they mean to shame us in a bamboo-sword match?
+
+@6
+They take us for fools.
+
+@7
+They want each side to send five representatives.
+
+@8
+Even so, who at our dōjō is strong with the bamboo sword?
+
+@9
+Kondō-san, as master of the dōjō, can't be allowed to lose on any account.
+
+@10
+Then first Okita, then Hijikata-san...
+
+@11
+Yamanami-kun, you hold the Hokushin full licence, don't you?
+
+@12
+No, I...
+
+@13
+What's the matter?
+
+@14
+I'm sorry, but I have a prior engagement...
+
+@15
+Hmph, no doubt a most important one. Then let Tōdō-kun, who holds the Hokushin mokuroku, take his place.
+
+@16
+Of course! What about Sanosuke?
+
+@17
+Me, I came up through the spear, after all.
+
+@18
+Where's Gen-san gone? How about Gen-san?
+
+@19
+Huh? He isn't here?
+
+@20
+Gen-san, is it...
+
+@22
+Hmm, how about Saitō-kun?
+
+@23
+Yes. I don't mind.
+
+@24
+That makes four... we need one more.
+
+@25
+Let's ask the Saitō dōjō for a helper, as we always do.
+
+@26
+That's the only way. Toshi-san, sorry, but could you go and make the arrangements with the Renpeikan in Banchō-Iida?
+
+@29
+Visit the Renpeikan in Banchō-Iida.
+
+@30
+...No.
+
+@31
+Oh, have it your way. Toshi-san hates asking favours of people.
+
+@32
+Yamanami-kun, Tōdō-kun, could you two go instead?
+
+@34
+He'll be standing in for me, after all, so I'll bring back a man worthy of it.
+
+@35
+Ah, from the Shieikan... Hijikata-kun, if I remember!
+
+@36
+Another match with another school? You always have a hard time of it.
+
+@37
+Hmm, Katsura-kun would surely win, but he's back in his domain now.
+
+@38
+Ah, I know. There's a good man.
+
+@39
+He isn't one of my pupils, but a man of the same school happens to be here for outside training. He holds the full licence.
+
+@40
+Nagakura-kun! Hey, Nagakura-kun!
+
+@41
+Yes, sir!
+
+@43
+Would you go as a helper for a match with another school?
+
+@44
+Eh, a match with another school?
+
+@45
+I'd like you to help these gentlemen's dōjō. It's called the Shieikan. I have an agreement with its master, Kondō-kun: whenever they have a match with another school, we send a helper.
+
+@46
+Hmm, sounds fun. I'll take it!
+
+@47
+I'll be there on the day of the match. See you then.
+
+@51
+Oh, found him.
+
+@53
+I've been looking for you, Hijikata-san. So this is where you were.
+
+@54
+What is it, Sōji? Has something happened?
+
+@55
+Don't "what is it" me! The match with the Suzaku-kan is about to begin. Let's hurry back.
+
+@56
+While you weren't showing your face at the dōjō, the Suzaku-kan lot challenged us to a match.
+
+@57
+Hmph. If they can't win in real fights, they mean to shame us in a bamboo-sword match.
+
+@58
+That's about it, I think. And the day of the match is near. Please hurry.
+
+@59
+Oh, you've come, Toshi-san.
+
+@60
+At last the Suzaku-kan makes its appearance. Are you ready?
+
+@61
+Whenever you like.
+
+@62
+And Nagakura-dono of the Renpeikan?
+
+@63
+Yes, sir!
+
+@64
+Good, everyone's here. Everybody, just win, whatever it takes.
+
+@65
+Leave it to me!
+
+@66
+Don't I get to fight?
+
+@67
+Gen-san!? You came?
+
+@68
+"You came?" What's that? I'm Kondō-san's disciple too.
+
+@69
+No, there's no need for you to fight this time, Gen-san. Please just watch at your ease.
+
+@70
+Is that so? Then I'll do that.
+
+@72
+The contest is five bouts: first, second, centre, vice-captain and captain!
+
+@73
+For the Shieikan, first bout: Tōdō Heisuke!
+
+@74
+Vanguard Sensei, I'm counting on you!
+
+@76
+Winner! Shieikan, Tōdō!
+
+@77
+Well done, Heisuke!
+
+@78
+Good, a lucky start. Follow Heisuke's lead!
+
+@79
+Second bout: Saitō Hajime!
+
+@81
+Winner! Shieikan, Saitō!
+
+@82
+He's strong... who on earth is that man?
+
+@83
+Well, I never heard he was at any particularly famous dōjō.
+
+@84
+Surely he isn't self-taught?
+
+@85
+Who knows.
+
+@86
+Centre bout: Okita Sōji!
+
+@87
+With Okita next, it's as good as settled.
+
+@88
+No, no. We win all five, so the Suzaku-kan lot can never show their faces in the street again.
+
+@89
+Ha ha, that's the spirit!
+
+@90
+I'm off, then.
+
+@91
+Winner! Shieikan, Okita!
+
+@92
+It's over already?
+
+@93
+That was a bit of a struggle.
+
+@94
+...What struggle?
+
+@95
+Vice-captain: Nagakura Shinpachi!
+
+@96
+Nagakura-dono, I leave it to you.
+
+@98
+Now our helper makes his entrance.
+
+@99
+...Who's that?
+
+@100
+A swordsman of the Shintō Munen-ryū.
+
+@101
+Let's see what he can do.
+
+@102
+Winner! Shieikan, Nagakura!
+
+@103
+He's good.
+
+@104
+That's a Munen-ryū full licence for you...
+
+@105
+His swordwork is clean.
+
+@106
+Good, win the captain's bout and it's a clean sweep. After challenging us and losing every bout, they won't be able to walk the streets of Edo.
+
+@107
+But if they win the captain's bout, they can still save a little face. They'll come in earnest.
+
+@108
+Shieikan, captain: Hijikata Toshizō!
+
+@109
+I'm counting on you, Toshi-san. Finish them off.
+
+@110
+Suzaku-kan, captain: Ueda Umanosuke!
+
+@112
+I don't know him... was he at the Suzaku-kan?
+
+@113
+I've heard of him. Until he lost to Sakamoto Ryōma of the Hokushin school the other day, he was a man whose swordsmanship was famed in Edo. They probably hired him as a helper.
+
+@114
+They think the same way we do, then.
+
+@115
+Don't let your guard down.
+
+@116
+Yes! A clean sweep!
+
+@117
+Toshi-san! Well done!
+
+@118
+Winning a bamboo-sword match is nothing to boast about.
+
+@119
+No, no. A dōjō's reputation rises precisely by winning matches like this.
+
+@120
+Hmm, hmm, too bad.
+
+@121
+Well, as a match, we won. Don't worry about it.
+
+@123
+Nagakura-dono, you saved us.
+
+@124
+Not at all. I'm ashamed to have shown you such clumsy swordsmanship.
+
+@125
+A small token, if you will. Please accept it.
+
+@126
+No, no, I must decline. In return, I have a favour to ask.
+
+@127
+A favour?
+
+@128
+Would you let me stay here?
+
+@130
+I was amazed to see your swordsmanship. Forgive me, but I'd honestly never heard of this dōjō, so I never imagined such men were here.
+
+@131
+You flatter us. Bamboo-sword matches are this dōjō's great weakness.
+
+@132
+Heh heh heh...
+
+@134
+And in a real fight?
+
+@136
+Well?
+
+@137
+...We yield to no other school.
+
+@138
+That's just it.
+
+@140
+Your strikes all assume a real blade.
+
+@141
+Swordsmanship these days chases technique alone, and so has become as gorgeous as a dance but useless in a real fight. I want to train in true swordsmanship.
+
+@142
+Ha ha ha ha ha!
+
+@143
+Nagakura-dono, that is exactly the sword this dōjō aims at.
+
+@144
+I thought as much.
+
+@145
+Very well, we welcome you as a guest.
+
+@146
+No, no, that won't do.\nI would rather be a mere disciple and take the lowest seat among you.
+
+@147
+In truth, half the instructors here are little more than lodgers.\nBeing a guest earns no special treatment.
+
+@148
+I see. In that case, I look forward to training with you.
+
+@149
+Do you have a moment?
+
+@151
+Which dōjō is making the biggest name for itself in Edo now, would you say?
+
+@152
+Not the Shieikan, that's for sure!
+
+@153
+Surely one of the Three Great Dōjō.
+
+@154
+Momonoi Shunzō's Shigakukan, perhaps.
+
+@155
+No, it has to be Saitō Yakurō's Renpeikan. They say Katsura Kogorō, who used to be head of the school there, is the finest swordsman in Japan.
+
+@156
+Sakamoto of the Hokushin school beat that Katsura in a challenge match.
+
+@157
+They say that was because Sakamoto used a trick. In a fair fight, Katsura-kun would win however many times they met.
+
+@158
+Still, there's no denying the Chiba school has many talents. Kiyokawa Hachirō, from the main Genbukan, is now a famous man across the country.
+
+@159
+What do you think, Toshi-san?
+
+@160
+What's the use of asking?
+
+@161
+At this rate we'll end up as obscure country swordsmen who never amount to anything.
+
+@163
+What must we do for this Shieikan to win a name that outshines the Three Great Dōjō?
+
+@164
+There must be a way\nI'm not interested
+
+@165
+Kondō-san, what does the Tennen Rishin-ryū have that other schools lack?
+
+@166
+Strength in real combat, of course.
+
+@167
+But a match can't prove that.
+
+@169
+With the world falling into disorder, now's our chance to show our strength.
+
+@170
+What, cut down a foreigner to make a splash?
+
+@171
+We'd only be caught and that'd be the end. Never mind, the shogunate is in peril, and our chance will surely come soon.
+
+@172
+I've no interest in the fame the Three Great Dōjō built on bamboo-sword matches. A sword is only a sword if it can cut a man in a real fight.
+
+@174
+Once war breaks out, they'll see our strength whether they like it or not.\nIn times like these, that isn't so far off.
+
+@175
+Looks like the cholera is going around again.
+
+@176
+Really? How awful.
+
+@177
+It's a disease the foreigners brought in, isn't it?
+
+@178
+Don't worry. In your case, the sickness will run away from you.
+
+@180
+Snow?
+
+@182
+"The morning snow"...
+
+@184
+"No sign of cold"\n"Shows how busy"
+
+@185
+"This morning's snow"\n"Tenma-chō"
+
+@187
+...Rubbish.
+
+@188
+The morning snow\nshows how busy\nTenma-chō is.
+
+@189
+...Hm, not a bad little piece.
+
+@191
+Hijikata-san, trouble!
+
+@193
+It seems Tōdō-kun and Inoue-san saw something while they were out training.
+
+@195
+Huff, huff. Those Suzaku-kan men have hired a pack of thugs and are heading along the Kōshū Road to Edo!
+
+@196
+What!
+
+@197
+Wheeze, wheeze. They must mean to attack the Shieikan!
+
+@198
+So they've finally stopped caring what means they use.
+
+@199
+Hmph. No need to wait. We'll go to them.
+
+@200
+It's war, then.
+
+@201
+Whoo!
+
+@202
+Let's split into two units. Kondō-san leads one, I lead the other.
+
+@203
+Right. First unit: Okita, Nagakura-kun, Saitō-kun!
+
+@206
+Shall we?
+
+@207
+Second unit: Gen-san, Yamanami-kun, Tōdō-kun, Harada-kun!
+
+@208
+I'm itching for a fight.
+
+@209
+Very well.
+
+@210
+Leave it to me!
+
+@211
+Heh heh heh, I'll cut them to pieces!
+
+@212
+Toshi-san, which unit do you want?
+
+@213
+First unit: Okita, Nagakura, Saitō\nSecond unit: Inoue, Yamanami, Tōdō, Harada
+
+@214
+Good, get ready! We march!
+
+@215
+Oh!\nHijikata-san, that...
+
+@216
+Hm!
+
+@217
+There they are! Get them!
+
+@218
+Gah! The Shieikan!!
+
+@219
+Kondō-san, how is it over there?!
+
+@220
+We've just about finished them!
+
+@221
+Eeek! W-we're no match for them!
+
+@222
+Ha ha ha! Learned your lesson?
+
+@223
+That's the end of the Suzaku-kan.
+
+@224
+...Somehow, it feels a little lonely.
+
+@225
+Ha ha ha, lonely, is it? True, they made a perfect brawling partner!
+
+@226
+Tch... impossible!
+
+@227
+We're done here! Coming over now!
+
+@228
+Tch! The tide is against us. Pull out!
+
+@229
+...We managed to snatch a win.
+
+@230
+That should quiet them down.
+
+@231
+Let's hope so.
+
+@237
+Maybe I'll drop in at the Shieikan for a change.
+

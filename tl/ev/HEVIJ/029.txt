@@ -1,0 +1,231 @@
+@1
+They say former shogunate retainers and Hitotsubashi vassals have formed a band of warriors to repay the Tokugawa's kindness.
+
+@2
+Their base is the Gannabe in Koishikawa. Let's go and see.
+
+@3
+Preparing to meet the Satsuma-Chōshū army in Edo.
+
+@4
+Go to the Gannabe in the Koishikawa district.
+
+@5
+Hijikata-san. Let's go to the Gannabe.
+
+@6
+I am Amano Hachirō, entrusted with command of the three thousand men of the Shōgitai.
+
+@7
+Three thousand. You've gathered quite a number.
+
+@8
+That Hijikata-dono of the renowned Shinsengumi lends us his strength is most welcome. The men's morale will surely rise.
+
+@9
+I have arranged lodgings at the nearby Matsubara-rō. Use them as you please.
+
+@11
+As a force of the Shōgitai, preparing to meet the Satsuma-Chōshū army.
+
+@13
+The men here are rotten to the core. They draw fat pay from the old shogunate's high officials and spend every day carousing.
+
+@14
+They talk big about cutting down the imperial side's samurai who strut through Edo as if they owned it, but they never touch men of Satsuma, Chōshū or Tosa, because those are tougher than the other domains' men.
+
+@18
+Hey, Hijikata-san!
+
+@19
+Sanosuke? Didn't you go to Ōshū?
+
+@20
+Well, I came back alone. Running around just isn't in my nature.
+
+@21
+And so you joined the Shōgitai?
+
+@22
+Yes, something like that.
+
+@23
+Let's go out in a blaze of glory.
+
+@24
+Hijikata-san, the imperial army has finished deploying! It looks like it's starting!
+
+@25
+Here they come!
+
+@26
+What a range! Where in the world are they firing from?!
+
+@27
+Their guns are too far superior. This isn't a battle at all!
+
+@29
+We circle round behind the enemy!
+
+@30
+Through this barrage?
+
+@31
+We have to silence those monster cannon, or we'll be wiped out before we've done a thing.
+
+@32
+True...
+
+@34
+Good, fire!
+
+@35
+Shinsengumi, charge!!
+
+@36
+Yeah!!
+
+@37
+S-Shinsengumi!! Fire, fire!!
+
+@38
+The Shinsengumi, unbeaten in small-scale street fighting, could not show its true worth against modern weapons.
+
+@40
+No good! All men, retreat!
+
+@41
+What of the main body of the Shōgitai?
+
+@42
+It's hopeless! They're all just fleeing in panic, and their commander Amano-dono can barely rally them. They're in no state to fight!
+
+@43
+Hatamoto and Hitotsubashi men... they're all the same in the end.
+
+@44
+In the end, a thoroughly miserable defeat.
+
+@45
+If they had that much money to carouse with, they could have bought a gun or two.
+
+@46
+Their leader Amano is missing too...
+
+@47
+There's no telling when the imperial army will sniff us out here.
+
+@48
+I never thought I'd end up in a position like this.
+
+@50
+Lying low in Edo.
+
+@51
+Wait for a chance to escape Edo.
+
+@52
+Hijika... ta... san.
+
+@53
+Sōji! What is it?!
+
+@54
+That black cat...
+
+@55
+...That black cat is here again today.
+
+@56
+A black cat?
+
+@62
+Cough, cough!
+
+@63
+Hold on.
+
+@64
+...Hijikata-sa... n, are you still... going to fight?
+
+@65
+Yes, I'll keep fighting. To the ends of the earth.
+
+@66
+...Me too...
+
+@67
+Sōji?
+
+@70
+Sōjiiii!!
+
+@76
+...Ugh.
+
+@79
+Hijikata-san! The old shogunate's navy has arrived at Shinagawa!
+
+@81
+They plan to gather the remaining shogunate retainers and make a comeback in Ōshū.
+
+@82
+Then our only choice is to go along with them.
+
+@83
+Can we get out of Edo?
+
+@84
+By now the fuss should have died down. I think Shinagawa at least will be no problem.
+
+@85
+I'll pass.
+
+@86
+Sanosuke?
+
+@87
+I came back on purpose, having decided Edo is where I die. It's too late to go to Ōshū now.
+
+@88
+...Nothing I say will change your mind?
+
+@90
+Don't die a sorry death.
+
+@91
+Same to you, Hijikata-san.
+
+@92
+Escape Edo and head for Shinagawa harbour.
+
+@93
+Found you, Hijikata Toshizō!
+
+@94
+What! Hijikata?!
+
+@96
+No mistake! I'd never forget the face of the man who killed our comrades!
+
+@97
+To arms! To arms!
+
+@98
+Hijikata Toshizō was at last captured by the imperial army, and set out for the underworld where Kondō and Okita awaited.
+
+@99
+Who goes there?
+
+@100
+Would you care to take the Shinsengumi along to Ōshū?
+
+@101
+The Shinsengumi? Hijikata-dono!?
+
+@102
+I am Enomoto Takeaki, in command of the shogunate navy. We sail shortly, so board quickly!
+
+@103
+I'm in your debt.
+

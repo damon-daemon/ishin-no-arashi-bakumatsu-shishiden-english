@@ -1,0 +1,789 @@
+@0
+Serve as Vice-Commander of the Shinsengumi, keeping the peace in Kyōto.
+
+@2
+Toshi-san, I've taken in some new men.
+
+@4
+The Shinsengumi's strength rose by 3!
+
+@5
+Toshi-san, now the Shinsengumi's real work begins.
+
+@6
+Yes. It begins now.
+
+@7
+Ōishi Kuwajirō, at your service.
+
+@8
+My name is Abe Jūrō.
+
+@9
+Ogata Shuntarō here.
+
+@10
+Ōishi-kun, you'll go to the front line at once. Abe-kun, I'd like you to research gunnery. Ogata-kun seems best suited to be an inspector.
+
+@11
+I'll cut them down left and right.
+
+@12
+Leave it to me.
+
+@13
+Understood.
+
+@14
+By the way, I overheard a rumour...
+
+@16
+They say a band of levy-takers is lying low around Nishijin and Nijō.
+
+@17
+Hm...
+
+@18
+(For the time being, I'll patrol mainly around Nishijin and Nijō Castle.)
+
+@19
+Patrol and gather information.\n(Key areas: Kawaramachi, Nakagyō, Nishijin, Nijō Castle)
+
+@20
+Shinsengumi. Official inspection!
+
+@21
+What? Shinsengumi?
+
+@22
+All of you, come with us to headquarters.
+
+@23
+All of you, you're coming with us to headquarters.
+
+@24
+Don't mess with us! Come outside!
+
+@26
+Hijikata Toshizō's renown rose by 40!
+
+@27
+Shinsengumi!
+
+@28
+Give up! We know everything.
+
+@29
+Damn! We've been found out!
+
+@31
+Hijikata Toshizō's renown rose by 30!
+
+@32
+Official inspection!
+
+@33
+Official inspection!
+
+@34
+!? No way... damn!
+
+@35
+He's fled out the back, don't let him escape!
+
+@36
+He's fled out the back, don't let him escape!
+
+@38
+Hijikata Toshizō's renown rose by 20!
+
+@39
+Toshi-san, today I'm meeting senior retainers of the domains at the Ichiriki in Gion. Come with me.
+
+@41
+No, I have corps duties.
+
+@42
+I see. Then I leave the rest to you.
+
+@43
+Let's go.
+
+@44
+Toshima Kihei, official liaison of the Aizu Domain.
+
+@45
+Ohara Tesshin, house elder of the Ōgaki Domain.
+
+@46
+Sakai Magohachirō, house elder of the Kuwana Domain.
+
+@47
+Okamoto Hansuke, house elder of the Hikone Domain.
+
+@48
+These are men of the Shinsengumi, serving under our domain.
+
+@49
+Kondō Isami, Commander of the Shinsengumi.
+
+@50
+Hijikata Toshizō.
+
+@51
+We would have you give your all to keep the peace in Kyōto.
+
+@52
+Understood.
+
+@53
+Persuade everyone\nLeave at once
+
+@54
+(Kondō-san, this is a good chance to make our presence felt.)
+
+@56
+I would like to take this opportunity to set out our convictions to you all.
+
+@59
+As you say, I shall return to my corps duties at once.
+
+@60
+Then, we take our leave.
+
+@61
+Toshi-san. It seems Arakida was a spy after all.
+
+@62
+Yes.\nWell, he's dead now.\nNo use worrying about it.
+
+@63
+Of course, if there are other spies, I'll show no mercy.
+
+@65
+Toshi-san. It seems that wretch Arakida has given himself away. What shall we do?
+
+@66
+Execute him\nOverlook it
+
+@67
+Needless to say...
+
+@68
+I'll leave the punishment to you. Arakida is at the Yagi residence now.
+
+@69
+Nagakura-kun, Saitō-kun, come here.
+
+@72
+Arakida-kun, I have to cut you down. You know why, I trust?
+
+@74
+Don't let him get away.
+
+@75
+There may still be spies in the corps.
+
+@76
+Patrol and gather information.\n(Key areas: Kawaramachi, Mibu, Nishijin, Nijō Castle)
+
+@77
+Let's wait and see for a while.
+
+@78
+Hm... I see.
+
+@80
+(Kusunoki Kojūrō, who died in the line of duty the other day, is suspected of having been a spy...)
+
+@81
+(Well, it's all over now.)
+
+@82
+That Kusunoki Kojūrō seems to have been a suspicious one.
+
+@85
+Hijikata-san! Kusunoki Kojūrō has run away. What shall we do?
+
+@86
+Pursue\nOverlook it
+
+@87
+Leaving the corps is not permitted. Harada-kun, after him.
+
+@89
+There he is!
+
+@90
+Damn...\nFound me!
+
+@91
+Leave him be.
+
+@92
+Cough! Cough!
+
+@93
+What's wrong? Caught a cold?
+
+@94
+Cough! No... Kyōto's winters are cold.
+
+@95
+Sickness gets in the way of duty. Rest early today.
+
+@98
+Ah-choo!!!\nDamn it!
+
+@99
+Hey, what is it, Sanosuke?\nCaught a cold?\nThey say fools never catch colds, though.
+
+@100
+Get off it.\nIt was freezing on patrol the other day, and I've been under the weather ever since.
+
+@101
+Sniff... Oh, Harada-shan, you've a cold too...? Me too... sniff... my nose is all blocked...
+
+@102
+What, Sōji too?\nHonestly. What good are you, captains, all in that state?
+
+@103
+S-sorry...
+
+@104
+Hey, what's the matter?\nYou all look rather unwell.
+
+@105
+Well, colds are going around, you see...
+
+@106
+Fools!!\nMen of the Shinsengumi, laid low by a cold?!\nYou lack spirit, spirit!
+
+@107
+Well, I can't say spirit will help...
+
+@108
+No, a cold is cured by willpower.\nBesides, everyone has gone slack lately.\nRight, Toshi-san, show them an example.
+
+@109
+M-me?!
+
+@110
+You there, draw water from the well into a bucket.\nVice-Commander Hijikata will now show everyone what spirit is.
+
+@111
+W-water?! H-hey!
+
+@112
+Come, Toshi-san!\nShow them your spirit.
+
+@113
+No choice...\nTurn it back on Kondō-san
+
+@114
+All right, I'll do it!\nWatch closely!
+
+@115
+Yaaah! (Splash!)\nHraaah! (Splooosh!)\nU-ugh!!
+
+@116
+Ugh... brrr...
+
+@117
+Wow...
+
+@118
+Splendid! Everyone, did you see? With this spirit we'll blow the cold away! Now, Harada, you go too.
+
+@119
+No, here it's Kondō-san who should set the example.\nThere's no better way to tighten up the slack in the corps.
+
+@120
+I-is that so...\nVery well! Watch closely!
+
+@121
+Hraaah! (Splash!)\nYaaah! (Splooosh!)\nU-ugh!!
+
+@122
+Oh, that's our Commander!\nWhat tremendous spirit!
+
+@123
+...Of course.\nBrrr...
+
+@124
+There, you've seen it.\nNow, Harada, you go too!\nBrrr...
+
+@125
+Gah!!!
+
+@126
+After that, the men's screams never ceased, and colds spread further, sparing only Commander Kondō...
+
+@135
+Uncle! Where's Brother Sōji?
+
+@136
+Hm? Uncle?
+
+@137
+Hey, isn't Brother Sōji here?\nHe promised to play with me later.
+
+@138
+Oh, it's Ine-chan.\nSorry, sorry, I had some business.
+
+@139
+Honestly, everyone's waiting.\nThen I'll go on ahead.\nOh, it's the usual temple, all right?
+
+@140
+Yes, yes.\nWell then, shall we go...\nHuh? Hijikata-san, were you there?
+
+@141
+Don't "were you there" me...\nI've just been seeing to your visitor. And she called me "uncle", too.
+
+@142
+Heh heh...\nSo much for the demon Vice-Commander, ha ha.
+
+@143
+Oh, why not come along too, Hijikata-san?\nI'm about to play tag with the children.\nOh, but...
+
+@144
+But what?
+
+@145
+You're a demon all the time, Hijikata-san, so you'd always be "it"!\nHa ha ha!
+
+@146
+What?! You dare!
+
+@147
+Whoa! The demon, the demon!\nRun!
+
+@148
+Hey, wait, you rascal!\nPhew... I can never beat that one.
+
+@149
+Tag, eh...\nI used to play it a lot myself back in Hino...
+
+@150
+Ah, Toshi-san.\nCome to the back room, quickly.
+
+@151
+What is it, Kondō-san?
+
+@152
+Today we're all going to play karuta.\nThings are always so grim around here. It's the New Year, and it will be good for fellowship and for deepening our knowledge of waka.
+
+@153
+Karuta? We aren't children...
+
+@154
+Come, don't say that.\nEveryone's already gathered.\nCome along, Toshi-san.
+
+@155
+Now then, let's begin.\nI hope you'll show off all the learning you've built up.
+
+@156
+Ah, karuta, it's been ages!\nI used to play a lot with my sister.
+
+@157
+I'm rather particular about karuta myself.\nMy thrust was even called lightning fast.
+
+@158
+Enough big talk, let's get started.
+
+@159
+You all seem confident, but how far can you keep up with me?
+
+@160
+...(Hmph, they're all fired up.)
+
+@161
+Then Kondō-san will be the reader.
+
+@162
+Right, here we go.
+
+@163
+Hm...
+
+@164
+W-what is it, Commander?
+
+@165
+...\nNo, the writing is cursive and I can't read it.\nSorry, let's call it a day.
+
+@166
+Wh-what was that...
+
+@167
+Oh...
+
+@168
+All right, found you, Yū-bō!\nNext, Toshi-bō is it.
+
+@169
+Now count to ten, all right?\n(Thump)\nOh, sorry...
+
+@171
+Ah! D-demon!\nN-no, Hijikata-san!
+
+@172
+Who's a demon!\nDon't you still have duties to do, Okita-kun?
+
+@173
+Well, that's...
+
+@174
+Well, I'll let it pass today.\nNow, let this demon join your game of tag.
+
+@175
+Yes, of course!\nReally, Hijikata-san, you're mean.\nIf you wanted to join, you should have said so sooner.
+
+@176
+Come, playing with the children clears the mind.\nLet's play with all our might!
+
+@177
+Seeing Hijikata play like a child again, Okita sensed the kindness in his heart...
+
+@178
+A fight, a fight!
+
+@181
+You want to fight me?\nAll right, draw.
+
+@182
+That's... Hitokiri Izō?!
+
+@183
+You bastard, a vagrant like you!
+
+@184
+Hmph!!
+
+@185
+Gwah! Y-you bastard!
+
+@186
+?\nStill alive...
+
+@187
+Yaaah!
+
+@188
+Hah!
+
+@189
+Ugh! Ow, ow, ow!
+
+@190
+(I can't cut him... why?)
+
+@191
+Y-you bastard, remember this!
+
+@192
+You won't get away!\n...Hm!
+
+@194
+Shinsengumi...!!
+
+@195
+You're Okada Izō, aren't you?
+
+@199
+Eeek!
+
+@200
+Heh heh heh, be my woman.\nYou can boast of being held by a sonnō shishi.
+
+@201
+S-stop it, please!
+
+@202
+Ouch!\nY-you, you insulted a patriot who worries for the nation!
+
+@203
+A lout like you is no shishi!
+
+@204
+Wh-what!
+
+@205
+Kneel down there!\nI'll cut you down for your insolence!
+
+@207
+Shut up, don't butt in!
+
+@208
+...!!!
+
+@210
+Renown rose by 30!
+
+@212
+Official inspection.
+
+@213
+Tch, the Shinsengumi!
+
+@217
+Official inspection.
+
+@219
+It's empty.
+
+@220
+(Nobody's here...)
+
+@221
+(...We've been had! There's a spy in the corps!)
+
+@222
+It seems the Ibukiya affair was a false tip after all.
+
+@223
+A false tip?
+
+@224
+I went in a step ahead of you, and it was empty.
+
+@225
+(...We've been had! There's a spy in the corps!)
+
+@226
+Toshi-san, have you a moment?
+
+@228
+I'm going to take an adopted son.
+
+@229
+An adopted son? Who?
+
+@230
+Tani-kun's boy.
+
+@231
+The son has no particular talent above others, does he?
+
+@232
+He is said to be Lord Itakura's illegitimate child. For some reason Tani-kun has taken him in as an adopted son.
+
+@233
+Itakura, you say? That is a proper daimyō house of Bitchū-Matsuyama. Sounds fishy.
+
+@234
+No, it seems to be true. As one entrusted with the peace of Kyōto, I want an heir of proper blood.
+
+@236
+Do as you like. I've nothing to say about it.
+
+@237
+Good. I'll tell the others later.
+
+@238
+The heir of the Shinsengumi ought to be a man of strong arm and fierce courage.
+
+@239
+Roughness alone won't do from now on. He too was raised by Tani-kun, an instructor of the Hōzōin-ryū. With some experience he'll come into his own.
+
+@240
+If you say that much, do as you please.
+
+@243
+That rōnin...
+
+@244
+Call out to him\nLet him pass
+
+@250
+You there, why not quit manslaying and join the naval school?
+
+@253
+...A runaway rōnin.
+
+@260
+Hijikata-san. This man belongs to the shogunate's Naval Training Institute, set up not long ago. He's nothing suspicious.
+
+@261
+The shogunate's?
+
+@262
+Sakamoto-san, a moment...
+
+@265
+(You can't wander about in that getup. We of the Shinsengumi are charged with policing the radical rōnin of Kyōto.)
+
+@268
+...(Was I mistaken, then?)
+
+@269
+Kondō-sensei.
+
+@270
+Ah, Tani-kun.
+
+@271
+There's something you should hear...
+
+@274
+...Now that his son has become Commander Kondō's adopted son, Tani acts as if he were the Commander's right-hand man.
+
+@275
+What's troublesome is his habit of informing. Thanks to him, the men spend their days walking on eggshells around him.
+
+@277
+Look, look, it's Hijikata-han and Okita-han of the Shinsengumi!
+
+@278
+Yes. Hijikata-han is a fine man all right. That cold gaze is irresistible.
+
+@280
+Heh heh, Shino has her eye on Okita-han.
+
+@281
+So that is Okita-han...
+
+@282
+Careful, if you stand there in a daze you'll...
+
+@285
+P-please forgive us!
+
+@286
+Er... I'm so, so sorry!
+
+@287
+We're terribly sorry! This girl was gazing at Okita-han...
+
+@288
+Ha ha ha! Sōji, you're quite the favourite. She was so busy looking at you she didn't see me.
+
+@289
+N-no, that's not...
+
+@290
+Oh, honestly, the poor thing is trembling.
+
+@291
+F-forgive me...
+
+@292
+Fine. For Sōji's sake, I'll let it go.
+
+@293
+Th-thank you!
+
+@294
+Thank you very much!
+
+@295
+No need to be so frightened. Hijikata-san is kind to women.
+
+@296
+There's a reason he's kind, mind you.
+
+@297
+Did you say something, Gen-san?
+
+@298
+No, no.
+
+@299
+Sōji, let's go!
+
+@301
+(...Don't Kyōto women go for a man of understated charm?)
+
+@302
+Tch, I'm kind to women too, you know.
+
+@304
+W-what about me?
+
+@305
+Hijikata-san. I hear a new corps called the Mimawarigumi, to police rōnin, has been set up in Kyōto.
+
+@307
+They say it's an elite unit made up only of the sons of hatamoto. The Shinsengumi has a rival now.
+
+@308
+The Mimawarigumi, eh...
+
+@309
+Takeda-kun says he'll give the men drill in Naganuma-ryū military science.
+
+@310
+Naganuma-ryū?
+
+@311
+The military code of Takeda Shingen of Kai. Leave it to me.
+
+@312
+Let's see what it amounts to.
+
+@313
+In that case, for the drill I need the war fan and command baton. I ask Kondō-sensei to lend them to me.
+
+@314
+Hm. The war fan was your gift in the first place. Very well.
+
+@315
+What is that?
+
+@316
+Takeda-kun had it made for me: a commander leading a force ought to own a fine war fan at least. Splendid, isn't it?
+
+@318
+What's this, what's this?
+
+@319
+Hey, what's all this about?
+
+@320
+From today I, Takeda Kanryūsai, will direct the military drill. I will show no mercy to slackers, so be warned.
+
+@321
+What did you say?
+
+@322
+Who do you think you are?
+
+@323
+I am not the one giving the orders. This war fan is the proof that I act in Kondō-sensei's name. Gentlemen, take these as Kondō-sensei's orders.
+
+@326
+Now, everyone fall in!
+
+@327
+...I can't put up with this.
+
+@328
+You there! What are you doing! Do you refuse Kondō-sensei's orders?!
+
+@329
+...(Damn!)
+
+@330
+Ha ha ha. Takeda-kun is quite bold toward men of equal rank or higher. That's not easy to pull off.
+
+@331
+"Indeed."\n"Not so."
+
+@332
+Indeed.
+
+@333
+Hmph. A fox borrowing the tiger's might, that's all.
+
+@336
+Recruit men\nBuy cannon\nDistribute to the men
+
+@339
+Time to buy the gunnery squad a proper cannon.
+
+@340
+The Shinsengumi's armament rose by 3!
+
+@343
+The Shinsengumi's exploits seem to have been recognised by Lord Matsudaira, the Protector of Kyōto.
+

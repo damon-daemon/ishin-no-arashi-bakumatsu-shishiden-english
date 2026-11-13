@@ -1,0 +1,516 @@
+@2
+Vice-Commander, might I have a moment?
+
+@4
+No, it's about Takeda-han. I've been asked about something rather odd.
+
+@5
+Takeda Kanryūsai?
+
+@6
+I shouldn't say it too loudly, but it seems that gentleman has a fondness for boys...
+
+@8
+Magoshi-kun, one of the men, says Takeda-han keeps pressing his attentions on him, and he doesn't know what to do...
+
+@9
+Is that true?
+
+@10
+Of course I have no firm proof. But if a rumour like that spreads through the corps, what then?
+
+@11
+Hm... call Magoshi-kun in.
+
+@12
+I've heard the outline from Yamazaki-kun... Is it true?
+
+@13
+...Yes. At first he only said he would take me to Shimabara.
+
+@14
+I declined, as I had no interest, but every time he saw me he said a real man can't be like that, so I reluctantly went along.
+
+@16
+In the end I spent the night without growing close to the geisha he introduced me to, but ever since then...
+
+@17
+Takeda Kanryūsai began pressing you persistently...
+
+@19
+And?
+
+@20
+...Pardon?
+
+@21
+Did you become his?
+
+@22
+O-of course not! I have no such inclination!
+
+@24
+Understood. You may go.
+
+@26
+Hijikata-san, what was that all about?
+
+@27
+Nothing.
+
+@28
+Oh, how dreadful, between men.
+
+@29
+Okita! You were listening?!
+
+@30
+Ah, you fell for it. So it was about Takeda-san after all.
+
+@32
+Does everyone know?
+
+@33
+It's still only rumour, but it seems to have spread quite far already.
+
+@34
+...A tricky one to deal with. I'll watch for a while.
+
+@35
+Don't blame me if Magoshi-kun strays from the proper path.
+
+@36
+But since nothing of the sort has actually happened, it will be hard to say it to Takeda-kun. I'm no good at this kind of talk.
+
+@37
+True... you can't very well say it, can you?
+
+@38
+Hey, Hijikata-san.\nHow are you doing?
+
+@39
+Oh, Sanosuke.\nYou're in high spirits.
+
+@40
+Ah, I hear a child was born. Congratulations.
+
+@41
+Yeah, that's right.\nHe's called Shigeru.\nI'm going to raise him into a fine warrior like me.
+
+@42
+I think you should settle down too, Hijikata-san.\nHave a child, you'll see.\nYour way of thinking will change.
+
+@43
+Heh... settle down?\nI've never given it a thought.
+
+@44
+That's why people call you a demon and a viper behind your back.
+
+@45
+Hijikata-san is a gentle man underneath.\nI've always thought so.
+
+@46
+Don't be daft, I'm a demon.\nI'm not gentle. Fighting is the only way I know to live.
+
+@47
+...Well, that's fine too.\nYou're strong, Hijikata-san.
+
+@48
+Heh...\nYou're oddly talkative today.\nDoes a child change a man that much?
+
+@49
+Yes, it does.\nYou realise there are things you can't replace.
+
+@50
+So what does he look like? Is he cute?\nHe's your son, so who knows.
+
+@51
+What are you saying?\nHe's so cute I could eat him up.
+
+@52
+Cute enough to eat, eh...\nMaybe so...
+
+@53
+Hey, what's this, Harada is going to eat a child?\nDon't, Harada. Even Kishimojin repented in the end.
+
+@54
+...I said I'm not going to eat him.
+
+@55
+Hey, Harada, absolutely not!\nHey! Where are you going, Harada?!
+
+@56
+Toshi-san. The Shinsengumi has been ordered to guard Sanjō Bridge in Kawaramachi.
+
+@57
+Sanjō Bridge?
+
+@58
+The notice board on the bridge, setting out Chōshū's crimes, keeps getting smashed by sonnō rōshi. Even when a new board goes up, it is soon blacked out or thrown into the river.
+
+@59
+If we don't know who is doing it, we'll have to catch them in the act of smashing it.
+
+@60
+That's what I thought, so I have men watching it disguised as vagrants.\nI've kept the others waiting around Kawaramachi so they can turn out the moment word comes.
+
+@61
+Hm. You've arranged it well, Kondō-san.
+
+@62
+Coming from you, Toshi-san, that feels good. Will you go too?
+
+@63
+Understood. I'll head to Kawaramachi at once.
+
+@64
+Head to Kawaramachi.
+
+@65
+Ah, Vice-Commander.
+
+@66
+Still not found?
+
+@68
+Ah, Vice-Commander.
+
+@69
+Still not found?
+
+@72
+The culprit has appeared! Harada-san and the others are on their way now!
+
+@73
+The culprit has appeared! Harada-san and the others are on their way now!
+
+@74
+Right, let's go!
+
+@75
+There he is!
+
+@76
+Quite a few of them.
+
+@79
+Ah, men of the Shinsengumi. I am Shibusawa, a retainer of the Hitotsubashi house.
+
+@80
+Is this Ōsawa's hideout?
+
+@82
+Let's go in.
+
+@83
+Ōsawa Genjirō! Surrender quietly!
+
+@84
+What did you say?! I'll cut you down instead! Men!
+
+@88
+You've been a great help. I'll make the report to the Shoshidai from our side.
+
+@89
+Toshi-san, rejoice! They say they will make us direct retainers of the shogunate!
+
+@91
+I think it would be best to decline that politely.
+
+@92
+Itō-kun... what are you saying?
+
+@93
+For the Shinsengumi to prove its loyalty to the cause of jōi, there is plainly no way now but to cut its ties with the shogunate.
+
+@94
+That is a strange thing to say. The shogunate holds military authority entrusted to it by the Imperial Court. What is wrong with serving it?
+
+@95
+The shogunate has sold its soul to the Western barbarians and is opening the country bit by bit, and voices condemning it are spreading through the land. Sonnō and opposition to the shogunate are now the common view of the realm.
+
+@96
+Outrageous!
+
+@97
+No.\nThe shogunate has weakened to the point that it cannot stand against even the combined strength of the lords, let alone the foreigners.
+
+@98
+If you think of Japan's future, it would be better to give up on the shogunate.
+
+@99
+Out of the question, we can't do that!
+
+@100
+Hijikata-kun, are you of the same mind as Kondō-dono?
+
+@101
+...We are nothing but samurai. I know little of the righteousness of jōi, but I believe I know the righteousness of a warrior.
+
+@102
+So you mean to hold to sabaku, is that it?
+
+@103
+It comes to that.
+
+@104
+We are a band sworn to serve the country as rōshi to the last. Our aim was never our own advancement.
+
+@105
+No, no, as shogunate retainers we can do even greater work.
+
+@106
+...I am opposed.
+
+@107
+Hm... what do you say, Toshi-san?
+
+@108
+I leave it to the Commander's judgement.
+
+@112
+How about becoming Itō's disciple for a while?
+
+@114
+Something about them bothers me. That faction looks likely to make a move before long... call it my hunch.
+
+@115
+...Understood. I'll try it.
+
+@116
+Vice-Commander!
+
+@117
+Magoshi-kun, what is it?
+
+@118
+Actually...
+
+@120
+Surely not...!
+
+@121
+N-no, that's not it!
+
+@122
+I saw Takeda-san coming out of the Satsuma residence on Nishikikōji in Nakagyō.
+
+@123
+What...
+
+@124
+You're saying Takeda-kun is in secret contact with Satsuma? It's not a made-up story?
+
+@125
+It's true! He shows his face there often, so if you look into it you'll know at once!
+
+@127
+Kondō-san, it seems Takeda-kun has ties with Satsuma.
+
+@128
+What?! Hmm... he's lost his standing lately, so he's turned against us out of spite!
+
+@130
+...We can't leave this be!
+
+@132
+Call Takeda-kun. Let's gather the officers too.
+
+@133
+Well, well, Takeda-kun, Takeda-kun!
+
+@134
+Yes? What is it?
+
+@135
+Truly joyous news! Come, have a drink.
+
+@136
+...? What... is the joyous news, pray?
+
+@137
+Everyone, listen. Takeda-kun is soon to leave the Shinsengumi and enter the Satsuma residence.
+
+@141
+W-w-what are you saying?!
+
+@142
+No need to hide it, I've heard everything. They say you go in and out of the Satsuma residence often.
+
+@145
+I-I only went into enemy territory on my own initiative, to gain information on Satsuma for the Shinsengumi...
+
+@146
+Ha ha ha. We have spent years together as comrades, after all. Let's have no secrets now.
+
+@147
+N-no, I...
+
+@148
+A celebration of Takeda-kun's great advancement. Everyone, drink up. Come, Takeda-kun, empty your cup too.
+
+@149
+No, I, I...
+
+@150
+It's a farewell drink. It makes no sense if the guest of honour doesn't drink.
+
+@151
+Th-then, just a little.
+
+@153
+Come, one more cup.
+
+@154
+Spare me...
+
+@155
+Now, now.
+
+@156
+I've overdone it... hic. I shall take my leave.
+
+@157
+Ah, Takeda-kun is finally off to the Satsuma residence. Saitō-kun, Shinohara-kun, see him off.
+
+@158
+N-no, I c-can manage a-alone, tru-truly.
+
+@159
+Your footing is unsteady.\nWalking alone on a night road is dangerous.\nCome, let's go.
+
+@162
+Hic... he-help...
+
+@163
+It's done.
+
+@165
+Well done.
+
+@166
+Vice-Commander, you have a visitor.
+
+@169
+Kotsuru! What is it?
+
+@170
+Rōshi have gathered at the Tachibana and seem to be plotting something wicked!
+
+@172
+They leave for the western provinces today, hurry!
+
+@173
+Believe her\nDo not believe her
+
+@174
+Right, we turn out!
+
+@175
+Official inspection!
+
+@176
+Tch, they've sniffed us out! I'm slipping away, I leave the rest to you.
+
+@178
+Stop!
+
+@179
+Their leader has got away...
+
+@180
+...Damn!
+
+@181
+What sort of wickedness?
+
+@182
+Eh? I don't know that, but...
+
+@183
+I'll have the scouts stay alert in any case. If they find anything, we'll act.
+
+@184
+But they're leaving Kyōto any moment now!
+
+@185
+But I can't move the men lightly on the strength of such a tale.
+
+@187
+I understand... I'm sorry for the trouble.
+
+@188
+Hijikata-san! A rōnin.
+
+@189
+What do you want? Shinsengumi scum.
+
+@190
+...Shall we?
+
+@191
+Well, he certainly seems willing.
+
+@193
+It's Saitō-san.
+
+@194
+You there, rōnin. You are suspicious, so you will come to headquarters.
+
+@195
+What do you want? Shinsengumi scum.
+
+@196
+Sōji, I'll lend a hand.
+
+@199
+You there, rōnin. You are suspicious, so please come to headquarters.
+
+@200
+What do you want? Shinsengumi scum.
+
+@205
+The Hongan-ji is asking us to move the Shinsengumi's headquarters.
+
+@206
+They say they'll build us a bigger headquarters than this one at Fudōdō.\nAnd they'll pay for it, of course.
+
+@207
+Move to Fudōdō\nDo not move
+
+@208
+Let's take it with thanks.
+
+@209
+The Shinsengumi's strength rose by 15!
+
+@211
+The Shinsengumi's morale rose by 5!
+
+@212
+No need. Their scheme to drive us out is plain to see.
+
+@219
+What's the point of buying them if nobody can use them?
+
+@220
+...Then I'll buy swords.
+
+@221
+The Shinsengumi's armament rose by 4!
+
+@226
+We need more men. Let's recruit.
+
+@229
+What's the point of buying them if nobody can use them?
+
+@230
+No, it never hurts to be prepared.
+
+@231
+The Shinsengumi's armament rose by 7!
+
+@233
+The Shinsengumi's morale rose by 5!
+

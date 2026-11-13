@@ -1,0 +1,261 @@
+@0
+Well then, I'll be off.
+
+@1
+Yes, I'll be fine from here.
+
+@2
+Be sure to cut down that Katsu bastard for me.
+
+@4
+Hello? Is nobody here?
+
+@5
+Eek!
+
+@6
+Whoa, are you all right?
+
+@8
+Isn't the master of the house in?
+
+@10
+What's this?
+
+@11
+Hee hee.
+
+@13
+...I've taken a liking to this man.
+
+@14
+Hey, hey?
+
+@15
+I'm Omoto. Pleased to meet you.
+
+@16
+Omoto, is it?
+
+@17
+Come right in. The master will be back soon.
+
+@19
+Sakamoto Ryōma! We've finally found you!
+
+@20
+Damn, the domain's pursuers! So many of them!
+
+@21
+The domain's pursuers! So many of them!
+
+@22
+Ha ha, did you think you could escape? Get him!
+
+@23
+Tch!
+
+@24
+He's running! After him, after him!
+
+@25
+Good, catch him between us! He has no way out now!
+
+@26
+Damn!
+
+@27
+(Hey, over here!)
+
+@28
+K-Kiyokawa-san?!
+
+@29
+And you are?
+
+@30
+(Never mind that, hide in this tub!)
+
+@31
+Thank you!
+
+@33
+There he is! Huh? No, wrong man!
+
+@34
+What is the matter?
+
+@35
+...Did a big man who looked like a rōnin pass this way?
+
+@36
+One who looked like a rōnin? ...Ah! You mean the samurai who dashed in a great hurry into those bushes over there?
+
+@37
+That's him! Don't let him get away, after him!
+
+@39
+...They're gone.
+
+@40
+...I'm obliged to you.
+
+@41
+You're being hunted, it seems.
+
+@42
+You're being hunted, it seems... Care to tell me why?
+
+@43
+Tell him\nDon't tell him
+
+@44
+I'm Sakamoto Ryōma... I left Tosa without leave, so I'm being chased.
+
+@45
+Sakamoto of Tosa? Then you are of the Hokushin school?
+
+@46
+How do you know my name...?
+
+@47
+Ha ha ha, so it is! Anyone who doesn't know the Hokushin man Sakamoto who beat Katsura of Chōshū must be an impostor!
+
+@48
+Truth be told, I am Kiyokawa Hachirō of the Great Chiba, Hokushin school.
+
+@49
+You're from the same school!
+
+@51
+Ha ha, I'm a stranger to you. When you're hunted, you can't be too careful, is that it?
+
+@52
+But there's no need to worry. I have no designs on you.
+
+@53
+Tell him\nDon't tell him
+
+@54
+...I left my domain without leave, so I'm being chased.
+
+@55
+That accent is Tosa's... I too left my domain. I am Kiyokawa Hachirō of the Hokushin Ittō-ryū.
+
+@56
+The same school as mine?!
+
+@57
+What? And what is your name?
+
+@58
+Sakamoto... Ryōma.
+
+@59
+Oh, Sakamoto-kun! I've heard the rumours. They say you beat Katsura of Chōshū!
+
+@60
+That was a fluke.
+
+@61
+Ah, so you are Sakamoto-kun! I hear you are close to the young master of the Chiba Dōjō.
+
+@63
+If you don't wish to talk, I won't force you. I am Kiyokawa Hachirō of the Hokushin Ittō-ryū. If you ever come to Edo, look me up.
+
+@64
+The Hokushin Ittō-ryū?! The same school?!
+
+@65
+What, the same school?!
+
+@66
+Are you truly of the Chiba school?
+
+@67
+Then you must be of the Little Chiba. I'm Great Chiba, so it's no wonder we haven't met. In that case... that Tosa accent means you're Sakamoto-kun?
+
+@68
+You've found me out.
+
+@69
+I've heard the rumours. They say you beat Katsura of Chōshū!
+
+@70
+That was a fluke.
+
+@71
+Still, it would be trouble if those fellows came back. At this rate, they may have the checkpoints everywhere covered too.
+
+@72
+I can get you safely as far as Edo, if you like. Will you leave it to me?
+
+@73
+There doesn't seem to be anything else for it.
+
+@74
+Then get into the tub on this cart again. We'll slip through like this for a while.
+
+@75
+Me too?
+
+@76
+You will pull this cart.
+
+@77
+What?! Why me?!
+
+@134
+Me too?
+
+@135
+You will pull this cart.
+
+@136
+What?! Why me?!
+
+@193
+Me too?
+
+@194
+You will pull this cart.
+
+@195
+What?! Why me?!
+
+@200
+That should do.
+
+@201
+I was suffocating, I nearly died!
+
+@202
+From here on, you will pass as my attendant.
+
+@203
+You're well used to travelling.
+
+@204
+I toured the whole country rallying support. Gathering the rōnin who had fled their domains in Kyōto for an uprising there was my plan in the first place.
+
+@206
+It failed because of Lord Shimazu's dithering, but I'm not giving up.
+
+@207
+Now, Edo is close. Don't let your guard down.
+
+@208
+You're safe now. The Chiba Dōjō should shelter you from here.
+
+@209
+...I'm in your debt.
+
+@210
+Not at all, we're fellow loyalists. Think nothing of it. I have a private academy in Nihonbashi. Come and see me if you ever need anything.
+
+@211
+Thank you.
+
+@212
+Then, until we meet again.
+

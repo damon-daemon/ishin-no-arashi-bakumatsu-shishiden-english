@@ -1,0 +1,486 @@
+@0
+The 3rd month of Bunkyū 2 (1862).
+
+@1
+Train in swordsmanship and study to improve your abilities
+
+@3
+As the sonnō-jōi movement gathers strength, Kyōto is becoming the stage for patriots who grieve for the nation.
+
+@4
+Active as a rōnin of the sonnō faction
+
+@5
+Since the death of the Tairō Ii Naosuke, the shogunate's authority has been badly shaken, and it can no longer hold back the rising sonnō-jōi forces.
+
+@6
+Active as a rōnin of the sabaku faction
+
+@7
+Excuse me, sir.
+
+@9
+Is this your first time in Edo?
+
+@10
+"Yes"\n"No"
+
+@12
+Oh, never mind.
+
+@13
+Pardon me.
+
+@14
+Then shall I show you around?
+
+@15
+No, thank you\nPlease do
+
+@16
+Thank you, but...
+
+@18
+Then, if you will excuse me.
+
+@19
+In that case, I shall take you up on it!
+
+@20
+Let us go at once!
+
+@21
+First, this is Tsukiji, where I keep my inn.
+
+@22
+The shogunate's naval school is here.
+
+@23
+Next, let us go to the castle.
+
+@24
+This is Edo Castle.
+
+@25
+Domain residences stand all around the castle. There are some around Akasaka, too.
+
+@26
+This is Nihonbashi.
+
+@27
+There is a dōjō of the Hokushin Ittō-ryū here, which is the talk of the town these days. I recommend it for sword training.
+
+@28
+This is Koishikawa.
+
+@29
+There are some fine schools here, and famous temples too.
+
+@30
+Last of all, here is Asakusa.
+
+@31
+It is just the place to relax.
+
+@32
+That was a quick tour, but I will answer one question for you.
+
+@33
+"Where can I train in swordsmanship?"\n"Where can I study?"\n"Where can I meet many people?"
+
+@34
+For a dōjō, I think the one in Nihonbashi is the best.
+
+@35
+There are also big dōjō in Tsukiji and Banchō-Iida.
+
+@36
+And for something a little different, there is a dōjō called the Shieikan in Ushigome.
+
+@37
+It is a country style of swordsmanship, but they seem to teach practical fighting.
+
+@38
+Around here, I would recommend the Shōheizaka Academy in Koishikawa.
+
+@39
+I hear the Tekijuku in Ōsaka is well spoken of, too.
+
+@40
+Well, when in trouble, the best thing is to ask the locals.
+
+@41
+That is a hard question.
+
+@42
+Plenty of people come and go at the schools and dōjō.
+
+@43
+Well, ordinarily I would think they are at the domain residences.
+
+@44
+It might be a good idea to go out to Kyōto, too.
+
+@45
+Forgive my poor guiding.
+
+@46
+Oh, and these days there are manslayers about who call their killings Tenchū.
+
+@47
+Perhaps you should start with sword training. Having the name of a big dōjō behind you is a great help.
+
+@48
+Well then, I take my leave.
+
+@49
+Excuse me, sir.
+
+@51
+Is this your first time in Kyōto?
+
+@52
+"Yes"\n"No"
+
+@53
+Ah, so that is it.
+
+@54
+Oh, it is nothing.
+
+@55
+Well then, pardon me.
+
+@56
+Then shall I show you around?
+
+@57
+No, thank you\nPlease do
+
+@58
+Thank you, but...
+
+@60
+Well then, pardon me.
+
+@61
+In that case, I shall take you up on it!
+
+@62
+Well then, let us be off.
+
+@63
+First, this is Kawaramachi, where I keep my inn.
+
+@64
+Perhaps because the Chōshū residence is here, you see many imperial loyalists about.
+
+@65
+Next, let us go to the Imperial Palace.
+
+@66
+This is the Imperial Palace.
+
+@67
+Around the Palace stand the mansions of the court nobles.
+
+@68
+This is Nijō Castle.
+
+@69
+It holds the shogunate's buildings.
+
+@70
+This is Nakagyō, the biggest district in all of Kyōto.
+
+@71
+The residences of Satsuma and others are there too.
+
+@72
+And if you get hurt or fall ill, go to a doctor in Nakagyō.
+
+@73
+Last of all, this is Gion.
+
+@74
+The street is lined with famous restaurants.
+
+@75
+And further west in Shimabara there are plenty of restaurants too.
+
+@76
+That was a quick tour, but I will answer one question for you.
+
+@77
+"Where can I train in swordsmanship?"\n"Where can I study?"\n"Where can I meet many people?"
+
+@78
+For a dōjō, going to Edo is best.
+
+@79
+They are famous there as the Three Great Dōjō of Edo.
+
+@80
+The Three Great Dōjō?
+
+@81
+They are the Genbukan of the Hokushin Ittō-ryū, the Renpeikan of the Shintō Munen-ryū and the Shigakukan of the Kyōshin Meichi-ryū.
+
+@82
+Around here, the Tekijuku in Ōsaka is the famous one.
+
+@83
+And I hear talk of the Shōheizaka Academy in Edo as well.
+
+@84
+Well, when in trouble, it is best to ask the locals.
+
+@85
+That is a hard question.
+
+@86
+You often see samurai going in and out of the schools and dōjō.
+
+@87
+Well, ordinarily I would think they are at the domain residences...
+
+@88
+Looking around Nakagyō or Kawaramachi might be best.
+
+@89
+Forgive my poor guiding.
+
+@90
+Oh, and these days there are manslayers about who call their killings Tenchū.
+
+@91
+Perhaps you should start with sword training. Having the name of a big dōjō behind you is a great help!
+
+@92
+Well then, thank you for your patience.
+
+@96
+Oh! A Black Ship!
+
+@98
+They really are huge, just as people say.
+
+@100
+Shogunate officials are keeping watch.
+
+@102
+Excuse me...
+
+@103
+Hm? Who are you?
+
+@106
+Now I can look at the ship in peace... Hm?
+
+@109
+Truly amazing.
+
+@111
+It has gone...
+
+@112
+I don't know where it's bound, but I'll help myself to a ride.
+
+@115
+Ignore him\n"I'm a porter"
+
+@117
+This is no place for a penniless rōnin like you!
+
+@129
+(Stowing away is a serious crime if I am found out... Better give it up.)
+
+@130
+(Seeing foreign lands might be good... Right, I will sneak aboard!)
+
+@132
+Oh, it is moving, it is moving!
+
+@134
+So this is the Qing Empire. The harbour is full of Western warships.
+
+@136
+Are those little boats Qing ships? They would never stand up to Western warships... just like Japan!
+
+@139
+Me?
+
+@140
+Oh, S2? Is that you, S2?!
+
+@143
+I wanted to see how things are abroad, so I slipped in among the dock hands at Nagasaki and sneaked aboard.
+
+@148
+I am only a porter.
+
+@149
+I'm not going to do anything to you. But the way you walk is plainly a swordsman's.
+
+@154
+If I have been found out, there is nothing for it... I am just a rōshi.
+
+@155
+What? Why is a rōnin in a place like this?
+
+@156
+I wanted to see how things are abroad...
+
+@164
+Yes, I would be glad to.
+
+@166
+Up to me?
+
+@167
+No, there is something else I want to see.
+
+@168
+I see... Then I'll come along with you.
+
+@171
+What a coincidence! S2, come along, come along!
+
+@173
+You are from Chōshū? Do you know Katsura-san?
+
+@175
+And I am acquainted with Kusaka-san as well!
+
+@177
+What a small world!
+
+@178
+I am S1 M1.
+
+@179
+What a coincidence! S2, come along, come along!
+
+@180
+I am S1 M1.
+
+@181
+Hm, I have heard that name.
+
+@183
+Come along, come along! S2-kun!
+
+@184
+S2-kun, let's go!
+
+@185
+So we cannot go inside the city walls.
+
+@186
+That's right.
+
+@187
+But this is terrible. What a way for the people here to live!
+
+@189
+Did they have a jōi movement in Qing too?
+
+@190
+Yes, I have heard there was a force called the Taiping that drove out foreigners and sought to overthrow the Qing government.
+
+@191
+...That is the same as the jōi and anti-shogunate movement in Japan today.
+
+@196
+Oh! Look at all those warships!!
+
+@198
+Swords and Japanese cannon would be no match for them.
+
+@202
+What a magnificent building. What a difference from the houses where the Qing people live.
+
+@203
+It is beyond all measure. It shows how much the Western powers are earning.
+
+@204
+All the servants are Qing people...
+
+@210
+Never mind that... S2-kun, if Japan stays as it is, it will end up like Qing...
+
+@212
+Having seen Shanghai, I judge that jōi against the great powers is impossible.
+
+@213
+Yet without jōi and overthrowing the shogunate, the country will perish! So what are we to do? What is your view?
+
+@214
+Overthrow the shogunate\nReform the shogunate\nFight to the death\nWe need warships\nGive up
+
+@215
+We must overthrow the shogunate!
+
+@216
+Yes, indeed! A shogunate that wags its tail at the Western nations is no different from the Qing government!
+
+@217
+We must reform the rotten shogunate!
+
+@218
+You're too soft, S2-kun! The shogunate has no future!
+
+@220
+...A desperate plan, but it is one way.
+
+@221
+If not only the samurai but all the people were to throw away their lives and fight, the foreigners would take fright and might change their attitude a little.
+
+@222
+We have no choice but to build up warships and cannon!
+
+@224
+...I do not know, but with Japan surrounded by sea, a strong navy is the only way to defend the country.
+
+@232
+If you feel the same, let's give that rotten shogunate the shock of its life!
+
+@236
+Never mind that... S2-kun, if Japan stays as it is, it will end up like Qing...
+
+@238
+Having seen Shanghai, I judge that jōi against the great powers is impossible.
+
+@239
+Yet without jōi and overthrowing the shogunate, the country will perish! So what are we to do? What is your view?
+
+@240
+Overthrow the shogunate\nReform the shogunate\nFight to the death\nWe need warships\nGive up
+
+@241
+We must overthrow the shogunate!
+
+@242
+Yes, indeed! A shogunate that wags its tail at the Western nations is no different from the Qing government!
+
+@243
+We must reform the rotten shogunate!
+
+@244
+You're too soft, S2-kun! The shogunate has no future!
+
+@246
+...A desperate plan, but it is one way.
+
+@247
+If not only the samurai but all the people were to throw away their lives and fight, the foreigners would take fright and might change their attitude a little.
+
+@248
+We have no choice but to build up warships and cannon!
+
+@250
+...I do not know, but with Japan surrounded by sea, a strong navy is the only way to defend the country.
+
+@258
+If you feel the same, let's give that rotten shogunate the shock of its life!
+

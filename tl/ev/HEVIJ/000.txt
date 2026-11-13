@@ -1,0 +1,27 @@
+@0
+Toshi-san! A great victory last night. The Suzaku-kan lot gathered all those men and still lost, so their pride must be in tatters.
+
+@1
+Fights aren't won by numbers...
+
+@2
+They're won by brains, right, Hijikata-san? Hee hee!
+
+@3
+Still, with this much brawling, the Shieikan's reputation could suffer. And over a woman, too...
+
+@5
+Oh, Hijikata-san, Yamanami-san! Look, cherry blossoms. This tree will be in full bloom soon.
+
+@6
+Oh!
+
+@8
+Did you come up with a verse?
+
+@10
+Scowling won't work on me.\nTell me later, Hōgyoku-sensei. Hee hee!
+
+@12
+Cherry blossoms\nthat seem not to belong\nto this human world.   Hōgyoku
+

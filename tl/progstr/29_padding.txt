@@ -1,0 +1,30 @@
+# strings the survey missed until session 7 (non-zero alignment padding before them)
+HANA:8015be30	Four cards of the same flower, so I shall deal again.\n
+HANA:8015cce4	{C7}How many rounds shall we play?
+HANA:8015cd00	%s mon\n
+MP:8015b900	Hmm... You win. Do as you please.
+MP:8015becc	No good! I've no money!
+MP:8015d218	Order Trade
+MP:801607a4	Two companions at most. You cannot take any more!
+MP:801608c4	You cannot pay!
+MP:80160fcc	Sortie
+MP2:8015be14	%s, eh... Well, that will do.
+MP2:8015c030	By order of the domain, I can't take you aboard.
+MP2:8015c1d8	Sugawara no Michizane, god of learning, is enshrined here. It is the head shrine of all Tenmangū.
+MP2:8015c914	%s-san, this won't do. Sorry, but come back another time.
+MARCH:8015b934	However, Aizu's all-but-suicidal fighting bore fruit, and the shogunate army slowly gained the upper hand.
+# aligned strings with no reference found by the scan (written in place, must fit the slot)
+MP:8015e8cc	Very well, K2, speak your mind.
+MP:8015f12c	Wh-what are...
+MP:801608d8	I have lost. Go on, take it.\nYou obtained "%s", the last of the\nfifteen Persuasion Arts!
+MP:80160938	A master gambler now, %s\nlearned a hanafuda secret move!
+MP:80160ab4	...So I am the last one, then.
+MP:80160ba8	...Let us go on with this another time.
+GATE:8015bae8	Thank you for your trouble.%s\n(Phew, saved...)
+PROG:8001f9b8	Out of the way, if you'd live...
+PROG:8001ffc0	Hijikata of the Shinsengumi...\nI'll avenge my comrades!
+PROG:80035464	Info: %s
+PROG:80035470	About %s
+PROG:800373e0	%s rose by %d!\n
+PROG:8003c400	slot
+COM:8015d0b4	 

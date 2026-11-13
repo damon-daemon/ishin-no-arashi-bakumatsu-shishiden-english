@@ -1,0 +1,504 @@
+@0
+Ryōma-san, your confinement is finally over.
+
+@1
+Now no officials will be chasing us. At last I'll make my mark in Kyōto!
+
+@2
+Ryō-san, what do we do now?
+
+@3
+First we have to find Katsu-sensei. He should be in Kyōto.
+
+@4
+Active in the Kinai region
+
+@5
+Head for the Tosa residence in Kyōto
+
+@7
+Staying at the residence feels rather confining.
+
+@8
+Maybe I'll ask the Teradaya in Fushimi to put me up...
+
+@9
+Oh, Ryōma. Takechi-sensei said he wants to see you at the Tantora in Kawaramachi.
+
+@11
+That's the message, mind. See you.
+
+@12
+Ah, hey!
+
+@13
+He's gone...
+
+@14
+Visit Takechi Hanpeita at the Tantora in Kawaramachi
+
+@15
+Oh, Sakamoto-han! Welcome!
+
+@16
+Welcome. My, what a fine man!
+
+@17
+You've a fine way with customers.
+
+@18
+Hee hee, I'm Otose. You're from Tosa, aren't you, sir?
+
+@19
+Does it show in my accent?
+
+@22
+The shishi gentlemen always give us their custom.
+
+@25
+(Should I make this my base?)
+
+@26
+Yes\nNo
+
+@27
+Mind if I stay here a while?
+
+@28
+My, what a nice thing to say. There's no charge, so stay as many days as you like.
+
+@29
+Sorry to trouble you.
+
+@30
+Now I can relax without worrying about the upper samurai.
+
+@31
+Ah, that's a relief. Once you've left the domain, you feel small at the residence.
+
+@32
+(Better not.)
+
+@33
+You're Sakamoto-sama, aren't you? Takechi-han is waiting for you.
+
+@34
+Ryōma, you came.
+
+@35
+You've lost weight.
+
+@36
+Now that we've brought the shōgun to Kyōto, this is our chance to make the shogunate promise to carry out jōi. It's the crucial moment, so I don't even have time to sit down.
+
+@38
+Tosa is now completely in the hands of us Loyalist Party men. Even the upper samurai can't say a word against me now that I'm the Kyōto liaison officer.
+
+@40
+Well? Wasn't my way the right one?
+
+@41
+What about Yōdō?
+
+@43
+In Edo, did you manage to turn Yōdō to the imperial cause?
+
+@45
+Just as I thought.
+
+@46
+Sooner or later, His Lordship will understand.
+
+@47
+Do you want to believe in that man so badly...?
+
+@48
+Never mind me... Are you still keeping company with Katsu?
+
+@49
+Yes.
+
+@50
+And there's no use telling you either. You're as stubborn as I am.
+
+@51
+...Well, that won't last long. You'll wake up soon.
+
+@52
+You!
+
+@54
+Surely you don't mean to cut down Katsu-sensei?
+
+@55
+You can't do it! Katsu-sensei is a treasure of Japan! If you cut him down, Hanpeita, even you I won't forgive!
+
+@61
+N-no, it's nothing...
+
+@62
+...You're hiding something, aren't you?
+
+@64
+"Never mind"\n"Do you mean to kill Katsu-sensei?"
+
+@65
+Never mind.
+
+@66
+T-then...
+
+@67
+You mean to kill Katsu-sensei, don't you?
+
+@68
+Ah! Uh, w-well...
+
+@69
+You can't! Katsu-sensei is my irreplaceable master!
+
+@70
+H-he's a villain who's gone foreign. You've been fooled, Ryōma, so somebody has to wake you up.
+
+@71
+You're mistaken! Katsu-sensei is the very man who will save Japan!
+
+@72
+But... Takechi-sensei...
+
+@73
+So it was Hanpeita's order after all!
+
+@74
+Besides me, plenty of others are after Katsu. Sooner or later he'll be cut down.
+
+@75
+"Don't you lay a hand on him"\n"Guard Sensei for me"
+
+@76
+Then you keep your hands off him. I beg you!
+
+@78
+Please? I mean it!
+
+@79
+...I can't refuse when you ask me.
+
+@80
+Thank you! Besides, Sensei holds a full licence in Jikishinkage-ryū too. If you step back, I can rest easy.
+
+@81
+N-not a word to Takechi-sensei.
+
+@83
+That's it! You guard Sensei!
+
+@84
+Wh-what?!
+
+@85
+With a master swordsman like you guarding him, I can rest easy!
+
+@86
+But I was told to kill Katsu!
+
+@87
+Don't cut him down! Protect him!
+
+@88
+I'm a jōi patriot! Protecting Katsu, an open-country man... I c-can't do that!
+
+@89
+Please?
+
+@91
+I mean it! Think of it as protecting me, and stay at Katsu-sensei's side!
+
+@92
+...That's unfair.
+
+@93
+What is?
+
+@94
+I can't refuse when you ask me.
+
+@95
+Thank you!! Izō, I'm counting on you!
+
+@96
+N-not a word to Takechi-sensei.
+
+@99
+Kaho-san.
+
+@100
+You look well! I heard you were pardoned for leaving your domain.
+
+@101
+Thanks to Katsu-sensei's efforts.
+
+@102
+Katsu? The open-country man?
+
+@103
+I became his disciple.
+
+@104
+Oh! I've heard Katsu is a wicked man.
+
+@105
+You sound just like the jōi men of Kyōto.
+
+@106
+The Sanjō house is the leading jōi family among the court nobles. Many shishi come to call.
+
+@107
+Knowing you, Kaho-san, you've been giving money to the starving rōnin.
+
+@108
+Especially when Tosa gōshi come to me for help, I simply can't turn them away. I want to do all I can for the imperial cause too.
+
+@109
+And so, surrounded by radical shishi like that, you ended up a complete jōi believer, did you?
+
+@110
+Hee hee.
+
+@111
+But Katsu-sensei is no wicked man at all. There's no one as great as him.
+
+@112
+Yes. If you say so, Sakamoto-sama, then I'm sure it's true.
+
+@113
+Well, I'll be off now.
+
+@114
+...Sakamoto-sama.
+
+@116
+I'll be waiting for you at the Akebono-tei in Kiyomizu.
+
+@118
+Well then.
+
+@119
+You came.
+
+@120
+What's it about?
+
+@121
+Do you still have it?
+
+@123
+The hairpin.
+
+@124
+Of course I do.
+
+@125
+Hee hee. So from now on I can be with you in Kyōto, Sakamoto-sama.
+
+@126
+"I'm glad to be together"\n"If I work as a shishi, Kyōto is the place"\n"I'm busy, so we can't meet much"
+
+@127
+With you here, Kaho-san, I think I'll come to love Kyōto.
+
+@129
+Let's work together to save this country.
+
+@130
+If I'm to work as a shishi, it has to be Kyōto, I suppose.
+
+@131
+I'll be busy building a navy, so we probably won't see much of each other.
+
+@132
+...Um.
+
+@134
+Let's not talk about that today.
+
+@135
+About that?
+
+@136
+About work.
+
+@137
+Why not?
+
+@138
+...Today I came to see you, Ryōma-dono, not as a shishi, but as a woman.
+
+@140
+In other words...
+
+@141
+Embrace Kaho\nIf work talk is the problem, play hanafuda\nIn that case, go home
+
+@142
+Um...
+
+@143
+...Fool.
+
+@146
+Then let's play hanafuda.
+
+@148
+Shall I be the dealer?
+
+@151
+Fool!!
+
+@152
+...What are you angry about?
+
+@153
+This won't do. I'm busy, so I'll be going.
+
+@155
+Oh, Ryōma. There you are.
+
+@156
+Sensei!
+
+@157
+This stern-looking fellow, did you send him?
+
+@159
+Please keep him by your side as a bodyguard.
+
+@160
+...Now that's reassuring.
+
+@161
+Ryōma, I have good news.
+
+@163
+The shogunate has given permission to build a naval school in Kōbe!
+
+@164
+What did you say?!
+
+@165
+It's called a shogunate school, but in practice it's more or less my own school. So here's the thing. I appoint you head of the school!
+
+@168
+Straight off, then, Head of the school: would you do something for me?
+
+@170
+Go to Lord Shungaku of Echizen and get 5,000 ryō out of him.
+
+@171
+...5,000 ryō?!
+
+@172
+We have the permit, but the shogunate is short of the one thing that matters: money to build it. Lord Shungaku promised to help, but the money never arrives.
+
+@173
+"Understood"\n"That's impossible"
+
+@174
+I'll set off at once.
+
+@175
+When you get to Fukui, first look for Mitsuoka Hachirō-kun and see him.
+
+@176
+Listen. Tell Lord Shungaku that this is by no means a bad investment for the Fukui Domain.
+
+@177
+An investment?
+
+@178
+Do you know what a Western company is?
+
+@180
+It's a system where, when starting a business, those who put up the funds receive dividends according to the amount.
+
+@181
+What?
+
+@182
+In short, those with money put up the capital, those who can do the work run the business, and the profit is split between the two.
+
+@183
+I see! Lord Shungaku puts up the money, we use ships to trade, and the Fukui Domain takes its share. Is that it, sir?
+
+@184
+That's it.
+
+@185
+That's excellent!
+
+@186
+I can't leave Nijō Castle. Come back as soon as you can. Off you go, I'm counting on you.
+
+@187
+Jū-san. While I'm away, could you guard Katsu-sensei?
+
+@189
+Some radical jōi man may be after Katsu-sensei.
+
+@190
+I was a jōi man myself who once tried to cut Katsu down, you know.
+
+@191
+Come on, don't be like that.
+
+@192
+Don't tell me you brought me to Kyōto for that?
+
+@193
+That's part of it.
+
+@194
+You're too much, Ryō-san.
+
+@195
+Please!
+
+@196
+All right.
+
+@197
+Thank you! With a Hokushin full-licence holder like you guarding him, Jū-san, I can go out with an easy mind.
+
+@198
+Yes... I'd like to say so, but I think it's impossible.
+
+@199
+Impossible?
+
+@200
+I can't believe Lord Shungaku would hold back what he once promised to give. There must be some weighty reason.
+
+@201
+I see... Probably so. Damn! I'll have to find some other backer.
+
+@202
+Ryō-san, I came up to Kyōto, but I still worry about the dōjō. I'm going back to Edo.
+
+@203
+...Yes. Sana-san must be lonely too.
+
+@204
+Sorry. Well then, do your best.
+
+@205
+I'm the one who's sorry, for dragging you here. Take care going home.
+
+@206
+Hey, Ryō-san, did they forgive your leaving the domain?
+
+@207
+Yes, somehow.
+
+@208
+I have to leave Kyōto for a while. Ryō-san, sorry, but sightsee around Kyōto for a bit, will you?
+

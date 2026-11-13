@@ -1,0 +1,234 @@
+@0
+Preparing at Aizu to meet the new government army.
+
+@1
+Wait in Aizu-Wakamatsu.
+
+@2
+The imperial army is already massing below Aizu Castle. What shall we do?
+
+@3
+The imperial army is already massing below Aizu Castle. What shall we do?
+
+@4
+Fight alongside Aizu\nCall for help from other domains
+
+@5
+It has come to this. We fight alongside Aizu.
+
+@6
+I'm going to Sendai.
+
+@7
+If that great domain goes over to the imperial side, it's the end. I'll get reinforcements out of Sendai whatever it takes.
+
+@8
+I will stay in Aizu. There is no knowing when the imperial army will attack.
+
+@9
+But if Sendai doesn't move, Aizu will lose.
+
+@10
+Even so, I cannot abandon them.
+
+@14
+This sword has ties to the Aizu Domain. Take it with you into battle.
+
+@16
+Take care, Hijikata-san.
+
+@17
+Now I can't expect to come out of this alive. All I can do is stake it on whatever has even a slim chance.
+
+@18
+Some day... we'll meet in the afterlife.
+
+@19
+Head for Sendai.
+
+@20
+The imperial army's attack has begun!
+
+@21
+Riflemen, hold here! Swordsmen, follow me!
+
+@22
+Hey. Who is that band fighting like Ashura?
+
+@23
+We don't know, sir. They call themselves the Shinsengumi.
+
+@25
+Don't meet them head on. Just threaten them with fire from a distance, and break the other forces first.
+
+@27
+So the ghosts of Kyōto still walk...
+
+@28
+The siege of Aizu's Tsuruga Castle went on for days.
+
+@29
+The tide favoured Satsuma and Chōshū throughout. At last, hopelessly outnumbered, the lord of the domain, Matsudaira Katamori, decided to surrender.
+
+@30
+With the core of the alliance gone, the dream of a northern republic to split Japan in two vanished like mist.
+
+@31
+This battle produced far too many tragic scenes for any pen or tongue to tell.
+
+@32
+The people of Aizu, praised beside Satsuma for their stalwart samurai spirit and trusted most deeply by the late Emperor Kōmei...
+
+@33
+were ironically branded enemies of the Court by the new government set up by the western domains.
+
+@34
+The sufferings of the defeated did not end here.
+
+@35
+Hijikata broke out of Aizu by force and narrowly escaped with his life...
+
+@37
+Didn't you go to Sendai?
+
+@38
+I'm the kind of man who belongs amid swords and bullets.
+
+@40
+Saitō-kun!
+
+@41
+It looks like this is where it will be decided.
+
+@42
+I am going back to Aizu. There is no knowing when the imperial army will attack.
+
+@43
+But if Sendai doesn't move, Aizu will lose.
+
+@44
+Even so, I cannot abandon them.
+
+@46
+Take care, Hijikata-san.
+
+@47
+Now I can't expect to come out of this alive. All I can do is stake it on whatever has even a slim chance.
+
+@48
+Some day... we'll meet in the afterlife.
+
+@49
+Aizu is cornered and growing isolated.
+
+@50
+They say Enomoto-dono, who commands the shogunate's navy, has fled Edo and come here to Sendai.
+
+@51
+They say Enomoto-dono, who commands the shogunate's navy, has fled Edo and come here to Sendai.
+
+@52
+I am Enomoto Takeaki, in charge of the fleet.
+
+@54
+Whatever it takes, we must win back Sendai, which has left the alliance.
+
+@55
+It will be difficult, but... let us try.
+
+@56
+The game is not yet lost.
+
+@58
+Now that Echigo has fallen to the imperial army, what I fear most is that they will use the port of Niigata.
+
+@59
+It will be troublesome, but before Aizu's town becomes a battlefield we must sail the fleet round into the Sea of Japan and cut off the enemy's shipping.
+
+@61
+Hijikata-dono, I would like you to join this operation too. Please command the landing force.
+
+@63
+Wh-what?! And then?!
+
+@65
+That... that can't be...
+
+@66
+What is it?
+
+@67
+...They say Aizu has surrendered.
+
+@68
+What, so soon?!
+
+@70
+And the Sendai reinforcements?
+
+@71
+With the opposition getting in the way... they were slow raising troops and did not make it in time, it seems.
+
+@73
+The siege of Aizu's Tsuruga Castle went on for days.
+
+@74
+The tide went against the allied army throughout. At last, hopelessly outnumbered, the lord of the domain, Matsudaira Katamori, decided to surrender.
+
+@75
+With the core of the alliance gone, the dream of a northern republic to split Japan in two vanished like mist.
+
+@76
+This battle produced far too many tragic scenes for any pen or tongue to tell.
+
+@77
+The people of Aizu, praised beside Satsuma for their stalwart samurai spirit and trusted most deeply by the late Emperor Kōmei...
+
+@78
+were ironically branded enemies of the Court by the new government set up by the western domains.
+
+@79
+...Is it all over?
+
+@80
+We still have one last trump card.
+
+@81
+A trump card?
+
+@82
+Hakodate.
+
+@83
+Ezo (Hokkaidō)? ...Goryōkaku!
+
+@84
+Indeed, with the sea between, Enomoto-dono's navy can hold it!
+
+@85
+Hm... there's no other way. We'll gamble on it.
+
+@86
+Fighting on, pursued by the new government army.
+
+@88
+Hijikata-san! The old shogunate's navy is anchored in Miyako Bay! It seems they plan to make a fresh start in Hakodate!
+
+@89
+Then our only choice is to go along with them.
+
+@90
+Who goes there?
+
+@91
+Would you care to take the Shinsengumi to Ezo?
+
+@92
+The Shinsengumi? Hijikata-dono?!
+
+@93
+I am Enomoto Takeaki, in command of the shogunate navy. We sail shortly, so board quickly!
+
+@94
+I'm in your debt.
+

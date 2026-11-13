@@ -1,0 +1,246 @@
+# debate topics, part D (description string first, then its title): treaties, Chōshū expeditions, domain reforms, Kyōto informer notes
+PROG:80019050	Imperial Sanction Not Won
+PROG:80019064	The shogunate council prepared large bribes, expecting to win the imperial sanction for the treaty easily.
+PROG:800190b4	Hopes for Imperial Sanction
+PROG:800190c8	The idea was to unite public feeling under the Court's authority: a sign that the shogunate's absolute power was weakening.
+PROG:80019120	Unity under Court Authority
+PROG:80019134	In distress, the shogunate petitioned the Court to approve the treaty, hoping to settle it peacefully with the imperial sanction.
+PROG:80019190	Seeking Imperial Sanction
+PROG:800191a0	As the shogunate weakened, voices arose that the Court's sanction should be obtained for the commercial treaty.
+PROG:800191f8	Sanction Is Needed
+PROG:80019208	Unequal terms such as consular jurisdiction, most-favoured-nation status and foreign settlements were hardly discussed.
+PROG:80019268	Unequal Treaty Terms
+PROG:8001927c	In the trade talks, Harris's free trade was chosen over the shogunate's Kaisho trade system.
+PROG:800192d8	The Trade Clauses
+PROG:800192ec	Harris urged a peaceful treaty with America before Britain and others demanded open markets by force.
+PROG:80019360	Harris's Advice
+PROG:80019370	Pressed by Harris's persistence, the shogunate let him enter Edo Castle and meet the shōgun.
+PROG:800193c8	Harris Enters Edo Castle
+PROG:800193dc	Talks on a US-Japan commercial treaty began between the American Consul General Harris and the shogunate.
+PROG:80019424	Commercial Treaty Talks Begin
+PROG:80019438	The sudden death of Rōjū Abe Masahiro left Tokugawa Nariaki, Shimazu Nariakira and others close to him with less say in shogunate policy.
+PROG:800194a8	Abe Masahiro Dies Suddenly
+PROG:800194bc	By making the pro-opening Hotta a Rōjū, he meant to weaken Abe's ties with Tokugawa Nariaki and with the tozama lords.
+PROG:80019530	Ii Naosuke's Aim
+PROG:80019540	Nicknamed "Rangaku-crazy", he knew the West well and was expected to steer the shogunate toward foreign trade.
+PROG:8001959c	Progressive Hotta Masayoshi
+PROG:800195b0	Rōjū Abe Masahiro again appointed the progressive lord of Sakura, Hotta Masayoshi, as Rōjū to face the national crisis.
+PROG:80019608	Hotta Masayoshi Appears
+PROG:80019618	Harris's mission was to make the shogunate allow trade with America.
+PROG:80019658	Harris's Aim in Japan
+PROG:8001966c	The shogunate had refused consuls, but a mistranslation in the treaty forced it to accept Harris as consul.
+PROG:800196d8	Differing Treaty Texts
+PROG:800196ec	Under the consulate clause of the Treaty of Kanagawa, Harris came to Japan as consul.
+PROG:8001972c	Consul Harris Arrives
+PROG:80019740	The Dutch also demanded a treaty like the earlier ones, and the shogunate had to sign.
+PROG:800197b4	Japan-Dutch Treaty Signed
+PROG:800197c8	A treaty with Britain also opened Nagasaki and Hakodate for ship repairs and supplies.
+PROG:8001981c	Japan-British Treaty Signed
+PROG:80019830	After Perry, Russian commander Putyatin came to Nagasaki, and a treaty was concluded after talks.
+PROG:80019890	Japan-Russian Treaty Signed
+PROG:800198a4	With the American treaty, the shogunate could no longer refuse other nations' demands.
+PROG:80019904	Powers Press for Treaties
+PROG:80019918	During the talks, America gave telegraph equipment and a locomotive model, a taste of Western culture.
+PROG:80019974	Culture of the Powers
+PROG:80019980	It opened Shimoda and Hakodate, provided supplies, stationed a diplomat at Shimoda and granted most-favoured-nation status.
+PROG:800199e0	Terms of the Treaty
+PROG:800199f0	The shogunate's stalling and refusal to give a firm answer did not work on Perry.
+PROG:80019a60	The Shogunate's Stalling
+PROG:80019a74	After talks at Yokohama, the Treaty of Kanagawa was signed and the long seclusion ended.
+PROG:80019ac8	Treaty of Kanagawa Signed
+PROG:80019adc	Unusually, the shogunate sought opinions even from people normally barred from politics.
+PROG:80019b24	Seeking Wide Opinion
+PROG:80019b38	Opinions on Perry's letter were gathered from many quarters, but no policy was agreed.
+PROG:80019b98	Reply to the Letter
+PROG:80019bac	The great loyalist shishi Sakamoto Ryōma was killed by the Shinsengumi at the Teradaya in Fushimi.
+PROG:80019bec	Sakamoto Ryōma Assassinated
+PROG:80019bfc	In the Ikedaya Incident, Chōshū loyalist leader Katsura Kogorō was killed.
+PROG:80019c38	Katsura Kogorō Killed
+PROG:80019c48	The shishi at the Ikedaya planned to set fire to the Palace, carry the Emperor to Chōshū in the chaos and assassinate Matsudaira Katamori.
+PROG:80019cbc	A Terrible Plot
+PROG:80019ccc	After the Ikedaya the corps grew, and became what the sonnō-jōi rōnin feared most.
+PROG:80019d24	Shinsengumi Fame Spreads
+PROG:80019d38	Yoshida Toshimaro, Miyabe Teizō and other leading sonnō-jōi shishi had gathered at the Ikedaya and died in the Shinsengumi raid.
+PROG:80019d9c	Jōi Shishi Wiped Out
+PROG:80019dac	They raided the radical sonnō-jōi shishi gathered at the Ikedaya, capturing or killing many.
+PROG:80019df8	The Ikedaya Incident
+PROG:80019e0c	With that force, they cracked down on jōi rōnin roaming Kyōto.
+PROG:80019e50	Extorting money from Kyōto townsfolk and other outrages led Kondō and others, on the Protector's orders, to assassinate him.
+PROG:80019eb0	Serizawa Kamo Purged
+PROG:80019ec4	Kondō Isami and others, who had come to Kyōto with the Rōshigumi, stayed on and formed the Shinsengumi under the Kyōto Protector.
+PROG:80019f20	Birth of the Shinsengumi
+PROG:80019f30	With the war going badly and Shōgun Iemochi dead, the only course was asking the Court for a ceasefire order.
+PROG:80019f88	Imperial Order to Halt
+PROG:80019f98	The second Chōshū Expedition was unpopular, and criticism of the shogunate grew ever harsher.
+PROG:80019fe0	Shogunate Popularity Falls
+PROG:80019ff4	The shogunate's victory ended Chōshū as a domain in effect, and the loyalists' fate hung by a thread.
+PROG:8001a050	The End of Chōshū
+PROG:8001a05c	The shogunate army closed in on Hagi and took the castle.
+PROG:8001a08c	Hagi Falls
+PROG:8001a09c	Though behind in morale and arms, the shogunate's overwhelming numbers beat Chōshū.
+PROG:8001a0f0	Shogunate Victory
+PROG:8001a100	Chōshū's stubborn resistance stalled the front, and the shōgun's death forced the shogunate to withdraw.
+PROG:8001a160	Narrow Chōshū Victory
+PROG:8001a170	Takasugi Shinsaku's Kiheitai fought with great success and helped win the war.
+PROG:8001a1c0	Kiheitai Triumphs
+PROG:8001a1d0	Samurai and commoners defended Chōshū as one, while the shogunate's scratch troops had no morale.
+PROG:8001a230	A Clear Gap in Morale
+PROG:8001a244	Chōshū had the latest weapons, while the shogunate's were mostly obsolete and no match.
+PROG:8001a2b0	Chōshū's New Arms
+PROG:8001a2c0	Chōshū destroyed the far larger shogunate army without letting it into its territory.
+PROG:8001a30c	Chōshū's Crushing Win
+PROG:8001a31c	Fighting broke out between the shogunate army and Chōshū.
+PROG:8001a344	The Second Expedition Begins
+PROG:8001a358	The shogunate decided and announced its punishment of Chōshū, but it was rejected.
+PROG:8001a394	The Shogunate's Response
+PROG:8001a3a0	Satsuma, which eagerly joined the first Chōshū Expedition, now opposes the second.
+PROG:8001a3e4	Satsuma Refuses
+PROG:8001a3f8	The expedition's costs would fall on the people, and the shogunate would lose public support.
+PROG:8001a454	The People Turn Away
+PROG:8001a460	If Chōshū fell, shogunate power would grow and control of other domains tighten.
+PROG:8001a4a8	Fear of Shogunate Power
+PROG:8001a4bc	Sending troops to Chōshū costs huge sums and burdens domain finances.
+PROG:8001a500	Heavy Military Costs
+PROG:8001a514	Voices from many quarters opposed the second Chōshū Expedition.
+PROG:8001a544	Opposition to the Expedition
+PROG:8001a554	The shōgun went to Court to give the Emperor his reasons, and the Court later granted the imperial sanction.
+PROG:8001a5ac	Sanction for the Expedition
+PROG:8001a5bc	The council thought Chōshū would yield easily if the shōgun went as far as Ōsaka.
+PROG:8001a604	Shōgun Iemochi Marches Out
+PROG:8001a618	The council overrated the shogunate's strength; the expedition would prove fatal to it.
+PROG:8001a660	The Shogunate's Folly
+PROG:8001a670	Relying on French aid, the shogunate began the second Chōshū Expedition.
+PROG:8001a6a8	Expedition with French Aid
+PROG:8001a6bc	The conservatives took Chōshū's government and ordered the Kiheitai disbanded.
+PROG:8001a704	Chōshū Units Disbanded
+PROG:8001a718	To show submission, Chōshū was to punish the three house elders behind the Kinmon Incident and move Sanjō Sanetomi and four other nobles to Dazaifu.
+PROG:8001a790	Terms for Chōshū
+PROG:8001a7a0	The conservative government of Chōshū submitted to the shogunate, ending the Chōshū expedition.
+PROG:8001a7f4	The Chōshū Expedition Ends
+PROG:8001a808	After the domain's infighting, the conservatives took power and punished those responsible for the Kinmon Incident.
+PROG:8001a850	Conservatives Take Power
+PROG:8001a864	Inoue Kaoru, a reformist who had been trying to persuade the lord, was attacked by conservatives and gravely wounded.
+PROG:8001a8b8	Inoue Kaoru Attacked
+PROG:8001a8cc	The shogunate means to crush Chōshū; even if we appear to submit, we must prepare to fight it.
+PROG:8001a928	The Reformists' Case
+PROG:8001a938	We must submit fully to the shogunate and protect the Mōri house at any cost.
+PROG:8001a988	The Conservatives' Case
+PROG:8001a998	In Chōshū, the pro-shogunate conservative elders and Takasugi Shinsaku's pro-Emperor reformists clashed ever more fiercely.
+PROG:8001aa0c	Chōshū's Infighting
+PROG:8001aa1c	Saigō Takamori, staff officer to the expedition's commander, used Chōshū's infighting to make it submit without battle.
+PROG:8001aa74	Saigō's Intentions
+PROG:8001aa84	With foreign threats looming, Geishū and others argued against civil war and for a decision by a council of daimyō.
+PROG:8001aae4	Geishū's Petition
+PROG:8001aaf4	Ordered to send troops, the domains, short of funds, acted reluctantly to cut their burden.
+PROG:8001ab54	The Domains' Response
+PROG:8001ab60	The Edo council, ignorant of events in Kyōto and Ōsaka, wrongly thought shogunate power still firm.
+PROG:8001abc0	Shogunate Misjudges the Times
+PROG:8001abd4	The shogunate announced the shōgun would march on Chōshū, but thinking the threat alone would make it yield, never did so.
+PROG:8001ac38	The Shōgun Sets Out
+PROG:8001ac44	The shogunate ordered the western domains to send troops and ringed Chōshū. Its prestige had waned, but its strength was still considerable.
+PROG:8001acbc	Encirclement of Chōshū
+PROG:8001accc	Having fired on the Palace in the Kinmon Incident, Chōshū was branded an enemy of the Court, and the shogunate planned to subdue it.
+PROG:8001ad30	Sakamoto Ryōma's Kameyama Shachū joined Tosa and was renamed the Kaientai.
+PROG:8001ad7c	Birth of the Kaientai
+PROG:8001ad8c	He died of consumption at 27, leaving the death poem "Make the dull world interesting..."
+PROG:8001ade8	Takasugi Shinsaku Dies
+PROG:8001adf4	Satsuma and Chōshū agreed to overthrow the shogunate and build a unified state able to stand up to foreign powers.
+PROG:8001ae48	Building a Unified State
+PROG:8001ae58	Concrete actions by Satsuma and Chōshū were fixed for the coming war between the shogunate and Chōshū.
+PROG:8001ae9c	Plans against the Shogunate
+PROG:8001aeb0	The Kameyama Shachū carried sea cargo for Satsuma and Chōshū and brought the two rivals together.
+PROG:8001af14	Handling Sea Transport
+PROG:8001af24	Sakamoto Ryōma and others formed the Kameyama Shachū, a company using their seafaring skills for shipping.
+PROG:8001af78	Kameyama Shachū Founded
+PROG:8001af8c	Chōshū secretly bought arms from Glover, preparing the latest weapons for war against the shogunate.
+PROG:8001afe4	Chōshū's War Preparations
+PROG:8001aff8	Send students to Britain and France to deepen understanding of world affairs.
+PROG:8001b050	Students Sent to Britain, France
+PROG:8001b064	To gain power against the shogunate, the domain must grow rich through active trade.
+PROG:8001b0c4	Wealth through Trade
+PROG:8001b0d4	Satsuma's progressives, led by Saigō Takamori, sought a league of strong domains, but the shogunate refused.
+PROG:8001b128	Conflict with the Shogunate
+PROG:8001b138	Satsuma, once pro-shogunate, gradually turned anti-shogunate.
+PROG:8001b184	Satsuma's Course
+PROG:8001b194	To enrich the domain for military strength, trade was expanded and various industries promoted.
+PROG:8001b1d8	Domain Military Reform
+PROG:8001b1e8	Civil reforms followed, such as promotions based on individual ability.
+PROG:8001b21c	Domain Civil Reform
+PROG:8001b22c	With Takasugi's reformists in power, Chōshū advanced toward overthrowing the shogunate.
+PROG:8001b274	Chōshū Heads for Revolt
+PROG:8001b288	Founded by Katsu Kaishū to raise naval strength and enrich the country through trade.
+PROG:8001b2cc	Kōbe Naval Training School
+PROG:8001b2e0	Posts of army chief, army commissioner and infantry and cavalry commissioners were created, and the navy was strengthened.
+PROG:8001b32c	Shogunate Military Reform
+PROG:8001b33c	Easing sankin-kōtai cut domains' costs and let them build up defences against foreign powers.
+PROG:8001b39c	Domain Finances
+PROG:8001b3a8	Sankin-kōtai was eased to one year in three, and lords' wives and children could return home.
+PROG:8001b400	Easing Sankin-kōtai
+PROG:8001b414	Shogunate, Court and domains are useless. Low-ranking shishi and commoners must rise together.
+PROG:8001b464	Grassroots Thought
+PROG:8001b470	Under the name of nurses, the shogunate hired women to attend Harris and his men; one, Okichi, later killed herself.
+PROG:8001b4e0	Tōjin Okichi
+PROG:8001b4ec	Coastal defence was boldly strengthened, but the old families at the top and the reformists split deeply.
+PROG:8001b534	Reforms in Mito
+PROG:8001b544	Under house elder Yoshida Tōyō, Tosa modernised with Western gunnery, cannon-casting and shipbuilding, and profited from local monopolies.
+PROG:8001b5bc	Reforms in Tosa
+PROG:8001b5cc	Satsuma built up arms, imported Western culture and began running the Shūseikan, a pioneer modern factory.
+PROG:8001b624	Reforms in Satsuma
+PROG:8001b634	Chōshū tightened control of the peasants, fostered Western learning, adopted Western military systems and employed able men.
+PROG:8001b67c	Reforms in Chōshū
+PROG:8001b68c	Unlike the shogunate's arms-centred reforms, the domains also reformed finance, farming and civil rule.
+PROG:8001b6d4	Unlike the Shogunate
+PROG:8001b6e4	Strong domains reformed finance and the military.\nThey also promoted talent regardless of rank.
+PROG:8001b73c	Domain Reforms Advance
+PROG:8001b74c	For lack of funds, work on the fourth Shinagawa battery was abandoned midway.
+PROG:8001b78c	Battery Work Halted
+PROG:8001b7a0	Military preparations against the powers were never adequate, for the shogunate was short of money.
+PROG:8001b7e8	Shogunate Finances
+PROG:8001b7f8	The Dutch presented a steamship, and its Dutch officers became navigation instructors.
+PROG:8001b84c	Dutch Assistance
+PROG:8001b85c	With Dutch help, the Nagasaki Naval Training School was opened to teach naval skills.
+PROG:8001b8a4	Nagasaki Naval School
+PROG:8001b8b8	Batteries off Shinagawa, a reverberatory furnace at Nirayama in Izu and the Kōbusho school were built.
+PROG:8001b900	Coastal Defence Measures
+PROG:8001b914	Talented men were promoted whatever their current rank.
+PROG:8001b948	Talent Over Rank
+PROG:8001b95c	To face the powers' great military might, the aim was to build up arms, mainly naval.
+PROG:8001b9b4	Shogunate's Measures
+PROG:8001b9c4	Many radical rōnin seem to be lurking at the Izutsuya, a haberdasher in Nakagyō.
+PROG:8001ba00	Rōnin Hide at Izutsuya
+PROG:8001ba14	A tip says a Mimawarigumi rank-and-file man, Ōsawa, is plotting treason with sonnō-jōi rōnin at a Shimizu inn.
+PROG:8001ba70	Traitor in Mimawarigumi
+PROG:8001ba80	A rank-and-file man who deserted has apparently fled into Shimogyō.
+PROG:8001bab4	A Deserter Flees
+PROG:8001bac4	A recent deserter appears to be extorting funds in Nakagyō.
+PROG:8001bb08	Deserter Robs Merchants
+PROG:8001bb1c	Several Chōshū rōnin seem to be hiding at the Shinoya inn in Nakagyō.
+PROG:8001bb4c	Rōnin Hide at Shinoya Inn
+PROG:8001bb60	A man named Kawase of Ōmi seems to be gathering sonnō-jōi rōnin at Daishō-ji in Kamigyō for some scheme.
+PROG:8001bba8	Plot at Daishō-ji
+PROG:8001bbb8	The Confucian scholar Fujii Randen is suspected of inciting sonnō-jōi rōnin to mischief at Bukkō-ji in Shimogyō.
+PROG:8001bc10	Plot at Bukkō-ji
+PROG:8001bc20	Sonnō-jōi rōnin appear to meet often at the Hyōtei in Kawaramachi.
+PROG:8001bc64	Rōnin Meet at Hyōtei
+PROG:8001bc78	Corps member Takeda Kanryūsai secretly visits the Satsuma residence and seems to be passing on the corps' secrets.
+PROG:8001bcc4	Takeda Spies for Satsuma
+PROG:8001bcd8	Sakamoto Ryōma, a loyalist rōnin who fled Tosa, seems to be hiding at the Teradaya in Fushimi.
+PROG:8001bd18	Sakamoto Hides at Teradaya
+PROG:8001bd2c	Rumour says Chōshū shishi frequent the Masuya in Kawaramachi; its owner may really be the sonnō-jōi shishi Furutaka Shuntarō.
+PROG:8001bd88	Trouble at the Masuya
+PROG:8001bd9c	Kusunoki Kojūrō is suspected of being a Chōshū spy.
+PROG:8001bdc0	Kusunoki Suspected Spy
+PROG:8001bdd0	Arakida Samanosuke is suspected of being a Chōshū spy.
+PROG:8001bdf8	Arakida Suspected Spy
+PROG:8001be0c	The rōnin from Mito who killed a Shinsengumi man seems to be hiding at Kaisen-ji in Shimabara.
+PROG:8001be4c	Rōnin Hide at Kaisen-ji
+PROG:8001be60	Rumour says radical rōnin who fled Higo are hiding at the Ogawa-tei in Gion.
+PROG:8001be94	Rōnin Hide at Ogawa-tei
+PROG:8001bea8	Several rōnin keep appearing at the Yamakinuya in Gion, extorting money and goods.
+PROG:8001bee8	Robbery at Yamakinuya
+PROG:8001befc	Two or three Chōshū samurai seem to be hiding at the Akebono-tei in Shimizu.
+PROG:8001bf34	Chōshū Men Hide in Shimizu
+PROG:8001bf48	Several Chōshū-linked rōnin seem to be hiding at the Ibukiya inn in Kawaramachi.
+PROG:8001bf84	Rōnin Hide at Ibukiya
+PROG:8001bf98	A low-ranking samurai posing as Shinsengumi forced his way into a shop demanding money; he is at the Ōgakiya near Nijō Castle.
+PROG:8001bff0	A Fake Shinsengumi Appears

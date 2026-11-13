@@ -1,0 +1,351 @@
+@1
+Vice-Commander, the Commander is asking for you.\nPlease return to headquarters at once.
+
+@2
+What is it?\nHas something happened?
+
+@3
+I wasn't told the reason for the summons, but Itō-dono said he wished to speak to all the officers, so I suppose it concerns that...
+
+@5
+Hijikata-san, please return to headquarters at once.
+
+@6
+What is it?\nHas something happened?
+
+@7
+Itō-san insists he must speak to all the Shinsengumi officers.
+
+@9
+(Itō, what are you scheming?)
+
+@10
+Patrol and gather information.\n(Priority areas: Kamigyō, Nakagyō, Shimogyō, Shimabara)
+
+@14
+...If you are to become direct retainers of the shogunate, we cannot act together with you.
+
+@16
+For us, to serve the shogunate is itself an act against the way of the warrior.
+
+@17
+What nonsense is this?!
+
+@18
+We are not like you!
+
+@19
+...What do you mean?
+
+@20
+We who left our domains have already forsaken one lord. To become direct retainers of the Tokugawa now would betray the samurai's duty never to serve two masters!
+
+@22
+In the beginning we joined the Shinsengumi as masterless rōshi, to accomplish the great work of jōi. Not to become the shogunate's lackeys.
+
+@23
+But... you would be hatamoto.
+
+@24
+We hold no such ambition.
+
+@25
+...Then what do you intend to do?
+
+@26
+In that case, we shall split the Shinsengumi and form a new body.
+
+@27
+You mean to leave the corps, then?
+
+@28
+Not at all. Outside the corps, we shall be a separate force cooperating with the Shinsengumi. It is by no means a desertion.
+
+@30
+Are all of you of one mind with Itō-kun?
+
+@31
+...Just so.
+
+@36
+So be it. We cannot share life and death with men we cannot call comrades.
+
+@37
+May I take it that you have given your consent?
+
+@38
+As you wish.
+
+@39
+Then... if you will excuse us.
+
+@41
+The "Goryō Guard" has been formed.\nThe Shinsengumi's strength fell by 3!
+
+@46
+That man, surely...
+
+@47
+...Who are you?
+
+@48
+Official business. We're searching the place.
+
+@49
+V-Vice-Com...!!
+
+@51
+No leaving the corps without permission... You remember that?
+
+@53
+Toshi-san, word has come from above! From today we are direct retainers of the shogunate!
+
+@54
+That's all well and good, but...
+
+@55
+What's the matter? Be a little happier about it!
+
+@56
+If we leave Itō's faction at large, one man after another will desert the Shinsengumi. We'll lose control of the corps.
+
+@57
+Hm. So we have to cut them down, do we...
+
+@58
+Commander! A rank-and-file man on patrol near the Satsuma residence was killed!
+
+@59
+What?! Who did it?!
+
+@60
+Tomiyama Yahei, who left the corps the other day.
+
+@61
+Grr, this is Itō's doing!
+
+@63
+They struck first. Then let's meet them head-on, no holding back.
+
+@64
+Gentlemen.
+
+@65
+Yamazaki-kun, what is it?
+
+@66
+Sano Shimenosuke and others are going in and out of the Protector of Kyōto's residence.
+
+@68
+Some who can't accept being taken on as shogunate retainers have appealed to the Aizu Domain, asking to leave the corps.
+
+@69
+Grr, acting on their own behind our backs...
+
+@70
+Toshi-san, what shall we do?
+
+@71
+Cut them down\nLeave them be
+
+@72
+No leaving the corps without permission. The corps code cannot be bent.
+
+@74
+You tried a clever little trick.
+
+@75
+Th-there is a just reason for this.
+
+@76
+Arguments are no use to the Shinsengumi. You know that well enough.
+
+@77
+Ugh, d-damn you!
+
+@79
+Sorry for the disturbance. There was a traitor to the authorities within the corps, so we dealt with him.
+
+@81
+Excuse us.
+
+@82
+Tch, we failed...
+
+@83
+Well, no matter. There's nothing they can do.
+
+@84
+I'm about to attend the council of the shōgun's kin domains. Will you come along, Toshi-san?
+
+@86
+The domains no longer have the strength to spare for a campaign against Satsuma.
+
+@87
+The shogunate no longer has the ability to handle the country's problems.
+
+@89
+Hm? Kondō-kun, have you some view to offer?
+
+@90
+Then... with respect, I shall speak.
+
+@91
+Hmm. That is sound.
+
+@94
+I'll pass.
+
+@95
+I see. Then I leave the rest to you.
+
+@96
+Shinsengumi? What is your business?
+
+@97
+I wish to see Lord Sanjō.
+
+@99
+And what business brings you today?
+
+@100
+I come to petition for the continuation of the policy of Union of Court and Shogunate within the Imperial Palace.
+
+@102
+Hm. The Court has not the slightest thought of blaming the shogunate or the Tokugawa house and confronting them.
+
+@103
+I beg your kind consideration.
+
+@104
+Well, I shall consider it.
+
+@105
+...I beg your kind consideration.
+
+@107
+Kotsuru-san has been carried off by a Higo rōnin.
+
+@108
+What?!
+
+@109
+He says to come alone to the Sanjō riverbank...
+
+@111
+Head to the Sanjō riverbank in Kawaramachi.
+
+@112
+Wait here.
+
+@114
+Well, he actually came.
+
+@115
+Damn you, you brought friends.
+
+@116
+Hijikata-sama! Run!
+
+@117
+Take your hands off the woman.
+
+@118
+Ha ha ha, right on cue.
+
+@119
+You must die. Here and now I'll avenge my comrades who fell with their goals unfulfilled!
+
+@120
+Vengeance for Shintarō-sama! Prepare yourself!
+
+@121
+Guooh!
+
+@122
+Haa, haa...
+
+@123
+Kotsuru...
+
+@126
+..."Vengeance," you said.
+
+@128
+Your late husband?
+
+@129
+...I must apologise to you.
+
+@131
+Too bad. Die!
+
+@132
+Aah!
+
+@135
+Tch! Reinforcements? Pull out!
+
+@136
+Don't let them escape! Take every last one!
+
+@140
+...You've seen me at my worst.
+
+@141
+No, no!
+
+@144
+I must apologise to you.
+
+@146
+That man killed my late husband, Shintarō-sama. And I dragged you into it...
+
+@147
+...You used me.
+
+@149
+It was all an act?
+
+@151
+...Of course, at first I meant to get help from anyone at all. I gave up everything and came to Kyōto only to find that man...
+
+@152
+But meeting you threw it all off course.
+
+@153
+...Each time we met, I felt painfully how my heart was drifting from Shintarō-sama and being drawn to you.
+
+@155
+Was I really such a heartless woman, I wondered...
+
+@156
+I could not face Shintarō-sama... I only wanted to escape that guilt, at least by striking that man down...
+
+@157
+Revenge meant nothing! All I want is to be your woman!
+
+@158
+I am so afraid of myself, so terribly afraid!
+
+@159
+Kotsuru!!
+
+@161
+Enough, stop blaming yourself. You have suffered enough.
+
+@162
+Hijikata-sama...
+
+@163
+Nothing binds you any more. Forget it all and be mine.
+
+@164
+Ah, ah...!!
+
+@165
+Hijikata-sama...!
+
+@171
+I'll buy weapons.
+

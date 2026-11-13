@@ -1,0 +1,185 @@
+# Remaining PROG strings 8003c000-80113adc: retired lords, offices, save/load, persuasion, classes, ship types, opinion cards
+PROG:8003c000	Retired Okayama
+PROG:8003c00c	Retired Kishū
+PROG:8003c018	Retired Ōgaki
+PROG:8003c024	Retired Fukui
+PROG:8003c030	Retired Kanazawa
+PROG:8003c03c	Retired Tsu
+PROG:8003c044	Retired Hikone
+PROG:8003c050	Retired Kuwana
+PROG:8003c05c	Retired Owari
+PROG:8003c068	Retired Nagaoka
+PROG:8003c074	Retired Mito
+PROG:8003c080	Retired Oshi
+PROG:8003c088	Retired Sakura
+PROG:8003c094	Retired Utsunomiya
+PROG:8003c0a0	Retired Aizu
+PROG:8003c0ac	Retired Yonezawa
+PROG:8003c0b8	Retired Sendai
+PROG:8003c0c4	Chōshū Expedition Staff
+PROG:8003c0d0	Foreign Commissioner
+PROG:8003c0dc	Finance Commissioner
+PROG:8003c0e8	Navy Commissioner
+PROG:8003c0f4	Army Commissioner
+PROG:8003c100	Three Lords
+PROG:8003c108	Chōshū Expedition Commander
+PROG:8003c114	Protector of Kyōto
+PROG:8003c120	Chief Political Councillor
+PROG:8003c12c	Shōgun's Guardian
+PROG:8003c138	Tairō
+PROG:8003c140	Key Post
+PROG:8003c17c	-
+PROG:8003c1ac	Initialising the memory card.\nUntil this window disappears, do not remove the %s or %s, and do not switch off the power.
+PROG:8003c218	Checking the memory card.\nUntil this window disappears, do not remove the %s or %s, and do not switch off the power.
+PROG:8003c284	No %s is connected.
+PROG:8003c29c	Memory card removed.
+PROG:8003c2fc	The %s is not initialised.\nInitialise it now?
+PROG:8003c32c	The %s is not initialised.
+PROG:8003c340	An error occurred while checking the %s.
+PROG:8003c368	The %s has too little space.\nSaving needs 5 free blocks.
+PROG:8003c3ac	There is no data to load.
+PROG:8003c3cc	%s: select the %s.
+PROG:8003c3e8	Load
+PROG:8003c3f0	Save
+PROG:8003c3f8	data
+PROG:8003c40c	 %d. %s  %4d/%2d/%2d
+PROG:8003c428	 %d. New Save
+PROG:8003c454	 %d. No Data
+PROG:8003c46c	{M0} Select  {M3} Back to Menu
+PROG:8003c48c	Overwrite the data?
+PROG:8003c4b4	Argue your view weakly
+PROG:8003c4c8	Argue Lightly
+PROG:8003c4d8	Argue your view normally
+PROG:8003c4f0	Argue
+PROG:8003c4fc	Argue your view strongly
+PROG:8003c510	Argue Firmly
+PROG:8003c5ac	Topic
+PROG:8003c5bc	Action Cards
+PROG:8003c5d0	Satsuma-Chōshū Alliance Only
+PROG:8003c5e0	Shinsengumi Only
+PROG:8003c640	All
+PROG:8003c6c0	{M2} Opinion card list, {M0} Select, {M3} Exit
+PROG:8003c6f0	{M0} Select, {M3} Exit
+PROG:8003c784	-
+PROG:8003c78c	-
+PROG:8003c794	-
+PROG:8003c798	-
+PROG:8003c8a0	-
+PROG:8003c91c	Please Wait
+PROG:8003c92c	Controller
+PROG:8003c93c	D-Pad
+PROG:8003c948	SELECT Button
+PROG:8003c958	START Button
+PROG:8003c968	Triangle Button
+PROG:8003c974	Square Button
+PROG:8003c980	Circle Button
+PROG:8003c98c	Cross Button
+PROG:8003c998	R1 Button
+PROG:8003c9a4	L1 Button
+PROG:8003c9b0	Memory Card
+PROG:8003c9c0	Memory Card Slot
+PROG:8003ca90	Cancel Selection
+PROG:8003ca9c	Choose Opponent Automatically
+PROG:8003cab0	Persuading Iwasaki Yatarō
+PROG:8003cac4	Persuading Ii Naosuke
+PROG:8003cad8	Persuading Matsumoto Ryōjun
+PROG:8003cb70	: 
+PROG:8003cbfc	Hijikata
+PROG:8003cc04	Sakamoto
+PROG:8003cc0c	Tennen Rishin-ryū, Full Licence
+PROG:8003cc24	Hokushin Ittō-ryū, Full Licence
+PROG:8003cc3c	Cancel Selection
+PROG:8003cc48	Riverbank
+PROG:8003cc50	Field
+PROG:8003cc58	Crossroads
+PROG:8003cce4	Russian
+PROG:8003ccf0	Dutchman
+PROG:8003ccfc	Frenchman
+PROG:8003cd08	Englishman
+PROG:8003cd14	American
+PROG:8003cd20	Commoner
+PROG:8003cd28	Geisha
+PROG:8003cd30	Monk
+PROG:8003cd38	Foreign Trader
+PROG:8003cd44	Merchant
+PROG:8003cd4c	Dōjō Master
+PROG:8003cd5c	Scholar
+PROG:8003cd64	Shishi
+PROG:8003cd6c	Gōshi
+PROG:8003cd74	Retainer
+PROG:8003cd7c	Sr. Retainer
+PROG:8003cd84	Karō
+PROG:8003cd8c	Lord
+PROG:8003cd94	Kuge
+PROG:8003cda4	Gisō
+PROG:8003cdac	Minister
+PROG:8003cdb4	Emperor
+PROG:8003cdbc	Yoriki
+PROG:8003cdcc	Commissioner
+PROG:8003cdd4	Rōjū
+PROG:8003cddc	Shōgun
+PROG:8003cdec	Ōteki-maru
+PROG:8003cdf4	Taikyoku-maru
+PROG:8003cdfc	Iroha-maru
+PROG:8003ce08	Wild Wave
+PROG:8003ce18	Union
+PROG:8003ce24	Sail
+PROG:8003ce2c	Steam
+PROG:8003ce34	Warship
+PROG:8003cea8	Abolish the feudal system and gather capable men regardless of rank into an assembly, which should decide national policy.
+PROG:8003cf0c	Parliamentary Rule
+PROG:8003cf18	The shogunate should itself return rule to the Emperor and peacefully build a new political system.
+PROG:8003cf5c	Return of Power
+PROG:8003cf68	The shogunate should return power and lands to the Court, making it the centre of politics; if it refuses, armed force is unavoidable.
+PROG:8003cfe4	Restoration
+PROG:8003cff0	Wise lords of each domain should run the nation, with the shogunate joining them as one daimyō house among equals.
+PROG:8003d050	Wise Lords' Council
+PROG:8003d05c	To stand against the shogunate, Satsuma and Chōshū must join hands, for Japan's sake too.
+PROG:8003d0b8	Satchō Alliance
+PROG:8003d0c4	To truly achieve jōi, first build national strength; do not reject trade profits or learning from abroad.
+PROG:8003d138	Great Jōi
+PROG:8003d140	Reform the shogunate's military with a strong navy to stand equal to the Western powers.
+PROG:8003d188	Navy Theory
+PROG:8003d190	Reduce the Tokugawa to a single daimyō house, and let the powerful domains, Tokugawa included, decide policy together.
+PROG:8003d1f0	Union of Domains
+PROG:8003d1fc	Overthrow the shogunate that cannot carry out jōi, and carry it out under the Emperor.
+PROG:8003d240	Anti-Shogunate Jōi
+PROG:8003d24c	Foreign trade will wreck the economy; the Western powers will exploit it and Japan will fall.
+PROG:8003d2b0	Ruinous Trade
+PROG:8003d2bc	Opening the country will destroy Japan. The shogunate is no longer reliable; jōi must be carried out by the Emperor's will.
+PROG:8003d328	Sonnō Jōi
+PROG:8003d334	The country is in chaos, but if the shōgun shows respect for the Emperor, all will unite.
+PROG:8003d380	Sonnō Theory
+PROG:8003d388	With French aid, crush the rebellious domains by force and build a centralised Tokugawa state.
+PROG:8003d3f8	Crush the Domains
+PROG:8003d404	Gather men of purpose from across the land into an assembly that decides policy, with the shōgun as its head.
+PROG:8003d460	Republic
+PROG:8003d46c	Restore lost shogunate prestige by hiring talent, strengthening the army and navy, and renewing diplomacy.
+PROG:8003d4c8	Shogunate Reform
+PROG:8003d4d4	Chōshū men obstructed the Court and acted against the shogunate in the Kinmon Incident; the shogunate must punish Chōshū to show its power.
+PROG:8003d54c	Punish Chōshū
+PROG:8003d558	Court and shogunate should unite, open the country, gain strength through trade, then show it to the world.
+PROG:8003d5b8	Maritime Expansion
+PROG:8003d5c4	The nation is in peril, so Court and shogunate must unite and confer to face the crisis.
+PROG:8003d610	Court & Shogunate
+PROG:8003d61c	Boldly open the country, enrich it by foreign trade, and gain strength to resist foreigners.
+PROG:8003d670	Open Trade
+PROG:8003d67c	Seclusion is unrealistic and Japan lacks the strength for it. We must reluctantly open the country.
+PROG:8003d6e4	Reluctant Opening
+PROG:8003d6f0	Friendship with foreigners is forbidden, so tighten seclusion and repel the foreign enemy.
+PROG:8003d740	Seclusion and Jōi
+PROG:8003d74c	Government centres on the shogunate; in this national crisis its power must be strengthened further.
+PROG:8003d7a8	Strong Shogunate
+PROG:8003d848	Koei
+PROG:8003d990	Village Map
+PROG:8003da38	World
+PROG:8010d814	-
+PROG:801139ec	Sakamoto
+PROG:80113a50	Takasugi
+PROG:80113ab4	-
+PROG:80113ac8	-
+PROG:80113adc	-
+PROG:8003c408	 
+PROG:8003c788	-
+# review: own English for strings that shared another string's line
+PROG:8003cdc4	Retainer

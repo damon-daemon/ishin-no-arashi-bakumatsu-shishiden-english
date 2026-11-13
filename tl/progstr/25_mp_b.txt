@@ -1,0 +1,282 @@
+# MP overlay, second half 8015e745-8fffffff: persuasion openers, geisha party and drinking games, meals and bills, trust and souvenirs, meeting menus, patrol orders, hanafuda and persuasion arts, info lines, study and dōjō exams
+MP:8015e78c	I shall show you that endless jōi talk changes nothing.
+MP:8015e7dc	I shall have you see that pointless fighting at home must be avoided.
+MP:8015e828	You must understand that without a fight, no true change is born.
+MP:8015e870	For the country, speak your mind freely!
+MP:8015e8a0	Well, I'll hear you out over a drink.
+MP:8015e8ec	Then let me hear what you have to say.
+MP:8015e9dc	Hee hee... you really are an odd one, Sakamoto-sama.\nWhatever are you thinking...
+MP:8015ea2c	Um...\nSakamoto-sama, about me...
+MP:8015ea4c	Oh, I seem to have got tipsy...\nPlease pay no mind to that.\nCome, let's drink more!
+MP:8015eaa8	Hm, I'm quite drunk.\nBy the way, Sakamoto-kun, can you do disguises?
+MP:8015eaec	A disguise helps throw pursuers off the scent when it counts.
+MP:8015eb24	Behold my magnificent disguise!
+MP:8015eb48	Oh, how marvellous!\nPerfect!
+MP:8015eb68	Heh... surprised, Sakamoto-kun?
+MP:8015eb88	It took great toil and study to get this far.\nHa ha ha!
+MP:8015ebc8	Come, Sakamoto-kun!\nToday let us drink and talk till dawn!
+MP:8015ec0c	Ha ha ha! What fun today!\nRight, time for a dodoitsu!\nSakamoto-kun! The shamisen!
+MP:8015ec5c	W-well...
+MP:8015ec6c	Right! I'll show the spirit of a Chōshū shishi!
+MP:8015ec9c	Takasugi Shinsaku's one-man show went on and on...
+MP:8015ecc4	You drink quite well now, Toshi!\nHow delightful! Gahaha!
+MP:8015ed00	Right, watch closely, Toshi.\nOnly Lord Kiyomasa and I can do this!\nAaaah...
+MP:8015ed50	Kondō thrusts his fist in and out of his huge mouth...
+MP:8015ed84	...\n(What a huge mouth the man has...)
+MP:8015edb0	How's that? Magnificent, isn't it?\nGahaha!
+MP:8015eddc	And so they plunged into a roaring banquet...
+MP:8015ee14	%s has passed out drunk.\nA poor head for drink, it seems.
+MP:8015ee50	You are challenged to a drinking contest.\nAccept?
+MP:8015ee80	Very well, a drinking contest.\nIt is decided by button mashing.\nPress {M0} and {M3} alternately and fast.
+MP:8015eee4	%s's Tolerance rose by %s!
+MP:8015eefc	You lost the drinking contest.\nYou seem to have forced down too much.\n(Minors must not drink alcohol!)
+MP:8015ef64	A nostalgic children's song went straight to %s's heart...
+MP:8015efa4	Then the gekkin's lovely tune rang out, and time flowed gently...
+MP:8015efe4	After that, shamisen and song never ceased...
+MP:8015f018	After that, %s's singing never ceased.
+MP:8015f044	Then %s recited a shigin poem in a ringing voice...
+MP:8015f068	You are challenged to a sumo bout.\nAccept?
+MP:8015f094	Very well, a sumo bout.\nIt is decided by mashing: press {M0} and {M3} alternately and fast.
+MP:8015f0f0	Wh-what! Ugh!\n...\n(What a man...)
+MP:8015f150	%s's crude fire-breathing party trick froze the room...
+MP:8015f1ac	You are challenged to a sword match.\nSpar with them?
+MP:8015f1e0	Talk of a shared hobby livened up the gathering.
+MP:8015f284	Got %s.
+MP:8015f294	detached
+MP:8015f2a0	gloomy
+MP:8015f2a8	genial
+MP:8015f2b4	bright
+MP:8015f2bc	Moderate
+MP:8015f2c4	Militant
+MP:8015f2cc	Jōi
+MP:8015f2d4	Open-country
+MP:8015f2dc	Sonnō
+MP:8015f2e4	Sabaku
+MP:8015f2ec	I'm worn out somehow.\nI've no mind for a long talk.
+MP:8015f320	I'm worn out today.\nNot in the mood for a long talk.
+MP:8015f358	I'm tired today.\nI don't feel up to a long talk.
+MP:8015f390	I'm worn out today.\nLet's save the long talk for another time.
+MP:8015f3c0	I am weary today.\nForgive me; another day.
+MP:8015f3f4	I am exhausted from a busy day.\nAnother day, please.
+MP:8015f42c	Shall we order a meal?
+MP:8015f444	Then I shall decline too.
+MP:8015f460	Very well, then.\nExcuse me, but I'll order for myself.
+MP:8015f498	Is that so...\nThen I shall decline too.
+MP:8015f4c8	Is that so...\nThen with your leave, I'll order only mine.
+MP:8015f504	Aw, no fun at all.\nWell, I'll skip it then.
+MP:8015f530	Fine, then I'll order just one.\nIt may look tasty, but I won't share.
+MP:8015f578	Oh, then I'll skip it too.
+MP:8015f59c	Very well, I'll order only my portion.\nYou there! Bring one meal!
+MP:8015f5e8	Split the Bill
+MP:8015f5f8	I'll Pay
+MP:8015f604	Make Them Pay
+MP:8015f618	Well, it's hardly my place to treat you.\nLet's not order.
+MP:8015f650	Is that so?\nThen we'll skip it.
+MP:8015f678	Well, I'd hate to look as if I'm doing you a favour, so I won't order.
+MP:8015f6ac	What, oh well.\nThen let's not order.
+MP:8015f6e4	I see, then let's skip it.
+MP:8015f704	Well, I've no reason to pay.\nNo order, then.
+MP:8015f730	In that case, allow me to pay.
+MP:8015f760	Is that so...\nWell, leave this to me.
+MP:8015f790	Well, if that's how it is, fair enough.\nToday's on me.
+MP:8015f7c8	Well, if that's how it is, so be it.\nYou'll owe me one for today.
+MP:8015f804	Well, no need to be shy.\nHelp yourself.
+MP:8015f834	Hoh, you'd have me pay...\nVery well, I'll cover this.
+MP:8015f860	Have you no sense of restraint...\nNo, no, help yourself...
+MP:8015f894	Pray think nothing of the bill and enjoy yourself.
+MP:8015f8c4	Hm...\nN-no, don't hold back...
+MP:8015f8e0	Ha ha ha! No, help yourself.\nYou've done well out of this, K2.
+MP:8015f914	Honestly, I'm no match for you, K2.\nGo on, don't hold back.
+MP:8015f940	Ugh... oh, all right.\nToday's on me, so go ahead.
+MP:8015f984	Ha ha ha! An amusing fellow.\nHelp yourself, then.
+MP:8015f9b4	The cheek of it...\nOh, very well, I'll pay.
+MP:8015f9f0	What about the bill?
+MP:8015fa08	Well then, I'll take your treat.\nMy, how kind of you.
+MP:8015fa3c	I'd like to order something too, but I'm short today...
+MP:8015fa70	It's my treat here, so let's not hold back.
+MP:8015faa4	I shall pay here.
+MP:8015fac0	By the way, shall we split the bill?
+MP:8015faf0	By the way, I'd like to split the bill...
+MP:8015fb18	Don't be so petty.\nLeave this to me; I'll pay.
+MP:8015fb54	I see; if you wish it, we'll split it.
+MP:8015fb84	What's this?\nIf you're that short of money, I'll pay.
+MP:8015fbc8	What, money's tight, eh?\nWell, if so, let's split it.
+MP:8015fc08	That would be rude to a man of note like you, K2.\nI shall pay here.
+MP:8015fc40	Then we shall split it.
+MP:8015fc60	Hm! I haven't enough!\nSorry, but will you lend me some?
+MP:8015fca8	(Oh no, I haven't enough on me...)\nI'm sorry, but could you pay today?
+MP:8015fcfc	You lack the money to pay!\nAsk them to pay for you.
+MP:8015fd44	Ha ha ha!\nYou'd go hungry like that; leave it to me.
+MP:8015fd80	Shameless, aren't you?\nVery well, I'll pay this once.
+MP:8015fdc0	Well, we help each other in need.\nI'll pay.
+MP:8015fdf8	Not a coin on you? Well, I never.\nNothing for it; I'll cover you.
+MP:8015fe30	Then I'll gladly take it.
+MP:8015fe50	Ah, sake with you, K2, is something special.
+MP:8015fe70	Then I'll take you at your word.
+MP:8015fe9c	W-well then, I'll gladly have some...\n...Urp!
+MP:8015fed0	Then I'll gladly partake.
+MP:8015fef0	Offer them sake?
+MP:8015ff08	Well, let's do this over a drink.
+MP:8015ff34	If you don't mind, let us order sake.
+MP:8015ff5c	%sThe mood was %s; %s.\nAnd then...
+MP:8015ff74	Sipping sake together. 
+MP:8015ff8c	Over a meal. 
+MP:8015ffa0	the talk was quiet
+MP:8015ffbc	talk went on
+MP:8015ffcc	talk flowed
+MP:8015ffdc	%s's trust in you rose by %s.
+MP:80160004	You gained trust from %s.
+MP:80160028	You can now give orders to %s.
+MP:80160054	%s can now accompany you.
+MP:80160074	Got a letter of introduction from %s to %s.
+MP:80160090	You gained no trust from %s.\n%s
+MP:801600b4	Your tastes don't seem to match.
+MP:801600d4	You don't seem to get along.
+MP:801600f4	Your views differ.
+MP:80160204	You have nothing to give as a souvenir.
+MP:80160224	Stop giving a souvenir?
+MP:80160244	Give %s as a souvenir.\nIs that all right?
+MP:80160270	Is this oshiroi? You mean I should put on make-up once in a while, don't you?\nHee hee... but I'm glad.
+MP:801602dc	This is... eau de Cologne?\nOh, what a lovely scent...\nThank you so much for the trouble.
+MP:80160324	Ah, kaminari-okoshi.\nI always buy some when I go to Asakusa.\nThank you.
+MP:80160370	My, what unusual face powder.\nThank you for thinking of me.
+MP:801603ac	What's this?\nOh, what a lovely scent.\nThank you, S2-han.
+MP:801603e8	Wh-why, this is tsukeage!\nMy very favourite.\nMy thanks to you.
+MP:80160444	Oh, this is shio-yōkan, isn't it?\nIt's tasty, this stuff.
+MP:801604b0	End Meeting
+MP:801604c0	View Their Info
+MP:801604d4	Give Souvenir
+MP:801604e4	Talk
+MP:801604f0	Ask for Info
+MP:80160520	There is no one you can meet.
+MP:8016058c	Ask to meet %s.
+MP:801605b8	Open-Country Traitor
+MP:801605cc	Shogun's Hound
+MP:801605d8	Pro-Foreign
+MP:801605e4	Loyalist
+MP:801605f4	Jōi faction's
+MP:80160600	Open faction's
+MP:8016060c	Sonnō faction's
+MP:80160618	Sabaku faction's
+MP:80160624	No Tenchū for me!
+MP:80160638	Ordering %s removes them as a companion. Proceed?
+MP:80160670	Understood. S1 will go on patrol.
+MP:80160694	Certainly. S1 shall go on patrol.
+MP:801606cc	Got it. S1's off on patrol.
+MP:801606e8	Right you are. S1'll go and do the rounds.
+MP:80160738	As you say. S1 will go on patrol.
+MP:80160760	Right! S1's off to walk the rounds.
+MP:8016077c	Understood. S1 is off on patrol.
+MP:801607d8	There is no one who can accompany you.
+MP:801607f8	Awaiting orders. Cannot change.
+MP:80160824	Add Companion
+MP:80160834	Remove Companion
+MP:80160844	A companion's post cannot be changed!
+MP:80160880	Dismiss %s. Is that all right?
+MP:801608a4	%s is %s. Cannot change.
+MP:80160974	Triggers when you try to win by taking the\ncard the opponent just played or flipped\nusing your hand.
+MP:801609dc	Note that this skill gives no edge in\nhanafuda.
+MP:80160a10	How unkind of you. Please let me off with this.
+MP:80160a3c	You obtained "%s", one of the fifteen\npersuasion arts. Use it in debates.
+MP:80160a7c	Style rose by %d!
+MP:80160a94	Style rose by a further %d!
+MP:80160af0	I can't let you win easily any more.\nI'll play in earnest too.
+MP:80160b38	Are you ready for this?
+MP:80160b50	I'll get things ready at once.
+MP:80160b68	My, sir, you do hate to lose.
+MP:80160b88	Let's end hanafuda here.
+MP:80160bd4	Such bad luck. Let's end hanafuda here.
+MP:80160c04	Oh, you have no money left?
+MP:80160c24	Sir, this won't do. Come back when you've got the money!
+MP:80160c4c	Here's something I heard...
+MP:80160c68	Do you know?
+MP:80160c94	Hmm, nothing in particular lately.
+MP:80160cd0	, 
+MP:80160ec4	Ask for Info
+MP:80160ed0	Play Hanafuda
+MP:80160ee8	Not enough Drive for a meal!
+MP:80160f10	Here we ask %d ryō, paid in advance.
+MP:80160f34	Have a meal?
+MP:80160f48	Oh, %s-sama, so glad you came.
+MP:80160f68	I'm %s. What shall we do for fun today?
+MP:80160f98	Sorry, all the girls are out just now...
+MP:80160fd8	Direct Members
+MP:80160fe8	Change Companion
+MP:80160ff8	Shinsengumi Info
+MP:80161080	Don't scorn the foreigners. Learn their strength!
+MP:801610b4	To strengthen the country we must take in more Western learning!
+MP:801610f4	Foreign Insight rose by %d!
+MP:8016110c	To truly expel the foreigners, we must first know them!
+MP:80161148	Study more of the West's advanced learning.
+MP:8016116c	%s rose by %d!
+MP:80161180	Open without knowing Japan? Dangerous!
+MP:801611ac	No foreign invasion of the divine land!
+MP:801611d4	Win without fighting if you can, but know tactics for when you can't!
+MP:80161224	In every age and land, it is the wise who win wars.
+MP:8016124c	Reforming the age is our urgent task.
+MP:80161278	The workings of the body are deep indeed.
+MP:80161294	Good, that's it!
+MP:801612a4	That feels right!
+MP:801612b8	Mm, your study is bearing fruit.
+MP:801612e0	Learning rose by 1!
+MP:801612fc	Confucianism
+MP:80161304	Western Studies
+MP:8016130c	Military Science
+MP:80161338	You're doing quite well!
+MP:80161350	The path of learning is not walked in a day.
+MP:80161370	I have nothing left to teach you.
+MP:8016138c	You look unwell. Go home and rest today.
+MP:801613c0	Not enough Drive to study!
+MP:801613fc	Ryōma, today we'll hold your mokuroku exam.
+MP:80161420	Ryōma, now for your assistant instructor's exam.
+MP:80161444	Time to test you for the full licence of Hokushin Ittō-ryū. Come, Ryōma, fight me!
+MP:80161484	Toshi-san, today is your mokuroku exam.
+MP:801614a0	Toshi-san, let's hold your assistant instructor's exam!
+MP:801614c0	Toshi-san, fight me! Win, and you have the full licence of Tennen Rishin-ryū!
+MP:801614f8	%s-dono, today I shall examine you for the mokuroku.
+MP:80161528	%s-dono, today I shall examine you for assistant instructor.
+MP:8016155c	%s-dono, today I shall examine you for the full licence. You will face me in a match.
+MP:801615a0	Mm, I grant you the mokuroku. Keep at it.
+MP:801615c8	I name you assistant instructor. Train so as not to shame the name of Hokushin Ittō-ryū.
+MP:80161604	That's my Ryōma! You've finally surpassed me.
+MP:8016162c	Well done, Toshi-san! Mokuroku it is.
+MP:80161648	Knew you could, Toshi-san. You're assistant instructor now.
+MP:80161670	I'm no match for you, Toshi-san. The full licence is yours!
+MP:8016169c	Splendid! I grant you the mokuroku.
+MP:801616c4	Splendid! I name you assistant instructor.
+MP:801616f0	Splendid! I grant you the full licence.
+MP:8016171c	Your training still falls short. Work harder.
+MP:80161740	Stumbling over this means you need more training.
+MP:8016176c	So Ryōma still can't beat me, ha ha ha.
+MP:80161798	Not yet, Toshi-san.
+MP:801617b0	Hmm, not good. Not this time.
+MP:801617d4	Hmm, almost. Next time's the one.
+MP:801617f4	Hm, regrettably your training is still lacking.
+MP:80161820	You have trained well. I shall pass on the secrets of Hokushin Ittō-ryū.
+MP:80161850	Learned the secret technique "Teppō-zuki".
+MP:80161870	You have trained well. I shall pass on the secrets of Tennen Rishin-ryū.
+MP:801618a0	Learned the secret technique "Kobi-sen".
+MP:801618bc	%s-dono, let us train together!
+MP:801618dc	%s-dono, pray give me instruction!
+MP:80161900	%s-dono, may I have a bout with you?
+MP:80161920	Well, train with me today!
+MP:80161940	Toshi-san, train with me for once.
+MP:80161960	Well now, let us cross swords today.
+MP:8016198c	Not bad, Ryōma! Your training shows!
+MP:801619b4	Your skill has really come on, Toshi-san.
+MP:801619d8	Mm-hm, your training shows.
+MP:80161a00	Hijikata
+MP:80161a0c	Looking good, %s.
+MP:80161a20	Your training shows. Keep at it.
+MP:80161a44	Yes, yes. Looking good, Toshi-san.
+MP:80161a64	Good, that's it!
+MP:80161a74	That feels right!
+MP:80161a88	Hijikata-san, let's train!
+MP:80161aa4	Ryōma, forcing it won't build sword skill. Rest a bit.
+MP:80161ad0	Toshi-san, you look unwell. Don't push yourself; rest.
+MP:80161afc	You can't train when you're this tired.
+MP:80161b24	Not enough Drive to train!
+MP:80161b4c	You need no more sword training.
+MP:80161b70	I've nothing left to pass on. Now I'd like to see a grandchild soon, Ryōma.
+MP:80161bac	Toshi-san, I've nothing left to teach you.
+MP:80161bd4	%s-dono, I regret I have nothing more to teach you.

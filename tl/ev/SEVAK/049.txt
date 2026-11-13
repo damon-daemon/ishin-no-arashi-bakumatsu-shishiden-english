@@ -1,0 +1,90 @@
+@0
+Shiraishi-san, I am terribly sorry to ask, but could you look after Oryō for a while?
+
+@7
+Shiraishi-san, I am terribly sorry to ask, but could you look after Sana for a while?
+
+@15
+Shiraishi-san, I am terribly sorry to ask, but could you look after Kaho for a while?
+
+@24
+Busy with negotiations ahead of the second Chōshū Expedition
+
+@28
+Nakaoka.
+
+@29
+Is your wound all right now?
+
+@31
+Sakamoto-dono!
+
+@32
+Oh, Nakai-kun is here with you too.
+
+@33
+Nakaoka-dono, who is this?
+
+@34
+This is Sakamoto Ryōma, a fellow Tosa man.
+
+@35
+Oh, forgive my terrible rudeness! So you are Sakamoto-dono!
+
+@36
+You know me?
+
+@37
+Know you? Sakamoto-dono is a pillar of the imperial loyalists!
+
+@38
+Don't flatter me.
+
+@39
+Every soul in Totsukawa knows the tales of your valour with the Tenchūgumi.
+
+@40
+This is Nakai Shōgorō-kun, a gōshi of Totsukawa and a master of iaijutsu.
+
+@42
+Why not join the Yūgekitai?
+
+@43
+What?! May I really?
+
+@44
+The war with the shogunate is at hand. A fighter like you will be a great comfort to have.
+
+@45
+Yes, gladly! I will rally comrades in Totsukawa and hurry to join you.
+
+@49
+They've come! Right, let's head for Chōshū!
+
+@50
+On the remaining Sekishū and Geishū fronts too, the Kiheitai's extraordinarily high morale, the tremendous power of the new rifles and the genius of Ōmura Masujirō's military skill were on full display...
+
+@51
+They won victory after victory against overwhelming numbers.
+
+@52
+The shogunate-side domains, by contrast, did nothing but expose their antiquated equipment left over from the days of Sekigahara, their low morale after long years of peace, and their clumsy tactics.
+
+@53
+They met stubborn resistance from the Higo Kumamoto Domain with its most modern equipment, but drove it back.
+
+@54
+They met stubborn resistance from the Higo Kumamoto Domain with its most modern equipment, and the battle swayed back and forth.
+
+@55
+The armies of the other pro-shogunate domains did nothing but expose their antiquated equipment left over from the days of Sekigahara, their low morale after long years of peace, and their clumsy tactics.
+
+@56
+On the Sekishū and Geishū fronts, the Chōshū forces displayed the Kiheitai's extraordinarily high morale, the tremendous power of the new rifles and the genius of Ōmura Masujirō's military skill...
+
+@59
+By narrowly snatching victory, the Yūgekitai managed to pin down the Kyūshū army at Kokura Castle.
+
+@61
+And so the luck of Ryōma and the anti-shogunate faction ran out entirely.
+

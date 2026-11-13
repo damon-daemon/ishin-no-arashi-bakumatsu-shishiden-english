@@ -1,0 +1,255 @@
+# debate topics, part b (PROG 80013000-80015fff): description first, then its title (Tenchū, 1862-63 politics, Black Ships)
+PROG:80013014	Takechi Hanpeita's Seppuku
+PROG:80013028	Lord Yamauchi Yōdō took the Tosa Loyalist Party's court intrigues as insolence and ordered those involved to commit seppuku.
+PROG:80013070	The Shōren'in Prince's Decree
+PROG:80013084	Even in the powerful domains the sonnō-jōi faction was purged, and across the country its forces withdrew from the front line.
+PROG:800130d4	Sonnō-Jōi Purges in the Domains
+PROG:800130e8	As the political situation in Kyōto changed, the Loyalist Party was suppressed within Tosa, and the sonnō-jōi faction in the domain was wiped out.
+PROG:8001313c	Tosa Loyalist Crackdown
+PROG:8001314c	The court noble Anegakōji Kintomo is assassinated.
+PROG:8001316c	Anegakōji Kintomo Slain
+PROG:80013180	Tosa gōshi gathered around Takechi Hanpeita and formed the Tosa Loyalist Party.
+PROG:800131c0	Tosa Loyalist Party Formed
+PROG:800131d4	Yoshida Tōyō of Tosa is assassinated by sonnō men of the domain.
+PROG:80013208	Yoshida Tōyō Slain
+PROG:80013218	They cut the heads off the wooden statues of three Ashikaga shōguns and put them on display, threatening the shōgun and the shogunate's leaders.
+PROG:80013254	The Ashikaga Statues Incident
+PROG:80013268	The jōi faction's power in Kyōto reached its peak, and ever more violent acts of Tenchū followed one after another.
+PROG:800132a8	Tenchū Continues
+PROG:800132b4	Sonnō-jōi shishi burned down the British legation at Gotenyama in Shinagawa.
+PROG:800132f4	Burning of the British Legation
+PROG:80013308	Various measures were taken to deal with the rising tide of sonnō jōi.
+PROG:80013340	Measures Against the Faction
+PROG:80013350	The British demanded the execution of the culprit and the payment of an indemnity, but Satsuma refused and the negotiations broke down.
+PROG:800133a4	Indemnity Talks Collapse
+PROG:800133b4	They protested fiercely that the shogunate was to blame for the killing of an unresisting Englishman in broad daylight, and demanded an indemnity.
+PROG:80013414	Payment of the Indemnity
+PROG:80013424	Claiming to be used to dealing with Asians, they pushed on regardless, and Richardson fell victim.
+PROG:8001347c	The Foreigners' Careless View
+PROG:80013490	On the way from Edo to Kyōto, Shimazu Hisamitsu's party killed or wounded three Englishmen near Namamugi village.
+PROG:800134e0	The Namamugi Incident
+PROG:800134f0	They assassinated the pro-shogunate Yoshida Tōyō, and the sonnō-jōi faction took the lead, aiming for a domain united behind the Emperor.
+PROG:8001353c	Tosa's Sonnō Faction
+PROG:8001354c	Radical sonnō-jōi men seized control of the domain, and their extreme ideas made Chōshū the leader of the sonnō-jōi faction.
+PROG:800135a4	Chōshū Turns to Sonnō
+PROG:800135b8	The effects of Tenchū spread to the powerful domains, and in some the pro-shogunate faction was driven out.
+PROG:80013604	Effects on the Powerful Domains
+PROG:80013618	Taking advantage of the Tenchū terror, some men began robbing rich merchants' houses.
+PROG:80013660	Fake Loyalist Shishi
+PROG:8001366c	Assassinations took place almost every night, such as those of Shimada Sakon and the informer Bunkichi.
+PROG:800136a4	The Storm of Tenchū
+PROG:800136b8	Men who had worked for the shogunate and earned the sonnō faction's hatred were targeted, especially those connected with Princess Kazu's marriage.
+PROG:8001371c	Who Were Tenchū's Targets?
+PROG:80013730	Calling it Tenchū, radical jōi shishi assassinated pro-shogunate figures one after another.
+PROG:80013774	The Tenchū Fashion
+PROG:80013780	The assassination of Heusken enraged the British and French ministers, who protested strongly to the shogunate.
+PROG:800137cc	Pressure on the Shogunate
+PROG:800137e0	Mito rōnin attacked the British legation, but damage was slight thanks to the shogunate's guards.
+PROG:80013838	Attack on the British Legation
+PROG:8001384c	He was assassinated by unknown assailants on his way back to the legation.
+PROG:8001387c	Heusken Assassinated
+PROG:80013890	The shogunate bore the blame for the killing of foreigners, and struggled under the pressure of the powers over indemnities and condolence payments.
+PROG:800138ec	Flustered by the Incidents
+PROG:80013900	Foreigners behaved with arrogant disregard for others, which provoked the shishi, who were eager to expel them.
+PROG:80013948	The Arrogant Foreigners
+PROG:8001395c	Radical sonnō-jōi shishi killed or wounded foreigners again and again in many places.
+PROG:80013994	Foreigner Killings Multiply
+PROG:800139a8	Shishi enraged by the forced marriage of Princess Kazu and rumours that the shogunate would depose Emperor Kōmei attacked Rōjū Andō.
+PROG:80013a00	The Sakashitamon Incident
+PROG:80013a10	A rumour spread that Emperor Kōmei, a supporter of the shogunate and so an obstacle to the anti-shogunate faction, had been poisoned by someone.
+PROG:80013a70	The Poisoning Theory
+PROG:80013a84	Emperor Kōmei passed away. All sorts of rumours flew around the town, including talk of assassination.
+PROG:80013ac4	Emperor Kōmei Passes Away
+PROG:80013ad4	The old sonnō-jōi faction, reckless and unplanned in its thinking, destroyed itself.
+PROG:80013b14	Ruin of the Old Faction
+PROG:80013b24	The fighting ended in a single day, but it set the city of Kyōto ablaze, and the riverbanks overflowed with refugees.
+PROG:80013b7c	The Fires of Kyōto Go On
+PROG:80013b8c	The Chōshū forces were beaten back by an overwhelming number of shogunate troops. Many shishi died in battle or took their own lives here.
+PROG:80013be8	Chōshū Crushed
+PROG:80013bfc	News of the Ikedaya Incident enraged the advance faction, and they finally burst into action.
+PROG:80013c38	News of the Ikedaya Incident
+PROG:80013c48	Talk of marching on Kyōto to recover lost ground was popular, but opinion in the domain was by no means united.
+PROG:80013cb0	Chōshū Divided
+PROG:80013cc4	Chōshū and its allies raised an army to go up to Kyōto and recover lost ground, and clashed with Aizu, Satsuma and others outside the city.
+PROG:80013d18	The Kinmon Incident Breaks Out
+PROG:80013d2c	Unable to agree, each resigned as Sanyo and went home to his own domain.
+PROG:80013d70	End of the Sanyo Council
+PROG:80013d80	They held that the profits of trade must not be monopolised by the shogunate.
+PROG:80013db8	Major Domains Oppose Closure
+PROG:80013dc8	They thought that closing the port at this stage would make war unavoidable.
+PROG:80013e04	Hisamitsu's Argument
+PROG:80013e18	The shogunate knew closing Yokohama was impossible, but clung to it, fearing that siding with the powerful domains would let them seize the political initiative.
+PROG:80013e78	Motives Behind Closing Yokohama
+PROG:80013e88	Following the Court's wish for jōi, the shogunate argued for closing Yokohama, but Shimazu Hisamitsu and others urged open ports.
+PROG:80013ee4	The Sanyo Disagree
+PROG:80013ef8	It was meant to show the Court the shogunate's effort at jōi, but the foreign powers would never accept it and reacted with fierce opposition.
+PROG:80013f58	The Yokohama Closure Problem
+PROG:80013f68	To win the order delegating general government, the shogunate offered 150,000 bales of rice and better treatment for the Court.
+PROG:80013fb8	Favours for the Court
+PROG:80013fcc	The Court delegated it with the aim of making the shogunate bear the responsibility for jōi.
+PROG:80014010	The Fine Print of Delegation
+PROG:80014024	The Court once again delegated government to the shogunate.
+PROG:80014054	Rule Delegated to Shogunate
+PROG:80014068	To consolidate the Union of Court and Shogunate, Shōgun Iemochi entered Kyōto.
+PROG:80014098	Iemochi Enters Kyōto Again
+PROG:800140ac	The daimyō of the Court-Shogunate faction, now in control of politics, entered Kyōto one after another.
+PROG:800140e0	The Union Faction Enters Kyōto
+PROG:800140f4	They rose to avenge the Tenchūgumi, but fell apart through internal splits, and the ringleader Hirano Kuniomi was imprisoned in Rokkaku Gaol.
+PROG:80014154	Ikuno Uprising Crushed
+PROG:80014168	Hirano Kuniomi tried to stop the Tenchūgumi's rash rising but was too late; then, angered by news of the coup in Kyōto, he raised an army at Ikuno.
+PROG:800141d4	The Ikuno Uprising
+PROG:800141e8	They seized the shogunate's magistrate's office at Gojō in Yamato as their base, but the Kyōto coup and attacks by Hikone and Kishū troops destroyed them.
+PROG:80014248	The Tenchūgumi Destroyed
+PROG:80014258	Rōnin rose in Yamato to be the spark that would set off an uprising against the shogunate.
+PROG:80014298	The Spark of Revolt
+PROG:800142ac	When the Emperor's personal campaign against the foreigners was decided, radical jōi shishi raised an anti-shogunate army in Yamato.
+PROG:800142f8	The Yamato Uprising
+PROG:8001430c	The jōi court nobles and Chōshū, shut out of the Court, were forced to withdraw to Chōshū.
+PROG:80014354	Flight of the Seven Nobles
+PROG:80014360	Chōshū confronted Satsuma, which held the palace gates, but had to withdraw by imperial order.
+PROG:800143b0	Chōshū Faces Satsuma
+PROG:800143c4	The Court-Shogunate lords suppressed the jōi faction's political activity, and Chōshū and the other jōi domains fell far back from the scene.
+PROG:80014434	The Union Faction Is Summoned
+PROG:80014448	The Court-Shogunate faction of Satsuma, Aizu and others secured the Emperor and swept Chōshū and the sonnō-jōi faction out of Kyōto.
+PROG:800144a4	The Coup of 8/18
+PROG:800144b8	Emperor Kōmei was a jōi man, but meant to carry out jōi under the shogunate, along the line of union of Court and shogunate.
+PROG:80014514	Emperor Kōmei's True Intent
+PROG:80014524	Through the forceful scheming of Chōshū and others, an edict for the Emperor's personal campaign against the foreigners was issued.
+PROG:80014568	Edict for the Imperial Campaign
+PROG:8001457c	The jōi faction moved to silence opposition by threatening daimyō who opposed the imperial campaign with still more Tenchū.
+PROG:800145d0	Intimidation by Tenchū
+PROG:800145e0	This plan for an imperial campaign, aimed at overthrowing the shogunate, met resistance from Court-Shogunate nobles and lords.
+PROG:80014638	Opposition to the Campaign
+PROG:8001464c	A plan to move the Emperor to Ōsaka and carry out the campaign, with the Court taking over the Kinki lands at the same time.
+PROG:800146a4	Maki's Imperial Campaign Plan
+PROG:800146b8	A plan in which the Emperor himself takes command and carries out jōi.
+PROG:800146e8	The Imperial Campaign Plan
+PROG:800146f4	Kiyokawa Hachirō is assassinated by Sasaki Tadasaburō and others.
+PROG:8001471c	Kiyokawa Hachirō Slain
+PROG:8001472c	The Rōshigumi abandoned its original purpose, and most of its men returned to Edo for the sake of jōi.
+PROG:80014770	The Rōshigumi Returns to Edo
+PROG:80014784	On Kiyokawa Hachirō's proposal, a shogunate-approved Rōshigumi was formed from rōnin around Edo.
+PROG:800147d0	The Rōshigumi Is Formed
+PROG:800147e4	It was dangerous for shogunate troops to enter Kyōto at this time, so on the shōgun's orders Ogasawara Nagamichi and his men were kept out.
+PROG:80014840	Shogunate Troops Fail to Enter
+PROG:80014854	Warships will be sent to attack Satsuma and Chōshū, and there are plans to attack Kyōto as well.
+PROG:800148a0	Attack Satsuma and Chōshū
+PROG:800148b0	If the shogunate's demands are not met, we will set fire to the palace and bind the court nobles.
+PROG:80014900	Set the Palace on Fire
+PROG:80014914	Break the jōi policy and urge opening the ports; if this is not heeded, take the shōgun back to Edo.
+PROG:8001496c	Pressing to Open the Country
+PROG:80014980	Keep the court nobles in check by force; some thousand infantry are said to be already on the road.
+PROG:800149c4	Curbing the Radical Nobles
+PROG:800149d8	Exasperated by events in Kyōto, the shogunate council left in Edo planned to march on the Court backed by arms and force it to abandon the jōi policy.
+PROG:80014a40	Shogunate Army Marches West
+PROG:80014a50	Judging that a long stay in Kyōto would leave him in an ever tighter spot, the shōgun set a date for jōi and fled back to Edo.
+PROG:80014aa4	The Jōi Deadline Is Set
+PROG:80014ab4	Shōgun Iemochi and Hitotsubashi Yoshinobu, who were to receive the sword of command for jōi, stayed out of the procession, pleading sickness.
+PROG:80014b08	Procession to Iwashimizu Shrine
+PROG:80014b18	A procession to Kamo Shrine was held to pray for jōi, joined by the Kampaku and the court nobles, Shōgun Iemochi, Hitotsubashi Yoshinobu and the Rōjū.
+PROG:80014b7c	Procession to Kamo Shrine
+PROG:80014b8c	Seeing that the sonnō-jōi faction was too strong for the Court-Shogunate union to succeed, the daimyō of that faction left Kyōto one after another.
+PROG:80014bf8	Hisamitsu, Others Leave Kyōto
+PROG:80014c0c	Lords of the Court-Shogunate faction such as Shimazu Hisamitsu gathered and agreed on avoiding reckless jōi and curbing violent rōnin.
+PROG:80014c70	Hisamitsu's Comeback
+PROG:80014c84	An imperial order delegating government to the shōgun was issued, but withdrawn the next day, and it was said the Court might give orders directly to the domains.
+PROG:80014cec	Order Delegating Government
+PROG:80014cfc	Shōgun Iemochi had to come up to Kyōto and explain the method and deadline of jōi.
+PROG:80014d40	The Shōgun Goes to Kyōto
+PROG:80014d4c	Facing the sonnō-jōi faction in Kyōto, shogunate councillors such as Hitotsubashi Yoshinobu entered the city one after another.
+PROG:80014d84	Yoshinobu, Others Enter Kyōto
+PROG:80014d98	The shogunate had no choice but to accept this imperial order, however unwillingly.
+PROG:80014dd4	Shogunate Accepts the Jōi Order
+PROG:80014de8	Through the schemes of the radicals of Satsuma, Chōshū and Tosa, the Court sent an envoy to Edo to enforce jōi.
+PROG:80014e30	The Court Decides on Jōi
+PROG:80014e44	To control the jōi rōnin in Kyōto, Matsudaira Katamori, lord of Aizu, became Protector of Kyōto.
+PROG:80014e94	The Lord of Aizu as Protector
+PROG:80014ea8	Iwakura Tomomi and others were punished, and the Court grew more strongly jōi.
+PROG:80014ee0	Punishing the Union Faction
+PROG:80014ef4	The Satsuma sonnō-jōi men who had assembled for an anti-shogunate uprising were put down on Shimazu Hisamitsu's orders.
+PROG:80014f3c	The Teradaya Incident
+PROG:80014f48	The radical sonnō-jōi men had counted on Satsuma's military strength, but Shimazu Hisamitsu leaned towards the shogunate.
+PROG:80014fa4	Shimazu Hisamitsu's True Intent
+PROG:80014fb4	Hearing that Shimazu Hisamitsu was coming east, sonnō shishi from all over gathered in Kyōto, hoping to raise an army around Satsuma's troops.
+PROG:8001501c	The Shishi Rise Up
+PROG:80015030	Shimazu Hisamitsu of Satsuma led troops east to press for reform of the shogunate.
+PROG:8001506c	Hisamitsu Goes East
+PROG:80015080	Shimazu Hisamitsu suppressed the radical sonnō-jōi shishi gathered at the Teradaya, but the result was only to strengthen them.
+PROG:800150e0	The Faction Gains Strength
+PROG:800150f4	Matsudaira Yoshinaga and Hitotsubashi Yoshinobu, who had left politics because of the Ansei Purge, were given key shogunate posts.
+PROG:80015148	Reform of Shogunate Posts
+PROG:80015158	Shimazu Hisamitsu asked the Court to send an envoy to Edo to promote the Court-Shogunate union, and went to Edo escorting him.
+PROG:800151b8	Hisamitsu's Union Plan
+PROG:800151d0	One of the shogunate's intended union measures succeeded.
+PROG:800151fc	The Shōgun's Marriage to Kazu
+PROG:80015210	Cancelling the treaties and expelling the foreigners could not be done; it was an empty pledge to secure Princess Kazu's marriage.
+PROG:80015268	The Shogunate's Reckless Pledge
+PROG:8001527c	The shogunate promised the Court that if Princess Kazu's marriage came about, it would cancel the foreign treaties and carry out jōi within a few years.
+PROG:800152e0	Pledge to Carry Out Jōi
+PROG:800152f0	As a condition of the marriage, the shogunate would consult the Court on major domestic matters: a way for the Court to seize real power.
+PROG:80015350	Iwakura Tomomi's Advice
+PROG:80015360	Emperor Kōmei opposed it, as his sister Princess Kazu was already engaged to Prince Arisugawa.
+PROG:800153a8	Emperor Kōmei Opposes
+PROG:800153b8	As the sonnō-jōi movement grew fiercer, the only way left was to put forward sonnō-minded policies through the Court-Shogunate union.
+PROG:8001540c	Aim of the Union Policy
+PROG:80015420	Borrow the Court's authority to strengthen the shogunate's power, and then work together with the Court.
+PROG:80015468	Andō Nobumasa's Thinking
+PROG:8001547c	Princess Kazu's marriage is a political marriage by which the shogunate brings the Court under its control.
+PROG:800154b4	Ii Naosuke's Thinking
+PROG:800154c4	Its position growing perilous, the shogunate schemes to regain power by marrying Emperor Kōmei's sister Princess Kazu to Shōgun Iemochi.
+PROG:80015534	Princess Kazu's Marriage
+PROG:80015540	The Plan for Maritime Expansion was denounced as craven by the jōi shishi, an impeachment movement arose in Chōshū, and Nagai fell from power.
+PROG:8001559c	Impeachment of Nagai Uta
+PROG:800155b0	The idea that Court and shogunate should unite, first open the country and build strength through trade, and later show the world that strength.
+PROG:80015614	Chōshū's Maritime Expansion Plan
+PROG:80015628	"Mediation in national affairs": political activity by tozama daimyō backed by their domains. Forbidden, it grew as the shogunate's authority declined.
+PROG:800156a4	Mediation Grows Active
+PROG:800156b8	After Shimazu Nariakira's death Shimazu Hisamitsu took real control of Satsuma, and as a result the domain's policy turned to sonnō jōi.
+PROG:8001571c	Satsuma Turns to Sonnō Jōi
+PROG:80015730	A disease thought to have started at Kanagawa, near the foreigners' settlement, spread widely, mainly along the Tōkaidō.
+PROG:8001577c	Cholera Spreads
+PROG:80015788	A rumour spread that the foreigners' landing on the divine land of Japan had provoked an outburst of the gods' wrath.
+PROG:800157d4	Quakes Are the Catfish's Curse
+PROG:800157e8	The Mito sonnō men known as the "two Tas", Fujita Tōko and Toda Hōken, were crushed to death in the earthquake.
+PROG:80015828	Mito's Two Tas Crushed
+PROG:8001583c	A massive earthquake centred on Edo caused great damage, with fires and collapsed houses.
+PROG:80015884	The Great Ansei Earthquake
+PROG:80015898	Perry, judging it hard to get a quick answer from the shogunate, announced he would return the following spring and departed.
+PROG:800158ec	Perry Departs
+PROG:800158fc	The present shogunate council lacked the strength to refuse Perry's demands, so it had no choice but to receive the letter.
+PROG:80015950	The Powerless Shogunate
+PROG:80015960	The letter asked for friendship and trade with America.
+PROG:800159a0	About the Letter
+PROG:800159b4	The Uraga Magistrate met Perry at Kurihama and received the letter from the American President.
+PROG:800159fc	Shogunate Receives the Letter
+PROG:80015a10	The Black Ships are driven by steam engines, so they can sail swiftly.
+PROG:80015a58	The Steamship's Mobility
+PROG:80015a6c	Their hulls are clad in black iron, and they carry 30 to 40 powerful cannon.
+PROG:80015aa8	The Black Ships' Firepower
+PROG:80015abc	Iron ships painted black, armed with dozens of cannon: a veritable fortress on the sea.
+PROG:80015b08	The Black Ships' Might
+PROG:80015b14	The Netherlands had warned of the American fleet's coming and advised a change of foreign policy, but the shogunate council had done nothing.
+PROG:80015b80	The Black Ships Were Expected
+PROG:80015b94	Perry was firmly resolved to have the President's letter received at all costs.
+PROG:80015bd4	Perry's Hard Line
+PROG:80015be8	The Uraga Magistrate went to the flagship and asked them to proceed to Nagasaki, but there was no sign they would listen at all.
+PROG:80015c48	The Magistrate Brushed Aside
+PROG:80015c5c	As the comic verse goes, "Jōkisen, breaking our peaceful sleep; just four cups and not a wink all night," the Black Ships caused a great stir.
+PROG:80015cd4	The Four Black Ships
+PROG:80015ce0	Perry came to Uraga leading four Black Ships.
+PROG:80015d0c	Perry Arrives
+PROG:80015d18	The American envoys left quietly after receiving the shogunate's reply, because their mission was only to confirm its intentions.
+PROG:80015d80	Warning of the Powers' Advance
+PROG:80015d90	The shogunate announced that it would begin no new foreign correspondence or trade, but privately it felt menaced by the Black Ships at Uraga.
+PROG:80015df8	The Shogunate Refuses Trade
+PROG:80015e0c	Seven years before Perry, the envoy Biddle had come to Japan to sound out trade with America.
+PROG:80015e54	The American Envoy's Visit
+PROG:80015e68	Calling the Dutch King's advice "unwanted meddling", he voiced a hard line, even seeking to revive the order to repel foreign ships.
+PROG:80015ec8	Tokugawa Nariaki's Hard Line
+PROG:80015edc	The shogunate did nothing even about the Dutch warning, so kindly given.
+PROG:80015f18	The Do-Nothing Shogunate
+PROG:80015f28	The Netherlands warned that Britain, victorious in the Opium War, would use its momentum to press Japan to open up.
+PROG:80015f80	Warning from the Netherlands
+PROG:80015f94	Unequal terms were added to the treaty, such as unfavourable tariffs on imports and exports and consular jurisdiction granting extraterritoriality.
+PROG:80015fe4	Unequal Terms Added
+PROG:80015ff8	The Treaty of Nanjing made Hong Kong a British colony.\nHaving gained a forward base, Britain would soon advance on Japan as well.

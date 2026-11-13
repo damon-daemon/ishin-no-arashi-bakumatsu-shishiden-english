@@ -1,0 +1,297 @@
+@0
+Founding the Shachū in Nagasaki
+
+@1
+Head for the Kameyama district
+
+@4
+Ah, Manjūya. Where's this company of ours?
+
+@5
+This way, this way!
+
+@6
+Ah, Sakamoto-sama. It has been a long time.
+
+@7
+Sakamoto-sama, I presume.
+
+@8
+Komatsu-dono has told me everything. The house is a little shabby, but please use it as you see fit.
+
+@9
+Not at all, it's more than enough.
+
+@10
+And one more thing...\nI would like to invest in the company myself.
+
+@11
+Most welcome!
+
+@12
+This is our castle now!
+
+@13
+Ryōma-san... I'm overcome.
+
+@14
+We'll build a navy that can stand up to the shogunate!
+
+@15
+Let us carry on Katsu-sensei's aims.
+
+@16
+This is our castle now!
+
+@17
+Ryōma-san... I'm overcome.
+
+@18
+We'll build a navy that can stand up to the shogunate!
+
+@19
+Let us carry on Katsu-sensei's aims.
+
+@20
+Sakamoto-san, let's work together again.
+
+@21
+This is our castle now!
+
+@22
+Ryōma-san... I'm overcome.
+
+@23
+We'll build a navy that can stand up to the shogunate!
+
+@24
+Let us carry on Katsu-sensei's aims.
+
+@25
+Sakamoto-san, please count me in as one of you.
+
+@26
+Sakamoto-san, take me in too!
+
+@27
+Let me join the Shachū too.
+
+@28
+Ryōma-san, don't you forget about me.
+
+@29
+I'm following you too, Sakamoto-san.
+
+@30
+You saved my life, Sakamoto-san. I'll work like a man with nothing left to lose.
+
+@31
+At last we can have a fleet of our own.
+
+@32
+...Everything is still ahead of us.
+
+@33
+Ryōma and his comrades named their naval society after this place: the Kameyama Shachū.
+
+@34
+Komatsu-don doesn't seem to have come yet. I'll wait in Nagasaki a while.
+
+@35
+Wait for Komatsu Tatewaki in Nagasaki
+
+@36
+Omoto, are you there?
+
+@37
+Sakamoto-sama!
+
+@38
+It's been a while.
+
+@39
+Honestly, I was so lonely!
+
+@41
+There!
+
+@42
+Hey, what are you doing?
+
+@43
+I won't let go now!
+
+@44
+Now, now.
+
+@45
+Hee hee hee.
+
+@46
+Come on, come in.
+
+@48
+You! You were at Shōryō-sensei's place, weren't you... Nagaoka-san?!
+
+@50
+Have you come to join us?
+
+@51
+May I?
+
+@52
+Of course! You're very welcome!
+
+@53
+Sakamoto!
+
+@54
+Ah, Gotō!
+
+@56
+We already have proof that you are the man who assassinated my uncle, Tōyō-dono!
+
+@58
+By order of the domain, I will cut you down!!
+
+@59
+D-damn it! Remember this!
+
+@60
+I managed to get away.
+
+@61
+Oh no, I promised to wait for Komatsu-don.
+
+@62
+Sakamoto-san, are you having any trouble?
+
+@63
+Komatsu-san. I'm managing somehow.
+
+@64
+That is good to hear.
+
+@65
+But the one thing we need, a ship, we haven't got.
+
+@66
+A Prussian merchant named Tolchi has come to Satsuma to sell a used ship.
+
+@67
+Ah, that's it!
+
+@68
+But this ship, the Wild Wave, is a sailing ship.
+
+@69
+What? Not a steamship?
+
+@70
+"I want it anyway"\n"Then I don't want it"
+
+@71
+...Would you buy it for us all the same?
+
+@72
+Very well.
+
+@73
+Re-really?!
+
+@74
+I am betting on you, Sakamoto-san. Satsuma will give you all the help it can.
+
+@75
+Thank you! How long must I wait?
+
+@76
+About half a year, I expect.
+
+@77
+Half a year... ah, I can hardly wait!
+
+@78
+Still, I want a steamship. I'll wait until a suitable used one turns up.
+
+@79
+Without a ship the Shachū is idle for a while, so I'm going to persuade Chōshū now.
+
+@80
+I'm counting on you. If you run into trouble, you would do well to call on Yokoi Shōnan-don in Kumamoto.
+
+@82
+You know Yokoi-san?
+
+@83
+You are acquainted?
+
+@84
+Understood. I'll stop by.
+
+@85
+Yokoi of Kumamoto...
+
+@86
+Oh yes, a letter has arrived for you at the Ōsaka residence.
+
+@87
+Sorry to have put you to the trouble.
+
+@88
+Well, I have business to attend to.
+
+@89
+Oh, it's from Sister Otome!
+
+@91
+Steel yourself before you read this.
+
+@92
+The Tosa Loyalist Party has been wiped out.
+
+@94
+Gotō Shōjirō rounded up the loyalist gōshi one after another and had them cruelly tortured. They all held out bravely, but in the end Izō confessed to the many assassinations in Kyōto.
+
+@95
+All were beheaded. They were not even given time to write their death poems, and their heads were struck off.
+
+@96
+What... Izō... is dead?!
+
+@97
+And Takechi-san, too, was ordered by Yōdō to commit seppuku.
+
+@98
+What?!
+
+@99
+They say he cut his belly open in three strokes, an unheard-of and magnificent end.
+
+@100
+When I think of Tomi-san, who thought of her husband Takechi-san in prison and slept on bare boards all along, using no mosquito net in summer and no futon in winter, I cannot stop my tears of blood.
+
+@101
+Ryōma. Where are you now, and what are you doing?
+
+@102
+Please, avenge the Tosa gōshi quickly. Kill every one of the upper samurai and avenge Takechi-san and Shūjirō-san.
+
+@103
+Sakamoto Otome
+
+@104
+It's... it's a lie!!
+
+@105
+Why?! Why the gōshi?! Damn it, damn it all!!
+
+@107
+Gh... What a...
+
+@108
+...I have to hurry... if the shogunate's might revives, the Tosa gōshi with me will be caught and slaughtered too!
+
+@109
+It seems Komatsu-don can't come after all. It's time I started on persuading Chōshū. There's no time to lose.
+

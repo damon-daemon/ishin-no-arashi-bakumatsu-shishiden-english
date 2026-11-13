@@ -1,0 +1,213 @@
+@0
+What is that army?
+
+@1
+Hm? And you gentlemen are?
+
+@2
+The Shinsengumi.
+
+@3
+The Shinsengumi?! Then you have come to help Nagaoka?
+
+@4
+Is Nagaoka on the shogunate's side?
+
+@5
+Yes, it seems the talks with the imperial army have broken down.\nWe men of Kuwana and Aizu have hurried here to fight the Satsuma-Chōshū western army alongside Nagaoka.
+
+@6
+I see... Looks like we'll get a fight.
+
+@7
+Marching towards Echigo.
+
+@8
+Head for Nagaoka.
+
+@22
+Kawai Tsugunosuke of the Nagaoka Domain has arrived. He wishes to see you, Hijikata-san...
+
+@23
+I'll see him.
+
+@24
+I am Kawai Tsugunosuke.
+
+@26
+The help of the famed Shinsengumi is most welcome, but...
+
+@28
+Let me speak plainly.
+
+@29
+Lately, remnants of the shogunate and reinforcements from other domains have been plundering and committing outrages in Echigo. Frankly, their kind of help is more nuisance than blessing.
+
+@31
+...With respect, sir.
+
+@32
+The Shinsengumi is not so lenient as to let such men live.
+
+@35
+Forgive my rudeness. It seems I mistook you for mere manslayers.
+
+@37
+That suits us well enough. Our work begins when men must be cut down.
+
+@38
+...Very well.
+
+@39
+The imperial army's Tōsandō and Hokurikudō forces are almost upon us. I ask that you make ready for battle at once.
+
+@41
+We are outnumbered, but if we hold out a few days, reinforcements will come from Aizu and Yonezawa. Then the imperial army, weary from its long march, will break and flee in disorder.
+
+@42
+Let us hope it goes that well.
+
+@44
+The new government has become the private tool of Satsuma and Chōshū. To feed their own ambition they hunt down the Tokugawa without any clear charge, and they single out Aizu as their enemy only to satisfy their own grudges.
+
+@45
+Here we must show the world at least a shred of righteousness.
+
+@46
+You are quite right.
+
+@48
+Preparing with Nagaoka to meet the new government army.
+
+@49
+Wait in Nagaoka.
+
+@51
+The imperial army is crossing our borders. I ask the gentlemen of the Shinsengumi to face the mountain-route army at Ojiya.
+
+@52
+Very well.
+
+@53
+The Shinsengumi, unbeaten in small-scale street fighting, could not show its true worth against modern weapons.
+
+@55
+We're routed! There's nothing for it but to retreat!
+
+@57
+Meanwhile, the pro-shogunate allied army, centred on Nagaoka, repeatedly beat back the surging assaults of the overwhelming imperial army, thanks to Kawai Tsugunosuke's superb generalship.
+
+@58
+Just as the imperial side's reinforcements grew by the day and the battle sank into a stalemate of advance and retreat...
+
+@59
+Message! Nagaoka Castle has fallen to an attack by the new government's Hokuriku army!
+
+@61
+Fighting the new government army alongside Nagaoka.
+
+@62
+Wait in Nagaoka.
+
+@63
+The alliance of the Ōu-Echigo domains was nearing collapse.
+
+@73
+Terrible news! Kawai-dono was wounded while scouting!
+
+@74
+What! How is he?!
+
+@75
+Not good. Panic is spreading through the Nagaoka troops and the other pro-shogunate domains.
+
+@76
+...So the eastern army relied that much on the tactical eye of one man, Kawai Tsugunosuke.
+
+@77
+At the news of Kawai Tsugunosuke's wound, the pro-shogunate allied army at once lost its will to fight and crumbled easily before the imperial army's fierce attacks.
+
+@78
+With Nagaoka Castle isolated, a siege was out of the question, and Hijikata and his men fled to Ōshū together with the Aizu and Yonezawa troops.
+
+@79
+I never reckoned that the imperial army would commit so many troops to the Echigo front. I had judged the Tōsandō army to be the main force.
+
+@80
+So, what do we do now?
+
+@81
+Retake Nagaoka Castle, of course.
+
+@82
+How do we take it?
+
+@83
+Flushed with taking Nagaoka Castle, the enemy is eager to subdue all of Echigo at one stroke.
+
+@84
+So we have the Aizu and Yonezawa troops draw the enemy forces to them.
+
+@85
+Meanwhile, our Nagaoka band of men ready to die will cross the Ōnuma and Hacchō marshes behind the thinly held castle at midnight, and strike by surprise.
+
+@86
+May the Shinsengumi join the surprise attack?
+
+@87
+Of course, that is my intention. But wading a marsh chest-deep will be a trial beyond imagination.
+
+@88
+It can be a surprise precisely because no one thinks it can be done.
+
+@89
+Exactly. Let us wait a little until the imperial army begins its next advance, then go on the offensive all at once.
+
+@92
+Charge!
+
+@93
+E-enemy attack!!
+
+@94
+Gwaah!!
+
+@95
+Cease fire!
+
+@96
+Shinsengumi, charge!
+
+@97
+Draw!
+
+@98
+Shinsengumi, charge!
+
+@99
+Did we do it?!
+
+@100
+Every last enemy has fled!
+
+@101
+The operation is a success. But the imperial army's main force will notice and return at once.
+
+@102
+So it isn't over yet...
+
+@103
+The Shinsengumi, unbeaten in small-scale street fighting, could not show its true worth against modern weapons.
+
+@105
+We're routed! There's nothing for it but to retreat!
+
+@106
+So close...
+
+@107
+At the news that the attack on Nagaoka had failed, the pro-shogunate allied army at once lost its will to fight and crumbled easily before the imperial army's fierce attacks.
+
+@108
+The great commander Kawai Tsugunosuke was also gravely wounded and left the front. Hijikata and his men fled to Ōshū together with the Aizu and Yonezawa troops.
+

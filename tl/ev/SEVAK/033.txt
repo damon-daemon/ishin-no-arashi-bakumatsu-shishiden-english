@@ -1,0 +1,489 @@
+@0
+Running the Kameyama Shachū
+
+@1
+Trade to earn funds
+
+@2
+Persuade jōi advocates to favour opening the country
+
+@3
+Persuade shogunate supporters to revere the Emperor
+
+@4
+Sakamoto-san, Chōshū is asking for the ship back.
+
+@5
+Sakamoto-san, Chōshū says they want the ship back.
+
+@6
+No, I'm not asking for it back at once. We owe Sakamoto-kun and his men a debt. I'll lend it to the Kameyama Shachū until the end of the 2nd month next year.
+
+@7
+Thank you.
+
+@8
+Return the ship to Shimonoseki by the end of the 2nd month. When the 2nd month comes, go to an inn in Shimonoseki called the Hamamuraya.
+
+@9
+Sakamoto-san, by the way, I hear Ōura Kei is interested in our Shachū. Why not ask her to invest?
+
+@10
+"Take me to her"\n"No, never mind"
+
+@11
+No, we'll get through this by our own efforts.
+
+@12
+Take me to her.
+
+@14
+Are you Sakamoto Ryōma-dono?
+
+@15
+I hear you brought together Satsuma and Chōshū, who were like dog and monkey. And now a company. What an interesting man.
+
+@16
+Naturally you'll do some smuggling too, won't you? You can get imported goods behind the authorities' backs, can't you?
+
+@17
+All right. Glover has come to sell a second-hand sailing ship. If that will do, I'll buy it for you.
+
+@18
+Hey, hey, how much is that?
+
+@19
+Twelve thousand ryō.
+
+@20
+T-twelve thousand!
+
+@21
+It's a kind offer, but I have no collateral to match it.
+
+@22
+Your person will do nicely.
+
+@24
+If you can't repay the debt, you become my kept man. Is that all right?
+
+@26
+"Fine"\n"No"
+
+@27
+All right, why not?
+
+@28
+S-Sakamoto-san!
+
+@29
+The deal is made. Then please write me a promissory note.
+
+@30
+Hm... (This is trouble.)
+
+@31
+No, that... I can't.
+
+@32
+Oh. So you have a woman you care for. Then this man will do.
+
+@34
+He's rather handsome, too.
+
+@35
+H-hey, wait a moment!
+
+@36
+Oh, is it so unpleasant to have me as your partner?
+
+@37
+No, well, it's not that...
+
+@38
+Then it's settled. If you can't pay the debt, I'll take him.
+
+@39
+(What a woman!)
+
+@40
+H-hey!
+
+@41
+Mutsu, bear with it. If you stick it out, we get a ship.
+
+@43
+You don't mind it so much yourself, do you?
+
+@44
+Preposterous! That makes me nothing but a pawn!
+
+@47
+They say someone who wants to join has arrived.
+
+@48
+Someone who wants to join came, so I told him to wait until you got back, but...
+
+@49
+"I'll see him"\n"Send him away"
+
+@50
+No, he has already forced his way into the crew.
+
+@52
+Ah, is that Sakamoto-san? I'm Nakajima Sakutarō of Tosa! Pleased to meet you!
+
+@53
+What a lively one.
+
+@54
+I'll work with all my might, so just tell me what to do!
+
+@55
+There's no way to send him off now.
+
+@56
+See?
+
+@58
+(Hm... they have seated me in the place of honour.)
+
+@60
+Hm, Omoto? What is it?
+
+@61
+Gotō-sama sent for me.
+
+@62
+(That Gotō... he is being considerate.)
+
+@63
+Now, please, have a cup.
+
+@65
+I am Gotō.
+
+@67
+To buy weapons and warships and make Tosa Domain strong, I want to employ your skill.
+
+@68
+For that I will pardon your crime of leaving the domain and give the Shachū all the support I can. How about it?
+
+@69
+What is Tosa getting strong for, anyway?
+
+@70
+Merely shouting jōi will be the ruin of Japan. We must open the country, trade, and equip ourselves with guns, cannon and warships.
+
+@71
+That's not what I'm asking... Does Tosa truly mean to overthrow the shogunate?
+
+@72
+O-overthrow the shogunate?!
+
+@73
+If Tosa means to grow strong while staying pro-shogunate as before, there is nothing to discuss.
+
+@75
+Look at the times. The shogunate no longer has the strength or the spirit to deal with foreigners as equals.
+
+@76
+For Japan to become a strong state like the great powers, it won't do to have two heads, Court and shogunate. We must be united under the Emperor.
+
+@77
+Hm... I have no objection.
+
+@78
+What about Yōdō?
+
+@79
+I will talk him round.
+
+@80
+Hanpeita said the same, failed, and was killed by you people.
+
+@81
+...The times are different. Now that Satsuma and Chōshū have joined hands and the shogunate has suffered an unthinkable defeat at Chōshū's hands, the Tokugawa autocracy has already crumbled.
+
+@82
+However sympathetic he is to the shogunate, he is a man of keen ambition. If I persuade him, my lord will never throw in his lot with the losers.
+
+@84
+Ryōma. Join hands with me. Use me, use the strength of Tosa's 240,000 koku.
+
+@85
+Join hands\nRefuse
+
+@86
+Very well. But we won't go back to being Tosa samurai. We remain free rōnin of the realm.
+
+@88
+The Kameyama Shachū will be renamed the Kaientai. It is by no means an organisation under Tosa Domain; the name means a corps that supports Tosa, our investor, from the sea.
+
+@89
+In other words, equals in name.
+
+@90
+Exactly.
+
+@91
+...Very well.
+
+@92
+Let's forget this whole matter.
+
+@93
+What... Ryōma!
+
+@94
+I'm leaving.
+
+@95
+Y-yes.
+
+@96
+So that is all you are after all! I misjudged you!
+
+@97
+Upper samurai and gōshi are like oil and water. Whatever reasons we find, we can't join hands.
+
+@98
+You're late, Sakamoto-kun. I must ask you to keep the deadline.
+
+@99
+There you are, Sakamoto-kun. You've come to return the Union, haven't you?
+
+@100
+(If we buy the Union, it was 25,000 ryō.)
+
+@101
+"Yes"\n"Wait"\n"I want to buy the ship"
+
+@102
+"Yes"\n"Wait"
+
+@103
+Understood, we'll wait a little longer. But do keep to the deadline. The navy officials are making a fuss.
+
+@104
+Of course, if the Kameyama Shachū were to buy the Union, that would be another matter.
+
+@105
+If we buy her? How much would you sell her for?
+
+@106
+Though I am in your debt, the ship is not my personal property... At the very least I need 25,000 ryō, or I will have no excuse for our lord and the senior retainers.
+
+@107
+(25,000 ryō. Not an amount I can't pay.)
+
+@108
+Buy her\nImpossible
+
+@109
+I'll pay.
+
+@110
+That's impossible.
+
+@111
+In any case, I can only wait until the end of this month. Bear that in mind.
+
+@112
+25,000 ryō. The money in the Shachū's storehouse is a little short.
+
+@113
+I can only wait until the end of this month. If you mean to buy her, hurry.
+
+@114
+I've prepared 25,000 ryō. Let me have the Union.
+
+@115
+(The money in the Shachū's storehouse seems a little short.)
+
+@116
+Sorry, but could you wait a little longer?
+
+@117
+I can only wait until the end of this month. If you mean to buy her, hurry.
+
+@118
+Hmm, what a fix.
+
+@119
+You're serious? How bold. When did you build up such wealth?
+
+@120
+This is the power of ships and the sea.
+
+@121
+Damn! The deadline has passed!
+
+@122
+If I remember right, I was to go to the Hamamuraya.
+
+@123
+I've been looking for you, Sakamoto-kun!
+
+@125
+What happened, Sakamoto-kun? You promised to return the Union last month.
+
+@126
+Ah! I'm sorry, I forgot.
+
+@127
+We have our own affairs to manage. Please take more care from now on.
+
+@128
+Sakamoto-san, where have you been? The deadline for returning the Union has already passed. Hadn't you better hurry to Shimonoseki?
+
+@129
+Damn! I was careless.
+
+@130
+Sakamoto-san, it's nearly the deadline for returning the Union to Chōshū.
+
+@131
+If I remember right, I was to return her to Shimonoseki this month.
+
+@132
+Sakamoto-san, it's nearly the deadline for returning the Union to Chōshū.
+
+@133
+If I remember right, I was to return her to Shimonoseki this month.
+
+@136
+A messenger came from Gotō-dono, a house elder of Tosa, saying he wants to meet at the Kagetsu restaurant. He wants to let bygones be bygones and make peace...
+
+@139
+A messenger came from Gotō-dono, a house elder of Tosa, saying he wants to meet at the Kagetsu restaurant. He wants to let bygones be bygones and make peace...
+
+@140
+What?!
+
+@141
+Make peace?
+
+@142
+It seems he means to invest in the Shachū in return for having you use your standing to bring Tosa into the Satsuma-Chōshū alliance.
+
+@143
+It seems he means to invest in the Shachū in return for having you use your standing to bring Tosa into the Satsuma-Chōshū alliance.
+
+@144
+Wh-what are you dreaming of! Gotō is the very man who arrested and killed Takechi-sensei and the Loyalist Party! Peace? Hah, don't be ridiculous!
+
+@145
+Wh-what are you dreaming of! Gotō is the very man who arrested and killed Takechi-sensei and the Loyalist Party! Peace? Hah, don't be ridiculous!
+
+@146
+Gotō is the very man who arrested and killed Hanpeita and the Loyalist Party.
+
+@147
+But think about it. If we get Tosa's investment we can build up our strength, and if Tosa joins Satsuma and Chōshū, overthrowing the shogunate is as good as done. Two birds with one stone.
+
+@148
+Hm... Tosa is getting impatient.
+
+@149
+For a time the Loyalist Party's activity won Tosa a place among the sonnō-jōi domains, but because Lord Yōdō purged it, Tosa has missed the tide that is now swiftly turning toward overthrowing the shogunate.
+
+@150
+Even so, how dare he bring such a convenient offer now! Takechi-sensei's bitterness... how can we leave it unavenged!
+
+@151
+Even so, how dare he bring such a convenient offer now! Takechi-sensei's bitterness... how can we leave it unavenged!
+
+@153
+If I join hands with Tosa here, the overthrow of the shogunate, the cherished wish of Hanpeita and the Loyalist Party, will come true...
+
+@154
+B-but that's...
+
+@155
+You'll join hands with the upper samurai?
+
+@156
+I am dead set against it!
+
+@157
+It's obvious which way the late Takechi-dono would want it.
+
+@158
+He was a man who gave his own life to the Emperor's cause. I'm sure he would cast aside a personal grudge for the sake of Japan.
+
+@159
+Ugh...
+
+@161
+...True, an anti-shogunate army of only Satsuma and Chōshū is not reassuring. One wrong step and Japan plunges into a civil war with no end in sight...
+
+@162
+Even if it goes well, the new government would be Satsuma and Chōshū's stage alone.
+
+@163
+Sakamoto-san! For the sake of the realm, please bear with it here!
+
+@165
+What will you do? Will you meet Gotō-dono?
+
+@166
+What will you do? Will you meet Gotō-dono?
+
+@167
+Meet him\nDon't meet him
+
+@168
+Gotō too did all this on Yōdō's orders. And besides, we gōshi are the ones who killed his uncle Tōyō, so he has reason to resent us.
+
+@169
+Yet he has swallowed that, cast off an upper samurai's pride, and offered reconciliation of his own accord...
+
+@170
+All right, I'll meet Gotō.
+
+@173
+If he proves a worthless man, I'll cut him down in revenge for Hanpeita, Shūjirō and the rest. But if Gotō can help us make use of Tosa Domain, I'll join hands with him for the overthrow of the shogunate.
+
+@174
+Then I'll pass that on. The place is the Kagetsu restaurant in Maruyama.
+
+@175
+Then I'll pass that on. The place is the Kagetsu restaurant in Maruyama.
+
+@176
+Meet Gotō Shōjirō at the Kagetsu restaurant in Maruyama
+
+@178
+There's no way I'd meet him.
+
+@179
+But...
+
+@180
+What is it?
+
+@181
+...If you want a moderate overthrow of the shogunate, Tosa, which is sympathetic to the Tokugawa, must take part. That is essential.
+
+@183
+Meet him for now\nNever meet him
+
+@184
+...What I do depends on how Gotō comes at me. Let's meet him for now.
+
+@187
+If he proves a worthless man, I'll cut him down in revenge for Hanpeita, Shūjirō and the rest. But if Gotō can help us make use of Tosa Domain, I'll join hands with him for the overthrow of the shogunate.
+
+@188
+Then I'll pass that on. The place is the Kagetsu restaurant in Maruyama.
+
+@189
+Then I'll pass that on. The place is the Kagetsu restaurant in Maruyama.
+
+@190
+Meet Gotō Shōjirō at the Kagetsu restaurant in Maruyama
+
+@192
+Send him away! I want nothing from that rotten Tosa Domain!
+

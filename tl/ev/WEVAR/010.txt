@@ -1,0 +1,12 @@
+@0
+This ship carries a Gatling gun. Take the ship before they get it working!
+
+@1
+The Gatling gun is ready!
+
+@2
+Good, fire!
+
+@3
+No good, we can't win like this! Fall back!
+

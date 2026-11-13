@@ -1,0 +1,29 @@
+# list rows and headers laid out with {Tpx} column positions (the Japanese pads with spaces for a fixed-width font)
+# Find Person list (COM row callback 0x8015f028): name, status, two ideology words, colour; header drawn at x + 8
+COM:8015b860	%s{T92}%s{T164}%s %s{T228}%s
+COM:8015c868	{C5}{T8}Name{T100}Status{T172}Views{T232}Trust{C7}
+# one-character separators: the game may copy two bytes, so the English keeps two (", " / ": ")
+MP:8015d80c	, 
+# meet-person list (program): row format + header (the header is not in the survey: its ESC n : codes)
+PROG:8003afbc	%s{T92}%s{T164}%s %s{T228}
+PROG:8003aff0	{C5}{T8}Name{T100}Status{T172}Views{T232}Trust{C7}
+PROG:8001e788	%s %s
+# debate card lists (PERS row callback 0x80172f20: opinion chooser and Special Card list): the Japanese pads
+# the name to 10 bytes and prints the ideology tags / the details text right after it; column 2 at 136 px
+PERS:80163184	{C7}%s{T136}
+# character creation summary rows (INIT 0x801604a0: label format, then the value): 4-byte labels (Name,
+# Type) went through the two-kanji format with a gap in the middle; names and view words need spaces
+INIT:8015ce38	{C7}%s: 
+INIT:8015ce40	%s %s
+INIT:8015ce54	%s %s %s
+# date bar (0x800a8dc0; tools/gfx.py): era icon + year of the era + Western year; month / day; the labels
+# 行動力 / 所持金 were icons (ESC m P / ESC m Q), now text. {T..} = the pen the game sets anyway
+PROG:8003cb2c	{m}%c%b %4b
+PROG:8003cb3c	{T104}Drive
+PROG:8003cb40	{T12}%b/%b
+PROG:8003cb50	{T104}Funds{T140}%6g
+# debate header (PERS2 0x801e4aec..): month / day, then "N回戦" (icon 0x122) = Round N
+PERS2:801e006c	{C7}%b/%b
+PERS2:801e007c	Round %b
+# facility list row (name, type, status); row 256 px after the LAYOUT patch
+PROG:800228cc	{C7}%s{T144}%s{T220}%s

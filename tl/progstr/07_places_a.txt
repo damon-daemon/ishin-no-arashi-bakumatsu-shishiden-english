@@ -1,0 +1,345 @@
+# debate topics (Satsuma-Chōshū), informer notes, place and route labels, chapter titles, items, swords, books, trade goods
+PROG:8001c004	Rōnin are extorting loans from merchants in the Shinsengumi's name; they are hiding in the Wachigaiya in Shimabara
+PROG:8001c04c	Rōnin Extort Loans
+PROG:8001c060	Rōnin keep meeting in secret at Baishō-in, in the grounds of Senbon Shaka-dō in Nishijin
+PROG:8001c0a4	Plot at Senbon Shaka-dō
+PROG:8001c0b8	It stands to reason that Chōshū, in dire straits, should come asking for help. Satsuma has no need to bow its head and beg for peace
+PROG:8001c11c	Satsuma's Pride
+PROG:8001c12c	The Chōshū men bitterly resent Satsuma. They call Satsuma men "Satsuma thieves" and surely will not agree to this alliance
+PROG:8001c194	Chōshū's Grudge at Satsuma
+PROG:8001c1a8	Chōshū dared to fire on the Imperial Palace and is an enemy of the Court. Its crime is grave and cannot be forgiven
+PROG:8001c1f8	Chōshū, Enemy of the Court
+PROG:8001c20c	Had Chōshū's rampage in Kyōto gone on, a Mōri shogunate would surely have replaced the Tokugawa
+PROG:8001c264	Legitimacy of the Coup
+PROG:8001c274	Every masterless shishi is risking his life for Japan. To err in great matters over a domain's pride is folly
+PROG:8001c2e0	Deeds of the Fugitive Shishi
+PROG:8001c2f0	There is nothing for it but to crush the rotten shogunate. We must unite and bring it down
+PROG:8001c340	Why the Shogunate Must Fall
+PROG:8001c350	The Chōshū men do not pursue their own domain's profit; they have worked purely for Japan
+PROG:8001c3a8	Chōshū's True Intent
+PROG:8001c3b8	The nation is in peril, yet most domains are unreliable. To stand against the foreign powers, Chōshū is needed
+PROG:8001c41c	Chōshū's Importance
+PROG:8001c42c	The Sanyo Council collapsed when Yōdō went home. The union of Court and shogunate that Satsuma now backs cannot settle matters
+PROG:8001c490	Futility of Kōbu Gattai
+PROG:8001c4a4	Oguri's clique, which holds the shogunate's government, means to punish Chōshū, then crush Satsuma too and build a Tokugawa dictatorship
+PROG:8001c504	To borrow war funds, the shogunate may have pledged Ezo or some port as security. It could sell Japan to the barbarians
+PROG:8001c568	A Shogunate Selling Out Japan
+PROG:8001c57c	Roches of France is aiding the shogunate militarily and it grows stronger by the day. Soon even Satsuma will be no match
+PROG:8001c5e0	Shogunate's Strike on Domains
+PROG:8001c5f0	For Chōshū to propose an alliance would be to weep and cling to the Satsuma that betrayed it. That cannot be done
+PROG:8001c654	Chōshū's Pride
+PROG:8001c664	The last Chōshū Expedition happened because Satsuma egged the shogunate on
+PROG:8001c6a0	Satsuma in the Chōshū Expedition
+PROG:8001c6b4	In the Kinmon Incident the Chōshū army was attacked by Satsuma and suffered devastating losses
+PROG:8001c6f8	Grudge from the Kinmon Incident
+PROG:8001c70c	Satsuma preached reverence for the Emperor, yet allied with Aizu and the shogunate and drove the loyalist nobles from Kyōto. It is despicable
+PROG:8001c768	Satsuma's Betrayal
+PROG:8001c774	The suppression of the loyalists is spreading everywhere. Chōshū is their last fortress; its fall is the end of the loyalist cause
+PROG:8001c7d8	Chōshū, the Throne's Champion
+PROG:8001c7ec	Many shishi have fallen for Japan. Clinging to a domain's pride would make their deaths in vain
+PROG:8001c850	Deeds of the Shishi
+PROG:8001c85c	The Kyōto coup was really the rampage of one pro-shogunate house elder. It was not the true intent of Saigō, Komatsu, Ōkubo and the present leaders
+PROG:8001c8c4	Truth of the 8/18 Coup
+PROG:8001c8d8	Satsuma stubbornly refuses to join the second Chōshū Expedition, condemning it as the shogunate's private quarrel
+PROG:8001c924	Satsuma Reaches Out
+PROG:8001c934	The shogunate demanded cuts to Chōshū's domain, but Satsuma argued for leniency, and that is how it turned out
+PROG:8001c994	Settling the Chōshū Expedition
+PROG:8001c9a8	Lord Sanjō and the Five Nobles at Dazaifu support the Satsuma-Chōshū alliance. Chōshū's survival decides the fate of these loyalist leaders
+PROG:8001ca14	Backing of the Five Nobles
+PROG:8001ca20	Satsuma is the strongest of the powerful domains, the only independent force the shogunate cannot touch
+PROG:8001ca64	Satsuma's Strength
+PROG:8001ca70	With French aid, the shogunate's military strength grows daily. At this rate Chōshū will lose
+PROG:8001cac8	French Aid to the Shogunate
+PROG:8001cadc	Info
+PROG:8001cae4	Info List
+PROG:8001caf4	Obtained the info "%s".%s
+PROG:8001cb14	\n(You already have it.)
+PROG:8001cb30	Obtained the argument "%s".%s
+PROG:8001cc20	Shinsengumi Info
+PROG:8001cc2c	Satsuma-Chōshū Alliance Info
+PROG:8001cc40	Kumamoto
+PROG:8001cc48	Saga
+PROG:8001cc50	Fukuoka
+PROG:8001cc58	Kokura
+PROG:8001cc60	Ibusuki
+PROG:8001cc68	Kirishima
+PROG:8001cc70	Aso
+PROG:8001cc78	Dazaifu
+PROG:8001cc80	Beppu
+PROG:8001cc98	Yatsushiro Sea
+PROG:8001cca0	W. Ariake Sea
+PROG:8001ccac	Kyūshū-Shikoku
+PROG:8001ccb8	Kyūshū-Chūgoku
+PROG:8001ccc4	Uwajima
+PROG:8001cccc	Tokushima
+PROG:8001ccd4	Takamatsu
+PROG:8001cce4	Naruto Whirlpools
+PROG:8001ccf0	Bingo Nada
+PROG:8001ccf8	Nanatori
+PROG:8001cd00	Ikegawa
+PROG:8001cd08	Shikoku-Kyūshū
+PROG:8001cd14	Shikoku-Chūgoku
+PROG:8001cd20	Shikoku-Kinki
+PROG:8001cd2c	Hiroshima
+PROG:8001cd34	Okayama
+PROG:8001cd3c	Yamaguchi
+PROG:8001cd44	Shimonoseki
+PROG:8001cd4c	Mitajiri
+PROG:8001cd58	Akiyoshidai
+PROG:8001cd60	Aki Miyajima
+PROG:8001cd6c	Chūgoku-Kyūshū
+PROG:8001cd78	Chūgoku-Shikoku
+PROG:8001cd84	Ōgaki
+PROG:8001cd8c	Wakayama
+PROG:8001cd94	Hikone
+PROG:8001cd9c	Fukui
+PROG:8001cda4	Kanazawa
+PROG:8001cdac	Tsu
+PROG:8001cdb0	Kuwana
+PROG:8001cdb8	Nagoya
+PROG:8001cdc0	Sunpu
+PROG:8001cdc8	Kōfu
+PROG:8001cdd0	Oshi
+PROG:8001cdd4	Sakura
+PROG:8001cddc	Mito
+PROG:8001cde4	Nagaoka
+PROG:8001cdec	Utsunomiya
+PROG:8001cdf4	Yonezawa
+PROG:8001cdfc	Aizu-Wakamatsu
+PROG:8001ce08	Sendai
+PROG:8001ce10	Toyama
+PROG:8001ce18	Hirosaki
+PROG:8001ce20	Kubota
+PROG:8001ce28	Miyako
+PROG:8001ce30	Tanabe
+PROG:8001ce38	Totsukawa
+PROG:8001ce40	Kōbe
+PROG:8001ce48	Yamato-Gojō
+PROG:8001ce54	Iwakura
+PROG:8001ce5c	Atami
+PROG:8001ce64	Shimoda
+PROG:8001ce6c	Shiojiri
+PROG:8001ce74	Kamakura
+PROG:8001ce7c	Yokohama
+PROG:8001ce84	Hino
+PROG:8001ce8c	Shinagawa
+PROG:8001ce94	Kusatsu Spa
+PROG:8001cea0	Niigata
+PROG:8001cea8	Nikkō
+PROG:8001ceb0	Minmaya
+PROG:8001ced0	N. Nakoso Barrier
+PROG:8001cedc	N. Nenju Barrier
+PROG:8001cee8	North Hida
+PROG:8001cef0	South Hida
+PROG:8001cef8	East Hida
+PROG:8001cf00	West Hida
+PROG:8001cf08	North Ōu
+PROG:8001cf10	South Ōu
+PROG:8001cf18	Seto Inland Sea
+PROG:8001cf24	Kinki
+PROG:8001cf3c	Hamamatsu
+PROG:8001cf44	Yamazaki
+PROG:8001cf4c	S. Lake Biwa
+PROG:8001cf58	N. Lake Biwa
+PROG:8001cf64	Ise Bay
+PROG:8001cf6c	Suruga Bay
+PROG:8001cf74	W. Sagami Bay
+PROG:8001cf80	Wakasa Bay
+PROG:8001cf88	Danjiri Festival
+PROG:8001cf94	Nanki-Shirahama
+PROG:8001cfa0	Great Buddha of Nara
+PROG:8001cfac	Amanohashidate
+PROG:8001cfb8	Tōjinbō
+PROG:8001cfc0	Miho no Matsubara
+PROG:8001cfcc	Mt. Fuji
+PROG:8001cfd4	Matsushima
+PROG:8001cfdc	Fuchū
+PROG:8001cfe4	Fuwa Barrier
+PROG:8001cfec	Arai Barrier
+PROG:8001cff4	Hakone
+PROG:8001cffc	Nakoso Barrier
+PROG:8001d004	Nenju Barrier
+PROG:8001d00c	Ojiya
+PROG:8001d014	Uraga Channel
+PROG:8001d020	Kumano Sea
+PROG:8001d028	Yoshino
+PROG:8001d030	Odawara
+PROG:8001d038	Honjō
+PROG:8001d040	Tōhoku-Hokkaidō
+PROG:8001d04c	Kinki-Shikoku
+PROG:8001d058	Hakodate
+PROG:8001d060	Matsumae
+PROG:8001d068	Hokkaidō-Tōhoku
+PROG:8001d48c	Chapter 7: Return of Power
+PROG:8001d4a4	Chapter 6: Satsuma-Chōshū Alliance
+PROG:8001d4bc	Chapter 5: The Uprising
+PROG:8001d4d4	Chapter 5: Naval Academy
+PROG:8001d4ec	Chapter 4: Defection and Katsu Kaishū
+PROG:8001d504	Chapter 3: Tosa Loyalist Party
+PROG:8001d51c	Chapter 2: Return to Tosa
+PROG:8001d534	Chapter 1: Chiba Dōjō
+PROG:8001d54c	Chapter 5: Cherry Blossoms of the North
+PROG:8001d564	Chapter 4: The Rebel Army
+PROG:8001d57c	Chapter 3: Winds of Blood
+PROG:8001d594	Chapter 2: Mibu Rōnin
+PROG:8001d5ac	Chapter 1: The Brawler
+PROG:8001d5c4	\n          %s
+PROG:8001d5d4	The game will now be saved.\nInsert %s into %s 1 and press {M0}.
+PROG:8001d638	During play, press %s to save the game or change settings.
+PROG:8001d944	Kusaka's Reply
+PROG:8001d950	Takechi's Letter
+PROG:8001d95c	5,000-Ryō Note
+PROG:8001d96c	Sadakichi's Letter
+PROG:8001d978	Eau de Cologne
+PROG:8001d988	Foundation
+PROG:8001d99c	Ishida Powder
+PROG:8001d9a8	Bear Gall
+PROG:8001d9b0	Mankintan
+PROG:8001d9b8	Sana's Towel
+PROG:8001d9c8	Hakata Doll
+PROG:8001d9d4	Vidro Glass
+PROG:8001d9e0	Travel Shamisen
+PROG:8001d9ec	Saigō Photo
+PROG:8001d9f8	Takasugi Photo
+PROG:8001da04	My Photograph
+PROG:8001da14	My Photograph
+PROG:8001da20	Hijikata Photo
+PROG:8001da2c	Hijikata Kimono Photo
+PROG:8001da3c	Ryōma Photo
+PROG:8001da48	Kaho's Hairpin
+PROG:8001da58	Hakata-ori
+PROG:8001da60	Satsuma Kiriko
+PROG:8001da6c	Ōshima Pongee
+PROG:8001da74	Indigo Dyed Cloth
+PROG:8001da7c	Nishijin Textile
+PROG:8001da88	Silk Fabric
+PROG:8001da90	Obi
+PROG:8001da94	Tortoiseshell Pin
+PROG:8001daa4	Wine
+PROG:8001daac	Masamune
+PROG:8001dab4	Jukai
+PROG:8001dabc	Kenbishi
+PROG:8001dac4	Shōchū
+PROG:8001dacc	Yamato-damashii Sake
+PROG:8001dad8	Refined Sake
+PROG:8001dae0	Doburoku
+PROG:8001daec	Cigar
+PROG:8001daf4	Castella
+PROG:8001db00	Tsukeage
+PROG:8001db0c	Konpeitō
+PROG:8001db14	Kibi Dango
+PROG:8001db20	Toraya Manjū
+PROG:8001db2c	Chestnut Mochi
+PROG:8001db34	Uirō
+PROG:8001db40	Akafuku
+PROG:8001db48	Salt Yōkan
+PROG:8001db50	Abekawa Mochi
+PROG:8001db5c	Manjū
+PROG:8001db64	Kaminari Okoshi
+PROG:8001db70	Koshi no Yuki
+PROG:8001db78	Colt 5-Shot Revolver
+PROG:8001db8c	Chain Mail
+PROG:8001db94	Hachigane
+PROG:8001db9c	Tsuda Sukehiro
+PROG:8001dba8	Unsigned Ōwazamono
+PROG:8001dbb4	Kiku Ichimonji Norimune
+PROG:8001dbc4	Kanesada II
+PROG:8001dbd4	Nagasone Kotetsu
+PROG:8001dbe0	Echizen Yasutsugu
+PROG:8001dbec	Niji Kunitoshi
+PROG:8001dbf8	Izumi Tadashige
+PROG:8001dc04	Muramasa
+PROG:8001dc0c	Sa Yukihide
+PROG:8001dc14	Horikawa Kunihiro
+PROG:8001dc20	Miyoshi Nagamichi
+PROG:8001dc2c	Hizen Tadayoshi
+PROG:8001dc38	Hizen Tadahiro
+PROG:8001dc44	Tōshirō Sukesada
+PROG:8001dc50	Mutsu Yoshiyuki
+PROG:8001dc5c	Aki Tomoyasu
+PROG:8001dc68	Suishinshi Masahide
+PROG:8001dc74	Minamoto Kiyomaro
+PROG:8001dc7c	Unsigned Wazamono
+PROG:8001dc88	Kazusa Kaneshige
+PROG:8001dc94	Tenbun Sukesada
+PROG:8001dca0	Kanesada XI
+PROG:8001dcb4	Ōsumi Hiromitsu
+PROG:8001dcc0	Unsigned Fine Blade
+PROG:8001dccc	Osafune Kiyomitsu
+PROG:8001dcd8	Nankai Tarō Tomotaka
+PROG:8001dce8	Kanemitsu
+PROG:8001dcf0	Bizen Osafune
+PROG:8001dcfc	Kunimitsu
+PROG:8001dd04	Kiyomitsu
+PROG:8001dd0c	Dōtanuki
+PROG:8001dd14	Unsigned Shintō
+PROG:8001dd20	Unsigned Shinshintō
+PROG:8001dd30	Dull Blade
+PROG:8001dd3c	Hiji Chōmoku
+PROG:8001dd48	Hyōson Kiryaku
+PROG:8001dd54	Three Righteous Plans
+PROG:8001dd60	Conditions in the West
+PROG:8001dd6c	Haruma Dictionary
+PROG:8001dd78	Batavia Gazette
+PROG:8001dd8c	Song of Righteousness
+PROG:8001dd98	Shinron
+PROG:8001dda0	Nihon Gaishi
+PROG:8001ddac	Kaisen Anjōroku
+PROG:8001ddb8	Law of Nations
+PROG:8001ddc4	Infantry Manual
+PROG:8001ddd0	Maritime Law
+PROG:8001dddc	American Navigator
+PROG:8001ddf0	Pillow Book
+PROG:8001ddf8	Tsurezuregusa
+PROG:8001de00	Tale of Genji
+PROG:8001de0c	Nihon Funaji Saikenki
+PROG:8001de1c	Nihon Shioji no Ki
+PROG:8001de2c	Hizakurige
+PROG:8001de3c	Reserve
+PROG:8001de44	Papers
+PROG:8001de4c	Cosmetics
+PROG:8001de54	Medicine
+PROG:8001de58	Sundries
+PROG:8001de60	Music
+PROG:8001de68	Photos
+PROG:8001de70	Art
+PROG:8001de78	Trinkets
+PROG:8001de84	Luxuries
+PROG:8001de8c	Food
+PROG:8001de94	Weapons
+PROG:8001de9c	Armour
+PROG:8001dea4	Swords
+PROG:8001deac	Books
+PROG:8001dee0	Tōhoku
+PROG:8001dee8	Foreign
+PROG:8001def0	Items
+PROG:8001defc	Sugar
+PROG:8001df04	Cotton Cloth
+PROG:8001df0c	Cotton Yarn
+PROG:8001df14	Tea
+PROG:8001df18	Raw Silk
+PROG:8001df20	Crepe
+PROG:8001df28	Safflower
+PROG:8001df30	Wax
+PROG:8001df34	Rice
+PROG:8001df38	Salt
+PROG:8001df3c	Camphor
+PROG:8001df44	Brown Sugar
+PROG:8001df4c	Indigo
+PROG:8001df50	Kelp
+PROG:8001df58	Dried Abalone
+PROG:8001df60	Dried Sea Cucumber
+PROG:8001df68	Yoshino Kudzu
+PROG:8001df70	Katsuobushi
+PROG:8001df78	Shiitake
+PROG:8001df80	Other
+PROG:8001df88	Materials
+PROG:8001df90	Arms & Armour
+PROG:8001df9c	Clothing
+PROG:8001dfa8	Food
+PROG:8001dfb0	Trade Goods
+PROG:8001dfc4	Equipped
+PROG:8001dfcc	---
+PROG:8001dfd4	{C7}{B}-----
+PROG:8001dff0	{B}Name
+PROG:8001dff8	{B}Type

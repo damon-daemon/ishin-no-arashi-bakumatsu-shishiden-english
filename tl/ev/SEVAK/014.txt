@@ -1,0 +1,705 @@
+@0
+Hiding in Edo, evading the domain's pursuers
+
+@1
+Visit the Chiba Dōjō
+
+@3
+!!!
+
+@4
+Hello, Jū-san.
+
+@5
+R-Ryō-san!!
+
+@6
+Can I impose on you again?
+
+@7
+Of course you can... ha ha ha! Good of you to turn up!
+
+@8
+Hey, Sana!! It's Ryō-san, Ryō-san has come back!!
+
+@9
+Sakamoto-sama...!
+
+@10
+...It's been a long time.
+
+@11
+What's this, so formal all of a sudden?
+
+@13
+Huh? Hey, hey, there's no need to cry, is there?
+
+@14
+Oh, Ryōma! Are you well?
+
+@15
+Yes, and I see all of you are just the same.
+
+@16
+...Who is this lovely lady?
+
+@17
+Oh my.
+
+@18
+She's the young lady of this dōjō, Sana-san.
+
+@20
+This is my comrade, Sawamura Sōnojō. We'll both be imposing on you.
+
+@22
+Sawamura?
+
+@23
+Y-yes... I'm pleased to meet you.
+
+@24
+Enough of such stiff greetings. Come on in!
+
+@25
+Gaze at Sana\nTease Sana
+
+@27
+Sakamoto-sama... I thought I would never see you again.
+
+@28
+I told you I would come back, didn't I?
+
+@29
+Haven't you married yet?
+
+@30
+That is none of your business!
+
+@32
+Hey now, you two haven't seen each other in ages, so play nicely, eh?
+
+@34
+Lie low in Edo and wait for a chance
+
+@35
+Ryō-san, have you heard about the terrible incident at Namamugi?
+
+@36
+I've heard\nI haven't
+
+@37
+Yes.
+
+@38
+Was it that terrible?
+
+@39
+A horse carrying a foreigner crossed the procession of Lord Shimazu Hisamitsu of Satsuma.
+
+@40
+And then?!
+
+@41
+Lord Hisamitsu didn't hesitate. He said:\n"Cut him down!"
+
+@42
+They cut him down?!
+
+@43
+Yes, they did. He crossed a daimyō's procession, after all.
+
+@45
+The jōi faction is overjoyed. The foreigners' arrogance had been getting out of hand.
+
+@46
+The shogunate, of course, is in a panic. They say they spend every day racking their brains over how to apologise to Britain.
+
+@47
+Do you have a moment? There's something I want to talk over with you.
+
+@48
+Something to talk over?
+
+@49
+...This way.
+
+@51
+Ryō-san, so this is where you were.
+
+@52
+Jū-san.
+
+@53
+Do you have a moment? There's something I want to talk over with you.
+
+@54
+Something to talk over?
+
+@55
+Ryō-san, do you know Katsu Kaishū, the shogunate retainer and Navy Commissioner?
+
+@57
+What's the matter?
+
+@58
+N-nothing.
+
+@59
+...I intend to cut Katsu down.
+
+@60
+What?!
+
+@61
+So what is it, then?!
+
+@62
+"I feel the same"\n"It's nothing"
+
+@63
+Me too...
+
+@64
+...It's nothing.
+
+@65
+Ryō-san, aren't you hiding something from me?
+
+@67
+Aha, so you were thinking the same thing as me, Ryō-san?\nThat's how it looked just now.
+
+@68
+...Can you tell?
+
+@69
+What?! I knew it! In times like these, coming all the way to Edo instead of Kyōto, I thought it was strange!
+
+@70
+Well then, that makes things simple.
+
+@73
+Hm, how surprising. I intend to cut that Katsu down.
+
+@74
+Never heard of him.
+
+@75
+He's a foreigner-worshipping scoundrel who preaches opening the country.
+
+@77
+What's more, this man made the shogunate buy Black Ships. He sold his soul to the foreigners.
+
+@80
+You think so too, don't you? I mean to cut this man down.
+
+@82
+Come now, it is the loyalists who suffer if the shogunate grows strong.
+
+@84
+I intend to cut that scoundrel Katsu down.
+
+@86
+With Japan in peril, I don't want to end my days as a mere dōjō master either. I've always wanted to do some real work for sonnō jōi.
+
+@87
+Let us deal Tenchū to that foreigner-loving scoundrel! Ryō-san, you will come with me, won't you?
+
+@90
+No... I'll do it.
+
+@91
+Then I will simply follow you, Ryō-san.
+
+@92
+That's the same thing, isn't it?
+
+@93
+No, whatever you say, I'm coming along.
+
+@94
+...What am I to do with you.
+
+@95
+Let's drop it.
+
+@96
+...I see. Very well. If you won't, Ryō-san, I'll do it alone!
+
+@97
+"All right"\n"Stop"
+
+@98
+I can't let you go alone, Jū-san. I'll go along with you.
+
+@99
+Doing that won't make jōi happen.
+
+@100
+No, if Katsu is gone, the shogunate's stance will swing toward jōi.\nI will cut Katsu down, no matter what!
+
+@101
+...I'll come along.
+
+@102
+Do you mean to stop me?
+
+@103
+I'll decide after I've seen the man. If Katsu really is a scoundrel who deserves cutting down, I'll back you.
+
+@104
+With you beside me, I'm worth a hundred men. I'll finish him off, you'll see!
+
+@105
+I don't like ambushes or lying in wait, so let's call on him openly.
+
+@106
+Yes. As heir to the Hokushin school, I won't stoop to cowardly tricks either. Let's do that.
+
+@107
+Visit Katsu's residence in Akasaka
+
+@108
+Ryō-san, time to go.
+
+@109
+Over here, Ryō-san. If I remember right, Katsu's house is around here.
+
+@110
+Found it, found it! This is the place!
+
+@111
+...It's an old house.
+
+@112
+Excuse me! Is Katsu Kaishū-dono at home? Excuse me!
+
+@113
+It's open. Come on in.
+
+@114
+Oh, so it is. How careless...
+
+@115
+Hey now, you look like you're here to challenge the dōjō.
+
+@116
+I am Chiba Jūtarō, master of the Hokushin Ittō-ryū.
+
+@117
+I am Sakamoto. ...Is Kaishū-dono in?
+
+@118
+Yeah, he's in. Wait a moment. Oh, and make yourselves at home.
+
+@119
+...What was with that gatekeeper? He let us in without even asking our business.
+
+@120
+For the house of a thousand-koku hatamoto, there's hardly anyone about.
+
+@121
+Stay alert. There may be a pack of bodyguards hiding behind the sliding doors.
+
+@122
+Well, sorry to keep you waiting.
+
+@123
+? Where is Katsu Kaishū-dono?
+
+@124
+I'm Katsu.
+
+@127
+You're Katsu?!
+
+@128
+You two came here to cut me down, didn't you?
+
+@130
+The young ones who turn up around me are always like this. It's tiresome. There must be a mountain of things you should be doing besides killing me, you know?
+
+@131
+Still, an assassin who comes in through the front door is a rare sight.
+
+@132
+I would like to hear what you have to say.
+
+@133
+Well! So you're going to hear me out before you cut me down?
+
+@134
+Katsu-dono! I hear that you, sir, strongly advocate opening the country within the shogunate!
+
+@135
+Yes, what of it?
+
+@136
+Our land of the rising sun, ruled by the Emperor, is a divine land, and not one foreigner should be allowed to set foot on it!
+
+@138
+The shogunate, fearing foreign arms, opened the country without even the Emperor's sanction! Japan's wealth is being sucked away abroad, and the common people suffer under rising prices!
+
+@139
+That's exactly why. The only way to fix that is to open up even more.
+
+@140
+Absurd! Foreigners should be driven off at once!
+
+@141
+Japan as it is now can't win a war against the great powers.
+
+@142
+How dare you! Admitting defeat before the fight, and you call yourself a samurai?!
+
+@143
+Maybe so, but Japanese swords are no match for the Black Ships.\nIf spirit alone could win wars, life would be easy.
+
+@144
+Even if we know we shall lose, isn't the way of the samurai to throw away our lives and face the enemy?
+
+@145
+Then what happens to this country when the samurai are crushed and every last one of them is dead? The old, the women and the children left behind will be foreigners' slaves in no time.
+
+@146
+Are you telling me it's fine if Japan perishes?
+
+@147
+Ngh! ...
+
+@148
+Listen.\nEveryone's shouting "jōi, jōi" these days, but first you should know how big the enemy's strength is, and where it comes from.
+
+@149
+Where it comes from...?
+
+@150
+Exactly. The reason they have the strength to cross the sea in such a fleet and make the swaggering shogunate tremble. Young master of Chiba, do you know?
+
+@151
+...And you, sir? Do you?
+
+@152
+Heh. Above all, it's the richness of imagination that wants to build such a thing in the first place. And the industrial power to actually pull it off.
+
+@153
+Industry...
+
+@154
+Industry takes money. It's commerce.
+
+@155
+Nonsense! Trade thrives in this country as well!
+
+@156
+Trade inside this country is nothing but a booger to foreign eyes.
+
+@157
+A... booger...
+
+@158
+I'm talking about large-scale trade with other countries. Britain and France both grew fat on trade.
+
+@159
+They make weapons with the money they earn, threaten the nations of the East, make them produce raw materials and buy their goods, and profit all over again.
+
+@160
+For Japan not to be looked down on by foreigners, there's only one way: own plenty of Black Ships, earn money from overseas trade, then buy more Black Ships and weapons with it.
+
+@161
+So, sensei, you're telling the shogunate to trade for all it's worth?
+
+@162
+Domestic Insight rose by 3!
+
+@163
+Foreign Insight rose by 3!
+
+@164
+Yes, but here's the thing. If only the shogunate does it, we'll never catch up with the foreigners. Everyone who wants to trade has to go out to sea.
+
+@165
+Trade... the shogunate doesn't permit it!\nIt's forbidden!
+
+@166
+That's it, that's it! Young master of Chiba, you've put your finger right on it!
+
+@167
+Ugh...
+
+@168
+A country where industry flourishes has a system of government that lets anyone who wants to make money trade abroad as he likes.
+
+@169
+Anyone... freely?
+
+@170
+Yes. The source of a nation's strength is the strength of its common people. And nothing has more power than people's desires.
+
+@171
+Those mighty nations are born because the desires of countless thousands of people can work without any restraint.
+
+@172
+Desire is strength, you say... Preposterous!
+
+@173
+You say that, but isn't it just the same in swordsmanship? You improve because you desire to become stronger than anyone else. Isn't that so?
+
+@175
+...The shogunate is no good, then.
+
+@176
+Ha ha, you don't mince words. Right you are. The shogunate and the daimyō today are only good at holding the common people down and squeezing them dry.
+
+@177
+All they do is crush the people's desire for a better life and to make a profit, so everyone shrinks away and does only what the authorities say.
+
+@178
+That's no way for a country to grow strong.
+
+@179
+I see, I see.
+
+@180
+America, on the other hand, is something. The people have no social ranks. Everyone is the same.
+
+@181
+Everyone?!
+
+@182
+Yes. The shōgun and the daimyō are chosen by a vote of all the people. And when his term is over, even that shōgun goes back to being an ordinary citizen.
+
+@184
+In other words, regardless of bloodline or family, anyone with ability and popularity can become the ruler of America.
+
+@186
+People with ability rise high. Anyone who works hard can live well. And with no tiresome restrictions, rich ideas are born.
+
+@187
+See? How could a country like that not grow strong?
+
+@188
+...Are you saying we should learn from the foreigners, sir?\nHah! As I thought, you are nothing but a worshipper of the West!
+
+@189
+"Wonderful!"\n"Scoundrel, I'll cut you down!"
+
+@190
+Wonderful!
+
+@191
+Isn't it?
+
+@192
+We'll have to bring down the shogunate!
+
+@193
+Hey now, I'm a shogunate retainer.
+
+@194
+Ryō-san, don't be fooled by this nonsense! A rogue reeking of foreigners!
+
+@195
+Katsu-sensei!!
+
+@196
+Prepare yourself!!
+
+@197
+Please take me as your disciple!!
+
+@198
+!!!
+
+@199
+!!!
+
+@202
+...What?
+
+@203
+Please make me your disciple, sensei!
+
+@204
+...Uh... y-yes, all right.
+
+@205
+Wh-what did you say?!
+
+@206
+...That's not fair, Ryō-san.
+
+@207
+Don't say that.
+
+@208
+I was about to cut him down, and out of nowhere you say "make me your disciple"? I feel betrayed by you, Ryō-san.
+
+@209
+We must not cut that man down. There's no one else of such greatness.
+
+@210
+That foreigner-lover?
+
+@211
+Jū-san, that man's ideas are so big and so far ahead that the people around him simply can't understand them.
+
+@212
+So what, then? You can understand him, Ryō-san, but a small man with old ideas like me can't? Is that it?
+
+@213
+Ha ha ha! Even I still can't see his true nature. He's a man of such depth that I made a point of becoming his disciple!
+
+@215
+Domestic Insight rose by 5!
+
+@216
+Foreign Insight rose by 10!
+
+@217
+Scoundrel, I'll cut you down!!
+
+@218
+A rogue reeking of foreigners!
+
+@219
+Tch! What dense fellows.
+
+@220
+Katsu-dono, prepare yourself!!
+
+@221
+You mean to fight me? I'm a full-licence holder of the Shingyōtō-ryū too, you know?
+
+@224
+I see... you really mean to.
+
+@225
+Sorry, but I'd rather not take you on. ...I'm running for it!
+
+@226
+Ah! Coward!
+
+@227
+He ran to the back!
+
+@228
+Damn! Wait!
+
+@229
+What a fast pair of heels!
+
+@230
+Ah! He's gone out the back door! Stop!
+
+@231
+Outside!
+
+@233
+Awa-dono, why are you in such a hurry?
+
+@234
+I'm being chased by a couple of fools who want to cut me down.
+
+@235
+I see. Well, leave this to me.
+
+@236
+Thanks.
+
+@237
+We can't make a scene here! Ryō-san, let's give up and fall back for now!
+
+@238
+What, running away, are you?
+
+@239
+Lie low in Edo and wait for a chance
+
+@240
+Oh! Isn't that Sakamoto?!
+
+@242
+Ha ha ha! Found you!
+
+@243
+An upper samurai of the domain!
+
+@244
+You won't get away again! Give up!
+
+@245
+Hold it!
+
+@248
+Now, wait a moment.
+
+@249
+Katsu-dono?!
+
+@250
+This man is my attendant. I can't have you taking him off as you please.
+
+@251
+What! This man is a Tosa deserter! Who are you to butt in?
+
+@252
+Katsu Kaishū, a shogunate retainer.
+
+@253
+Katsu? ...Surely not!
+
+@255
+...Navy Commissioner Katsu Awa-no-kami!!
+
+@256
+That's right. Would you step back, for my sake?
+
+@257
+W-wah... Damn! Sakamoto, you'll remember this!
+
+@258
+Ha ha, he's gone.
+
+@259
+...Why did you help me?
+
+@260
+Heh. I'd hate to let a promising young man be killed.
+
+@261
+I tried to cut you down, you know?
+
+@262
+That was for the sake of this country too, wasn't it? You just went about it the wrong way; there's no malice in it. You've more backbone than a man who does nothing because he cares only for his own skin.
+
+@264
+...How about it? Why not become my disciple?
+
+@265
+What?!
+
+@266
+If you worry about Japan's future and want to do something, follow me. You won't regret it.
+
+@267
+...What a man!
+
+@268
+Come on, do it. It's for the best.
+
+@269
+"I'll do it"\n"No"
+
+@270
+...You win. I'll entrust my life to you.
+
+@271
+Ha ha, that's the spirit!
+
+@272
+I can't do that! I won't go after your life anymore, so would you just leave me be?
+
+@273
+Is that so? A pity. Well, doing what you want is the best way anyway.
+

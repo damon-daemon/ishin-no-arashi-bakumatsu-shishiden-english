@@ -1,0 +1,447 @@
+@1
+Ah! You've done it at last!
+
+@2
+The weapons for Chōshū were delivered long ago!
+
+@3
+Good!
+
+@4
+Hm? What about the Wild Wave? She was supposed to come with you, wasn't she?
+
+@7
+The Wild Wave...
+
+@8
+Hmm?
+
+@9
+...was lost at sea!
+
+@11
+Ike Kurata-san and many of the crew...
+
+@12
+Ike?!
+
+@13
+Yes... he insisted he wanted to learn to handle a ship and asked to be her captain.
+
+@14
+The Wild Wave is a sailing ship, so the Union was towing her, but on the way we ran into a terrible storm.
+
+@15
+We had no word at all of what came after, but surviving sailors told us she had sunk.
+
+@16
+They say Ike-san went down with his ship...
+
+@17
+...Kurata...
+
+@18
+I let a veteran of so many battles die for nothing! Knowing Ike, he'd have wanted to die gloriously on a battlefield...
+
+@20
+Kurata, forgive me!!
+
+@22
+Sakamoto-san, the ship has finally arrived.
+
+@23
+Oh, Saigō-don.
+
+@24
+Hm? What is the matter?
+
+@25
+Ah, no... it's nothing.
+
+@26
+Oh, yes. What about the rice for Satsuma?
+
+@27
+Yes. Five hundred koku of Chōshū rice. It's loaded on the ship.
+
+@28
+About that... we cannot accept that rice.
+
+@30
+With Chōshū bracing for the shogunate's punitive force and begrudging even a single grain of rice, Satsuma cannot possibly snatch it away.
+
+@31
+Hmm...
+
+@32
+That's a problem. Katsura-san will be sulking again, I'm sure.
+
+@33
+"You think I'll take back what I said I'd give and just say 'Oh, very well'?!"
+
+@34
+...he'd say something like that.
+
+@35
+I can picture it.
+
+@36
+Right?
+
+@37
+Hmm...
+
+@38
+I've got it!!
+
+@40
+Won't you give that rice to the Shachū?
+
+@42
+Er...?
+
+@43
+For Chōshū, it will count as rice given to the Kameyama Shachū, that is, to Satsuma, which stands behind it.
+
+@44
+And for Satsuma, the Shachū will fight the shogunate's army beside Chōshū, so the rice won't have been snatched away. Wouldn't you say?
+
+@47
+Pfft!
+
+@48
+Ha ha ha! That's Sakamoto-san for you! You save face for both Satsuma and Chōshū and slyly profit yourself besides. It's like watching a conjuring trick!
+
+@49
+Understood. Please take the five hundred koku of rice yourself, Sakamoto-san.
+
+@51
+Mutsu, now our Company really begins!
+
+@52
+Let's work hard and soon start buying ship after ship with money we have truly earned ourselves!
+
+@53
+Ha, I can't wait!
+
+@54
+Begin full-scale operation of the Kameyama Shachū
+
+@55
+Travel the provinces trading to earn funds
+
+@56
+Prepare for the second Chōshū Expedition by persuading shogunate-leaning domains to back the Emperor
+
+@82
+I brought everyone along! Tonight, no formalities!
+
+@83
+Chōjirō did a splendid job, though.
+
+@84
+Oh, it was nothing.
+
+@85
+Chōjirō has talent, but he runs ahead alone without consulting anyone.
+
+@86
+Hmph.
+
+@87
+Now, now, when dozens of men gather there are all sorts.
+
+@88
+Let's leave that talk aside today.
+
+@89
+You all did well! Come on, drink up!
+
+@90
+Sakamoto-san, haven't you got any entertainment?
+
+@91
+Sing a song\nHave a mystery hotpot
+
+@92
+All right, I'll sing.
+
+@93
+Yes, we've been waiting!
+
+@94
+Eh?
+
+@95
+Omoto, lend me your shamisen, will you?
+
+@96
+Twang, twang
+
+@97
+In Tosa, in Kōchi, at Harimaya Bridge, I saw a monk buying a hairpin...
+
+@98
+Yosakoi, yosakoi!
+
+@99
+Yosakoi, yosakoi!
+
+@100
+Well, he's good.
+
+@101
+Come and see, I'll show you, leaving Urado, Katsurahama, the famous place for the moon...
+
+@102
+Yosakoi, yosakoi!
+
+@103
+Yosakoi, yosakoi!
+
+@104
+Then I'll sing one too, with a lampoon that's all the rage in Kyōto.
+
+@105
+Oh, Mutsu's going to sing?
+
+@106
+Only imitating what I've heard.
+
+@107
+Send that fellow packing, take a fine new wife, and share a long cup of sake...
+
+@108
+Yosakoi, yosakoi!
+
+@109
+...Oh! That's a masterpiece!
+
+@111
+What's that? You want to play around, do you?
+
+@112
+Yōnosuke isn't even married, is he? ...I can't make head or tail of it.
+
+@113
+Hmm, I see. "That fellow" plays on "Aizu", and it sings of the times, with Satsuma turning from the shogunate side to Chōshū's.
+
+@116
+Hmm, deep...
+
+@117
+I don't get it!
+
+@118
+All right, let's have a mystery hotpot.
+
+@120
+Mystery hotpot? What's that?
+
+@121
+A Tosa custom. I'll bring the pot, and all of you raid the kitchen and gather the ingredients.
+
+@122
+...Now we're in for it.
+
+@124
+Put out the lights.
+
+@125
+I hope it won't upset my stomach...
+
+@126
+Let's begin. Whatever you pick up with your chopsticks you must eat, understood?
+
+@127
+Mm, dried squid. Not bad at all.
+
+@128
+...Munch, munch... What is this...??
+
+@129
+R-rice cake...
+
+@130
+Crunch, crunch... Oh, pickles...
+
+@131
+Crack! Ow, ow...
+
+@132
+Is this dried bonito? Someone put it in whole!
+
+@133
+Whoa, mustard lotus root! Hm... it's not bad!
+
+@134
+Whoa, mustard lotus root! This is brutal!
+
+@135
+What a ridiculous custom...
+
+@136
+Ugh, a pickled plum?! Aaargh!
+
+@137
+Squish? ...This texture... surely not...
+
+@138
+Blech! Who put a straw sandal in?!
+
+@139
+You started this, Sakamoto-san, so you have to eat it all.
+
+@140
+Of course. It's only straw, so eating it won't kill you.
+
+@141
+I-I know...
+
+@142
+Munch, crunch... Ugh, urgh!
+
+@143
+S-Sakamoto-san!
+
+@144
+Ugh... m-my throat... it's stuck...
+
+@145
+No, no! Make him spit it out!
+
+@146
+...I never thought he'd really eat it!
+
+@147
+Cough, cough! It was you, Mutsu...
+
+@148
+Ah! No, well, look, everybody said anything would do.
+
+@149
+No, Mutsu understands the point of this hotpot perfectly.
+
+@150
+Ha ha ha!
+
+@151
+Here we go, belly dance!
+
+@152
+Here we go, belly dance!
+
+@153
+Here we go, belly dance!
+
+@154
+If it's about stripping, I won't lose! Look at this body, which has made so many women cry!
+
+@155
+Ha ha, say that after you've seen a body that has been through countless battlefields!
+
+@156
+Wow, covered in scars!
+
+@157
+Hubbub, hubbub
+
+@159
+Sakamoto-sama...
+
+@160
+Omoto.
+
+@161
+What's the matter?
+
+@162
+I've had a bit to drink, so I'm getting some fresh air.
+
+@164
+Hm? What are you doing?
+
+@165
+Give me an umakuchi.
+
+@166
+Umakuchi? What's that?
+
+@172
+When foreigners are fond of each other, they kiss. That's an umakuchi.
+
+@173
+Two people who care for each other...
+
+@174
+That's right. I won't let you go home tonight.
+
+@176
+Sakamoto-san.
+
+@178
+I am Godai Tomoatsu of Satsuma. From now on I will handle the domain's business in Nagasaki.
+
+@179
+Pleased to meet you\nI want a ship
+
+@180
+I see. I look forward to working with you.
+
+@181
+I'd like that ship after all.
+
+@182
+But I thought you said you didn't want a sailing ship?
+
+@183
+We need ships for trade, and the Chōshū Expedition is near. I can't be choosy at a time like this.
+
+@184
+I am truly sorry, but she is already registered as a Satsuma ship, so I cannot simply present her to you. Will you pay the price of 7,800 ryō?
+
+@185
+Hmm...
+
+@186
+Well, I did say I would give her to you once, so how about 5,000 ryō?
+
+@187
+Pay\nDon't pay
+
+@188
+All right, I'll pay.
+
+@189
+Understood. As it happens she has come to Nagasaki, so I will hand her over.
+
+@190
+Really? That is a great help!
+
+@191
+Hmm, that's too steep. I'll give up on her.
+
+@192
+I see. I look forward to working with you.
+
+@193
+I got hold of an interesting book from a British merchant. I would like to give it to you, Sakamoto-san.
+
+@194
+What might it be?
+
+@195
+Apparently it is used abroad as a code of rules for navigation. Please put it to use in your Shachū.
+
+@196
+Oh, that is a great help.
+
+@197
+The shogunate's army has finally begun its march on Chōshū!
+
+@198
+So it's begun!
+
+@199
+Right. We go to Chōshū by sea!
+

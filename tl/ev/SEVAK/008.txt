@@ -1,0 +1,834 @@
+@0
+Oh, Sakamoto-sama.
+
+@1
+Hello there.
+
+@2
+G-good day.
+
+@3
+Going out?
+
+@4
+Huh? Yes... well...
+
+@5
+What is it?
+
+@6
+Just down the road... would you walk with me a little?
+
+@7
+"Sure"\n"No"
+
+@8
+All right.
+
+@9
+I'm in a hurry.
+
+@10
+...You really can't?
+
+@11
+"All right"\n"No"
+
+@12
+If you insist...
+
+@13
+It's only a short walk.
+
+@14
+No.
+
+@15
+I see... then never mind.
+
+@16
+? (She's not herself today...)
+
+@17
+You know, I'm going to Kyōto.
+
+@19
+The lord's younger sister is marrying into the household of Sanjō-sama, a court noble, and I've been chosen to serve her as a lady's maid.
+
+@21
+I hear Sanjō-sama is a man of ardent jōi spirit.\nI too will be able to leave cramped little Tosa and do something for the world.
+
+@22
+So Kaho-san is going to become a fine shishi.
+
+@23
+Yes. Sakamoto-sama, come to Kyōto one day too! And let's serve the nation's cause together!
+
+@24
+"Of course"\n"I can't"
+
+@25
+Of course!
+
+@26
+Promise?
+
+@27
+Yes, I promise!
+
+@28
+I can't do that. I'm a Tosa samurai.
+
+@29
+Will you live in Tosa all your life? Perhaps open a sword dōjō...
+
+@30
+How dull.
+
+@32
+But the only way out of Tosa is to leave the domain. That's a grave crime.
+
+@33
+That's true. I'm sorry for asking the impossible.
+
+@34
+...I envy you, Kaho-san.
+
+@35
+...Yes. I'll do my best, so cheer me on.
+
+@37
+Thank you for going out of your way to come with me.
+
+@38
+Not at all.
+
+@39
+Well, goodbye.
+
+@40
+Ah, here to see Takechi-sensei? I'll call him now.
+
+@41
+Ah, Ryōma, come in.
+
+@42
+Now, the shogunate has a certain plan under way.
+
+@44
+They mean, most presumptuously, to marry the Emperor's younger sister to that weak, useless shōgun Iemochi.
+
+@45
+And this Princess Kazu was already formally engaged to Prince Arisugawa, mind you.
+
+@46
+It is a timid, stopgap scheme to make the Emperor and the shōgun kin so that the shogunate gains influence over the Court. The shogunate calls it the "Union of Court and Shogunate".
+
+@47
+Union of Court and Shogunate...
+
+@48
+Sadly, it seems Lord Yōdō in Edo thinks the same way. I mean to persuade Lord Yōdō to stop supporting this scheme.
+
+@49
+Even if Hanpeita holds the 'white tag', a special rank among the gōshi, Yōdō is not a man to lend an ear.
+
+@50
+Listen, Ryōma.
+
+@52
+I mean to unite the gōshi of this domain into one party and, with that strength, dye Tosa Domain entirely in the colours of imperial loyalism.
+
+@53
+Imperial loyalism?
+
+@54
+I'll free Tosa Domain from the shogunate's rule and make it a domain under the Emperor himself.
+
+@55
+"That's amazing!"\n"That's impossible!"
+
+@56
+That's amazing! Can it be done?
+
+@57
+I'll do it whatever it takes. That's why I've travelled the western provinces, keeping in contact with comrades.
+
+@58
+Men of purpose in Satsuma and Chōshū are working to make their own domains the vanguard of imperial loyalism.
+
+@59
+...You mean to rally behind the Emperor and openly defy the shogunate?
+
+@60
+It's impossible. The upper samurai are die-hard shogunate men.
+
+@61
+It has to be done. That's why I've travelled the western provinces, keeping in contact with comrades.
+
+@62
+Men of purpose in Satsuma and Chōshū are working to make their own domains the vanguard of imperial loyalism. Tosa cannot be left behind.
+
+@63
+The situation differs from Satsuma and Chōshū. Tosa's upper samurai are indebted to the shogunate.
+
+@64
+Well, leave it to me.
+
+@65
+Domestic Insight rose by 5!
+
+@66
+Sakamoto-san, Takechi-sensei says he has something important to tell you and wants you to come to Katsurahama.
+
+@67
+Something important?
+
+@68
+Never mind that, just hurry.
+
+@69
+Ryōma, you've come. Is this everyone?
+
+@70
+Yes, it seems we're all here.
+
+@71
+...Ahem.
+
+@72
+Why have we all gathered in a place like this? What's about to start?
+
+@73
+Shh!
+
+@74
+...Japan now stands on the brink of ruin!
+
+@76
+Hungry foreign wolves are stalking this country!
+
+@77
+Mm-hm.
+
+@78
+Yet the shogunate, Japan's representative, is indecisive and wags its tail at these starving wolves!
+
+@79
+Right... that's exactly so!
+
+@80
+The shogunate's retainers think only of protecting the shogunate and themselves!\nThey don't mind if this country becomes those wretches' prey!
+
+@81
+Unforgivable!
+
+@82
+Can we leave Japan to such a shogunate? Now is the time for Japan to return to its true form!
+
+@83
+Its true form...?
+
+@84
+We must unite the three hundred lords under the Emperor in Kyōto and build a strong, centralised state!!
+
+@85
+Oh!!
+
+@87
+What... what a tremendous vision!
+
+@88
+Gentlemen!! Since Sekigahara we gōshi have lived oppressed and ill-treated by the upper samurai!
+
+@90
+But now, in this hour of national crisis, we gōshi of Tosa will rise!
+
+@91
+Gulp.
+
+@92
+Not for the shogunate! Not for Tosa Domain! We will work for the sake of the Emperor alone!
+
+@93
+N-not for the shogunate...
+
+@94
+Not for the domain...
+
+@95
+For the Emperor's sake... h-how splendid!!
+
+@96
+Wh-whoaaaa!!
+
+@97
+T-Takechi... I'm lost for words...
+
+@98
+We gōshi, whom the upper samurai treat like insects in Tosa... to become the Emperor's own troops!
+
+@99
+From this day we gōshi shall call ourselves the "Tosa Loyalist Party" and, under the banner of sonnō jōi, give our lives for Japan!
+
+@100
+The Tosa... Loyalist Party!!
+
+@101
+I'll do it! I'll do it! What do we care for the upper samurai! Or the shogunate!
+
+@102
+Ōishi-kun, the thing we prepared.
+
+@103
+Here.
+
+@104
+Here! I want everyone's blood seal, as proof of our unshakable oath!
+
+@105
+Yeaaah!!
+
+@106
+H-ha ha ha! Those upper samurai have made fools of us for years!
+
+@107
+Just watch! We'll turn this country upside down!!
+
+@108
+I can't stand it!! I can't keep still any longer!
+
+@109
+Everyone, let's do it! We'll make them feel the power of the Tosa gōshi!
+
+@110
+Ryōma, you are my sworn ally. Help me lead them.
+
+@111
+"Of course"\n"I can't"
+
+@113
+I thought you'd say that!
+
+@114
+...It's impossible.
+
+@115
+Why?
+
+@116
+I have no learning like yours, and I'm no speaker.
+
+@117
+That's not the role I'm asking of you. You have what I lack. Just having you and me at the front will rouse everyone.
+
+@118
+Is that how it works?
+
+@119
+Yes, it is! You'll do it, won't you?
+
+@120
+"All right"\n"I can't"
+
+@121
+If Hanpeita counts on me, I can't refuse.
+
+@122
+Yes, I'm counting on you!
+
+@123
+I'm content to have my name at the bottom of the list.
+
+@124
+I see... I won't force you.
+
+@125
+Ryōma!
+
+@126
+Shūjirō.
+
+@127
+I'm going to Takechi's place now. Won't you come too?
+
+@129
+All right, let's go.
+
+@130
+I have business.
+
+@132
+...Hm?
+
+@134
+(Shh! Someone is watching us.)
+
+@136
+(Pretend you haven't noticed and walk with me.)
+
+@137
+Y-yes...
+
+@138
+Well! I think I'll go home today and have a drink! Ha ha ha!
+
+@139
+Huh...
+
+@140
+(Turn there!) Yes, let's buy some sake!\nSake, sake!
+
+@141
+Sake, sake...
+
+@144
+Got you!!
+
+@145
+Who are you, then? Dogging our steps...
+
+@146
+D-damn it! Let go of me!
+
+@147
+You're... Yatarō!
+
+@148
+Yatarō?
+
+@149
+Iwasaki Yatarō... a lowborn rōnin, but I hear his talent for accounts has been recognised and he frequents Yoshida Tōyō's Shōrin-juku.
+
+@150
+"That's impressive"\n"That's unforgivable"
+
+@151
+That's impressive! He's lower than a gōshi, yet being recognised by the upper samurai is no small thing!
+
+@153
+The gōshi seem to regard him as a traitor who fawns on the upper samurai.
+
+@154
+Of a rank lower than a gōshi and yet fawning on the upper samurai... unforgivable.
+
+@155
+Hmph!
+
+@156
+Yes, the gōshi regard this fellow as a traitor.
+
+@157
+Ignoring your own stupidity and envying others: that's a laugh.
+
+@158
+Why are you sniffing around us?
+
+@159
+...So that you gōshi don't plot mischief.
+
+@160
+Playing the police spy, are you!
+
+@161
+Ha ha ha! A police spy is just what I've been promoted to!
+
+@162
+Hit him\nLet him go
+
+@163
+Scum!
+
+@164
+Ugh!
+
+@165
+Stop it!\nIf he takes against us, there'll be trouble later.\nGo!
+
+@166
+Ha ha ha! Mind you don't give yourselves away.
+
+@168
+Never mind. A police spy's job is to spy. Go on, be off.
+
+@169
+...Mind you don't give yourselves away.
+
+@170
+This is awkward. Let's give up going to Takechi's today. See you.
+
+@171
+Sakamoto, Takechi-san says he has business with you.
+
+@172
+Hanpeita?
+
+@173
+Ryōma, you've come... Nakaoka-kun, would you leave us for a moment?
+
+@174
+Yes...
+
+@175
+What is it, so formal?
+
+@176
+...Do you know Yoshida Tōyō?
+
+@177
+"I do"\n"I don't"
+
+@178
+I know him.
+
+@179
+I don't.
+
+@180
+He's Tosa's councillor. A strong-handed upper samurai, deeply trusted by Lord Yōdō and entrusted with all of Tosa in his absence.
+
+@181
+What of this Tōyō?
+
+@182
+These past few days I tried to change Tosa's policy by preaching the need for sonnō jōi to Tōyō, but it was useless. He's... a shogunate man through and through.
+
+@183
+Naturally. He's an upper samurai.
+
+@184
+The times are moving. If we dawdle, Satsuma and Chōshū will get ahead of Tosa.
+
+@185
+Get ahead of us...?
+
+@186
+That aside. The problem is that Tōyō loathes us gōshi even more than the other upper samurai do.
+
+@187
+He blindly supports the shogunate's opening of the country and seems determined not to listen to a word we say.
+
+@189
+What's more, he tells the upper samurai they're not like gōshi and should live more lavishly! In an hour of peril for our country! As long as that man lives, Tosa will not change.
+
+@190
+You mean to change Tosa?
+
+@191
+Yes. Dyeing the whole of Tosa Domain in imperial loyalism and confronting the shogunate with it is the quickest way.
+
+@192
+"I see"\n"That's impossible"
+
+@193
+Hmm...
+
+@194
+It can't be done while the upper samurai are there.
+
+@195
+No, I can win this! The old families that Tōyō dismissed hold a grudge against him. I mean to bring them to our side.
+
+@196
+Those incompetents... they'll be of no use.
+
+@197
+That's exactly why they're easy to manipulate.
+
+@199
+Just between us...
+
+@200
+To achieve imperial loyalism for the whole of Tosa Domain, I intend to remove Tōyō.
+
+@201
+!! Tōyō... you'll cut him down?!
+
+@202
+As long as the utterly stubborn Tōyō lives, our dream will never see daylight.
+
+@203
+"Indeed"\n"Don't do it"
+
+@204
+Indeed...!
+
+@205
+Listen. I haven't told this to anyone yet. Keep it strictly secret.
+
+@206
+Don't... cutting down Tōyō won't change Tosa.
+
+@207
+No, it will! Look at Sakuradamon! When Ii died, the shogunate's attitude changed completely! The daimyō of the Hitotsubashi faction regained power, and jōi patriots can now move freely!
+
+@208
+"Indeed..."\n"This time it's different"
+
+@209
+Indeed...
+
+@210
+Listen. I haven't told this to anyone yet. Keep it strictly secret.
+
+@211
+That's because Ii was in effect the head of the shogunate. Kill Tōyō, and then what of Yōdō himself? Yōdō is no fool like the shōgun Iemochi.
+
+@212
+Call him Lord Yōdō! I will persuade him! The retired lord holds the spirit of sonnō jōi.
+
+@213
+"I see"\n"That's wrong"
+
+@214
+I see. Then perhaps...
+
+@216
+I've heard that... but it's only words. At heart he's for the shogunate. Yōdō and Tōyō are the same.
+
+@217
+Wrong!!
+
+@218
+The Yamauchi lot are all the same. They give no weight to what a gōshi says.
+
+@219
+I hold the white tag. I can have an audience with the lord.
+
+@220
+Look at Tōyō's attitude! Even with a white tag, they think of a gōshi as nothing but a gōshi, don't they? It's impossible!
+
+@221
+It is not impossible! The very reason I could go to Edo for sword training was Lord Yōdō's recommendation. It proves the retired lord has hopes for me!
+
+@222
+"I see"\n"You're naive!"
+
+@223
+I see. If so, then perhaps...
+
+@225
+Naive, you're naive... with you in Tosa, the gōshi would unite and become a threat, so you were simply sent away politely!
+
+@226
+Ryōma! Insult the retired lord, and I won't spare you, even you!
+
+@227
+Hanpeita, you're clever, so think it over carefully.\nYou can chase ideals all you like, but sometimes reality won't allow them.
+
+@228
+Enough. Go home...
+
+@229
+...Don't do anything that would make your lovely wife cry.
+
+@231
+Uncle Ryōma, a letter has come!
+
+@232
+Oh, from Jū-san!
+
+@234
+Ryō-san, are you well? I have thrilling news.
+
+@235
+A jōi rōshi cut down Heusken, the confidant of Harris of America. Harris is the very man who bullied the shogunate. That should put a bit of a chill in him.
+
+@236
+I too want to rush about like the shishi out there. I'd like to do my part for jōi with my Hokushin Ittō-ryū swordsmanship, but I have a dōjō to keep. The days drag on, and I chafe.
+
+@237
+Surely you feel the same, Ryō-san. You are not a man to end his life shut up in Tosa.
+
+@238
+Ryō-san, come to Edo. You can give the domain any reason you like. Let's kick up a storm in Edo together.
+
+@239
+Chiba Jūtarō
+
+@240
+What a thing to ask... they surely won't allow me to go to Edo again.
+
+@241
+Uncle, are you going to Edo again?
+
+@242
+I'd like to, but I can't go without the domain's permission.
+
+@243
+Hmm.
+
+@244
+...!!\n(Someone is following me.)
+
+@245
+You there. Do you want something?
+
+@247
+You've drawn your sword... stop it.\nIt would be pointless to get hurt in a place like this.
+
+@248
+Sakamoto, prepare yourself!!
+
+@249
+It seems talking is useless.
+
+@250
+Fight back\nRun away
+
+@251
+I got through that.
+
+@252
+You there, what's this commotion?
+
+@253
+Damn, being caught would be a nuisance. Better run.
+
+@254
+Damn, running is the only choice.
+
+@255
+Stop!
+
+@256
+I've no time to play with you lot.
+
+@257
+Ah, stop!
+
+@258
+It seems I've lost them...
+
+@259
+Who were they?
+
+@260
+Sent by the upper samurai?\nI hear they're angry about the founding of the Tosa Loyalist Party.
+
+@261
+Oh, Jaw!
+
+@262
+Come over here a moment.
+
+@264
+...Ryōma, I'll ask once more. I will cut down Tōyō. What do you think?
+
+@265
+"I agree"\n"I'm against it"
+
+@266
+Don't do it...
+
+@267
+I see... well, never mind, let's leave that for today.\nActually, there is something I want to ask of you.
+
+@268
+That's one way.
+
+@269
+Mm... the problem is who will be the assassin.
+
+@270
+"Let me do it"\n"..."
+
+@272
+Well, I'll choose the assassin. There's another matter I want to ask of you.
+
+@273
+Let me do it.
+
+@274
+Come now, Tōyō is a skilled swordsman. Even if you managed to kill him, once you've cut down an upper samurai you can't stay in Tosa, and you'd never be able to return.
+
+@275
+"I know"\n"I'll drop it"
+
+@276
+I'm prepared for that.
+
+@277
+...Well said. With Ryōma going, I can rest easy.
+
+@278
+Leave it to me.
+
+@279
+I'll arrange your escape from the domain. Until the time comes, let no one find out.
+
+@280
+Today I have another thing to ask of you.
+
+@281
+...I'll drop it.
+
+@282
+Well, I'll choose the assassin. There's another matter I want to ask of you.
+
+@284
+Do you know Kusaka Genzui-dono of Chōshū?
+
+@287
+I don't.
+
+@288
+He's a student of Shōin. Since the sensei's death, he has become one of the standard-bearers of the sonnō-jōi faction in Chōshū.
+
+@289
+I'd like you to deliver a letter to Kusaka-dono. Will you do it?
+
+@290
+"Very well"\n"I can't"
+
+@291
+Yes. How do I get out of Tosa?
+
+@292
+Impossible. I can't leave Tosa without permission.
+
+@293
+You've already got leave to travel the western provinces on a sword-instruction tour.
+
+@294
+You're well prepared. What would you have done if I'd said no?
+
+@295
+I wouldn't let you say no.
+
+@296
+Pfft! What a pushy man.
+
+@297
+Otherwise I couldn't be head of the Loyalist Party.
+
+@298
+When do I leave?
+
+@299
+Right now. The letter is here.
+
+@300
+You're impatient. Well, I was bored in cramped Tosa anyway.
+
+@301
+Now, don't gad about too much. The deadline is the second month of next year. Take longer than that and you'll be treated as having left the domain.
+
+@302
+Well, it's a fine opportunity. All I need is for my letter to arrive quickly. There's no hurry for the reply, so until the deadline travel the provinces and broaden your outlook.
+
+@303
+Understood.
+
+@304
+Carrying out Takechi Hanpeita's request\nDeadline: 30th of the 2nd month, 1862
+
+@305
+Deliver the letter to Kusaka Genzui in Hagi
+
+@306
+Travel the provinces and make acquaintances
+
+@307
+Ryōma... I've asked someone else to carry the message to Chōshū.
+

@@ -1,0 +1,108 @@
+@0
+I'm going to press the Rōjū to launch the Chōshū Expedition. Will you come, Toshi-san?
+
+@2
+No, I'll pass.
+
+@3
+I see. When you're done, come to Itō's dōjō in Honjo-Fukagawa. Tōdō-kun seems to be there.
+
+@5
+First, Inaba Masakuni-dono.
+
+@6
+And who might you be?
+
+@7
+Kondō Isami, Commander of the Shinsengumi. I have come today to petition for His Highness to lead the expedition against Chōshū in person.
+
+@9
+Next, Mizuno Tadakiyo-dono.
+
+@10
+You are Kondō-dono, I take it.
+
+@11
+Yes. I have come to request a firm punishment of Chōshū.
+
+@13
+Tōdō-kun seems to be at Itō's dōjō in Honjo-Fukagawa, so I'm going there. What will you do, Toshi-san?
+
+@14
+Go together\nGo later
+
+@15
+Let's go together.
+
+@16
+I'll go later.
+
+@17
+I see. Come by when it suits you.
+
+@18
+Away in Edo with Kondō Isami to recruit new members.
+
+@19
+Visit Itō's dōjō in the Honjo-Fukagawa district.
+
+@20
+Ah, let me introduce him. This is Itō-dono, who is to become one of us.
+
+@23
+Itō-dono has a name as a man of both letters and arms, and a fine figure of a man. With him among us, our Shinsengumi will gain real momentum.
+
+@24
+Itō-dono's whole party has agreed to join us at the same time.
+
+@30
+Then please wait a while, as we have our affairs to put in order.
+
+@31
+I think I'll go to Ushigome, for the first time in ages. See you later.
+
+@32
+Wait in Edo
+
+@33
+Hm?\nKondō-san.
+
+@34
+Oh, Toshi-san. How did you know I was here?
+
+@35
+Oh, Hijikata-dono.
+
+@36
+This is Matsumoto Ryōjun-dono, the shogunate physician. And this is Hijikata Toshizō, Vice-Commander of the Shinsengumi.
+
+@37
+I hear you are working to restore order in the ruined capital. Take care of your health.
+
+@38
+Thank him and take leave\nAsk about consumption
+
+@39
+I am grateful for your concern. Then, if you will excuse me.
+
+@40
+Sensei, are you well versed in consumption?
+
+@41
+Consumption? It is not my specialty, but... is there a patient in your corps?
+
+@43
+It isn't settled that it is consumption, but...
+
+@44
+Very well. I shall come up to Kyōto before long and examine him.
+
+@45
+Most kind of you. Please do.
+
+@47
+Toshi-san, Itō-dono's preparations are done. Time we went back to Kyōto.
+
+@48
+The Shinsengumi's strength rose by 12!
+

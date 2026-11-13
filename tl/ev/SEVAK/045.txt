@@ -1,0 +1,93 @@
+@0
+A wanderer, as the Naval Training Institute is closing
+
+@1
+Flee to Chōshū
+
+@4
+A wanderer, as the Naval Training Institute has closed
+
+@5
+Sakamoto-dono, is it?
+
+@6
+I am Yamagata Aritomo, captain of the Kiheitai.
+
+@7
+The conservatives hold the domain government. Takasugi-san and Katsura-san are both missing.
+
+@8
+Missing?!
+
+@9
+We of the Kiheitai, and the Yūgekitai with its rōnin, have been ordered to disband. I'm sorry, but there is no way I can shelter you.
+
+@11
+Sakamoto-dono, is it?
+
+@12
+I am Yamagata Aritomo, captain of the Kiheitai.
+
+@13
+The conservatives hold the domain government. Takasugi-san and Katsura-san are both missing.
+
+@14
+Missing?!
+
+@15
+We of the Kiheitai, and the Yūgekitai with its rōnin, have been ordered to disband. I'm sorry, but there is no way I can shelter you.
+
+@18
+Lie low in Mitajiri
+
+@21
+Kurata! You're safe!
+
+@22
+Takasugi-san drove the conservatives out of Chōshū!
+
+@24
+I met Takasugi-san, who was on the run in Kyūshū.
+
+@25
+Takasugi-san and I seized the Chōshū fleet at Mitajiri, sailed up off Hagi and fired blanks. Ha ha ha, we gave the conservatives a proper fright!
+
+@27
+The Kiheitai led by Yamagata-san answered the call. After fierce fighting they scattered the pro-shogunate upper-samurai army!
+
+@28
+Well, splendid! Now we loyalists won't be left without a domain to take shelter in!
+
+@29
+No, Chōshū is still surrounded by enemies.
+
+@30
+Still, as long as Chōshū lives, there is hope.
+
+@31
+I wonder if Chōshū would shelter my comrades from the naval school?
+
+@32
+Katsura-san has come back, so ask him.
+
+@33
+Oh, Katsura-san is alive!
+
+@34
+He should be at his house in Hagi.
+
+@36
+Katsura-san! Well, it's good to see you back alive!
+
+@37
+I've been in danger many times. And what are you doing now?
+
+@38
+That's what I wanted to talk to you about.
+
+@40
+I want you to take in the students of the naval school.
+
+@41
+Oh, is that all? Use the Shōkenkaku at Mitajiri. Nakaoka-kun and Ike-kun are there, so you'll feel at home.
+

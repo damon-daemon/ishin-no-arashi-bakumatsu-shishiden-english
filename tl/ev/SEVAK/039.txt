@@ -1,0 +1,492 @@
+@1
+Waiting for an opportunity in Kyōto
+
+@5
+Who are you?
+
+@6
+Okada Izō of the Loyalist Party.
+
+@7
+Takechi-sensei says he wants to see you at the Tantora in Kawaramachi.
+
+@11
+He's gone...
+
+@12
+Meet Takechi Hanpeita at the Tantora in Kawaramachi
+
+@18
+We of the Loyalist Party now hold Tosa completely. Even the upper samurai can no longer say a word to me, now that I am the Kyōto liaison officer.
+
+@19
+So you finally did it.
+
+@20
+That leaves Lord Yōdō... but in time His Lordship will come to understand.
+
+@21
+I hope so.
+
+@22
+All Kyōto is for sonnō jōi now. Ryōma, let's do it! We will save this country!
+
+@23
+Hm... As for me, I tried to cut down Katsu and botched it.
+
+@24
+Well, no need to rush. And I'll see what I can do about your crime of leaving the domain.
+
+@25
+Thanks, I owe you.
+
+@36
+(Yoshimura said as much too... Shall I make this my base?)
+
+@46
+I owe it to Hanpeita.
+
+@47
+Takechi-sama has become quite the famous man in Kyōto.
+
+@48
+He looks busy.
+
+@49
+Yes, everyone is working for jōi. The Sanjō house is the leader of the jōi faction among the court nobles, so shishi come in great numbers.
+
+@52
+When Tosa gōshi in particular come to us for help, I cannot possibly turn them away. I want to do all I can for the imperial cause too.
+
+@54
+Sakamoto-sama, if you don't work as hard as they do, you will be left behind by the others.
+
+@63
+What do you want?
+
+@74
+I'll probably be busy, so we may not meet often.
+
+@84
+Hold Kaho close\nPlay hanafuda\nThen I'll go home
+
+@97
+Ryōma, you were in Kyōto?
+
+@98
+Oh, Yoshimura!
+
+@99
+Say, won't you join us?
+
+@100
+Comrades?
+
+@101
+We intend to raise a righteous army for jōi.
+
+@103
+Well, I'll introduce my comrades to you in time.
+
+@104
+By the way, where are you staying now, Ryōma?
+
+@105
+No, I haven't settled anywhere in particular.
+
+@106
+Then you should lodge at the Teradaya in Fushimi. They treat us imperial loyalists well there.
+
+@108
+Ryōma, are you in?
+
+@109
+Oh, Yoshimura.
+
+@110
+Lord Nakayama has come up to Kyōto. I want you to meet him too.
+
+@111
+Oh, you've come.
+
+@112
+So Ike is with you too.
+
+@113
+Kurata!
+
+@114
+Ryōma-san! You came!
+
+@115
+Did you leave the domain too?
+
+@116
+Yes, I was in Chōshū. Anyway, come on in.
+
+@117
+It has been a long time. How was Chōshū?
+
+@118
+Oh, I boarded a Chōshū ship at Shimonoseki and bombarded the foreigners' ships. Isn't that right, Kurata?
+
+@120
+Yes, sir! I watched from the shore, and Your Lordship's gallant fighting amazed me!
+
+@121
+Nonsense. I can't hold a candle to your recklessness.
+
+@122
+...Your Excellency went out on the ship in person?
+
+@123
+It was fun.
+
+@124
+Your person is precious. Please be more careful.
+
+@125
+Ha ha ha, what an amusing noble!
+
+@126
+Hm? Who is this man?
+
+@127
+Sakamoto Ryōma of Tosa, my lord.
+
+@128
+Oh, so you are Takechi's friend? A true Tosa igossō, even beyond what I heard. Will you fight beside me?
+
+@131
+I am counting on you.
+
+@132
+I fear that rising in arms at this time is premature.
+
+@134
+Ryōma-san, what are you saying!
+
+@135
+If not now, then when are we to rise?
+
+@136
+There is the precedent of the Teradaya Incident, after all.
+
+@137
+The shogunate has certainly weakened, but the unseen pressure of the Tokugawa house still lurks in the corners of the lords' hearts.
+
+@138
+One misstep, and the Tenchūgumi will be left a force with no allies and no support.
+
+@139
+What are you saying at a time like this? Don't you know the lords west of Kyōto are already leaning towards the sonnō-jōi faction?
+
+@140
+...Enough! We don't need a man who loses his nerve at the critical moment in the Tenchūgumi!
+
+@143
+Hmm. A pity.
+
+@144
+All of you... don't die.
+
+@145
+Ryōma, let me introduce my comrades. Come with me.
+
+@146
+Oh, isn't that Ryōma?
+
+@147
+Shingo, you too?
+
+@148
+I am Fujimoto Tesseki.
+
+@149
+I am Matsumoto Keidō.
+
+@150
+We are founding a righteous army. Its name is the "Tenchūgumi"!
+
+@151
+The "Tenchūgumi"... a brave name.
+
+@152
+We hold Lord Nakayama as our leader, and mean to be the vanguard for jōi and, beyond that, for overthrowing the shogunate.
+
+@153
+Lord Nakayama?
+
+@154
+Nakayama Tadamitsu. He is the sharpest spearhead of the sonnō-jōi nobles.
+
+@155
+Only 18 years old, and a brilliant man who spares no effort to carry out jōi.
+
+@157
+He is canvassing in Chōshū now, but he will appear in Kyōto soon. I'll introduce you then.
+
+@158
+Wait in Kyōto for the Tenchūgumi to rise
+
+@159
+What do you want?!
+
+@196
+Oh dear!
+
+@213
+See! You as good as said so yourself!
+
+@227
+What?! You're friends with the great Katsura-san?! I envy you!
+
+@229
+To Sakamoto Ryōma-dono
+
+@237
+Katsu was right. Jōi will only succeed if we carry it out after Japan has gathered more strength.
+
+@246
+Oh, Ryōma, you're here too! This is terrible!
+
+@264
+Who can tell?! Ah, is the Tosa loyalist cause to founder right here, after coming this far?
+
+@265
+Gh... Shūjirō... Shūjirō is dead?! Why?! Why did Shūjirō have to be killed?!
+
+@266
+Oh, Sakamoto-sama! My brother! My brother!
+
+@272
+Hm? Aren't you...
+
+@273
+Oh, the rōnin who came to cut me down! What, have you changed your mind and want to become my pupil?
+
+@274
+"Yes"\n"No"
+
+@276
+Oh, good, good! Looks like you understand. Welcome aboard.
+
+@277
+Sakamoto-san, do you mean it?
+
+@278
+Yes, I mean it.
+
+@279
+Okaken. You're in too, aren't you?
+
+@281
+I'm building the Naval Training Institute in Kōbe right now. I'll send for you when it's ready, so wait a while.
+
+@282
+...No, I can't do that.
+
+@283
+Because I'm a shogunate retainer?
+
+@284
+"That's right"\n"No"
+
+@285
+The shogunate is our enemy.
+
+@286
+I see. I won't press the point. Well, do your best.
+
+@287
+I'm a jōi patriot, so I can't be the pupil of an open-country man.
+
+@288
+Pity. But look after yourself.
+
+@289
+The Emperor's personal expedition for jōi has been decided! At last we rise!
+
+@290
+The Emperor takes the field? With what army?
+
+@291
+It will be an allied army of the powerful domains that champion sonnō jōi, Chōshū first among them. First His Majesty will make a progress to Yamato and proclaim this to the realm and the world.
+
+@292
+That's quite something.
+
+@293
+Yamato it is! You come too!
+
+@294
+The time has come for us to rise! We shall clear the way for the Emperor's progress to Yamato!
+
+@295
+Let us offer the whole province of Yamato to the Imperial Court as its direct domain!
+
+@296
+First we attack the magistrate's office at Gojō in Yamato. We will raise the signal fire to overthrow the shogunate!
+
+@297
+Ryōma, let's go!
+
+@298
+Raised as the most extreme of the sonnō-jōi bands, the Tenchūgumi was destroyed in Yamato without ever showing its cause to the world...
+
+@299
+Two days later --
+
+@300
+Terrible news!
+
+@301
+Matsumoto-dono, what is it?
+
+@302
+There's been a coup in Kyōto! Satsuma joined hands with Aizu and drove Chōshū and the radical sonnō-jōi faction out of the Kinai!
+
+@304
+Satsuma? Weren't they on the sonnō-jōi side until yesterday?
+
+@305
+It seems they felt alarmed when they saw Chōshū about to take control of the Court.
+
+@307
+I... I can't believe it.
+
+@308
+They say the seven sonnō-jōi nobles were driven from Kyōto as well, and fled to Chōshū...
+
+@310
+Then... the Emperor's progress to Yamato...?
+
+@311
+It is cancelled... We have been made out as rebels who raised the standard against the shogunate on our own.
+
+@312
+That's absurd! How can that be?!
+
+@314
+Grrr, those Satsuma potato samurai!
+
+@315
+There is no use resenting Satsuma here... We have already raised our troops.
+
+@316
+What are we to do now?
+
+@317
+What's there to discuss?! Now we can only hold Yamato by ourselves and wait for the grassroots shishi of the provinces to answer our call!
+
+@318
+Right! There's no turning back now!
+
+@319
+Good, let's ride the momentum of taking Gojō and carve out the whole region!
+
+@320
+The Tenchūgumi, swollen at one time to over a thousand with Totsukawa gōshi, rōnin and peasants from the neighbourhood, was mostly made up of common soldiers with no conviction at all.
+
+@321
+When the order to hunt them down came from the shogunate and the Court, they learned that everyone around them was now an enemy, and most of them deserted.
+
+@322
+Nakayama Tadamitsu, commander of the remaining troops, knew nothing of the art of war. But as he loved battle by temperament, he wanted to command at the front.
+
+@323
+It may be said that the battle was lost before it was fought.
+
+@324
+The Tenchūgumi suffered one defeat after another and fled towards Totsukawa.
+
+@325
+This is bad... we're surrounded.
+
+@326
+Is this the end...?
+
+@327
+In that case, Lord Nakayama must escape to Chōshū at all costs. We shall lay down our lives to cover him.
+
+@328
+Yes. Let's die fighting gloriously at the last.
+
+@329
+Here they come.
+
+@330
+Waaaah!!
+
+@331
+There's no end to them!
+
+@332
+Where are Yoshimura and the others?
+
+@333
+Guh!!
+
+@335
+Shingo!
+
+@336
+Gwaaaah!!
+
+@337
+Yoshimura!?
+
+@338
+"The maple leaves the wind scatters on Mount Yoshino: take them for the spray of blood from my sword."
+
+@339
+...Ngh!
+
+@340
+Waaaah! Shingo! Yoshimura!!
+
+@341
+Ike-kun, Sakamoto-kun! Protect Lord Nakayama and make for Chōshū!
+
+@342
+What are you saying! Run with us, all of you!
+
+@343
+That it has come to this is entirely our fault, for choosing the wrong time to rise.
+
+@344
+We will hold the enemy here... Look after Lord Nakayama! Bide your time until the day comes!
+
+@345
+Raaaah!
+
+@346
+Cu... curse it...!
+
+@347
+Tesseki-dono! You devils!
+
+@348
+Gah!
+
+@349
+Stop it!
+
+@350
+I... w-whoa...
+
+@351
+Gh, Kurata! You must not die here! Run!
+
+@352
+Run away!?
+
+@353
+We protect the one they gave their lives to save!
+
+@354
+Damn, damn it all!
+
+@355
+Lord Nakayama! This way!
+

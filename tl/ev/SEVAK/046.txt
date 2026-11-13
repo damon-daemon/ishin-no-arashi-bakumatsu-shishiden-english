@@ -1,0 +1,159 @@
+@0
+Seeking ties with Satsuma
+
+@11
+What's this?! A poor haul!
+
+@13
+...Right, I have to go after Saigō-san, who went to Ōsaka.
+
+@15
+Nakaoka, and Hisamoto-san.
+
+@16
+How are things in Satsuma?
+
+@17
+I met Saigō, but I couldn't get a straight answer out of him.
+
+@19
+Nakamura-don. I would like to see Saigō-don once more.
+
+@20
+Ah, Nakaoka-san and Hijikata-san.
+
+@21
+Nakamura-don. I would like to see Saigō-don once more.
+
+@23
+My name is Sakamoto Ryōma.
+
+@24
+Ah, so you are the famous Sakamoto-san.
+
+@25
+So you are Sakamoto-san.
+
+@26
+...Understood. This way, please.
+
+@40
+...I will hear what you have to say.
+
+@44
+...That coup was decided by some of the house elders and Lord Hisamitsu while I was away.
+
+@52
+And how would the foreign powers see a Japan like that?
+
+@61
+It seems Saigō is leaving for Satsuma right away.
+
+@62
+Are you going after him?
+
+@63
+We're going back to Chōshū now.
+
+@65
+The terms of the recent peace over the Chōshū Expedition include moving the Five Nobles to Dazaifu in Kyūshū. We must see that carried out.
+
+@66
+Ryōma. Will you try persuading him once more? We'll persuade Chōshū to make peace with Satsuma.
+
+@68
+Saigō should stop by the residence in Ōsaka. Sorry, but I leave the rest to you.
+
+@69
+Visit Saigō Takamori at the Satsuma residence in Ōsaka
+
+@70
+Oh, Sakamoto-san.
+
+@71
+A strange man asked me to give you this, so I've been holding on to it.
+
+@72
+Ah, my wallet!
+
+@77
+I have heard from Saigō-don about your proposal of a Satsuma-Chōshū reconciliation.
+
+@79
+Your argument is entirely sound. I should like to hear more of what you have to say, Sakamoto-san.
+
+@80
+Do you really mean that?
+
+@81
+I heard you are all returning to Kagoshima.
+
+@82
+Sakamoto-san, will you come to Kagoshima as well?
+
+@83
+May I? Of course I'll come.
+
+@105
+Sakamoto-san is a pupil of the shogunate retainer Katsu Kaishū-don.
+
+@116
+No.
+
+@127
+I hear many Tosa rōnin who deserted the Naval Training Institute died in the Ikedaya Incident and the Kinmon Incident.
+
+@129
+Awa-dono (Katsu Kaishū) took responsibility, was dismissed as Navy Commissioner and went back to Edo...
+
+@132
+Oguri?
+
+@144
+Visit Saigō Takamori at the Satsuma residence in Ōsaka
+
+@145
+That's it! Satsuma might put up the money to start a company. Maybe I'll talk it over with Komatsu-san, the house elder.
+
+@150
+Ah, Sakamoto-san. Please, come in.
+
+@174
+No, no. By the time you are grown, there will be no more domains and Japan will be one.
+
+@183
+Sakamoto-san, thank you!
+
+@192
+I beg you, find a way.
+
+@193
+...I'll give it a try.
+
+@196
+It's hard going.
+
+@197
+Chōshū is having a hard time too. Their grudge against Satsuma runs deeper than I expected.
+
+@198
+...I see.
+
+@199
+Let's switch.\nI'll persuade Satsuma, so you go to Chōshū.
+
+@200
+You're close to Katsura-san, so he'll listen to you.
+
+@201
+You are close to Takasugi-san, so you might be able to persuade Katsura-san.
+
+@202
+If you're ever in trouble, visit a man called Yokoi Shōnan in Kumamoto.
+
+@204
+Do you know Yokoi-san?
+
+@205
+Oh, you know him? Then that saves time.
+
