@@ -16,16 +16,16 @@ PROG:8003c094	Retired Utsunomiya
 PROG:8003c0a0	Retired Aizu
 PROG:8003c0ac	Retired Yonezawa
 PROG:8003c0b8	Retired Sendai
-PROG:8003c0c4	Chōshū Expedition Staff
-PROG:8003c0d0	Foreign Commissioner
-PROG:8003c0dc	Finance Commissioner
-PROG:8003c0e8	Navy Commissioner
-PROG:8003c0f4	Army Commissioner
+PROG:8003c0c4	Expedition Staff
+PROG:8003c0d0	Foreign Comm.
+PROG:8003c0dc	Finance Comm.
+PROG:8003c0e8	Navy Comm.
+PROG:8003c0f4	Army Comm.
 PROG:8003c100	Three Lords
-PROG:8003c108	Chōshū Expedition Commander
+PROG:8003c108	Expedition Chief
 PROG:8003c114	Protector of Kyōto
-PROG:8003c120	Chief Political Councillor
-PROG:8003c12c	Shōgun's Guardian
+PROG:8003c120	Chief Councillor
+PROG:8003c12c	Guardian
 PROG:8003c138	Tairō
 PROG:8003c140	Key Post
 PROG:8003c17c	-

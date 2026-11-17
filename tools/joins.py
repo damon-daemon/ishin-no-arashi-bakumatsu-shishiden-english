@@ -203,8 +203,80 @@ def rows(img, pool):
         com.put(va, asm.assemble(va, [('jal', at), ('nop',), ('nop',)]))
 
 
+# Gather News, "About <person>" (0x80071100..): the person's base place is joined as town + separator
+# (PROG:800354d0) + building in a 32-byte stack buffer at sp+0x1448; the words after it are the list
+# window's rectangle and the list's top / count. "Kagoshima, Murata Shinpachi Residence" (38 bytes) ran
+# over them and the game hung when the list was drawn again. The buffer moves to the string pool
+# (reached through gp, so each site stays one instruction).
+PLACE_BUF = 96
+# (image, sp offset of the 32-byte buffer, ((site, register), ...)). MP has its own copy of the handler
+# (0x8016fce8, the facilities' Gather News): there the word after the buffer is a saved pointer.
+PLACE_SITES = (
+    ('PROG', 0x1448, ((0x80071384, 's7'), (0x800718c4, 'a2'), (0x80071924, 'a2'), (0x80071b04, 'a2'),
+                      (0x80071c2c, 'a2'), (0x80071cd8, 'a2'))),
+    ('MP', 0x9e0, ((0x8017030c, 's4'), (0x8017033c, 's4'), (0x80170494, 'a2'), (0x801704f4, 'a2'),
+                   (0x801706d4, 'a2'), (0x80170804, 'a2'), (0x801708b8, 'a2'))),
+)
+
+
+def placebuf(img, pool):
+    got = pool.take('PROG', PLACE_BUF + 3, near_gp=True)
+    if got is None:
+        raise ValueError('joins: no room near gp for the place buffer')
+    at = (got[1] + 3) & ~3
+    for tag, spoff, sites in PLACE_SITES:
+        for va, reg in sites:
+            old = asm.assemble(va, [('addiu', reg, 'sp', spoff)])
+            assert bytes(img[tag].data[img[tag].f(va):][:4]) == old, 'joins: place buffer site %#x' % va
+            img[tag].put(va, asm.assemble(va, [('addiu', reg, 'gp', at - progstr.GP)]))
+    return at
+
+
+# Belongings > Cards / Letters list row (COM 0x8016e260..): name, status and the two view words are each
+# printed at a fixed pen (2, 124, 220, 244: two kanji a view), so "Sabaku" ran under "Open". The pens of
+# status and first view go through `tabpen` (the column, or 4 px after the text before it on the same
+# line) and the second view follows the first after 4 px.
+CARD_PENS = ((0x8016e28c, 0x7c, 0x7c, 0x8016e290), (0x8016e2b0, 0xdc, 0xd4, 0x8016e2b4),
+             (0x8016e30c, 0xf4, 0, 0x8016e310))     # (addiu a0 site, old x, new x, jal pen site)
+
+
+def tabpen(at):
+    import vwf
+    return asm.assemble(at, [
+        ('lui', 't0', asm.hi(vwf.PEN_X)),
+        ('lh', 't1', asm.lo(vwf.PEN_X), 't0'),
+        ('lh', 't2', asm.lo(vwf.PEN_X) + 2, 't0'),
+        ('addiu', 't1', 't1', 4),
+        ('bne', 't2', 'a1', 'set'),
+        ('slt', 't2', 'a0', 't1'),
+        ('beqz', 't2', 'set'),
+        ('nop',),
+        ('addu', 'a0', 't1', 'zero'),
+        'set:',
+        ('j', PEN),
+        ('nop',),
+    ])
+
+
+def cardpens(img, pool):
+    n = len(tabpen(0))
+    got = pool.take('PROG', n + 3)
+    if got is None:
+        raise ValueError('joins: no room in the string pool')
+    at = (got[1] + 3) & ~3
+    img['PROG'].put(at, tabpen(at))
+    com = img['COM']
+    for xa, old, new, ja in CARD_PENS:
+        assert bytes(com.data[com.f(xa):][:4]) == asm.assemble(xa, [('addiu', 'a0', 'zero', old)]), 'joins: card pen %#x' % xa
+        assert bytes(com.data[com.f(ja):][:4]) == asm.assemble(ja, [('jal', PEN)]), 'joins: card pen %#x' % ja
+        com.put(xa, asm.assemble(xa, [('addiu', 'a0', 'zero', new)]))
+        com.put(ja, asm.assemble(ja, [('jal', at)]))
+
+
 def patch(files, pool):
     img = {i.tag: i for i in progstr.images(files)}
+    placebuf(img, pool)
+    cardpens(img, pool)
     n = len(routine(0))
     got = pool.take('PROG', n + 3)
     if got is None:

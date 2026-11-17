@@ -35,7 +35,7 @@ SET = {'Main': {'ConfirmPowerOff': 'false', 'SaveStateOnExit': 'false', 'CreateS
        'Hacks': {'ExportSharedMemory': 'true'},
        'Audio': {'Backend': 'Null'},
        'GameList': {'RecursivePaths': '', 'Paths': ''},
-       'Logging': {'LogLevel': 'Info', 'LogToFile': 'true', 'LogToConsole': 'true'}}
+       'Logging': {'LogLevel': os.environ.get('DS_LOGLEVEL', 'Info'), 'LogToFile': 'true', 'LogToConsole': 'true'}}
 SET.update(REPLACE)
 ini = open(os.path.join(USER, 'settings.ini'), encoding='utf-8').read()
 out, sec, seen = [], None, set()
